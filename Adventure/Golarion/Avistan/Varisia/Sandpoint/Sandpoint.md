@@ -2,7 +2,7 @@
 tags: []
 title: Sandpoint
 date created: Monday, June 19th 2023, 8:12:10 pm
-date modified: Tuesday, June 20th 2023, 12:50:20 pm
+date modified: Tuesday, June 20th 2023, 2:42:17 pm
 ---
 
 # Sandpoint
@@ -14,14 +14,6 @@ date modified: Tuesday, June 20th 2023, 12:50:20 pm
 
 ## Sandpoint Locations & NPCs
 
-- **[[Sandpoint Smuggler's Tunnels]]**
-	- **[[Catacombs of Wrath]]**
-	- **[[Bunyip Club Hideout]]**
-		- [[Jubrayl Vhiski]]
-	- **[[Shroud's Shrine]]**
-	- **[[Goblin Sanctuary]]**
-	- **[[Hellstorm Catacombs]]**
-	- **[[Ghoul Warrens]]**
 - **[[1 Sandpoint Chapel]]**
 	- [[Abstalar Zantus]]
 - **[[2 Sandpoint Boneyard]]**
@@ -53,9 +45,19 @@ date modified: Tuesday, June 20th 2023, 12:50:20 pm
 	- [[Casp Avertin]]
 - **[[22 The Curious Goblin]]**
 	- [[Chask Haladan]]
-- **[[28 ---]]**
-- **[[29 ---]]**
-- **[[30 ---]]**
+- **[[23 The Curious Goblin]]**
+- **[[24 The Curious Goblin]]**
+- **[[25 Sandpoint Lumber Mill]]**, *(120 River St)*
+	- [[Ibor Thorn]], Mill Operator
+- **[[26 General Store]]**, *(30 Main St)*
+- **[[27 Turandarok Academy]]**, *(10 Main St)*
+	- [[Ilsoari Gandethus]], Headmaster
+- **[[28 Madame Mvashti's House]]**, *(50 Festival St)*
+- **[[29 Grocer's Hall]]**, *(20 Festival St)*
+- **[[30 Vernah's Fine Clothing]]** *(70 Prickleback Ln)*
+	- [[Vernah]], Rynshinn's Mother *(Deceased, Chopper Victim)*
+	- [[Iremriel]], Rynshinn's Father *(Deceased, Goblin Attack)*
+	- [[Rynshinn Povalli]], Proprietor
 - **[[31 Wheen's Wagons]]**, *(30 River St)*
 	- [[Bilivar Wheen]], Wheelwright
 	- [[Vorah Wheen]], Bilivar's wife
@@ -83,7 +85,7 @@ date modified: Tuesday, June 20th 2023, 12:50:20 pm
 	- [[Bethany Brocchus]], Proprietor, Matriarch
 	- [[Bobert Brocchus]], Barkeep
 	- [[Anna Scarnetti]], Barmaid
-	- [[Bridget Brocchus]], Daughter of Bethany and Bobert 
+	- [[Bridget Brocchus]], Daughter of Bethany and Bobert
 - **[[38 Goblin Squash Stables]]**, *(60 Market St)*
 	- [[Daviren Hosk]], Proprietor
 - **[[39 Two Knight Brewery]]**, *(20 Market Street)*
@@ -137,3 +139,13 @@ date modified: Tuesday, June 20th 2023, 12:50:20 pm
 		- [[Vadd Deverin]], Kendra's Nephew
 - **[[51 Chopper's Isle]]**
 - **[[52 The Old Light]]**
+- **[[Sandpoint Smuggler's Tunnels]]**
+	- **[[Catacombs of Wrath]]**
+	- **[[Bunyip Club Hideout]]**
+		- [[Jubrayl Vhiski]]
+	- **[[Shroud's Shrine]]**
+	- **[[Goblin Sanctuary]]**
+	- **[[Hellstorm Catacombs]]**
+	- **[[Ghoul Warrens]]**
+- **[[Hag's Plummet]]**
+	- [[Yenneke Avertin]]
