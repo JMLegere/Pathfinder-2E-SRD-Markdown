@@ -10,7 +10,7 @@ date modified: Tuesday, June 20th 2023, 3:59:39 pm
 #npc
 
 ![[FiItxzFXEAAUHxX.jpg|500]]  
-![[Pasted image 20230620155521.png|900]]
+![[Pasted image 20230620155521.png|1000]]
 
 - +1 Striking Halberd
 	- +21/+16/+11

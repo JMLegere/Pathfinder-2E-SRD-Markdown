@@ -2,16 +2,14 @@
 tags: []
 title: Order of the Nail
 date created: Tuesday, June 20th 2023, 3:12:03 pm
-date modified: Tuesday, June 20th 2023, 3:24:56 pm
+date modified: Tuesday, June 20th 2023, 4:12:54 pm
 ---
 
 # Order of the Nail
 
-#organization
-
-![[250px-OrderOfTheNail.jpg]]  
-![[250px-Order_of_the_Nail_Hellknight.jpg]]
-
+#organization  
+![[CavalryBrigade_Hellknights.png|500]]  
+![[FiItxzFXEAAUHxX.jpg|200]]  
 The **Order of the Nail** is an order of [[rules/traits/hellknight-locg|Hellknight]]s based in [[Citadel Vraid]] near [[Korvosa]]. It concerns itself with quelling "savage" practices and bringing their idea of civilization to the inhabitants of the wild frontier.
 
 ---
@@ -30,4 +28,4 @@ One of the original seven orders of [[rules/traits/hellknight-locg|Hellknight]]s
 
 ## Magnimar
 
-Impressed by their efficiency and devotion to law, the [[Justice Court]] of [[Magnimar]] invited a detachment of Order of the Nail Hellknights to their city. The commanders in [[Citadel Vraid]] eagerly took them up on the offer to bring their brand of order to a place notorious for its lack of strong laws. The unit is garrisoned in the [[Bastion of the Nail]] in the [[Naos District]] under the command of Paralictor [[Darean Halst]]. Even though their numbers are few, they are fiendishly devoted to their charge. The Hellknights often take protection contracts more dangerous than any other mercenary company would dare.[6](https://pathfinderwiki.com/wiki/Order_of_the_Nail#cite_note-6)[7](https://pathfinderwiki.com/wiki/Order_of_the_Nail#cite_note-7) When not working on a particular contract, the members of this unit patrol the city looking for trouble, especially in the distant [Ordellia district](https://pathfinderwiki.com/wiki/Ordellia "Ordellia"), where even the town guard does not often venture.[8](https://pathfinderwiki.com/wiki/Order_of_the_Nail#cite_note-8) Amongst the locals, the Order of the Nail Hellknights are colloquially known as **Nail-Knights**
+Impressed by their efficiency and devotion to law, the [[Justice Court]] of [[Magnimar]] invited a detachment of Order of the Nail Hellknights to their city. The commanders in [[Citadel Vraid]] eagerly took them up on the offer to bring their brand of order to a place notorious for its lack of strong laws. The unit is garrisoned in the [[Bastion of the Nail]] in the [[Naos District]] under the command of Paralictor [[Darean Halst]]. Even though their numbers are few, they are fiendishly devoted to their charge. The Hellknights often take protection contracts more dangerous than any other mercenary company would dare.[6](https://pathfinderwiki.com/wiki/Order_of_the_Nail#cite_note-6)[7](https://pathfinderwiki.com/wiki/Order_of_the_Nail#cite_note-7) When not working on a particular contract, the members of this unit patrol the city looking for trouble, especially in the distant [Ordellia district](https://pathfinderwiki.com/wiki/Ordellia "Ordellia"), where even the town guard does not often venture. Amongst the Magnimarians, the Order of the Nail Hellknights are colloquially known as **The Nine of [[Magnimar]]**.

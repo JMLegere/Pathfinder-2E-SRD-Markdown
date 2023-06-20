@@ -2,15 +2,15 @@
 tags: []
 title: Sandpoint
 date created: Monday, June 19th 2023, 8:12:10 pm
-date modified: Tuesday, June 20th 2023, 2:42:17 pm
+date modified: Tuesday, June 20th 2023, 4:17:56 pm
 ---
 
 # Sandpoint
 
 #location
 
-![[Hinterlands.png]]  
-![[4708AR Sandpoint NPC Map.jpeg]]
+![[Hinterlands.png|900]]  
+![[4708AR Sandpoint NPC Map.jpeg|900]]
 
 ## Sandpoint Locations & NPCs
 

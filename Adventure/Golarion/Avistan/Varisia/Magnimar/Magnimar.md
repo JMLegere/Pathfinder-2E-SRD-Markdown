@@ -9,5 +9,5 @@ date modified: Tuesday, June 20th 2023, 10:40:32 am
 
 #location  
 
-![[Southern Varisia.png]]  
-![[Magnimar.png]]
+![[Southern Varisia.png|900]]  
+![[Magnimar.png|900]]
