@@ -56,9 +56,16 @@ date modified: Tuesday, June 20th 2023, 12:50:20 pm
 - **[[28 ---]]**
 - **[[29 ---]]**
 - **[[30 ---]]**
-- **[[31 ---]]**
-- **[[32 ---]]**
-- **[[33 ---]]**
+- **[[31 Wheen's Wagons]]**, *(30 River St)*
+	- [[Bilivar Wheen]], Wheelwright
+	- [[Vorah Wheen]], Bilivar's wife
+	- Their children:
+		- [[Simpus Wheen]]
+		- [[Zeek Wheen]]
+- **[[32 Scarnetti Mill]]**, *(40 River St)*
+	- [[Courrin Whesterwill]], Miller
+- **[[33 The Hagfish]]**, *(70 Water St)*
+	- [[Jargie Quinn]], Tavern Keeper
 - **[[34 Valdemar Fish Market]]**, *(10 Water St)*
 	- [[Turch Sterglus]], Fishmonger
 	- Turch's Sons
