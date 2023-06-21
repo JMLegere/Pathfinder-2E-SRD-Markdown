@@ -2,7 +2,7 @@
 tags: []
 title: Sandpoint
 date created: Monday, June 19th 2023, 8:12:10 pm
-date modified: Tuesday, June 20th 2023, 6:15:06 pm
+date modified: Wednesday, June 21st 2023, 12:10:01 pm
 ---
 
 # Sandpoint
@@ -11,11 +11,10 @@ date modified: Tuesday, June 20th 2023, 6:15:06 pm
 
 ![[Hinterlands.png|900]]  
 
-
 ```leaflet 
 id: leaflet-map 
 image: [[db9c032c8ee89171a3c31b26270fc094.jpg]] 
-height: 1000px 
+height: 500px 
 lat: 50 
 long: 50 
 minZoom: 1
@@ -29,18 +28,27 @@ darkMode: false
 ## Sandpoint Locations & NPCs
 
 - **[[1 Sandpoint Chapel]]**
-	- [[Abstalar Zantus]]
+	- [[Abstalar Zantus]], High Priest
+	- [[Alekzander Fespen]], Acolyte
+	- [[Walda Ambrush]], Acolyte
+	- [[Lovus Vantakin]], Acolyte
+	- [[Yannah Aurlaveu]], Acolyte
 - **[[2 Sandpoint Boneyard]]**
-	- [[Naffer Vosk]]
+	- [[Naffer Vosk]], Groundskeeper
 - **[[3 The White Deer]]**
 - **[[4 The Way North]]**
+	- [[Veznutt Parooh]], Proprietor
 - **[[5 Sandpoint Jeweler]]**
 - **[[6 Junker's Edge]]**
 - **[[7 Gorvi's Shack]]**
 - **[[8 Quink's House]]**
 - **[[9 Sandpoint Locksmith]]**
 - **[[10 Sandpoint Garrison]]**
+	- [[Casp Avertin]], Sherrif
+	- [[Belor Viskalai]], Deputy
+	- [[Vachedi]], Jailer and Warden
 - **[[11 Sandpoint Town Hall]]**
+	- [[Kendra Deverin]], Mayor
 - **[[12 Savah's Armory]]**
 - **[[13 Risa's Place]]**
 - **[[14 Rovanky Tannery]]**
@@ -60,12 +68,13 @@ darkMode: false
 - **[[22 The Curious Goblin]]**
 	- [[Chask Haladan]]
 - **[[23 Sandpoint Theater]]**
-- **[[24 Carpenter's Guild]]**
+- **[[24 Carpent]]**
 - **[[25 Sandpoint Lumber Mill]]**, *(120 River St)*
 	- [[Ibor Thorn]], Mill Operator
 - **[[26 General Store]]**, *(30 Main St)*
 - **[[27 Turandarok Academy]]**, *(10 Main St)*
 	- [[Ilsoari Gandethus]], Headmaster
+	- [[Veznutt Parooh]], Regular
 - **[[28 Madame Mvashti's House]]**, *(50 Festival St)*
 - **[[29 Grocer's Hall]]**, *(20 Festival St)*
 - **[[30 Vernah's Fine Clothing]]** *(70 Prickleback Ln)*
