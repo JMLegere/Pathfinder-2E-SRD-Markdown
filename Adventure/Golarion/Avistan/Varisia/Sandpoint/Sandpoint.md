@@ -59,8 +59,8 @@ darkMode: false
 	- [[Casp Avertin]]
 - **[[22 The Curious Goblin]]**
 	- [[Chask Haladan]]
-- **[[23 The Curious Goblin]]**
-- **[[24 The Curious Goblin]]**
+- **[[23 Sandpoint Theater]]**
+- **[[24 Carpenter's Guild]]**
 - **[[25 Sandpoint Lumber Mill]]**, *(120 River St)*
 	- [[Ibor Thorn]], Mill Operator
 - **[[26 General Store]]**, *(30 Main St)*
