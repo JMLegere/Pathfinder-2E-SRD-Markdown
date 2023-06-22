@@ -2,7 +2,7 @@
 tags: []
 title: 2 Sandpoint Boneyard
 date created: Monday, June 19th 2023, 6:07:17 pm
-date modified: Wednesday, June 21st 2023, 11:44:59 am
+date modified: Thursday, June 22nd 2023, 5:13:16 pm
 ---
 
 # 2 Sandpoint Boneyard

@@ -2,7 +2,7 @@
 tags: []
 title: 1 Sandpoint Chapel
 date created: Monday, June 19th 2023, 6:02:16 pm
-date modified: Thursday, June 22nd 2023, 3:25:48 pm
+date modified: Thursday, June 22nd 2023, 5:13:16 pm
 ---
 
 # 1 Sandpoint Chapel

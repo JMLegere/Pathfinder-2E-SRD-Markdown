@@ -2,7 +2,7 @@
 tags: []
 title: Order of the Nail
 date created: Tuesday, June 20th 2023, 3:12:03 pm
-date modified: Tuesday, June 20th 2023, 4:12:54 pm
+date modified: Thursday, June 22nd 2023, 5:13:15 pm
 ---
 
 # Order of the Nail
