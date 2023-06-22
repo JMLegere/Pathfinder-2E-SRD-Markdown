@@ -9,7 +9,7 @@ date modified: Thursday, June 22nd 2023, 3:25:48 pm
 
  #location  
 
-![[Pasted image 20230622151738.png|900]]  
+![[Pasted image 20230622151738.png|]]  
 
 **Location** 60 Church Street
 
