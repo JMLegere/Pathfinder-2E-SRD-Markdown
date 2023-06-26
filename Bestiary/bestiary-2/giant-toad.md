@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
 noteType: pf2eMonster
-aliases: "Giant Toad"
-tags: 
-  - pf2e/creature/type/animal
-  - pf2e/creature/level/2
+aliases: ["Giant Toad"]
+tags: [pf2e/creature/type/animal, pf2e/creature/level/2]
 statblock: inline
 name: "Giant Toad"
 level: 2
+title: giant-toad
+date created: Monday, June 19th 2023, 5:15:08 pm
+date modified: Monday, June 26th 2023, 2:25:10 pm
 ---
+
+# Giant-toad
 
 ```statblock
 columns: 2
@@ -60,6 +63,8 @@ attacks:
 
 sourcebook: "_Bestiary 2_, page 261."
 ```
+
+![[Toad_GiantToad.png]]
 
 ```encounter-table
 name: Giant Toad
