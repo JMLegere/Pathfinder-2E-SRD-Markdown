@@ -1,14 +1,18 @@
 ---
 obsidianUIMode: preview
 noteType: pf2eMonster
-aliases: "Mudwretch"
-tags: 
-  - pf2e/creature/type/elemental
-  - pf2e/creature/level/2
+aliases: [Mudwretch, "Mudwretch"]
+tags: [pf2e/creature/type/elemental, pf2e/creature/level/2]
 statblock: inline
 name: "Mudwretch"
 level: 2
+title: Mudwretch
+date created: Monday, June 19th 2023, 5:15:08 pm
+date modified: Monday, June 26th 2023, 2:25:12 pm
+linter-yaml-title-alias: Mudwretch
 ---
+
+# Mudwretch
 
 ```statblock
 columns: 2
@@ -66,6 +70,8 @@ attacks:
 
 sourcebook: "_Bestiary 2_, page 176."
 ```
+
+![[Mudwretch.png]]
 
 ```encounter-table
 name: Mudwretch

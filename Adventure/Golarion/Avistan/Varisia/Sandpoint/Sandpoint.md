@@ -103,7 +103,9 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 - **[[13 Risa's Place]]**
 - **[[14 Rovanky Tannery]]**
 - **[[15 Red Dog Smithy]]**
+	- [[Das Korvut]]
 - **[[16 The Pillbug's Pantry]]**
+	- [[Alliver Podiker]]
 - **[[17 Bottled Solutions]]**
 - **[[18 Cracktooth's Tavern]]**
 - **[[19 House of Blue Stones]]**
