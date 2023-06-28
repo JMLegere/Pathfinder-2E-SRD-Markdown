@@ -107,7 +107,7 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 - **[[17 Bottled Solutions]]**
 - **[[18 Cracktooth's Tavern]]**
 - **[[19 House of Blue Stones]]**
-	- [[Sabyl Sorn]]
+	- [[Jabyl Sorn]]
 - **[[20 Sandpoint Glassworks]]**
 	- [[Lonjiku Kaijitsu]]
 - **[[21 Sandpoint Savories]]**
