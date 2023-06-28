@@ -1,15 +1,16 @@
 ---
+aliases: []
 tags: []
 title: Sandpoint
 date created: Monday, June 19th 2023, 8:12:10 pm
-date modified: Thursday, June 22nd 2023, 3:14:45 pm
+date modified: Wednesday, June 28th 2023, 8:29:45 pm
 ---
 
-# Sandpoint
+## Sandpoint
 
 #location
 
-![[Hinterlands.png|900]]  
+![[Hinterlands.png|900]]
 
 ```leaflet 
 id: leaflet-map 
@@ -75,7 +76,7 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 
 ```
 
-## Sandpoint Locations & NPCs
+### Sandpoint Locations & NPCs
 
 - **[[1 Sandpoint Chapel]]**
 	- [[Abstalar Zantus]], High Priest
@@ -92,10 +93,11 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 - **[[6 Junker's Edge]]**
 - **[[7 Gorvi's Shack]]**
 - **[[8 Quink's House]]**
+	- [[Brodert Quink]], Thassilonian Expert
 - **[[9 Sandpoint Locksmith]]**
 - **[[10 Sandpoint Garrison]]**
 	- [[Casp Avertin]], Sherrif
-	- [[Belor Viskalai]], Deputy
+	- [[Belor Viskalai]] (Later Hemlock), Deputy
 	- [[Vachedi]], Jailer and Warden
 - **[[11 Sandpoint Town Hall]]**
 	- [[Kendra Deverin]], Mayor
@@ -103,13 +105,14 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 - **[[13 Risa's Place]]**
 - **[[14 Rovanky Tannery]]**
 - **[[15 Red Dog Smithy]]**
-	- [[Das Korvut]]
+	- [[Das Korvut]], Ulfin Blacksmith
 - **[[16 The Pillbug's Pantry]]**
 	- [[Alliver Podiker]]
 - **[[17 Bottled Solutions]]**
 - **[[18 Cracktooth's Tavern]]**
 - **[[19 House of Blue Stones]]**
 	- [[Jabyl Sorn]]
+	- [[Enderaki Sorn]]
 - **[[20 Sandpoint Glassworks]]**
 	- [[Lonjiku Kaijitsu]]
 - **[[21 Sandpoint Savories]]**
@@ -117,6 +120,7 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 	- [[Arika Avertin]]
 	- [[Aneka Avertin]]
 	- [[Casp Avertin]]
+	- [[Yenneke Avertin|Yenneke]]
 - **[[22 The Curious Goblin]]**
 	- [[Chask Haladan]]
 - **[[23 Sandpoint Theater]]**
