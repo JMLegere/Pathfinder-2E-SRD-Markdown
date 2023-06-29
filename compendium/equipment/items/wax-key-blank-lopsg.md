@@ -5,17 +5,17 @@ price:
 status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags: [compendium/src/pf2e/lopsg, item/category/adventuring-gear, trait/uncommon]
+tags: [compendium/src/pf2e/lopsg, item/category/adventuring-gear, trait/uncommon, available]
 aliases: [Wax Key Blank *Item 0*, "Wax Key Blank"]
 title: Wax Key Blank *Item 0*
 linter-yaml-title-alias: Wax Key Blank *Item 0*
 date created: Monday, June 19th 2023, 5:15:11 pm
-date modified: Thursday, June 29th 2023, 5:30:23 pm
+date modified: Thursday, June 29th 2023, 6:54:43 pm
 ---
 
-# Wax Key Blank *Item 0*
+## Wax Key Blank *Item 0*
 
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md)
 
 - **Price** 1 gp
 - **Hands** 2
