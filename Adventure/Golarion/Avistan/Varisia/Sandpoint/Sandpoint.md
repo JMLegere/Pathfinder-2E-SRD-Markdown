@@ -3,7 +3,7 @@ aliases: []
 tags: []
 title: Sandpoint
 date created: Monday, June 19th 2023, 8:12:10 pm
-date modified: Wednesday, June 28th 2023, 8:53:42 pm
+date modified: Thursday, June 29th 2023, 2:54:13 pm
 ---
 
 ## Sandpoint
@@ -124,7 +124,7 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 - **[[22 The Curious Goblin]]**
 	- [[Chask Haladan]]
 - **[[23 Sandpoint Theater]]**
-- **[[24 Carpent]]**
+- **[[24 Carpenter's Guild]]**
 - **[[25 Sandpoint Lumber Mill]]**, *(120 River St)*
 	- [[Ibor Thorn]], Mill Operator
 - **[[26 General Store]]**, *(30 Main St)*
