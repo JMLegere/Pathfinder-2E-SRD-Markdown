@@ -1,8 +1,14 @@
 ---
 aliases: []
-tags: [available]
+tags:
+  - available
 date created: Thursday, June 29th 2023, 6:56:13 pm
 date modified: Thursday, June 29th 2023, 6:58:34 pm
+title: Extendible Pincer
+status: Vinder's General Store
+level: "0"
+price: "2"
+bulk: "0.1"
 ---
 
 **Usage** held in 2 hands;

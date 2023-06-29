@@ -1,12 +1,18 @@
 ---
-level:
-bulk:
-price:
-status:
+level: "0"
+bulk: "0"
+price: "1"
+status: Vinder's General Store
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags: [compendium/src/pf2e/lopsg, item/category/adventuring-gear, trait/uncommon, available]
-aliases: [Wax Key Blank *Item 0*, "Wax Key Blank"]
+tags:
+  - compendium/src/pf2e/lopsg
+  - item/category/adventuring-gear
+  - trait/uncommon
+  - available
+aliases:
+  - Wax Key Blank *Item 0*
+  - Wax Key Blank
 title: Wax Key Blank *Item 0*
 linter-yaml-title-alias: Wax Key Blank *Item 0*
 date created: Monday, June 19th 2023, 5:15:11 pm

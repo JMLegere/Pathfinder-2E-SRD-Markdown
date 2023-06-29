@@ -1,12 +1,22 @@
 ---
-level:
-bulk:
-price:
-status:
+level: "1"
+bulk: "0.1"
+price: "4"
+status: Pillbug's Pantry
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags: [compendium/src/pf2e/crb, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/mutagen, trait/polymorph, available]
-aliases: [Silvertongue Mutagen *Item 1+*, "Silvertongue Mutagen"]
+tags:
+  - compendium/src/pf2e/crb
+  - item/category/elixir
+  - trait/alchemical
+  - trait/consumable
+  - trait/elixir
+  - trait/mutagen
+  - trait/polymorph
+  - available
+aliases:
+  - Silvertongue Mutagen *Item 1+*
+  - Silvertongue Mutagen
 title: Silvertongue Mutagen *Item 1+*
 linter-yaml-title-alias: Silvertongue Mutagen *Item 1+*
 date created: Monday, June 19th 2023, 5:15:11 pm

@@ -1,21 +1,27 @@
 ---
-level:
-bulk:
-price:
-status:
+level: "0"
+bulk: "0.1"
+price: "5"
+status: Vinder's General Store
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags: [compendium/src/pf2e/lopsg, item/category/adventuring-gear, trait/uncommon]
-aliases: [Glass Cutter *Item 0*, "Glass Cutter"]
+tags:
+  - compendium/src/pf2e/lopsg
+  - item/category/adventuring-gear
+  - trait/uncommon
+  - available
+aliases:
+  - Glass Cutter *Item 0*
+  - Glass Cutter
 title: Glass Cutter *Item 0*
 linter-yaml-title-alias: Glass Cutter *Item 0*
 date created: Monday, June 19th 2023, 5:15:09 pm
-date modified: Thursday, June 29th 2023, 5:30:56 pm
+date modified: Thursday, June 29th 2023, 7:03:16 pm
 ---
 
-# Glass Cutter *Item 0*
+## Glass Cutter *Item 0*
 
-[uncommon](rules/traits/uncommon.md)  
+[uncommon](rules/traits/uncommon.md)
 
 - **Price** 5 gp
 - **Bulk** L
