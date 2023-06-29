@@ -3,11 +3,11 @@ aliases: [Varisian]
 tags: []
 title: Varisia
 date created: Monday, June 19th 2023, 8:13:47 pm
-date modified: Tuesday, June 20th 2023, 2:53:43 pm
+date modified: Wednesday, June 28th 2023, 8:55:18 pm
 ---
 
-# Varisia
+## Varisia
 
-#location
+#nation
 
 ![[Varisia_map.webp]]

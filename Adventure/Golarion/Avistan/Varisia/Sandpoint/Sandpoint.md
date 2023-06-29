@@ -3,12 +3,12 @@ aliases: []
 tags: []
 title: Sandpoint
 date created: Monday, June 19th 2023, 8:12:10 pm
-date modified: Wednesday, June 28th 2023, 8:29:45 pm
+date modified: Wednesday, June 28th 2023, 8:53:42 pm
 ---
 
 ## Sandpoint
 
-#location
+#Settlement
 
 ![[Hinterlands.png|900]]
 
