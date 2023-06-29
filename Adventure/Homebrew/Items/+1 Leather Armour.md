@@ -1,6 +1,7 @@
 ---
 aliases: []
-tags: [available]
+tags:
+  - available
 date created: Thursday, June 29th 2023, 7:10:24 pm
 date modified: Thursday, June 29th 2023, 7:15:32 pm
 title: +1 Leather Armour
