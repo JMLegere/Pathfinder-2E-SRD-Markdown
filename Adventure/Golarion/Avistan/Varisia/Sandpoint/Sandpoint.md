@@ -1,10 +1,11 @@
 ---
-aliases: []
 tags: []
 title: Sandpoint
 date created: Monday, June 19th 2023, 8:12:10 pm
 date modified: Thursday, June 29th 2023, 2:54:13 pm
 ---
+
+# Sandpoint
 
 ## Sandpoint
 
@@ -89,7 +90,7 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 - **[[3 The White Deer]]**
 - **[[4 The Way North]]**
 	- [[Veznutt Parooh]], Proprietor
-- **[[5 Sandpoint Jeweler]]**
+- **[[5 Rings and Things]]**
 - **[[6 Junker's Edge]]**
 - **[[7 Gorvi's Shack]]**
 - **[[8 Quink's House]]**

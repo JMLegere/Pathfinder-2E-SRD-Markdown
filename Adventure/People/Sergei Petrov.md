@@ -1,9 +1,11 @@
 ---
-aliases: []
 tags: []
 date created: Wednesday, June 28th 2023, 9:05:49 pm
-date modified: Wednesday, June 28th 2023, 9:07:01 pm
+date modified: Thursday, June 29th 2023, 3:18:01 pm
+title: Sergei Petrov
 ---
+
+# Sergei Petrov
 
 #pc
 
