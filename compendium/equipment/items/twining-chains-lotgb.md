@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/adjustment/armor
-- trait/adjustment
-- trait/uncommon
-aliases: ["Twining Chains"]
+tags: [compendium/src/pf2e/lotgb, item/category/adjustment/armor, trait/adjustment, trait/uncommon]
+aliases: [Twining Chains *Item 1*, "Twining Chains"]
+title: Twining Chains *Item 1*
+linter-yaml-title-alias: Twining Chains *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Twining Chains *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Twining Chains *Item 1*
+
+[adjustment](rules/traits/adjustment-lotgb.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 5 gp
 - **Usage** applied to armor; **Bulk** 1

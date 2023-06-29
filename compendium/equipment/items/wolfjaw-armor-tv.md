@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/evocation
-- trait/invested
-- trait/primal
-aliases: ["Wolfjaw Armor"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/evocation, trait/invested, trait/primal]
+aliases: [Wolfjaw Armor *Item 7*, "Wolfjaw Armor"]
+title: Wolfjaw Armor *Item 7*
+linter-yaml-title-alias: Wolfjaw Armor *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wolfjaw Armor *Item 7*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  
+
+# Wolfjaw Armor *Item 7*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md)  
 
 - **Price** 355 gp
 - **Usage** worn armor; **Bulk** 2

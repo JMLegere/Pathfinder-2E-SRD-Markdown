@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/worn
-- trait/abjuration
-- trait/cursed
-- trait/extradimensional
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Gloves Of Carelessness"]
+tags: [compendium/src/pf2e/gmg, item/category/worn, trait/abjuration, trait/cursed, trait/extradimensional, trait/invested, trait/magical, trait/rare]
+aliases: [Gloves Of Carelessness *Item 7*, "Gloves Of Carelessness"]
+title: Gloves Of Carelessness *Item 7*
+linter-yaml-title-alias: Gloves Of Carelessness *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Gloves Of Carelessness *Item 7*  
-[abjuration](rules/traits/abjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Gloves Of Carelessness *Item 7*
+
+[abjuration](rules/traits/abjuration.md) [cursed](rules/traits/cursed-gmg.md) [extradimensional](rules/traits/extradimensional.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** worn gloves; **Bulk** L
 - **Category** Worn

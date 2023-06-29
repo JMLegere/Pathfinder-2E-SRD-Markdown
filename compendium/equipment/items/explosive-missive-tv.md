@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/missive
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/missive
-aliases: ["Explosive Missive"]
+tags: [compendium/src/pf2e/tv, item/category/missive, trait/consumable, trait/evocation, trait/magical, trait/missive]
+aliases: [Explosive Missive *Item 4*, "Explosive Missive"]
+title: Explosive Missive *Item 4*
+linter-yaml-title-alias: Explosive Missive *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Explosive Missive *Item 4*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  
+
+# Explosive Missive *Item 4*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [missive](rules/traits/missive-tv.md)  
 
 - **Price** 13 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** envision, , [Interact](rules/actions/interact.md)
 - **Category** Missive
 

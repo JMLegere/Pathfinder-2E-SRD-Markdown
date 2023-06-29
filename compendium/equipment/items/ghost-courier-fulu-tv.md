@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/fulu
-- trait/magical
-aliases: ["Ghost Courier Fulu"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/conjuration, trait/consumable, trait/fulu, trait/magical]
+aliases: [Ghost Courier Fulu *Item 8*, "Ghost Courier Fulu"]
+title: Ghost Courier Fulu *Item 8*
+linter-yaml-title-alias: Ghost Courier Fulu *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Ghost Courier Fulu *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  
+
+# Ghost Courier Fulu *Item 8*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 100 gp
-- **Usage** held in 2 hands; **Bulk** —
+- **Usage** held in 2 hands; **Bulk**—
 - **Activate** command, , [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

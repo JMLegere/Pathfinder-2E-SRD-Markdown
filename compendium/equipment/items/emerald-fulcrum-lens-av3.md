@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av3
-- item/category/other
-- trait/invested
-- trait/necromancy
-- trait/negative
-- trait/occult
-- trait/unique
-aliases: ["Emerald Fulcrum Lens"]
+tags: [compendium/src/pf2e/av3, item/category/other, trait/invested, trait/necromancy, trait/negative, trait/occult, trait/unique]
+aliases: [Emerald Fulcrum Lens *Item 10*, "Emerald Fulcrum Lens"]
+title: Emerald Fulcrum Lens *Item 10*
+linter-yaml-title-alias: Emerald Fulcrum Lens *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Emerald Fulcrum Lens *Item 10*  
-[invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+
+# Emerald Fulcrum Lens *Item 10*
+
+[invested](rules/traits/invested.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md) [occult](rules/traits/occult.md) [unique](rules/traits/unique.md)  
 
 - **Price** 1000 gp
 - **Bulk** 3

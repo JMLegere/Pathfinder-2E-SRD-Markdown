@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot2
-- item/category/held
-- trait/magical
-- trait/necromancy
-- trait/unique
-aliases: ["Habu's Cudgel"]
+tags: [compendium/src/pf2e/sot2, item/category/held, trait/magical, trait/necromancy, trait/unique]
+aliases: ["Habu's Cudgel *Item 8*", "Habu's Cudgel"]
+title: "Habu's Cudgel *Item 8*"
+linter-yaml-title-alias: "Habu's Cudgel *Item 8*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Habu's Cudgel *Item 8*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+
+# Habu's Cudgel *Item 8*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [unique](rules/traits/unique.md)  
 
 - **Price** 415 gp
 - **Usage** held in 1 hand; **Bulk** 1

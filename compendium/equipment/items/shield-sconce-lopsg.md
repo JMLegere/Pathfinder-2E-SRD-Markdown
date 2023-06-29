@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/adventuring-gear
-- trait/uncommon
-aliases: ["Shield Sconce"]
+tags: [compendium/src/pf2e/lopsg, item/category/adventuring-gear, trait/uncommon]
+aliases: [Shield Sconce *Item 0*, "Shield Sconce"]
+title: Shield Sconce *Item 0*
+linter-yaml-title-alias: Shield Sconce *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shield Sconce *Item 0*  
+
+# Shield Sconce *Item 0*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1 sp

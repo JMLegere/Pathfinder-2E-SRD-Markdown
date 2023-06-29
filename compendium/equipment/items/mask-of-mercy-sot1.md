@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot1
-- item/category/worn
-- trait/fortune
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Mask Of Mercy"]
+tags: [compendium/src/pf2e/sot1, item/category/worn, trait/fortune, trait/invested, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Mask Of Mercy *Item 4*, "Mask Of Mercy"]
+title: Mask Of Mercy *Item 4*
+linter-yaml-title-alias: Mask Of Mercy *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mask Of Mercy *Item 4*  
-[fortune](rules/traits/fortune.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Mask Of Mercy *Item 4*
+
+[fortune](rules/traits/fortune.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 100 gp
 - **Usage** worn mask

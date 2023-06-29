@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/evocation
-- trait/magical
-- trait/spellheart
-aliases: ["Judgment Thurible"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/evocation, trait/magical, trait/spellheart]
+aliases: [Judgment Thurible *Item 10+*, "Judgment Thurible"]
+title: Judgment Thurible *Item 10+*
+linter-yaml-title-alias: Judgment Thurible *Item 10+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Judgment Thurible *Item 10+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Judgment Thurible *Item 10+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 The golden religious symbol on the top of this spherical incense holder shifts its form to match the faith of its bearer. You gain no benefit from a judgment thurible if you don't worship a deity or if your deity is true neutral. The spell DC of any spell cast by activating this item is 27.

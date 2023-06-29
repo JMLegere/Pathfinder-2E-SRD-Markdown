@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/adventuring-gear
-aliases: ["Parrying Scabbard"]
+tags: [compendium/src/pf2e/apg, item/category/adventuring-gear]
+aliases: [Parrying Scabbard *Item 0*, "Parrying Scabbard"]
+title: Parrying Scabbard *Item 0*
+linter-yaml-title-alias: Parrying Scabbard *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Parrying Scabbard *Item 0*  
+
+# Parrying Scabbard *Item 0*
 
 - **Price** 5 sp
 - **Bulk** L

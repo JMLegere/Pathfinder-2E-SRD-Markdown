@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/talisman
-- trait/consumable
-- trait/magical
-- trait/talisman
-- trait/transmutation
-aliases: ["Lion Claw"]
+tags: [compendium/src/pf2e/som, item/category/talisman, trait/consumable, trait/magical, trait/talisman, trait/transmutation]
+aliases: [Lion Claw *Item 11*, "Lion Claw"]
+title: Lion Claw *Item 11*
+linter-yaml-title-alias: Lion Claw *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lion Claw *Item 11*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Lion Claw *Item 11*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 300 gp
 - **Usage** affixed to a weapon

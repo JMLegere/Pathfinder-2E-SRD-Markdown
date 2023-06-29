@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-- trait/poison
-- trait/splash
-aliases: ["Trueshape Bomb"]
+tags: [compendium/src/pf2e/tv, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable, trait/poison, trait/splash]
+aliases: [Trueshape Bomb *Item 12+*, "Trueshape Bomb"]
+title: Trueshape Bomb *Item 12+*
+linter-yaml-title-alias: Trueshape Bomb *Item 12+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Trueshape Bomb *Item 12+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [poison](rules/traits/poison.md)  [splash](rules/traits/splash.md)  
+
+# Trueshape Bomb *Item 12+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md) [poison](rules/traits/poison.md) [splash](rules/traits/splash.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

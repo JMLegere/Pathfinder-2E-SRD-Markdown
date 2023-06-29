@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/structure
-- trait/enchantment
-- trait/magical
-aliases: ["Restful Tent"]
+tags: [compendium/src/pf2e/som, item/category/structure, trait/enchantment, trait/magical]
+aliases: [Restful Tent *Item 7*, "Restful Tent"]
+title: Restful Tent *Item 7*
+linter-yaml-title-alias: Restful Tent *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Restful Tent *Item 7*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+
+# Restful Tent *Item 7*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md)  
 
 - **Price** 320 gp
 - **Bulk** 1

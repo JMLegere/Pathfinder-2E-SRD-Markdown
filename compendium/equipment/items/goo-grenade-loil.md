@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-- trait/splash
-- trait/uncommon
-aliases: ["Goo Grenade"]
+tags: [compendium/src/pf2e/loil, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable, trait/splash, trait/uncommon]
+aliases: [Goo Grenade *Item 1+*, "Goo Grenade"]
+title: Goo Grenade *Item 1+*
+linter-yaml-title-alias: Goo Grenade *Item 1+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Goo Grenade *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [splash](rules/traits/splash.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Goo Grenade *Item 1+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md) [splash](rules/traits/splash.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

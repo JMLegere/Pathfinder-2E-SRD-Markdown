@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/weapon/martial
-- trait/combination
-- trait/concussive
-- trait/critical-fusion
-- trait/fatal-d8
-- trait/finesse
-- trait/uncommon
-- trait/versatile-s
-aliases: ["Triggerbrand"]
+tags: [compendium/src/pf2e/loil, item/category/weapon/martial, trait/combination, trait/concussive, trait/critical-fusion, trait/fatal-d8, trait/finesse, trait/uncommon, trait/versatile-s]
+aliases: [Triggerbrand *Item 1*, "Triggerbrand"]
+title: Triggerbrand *Item 1*
+linter-yaml-title-alias: Triggerbrand *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Triggerbrand *Item 1*  
-[uncommon](rules/traits/uncommon.md)  combination  
+
+# Triggerbrand *Item 1*
+
+[uncommon](rules/traits/uncommon.md) combination  
 
 - **Price** 10 gp
 - **Bulk** 1

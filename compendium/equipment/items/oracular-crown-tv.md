@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/divine
-- trait/focused
-- trait/invested
-- trait/necromancy
-aliases: ["Oracular Crown"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/divine, trait/focused, trait/invested, trait/necromancy]
+aliases: [Oracular Crown *Item 11*, "Oracular Crown"]
+title: Oracular Crown *Item 11*
+linter-yaml-title-alias: Oracular Crown *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Oracular Crown *Item 11*  
-[divine](rules/traits/divine.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Oracular Crown *Item 11*
+
+[divine](rules/traits/divine.md) [focused](rules/traits/focused.md) [invested](rules/traits/invested.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Price** 1200 gp
 - **Usage** worn headwear; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/cold
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["North Wind's Night Verse"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/cold, trait/evocation, trait/magical, trait/uncommon]
+aliases: ["North Wind's Night Verse *Item 10*", "North Wind's Night Verse"]
+title: "North Wind's Night Verse *Item 10*"
+linter-yaml-title-alias: "North Wind's Night Verse *Item 10*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# North Wind's Night Verse *Item 10*  
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# North Wind's Night Verse *Item 10*
+
+[cold](rules/traits/cold.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 900 gp
 - **Usage** held in 1 hand; **Bulk** 1

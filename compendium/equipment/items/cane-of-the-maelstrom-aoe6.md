@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe6
-- item/category/artifact
-- trait/artifact
-- trait/conjuration
-- trait/cursed
-- trait/divine
-- trait/unique
-aliases: ["Cane Of The Maelstrom"]
+tags: [compendium/src/pf2e/aoe6, item/category/artifact, trait/artifact, trait/conjuration, trait/cursed, trait/divine, trait/unique]
+aliases: [Cane Of The Maelstrom *Item 22*, "Cane Of The Maelstrom"]
+title: Cane Of The Maelstrom *Item 22*
+linter-yaml-title-alias: Cane Of The Maelstrom *Item 22*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Cane Of The Maelstrom *Item 22*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [divine](rules/traits/divine.md)  [unique](rules/traits/unique.md)  
+
+# Cane Of The Maelstrom *Item 22*
+
+[artifact](rules/traits/artifact-gmg.md) [conjuration](rules/traits/conjuration.md) [cursed](rules/traits/cursed-gmg.md) [divine](rules/traits/divine.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

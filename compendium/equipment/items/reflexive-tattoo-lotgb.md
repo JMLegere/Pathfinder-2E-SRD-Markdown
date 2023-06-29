@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/tattoo
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/tattoo
-- trait/uncommon
-aliases: ["Reflexive Tattoo"]
+tags: [compendium/src/pf2e/lotgb, item/category/tattoo, trait/invested, trait/magical, trait/necromancy, trait/tattoo, trait/uncommon]
+aliases: [Reflexive Tattoo *Item 7*, "Reflexive Tattoo"]
+title: Reflexive Tattoo *Item 7*
+linter-yaml-title-alias: Reflexive Tattoo *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Reflexive Tattoo *Item 7*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Reflexive Tattoo *Item 7*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [tattoo](rules/traits/tattoo-lowg.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 350 gp
 - **Usage** tattoo

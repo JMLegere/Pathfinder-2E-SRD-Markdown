@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ngd
-- item/category/held
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Nosoi Charm"]
+tags: [compendium/src/pf2e/ngd, item/category/held, trait/divination, trait/invested, trait/magical, trait/rare]
+aliases: [Nosoi Charm *Item 12+*, "Nosoi Charm"]
+title: Nosoi Charm *Item 12+*
+linter-yaml-title-alias: Nosoi Charm *Item 12+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Nosoi Charm *Item 12+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
 
-- **Usage** held in 1 hand; **Bulk** —
+# Nosoi Charm *Item 12+*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
+
+- **Usage** held in 1 hand; **Bulk**—
 - **Category** Held
 
 Nosois serve as scribes and messengers to psychopomps. They are rare outside of the Boneyard, so it's common for psychopomps venturing to other planes to carry a nosoi facsimile to aid in their travels. This tiny icon of a masked raven emits twittering sounds in perfect accompaniment to your performances. You gain a +2 item bonus to [Performance](compendium/skills.md#Performance) checks to play an instrument, orate, or sing. You can cast [sending](compendium/spells/sending.md) once per day as a divine innate spell.

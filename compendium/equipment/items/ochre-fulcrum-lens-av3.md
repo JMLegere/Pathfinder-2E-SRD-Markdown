@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av3
-- item/category/other
-- trait/enchantment
-- trait/invested
-- trait/occult
-- trait/unique
-aliases: ["Ochre Fulcrum Lens"]
+tags: [compendium/src/pf2e/av3, item/category/other, trait/enchantment, trait/invested, trait/occult, trait/unique]
+aliases: [Ochre Fulcrum Lens *Item 11*, "Ochre Fulcrum Lens"]
+title: Ochre Fulcrum Lens *Item 11*
+linter-yaml-title-alias: Ochre Fulcrum Lens *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Ochre Fulcrum Lens *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+
+# Ochre Fulcrum Lens *Item 11*
+
+[enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [occult](rules/traits/occult.md) [unique](rules/traits/unique.md)  
 
 - **Price** 1400 gp
 - **Bulk** 2

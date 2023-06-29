@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/rare
-aliases: ["Ruby String"]
+tags: [compendium/src/pf2e/lol, item/category/consumable, trait/conjuration, trait/consumable, trait/rare]
+aliases: [Ruby String *Item 14*, "Ruby String"]
+title: Ruby String *Item 14*
+linter-yaml-title-alias: Ruby String *Item 14*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Ruby String *Item 14*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+
+# Ruby String *Item 14*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [rare](rules/traits/rare.md)  
 
 - **Price** 900 gp
 - **Usage** held in 1 hand

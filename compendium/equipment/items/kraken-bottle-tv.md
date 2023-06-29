@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/expandable
-- trait/uncommon
-aliases: ["Kraken Bottle"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/expandable, trait/uncommon]
+aliases: [Kraken Bottle *Item 18*, "Kraken Bottle"]
+title: Kraken Bottle *Item 18*
+linter-yaml-title-alias: Kraken Bottle *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Kraken Bottle *Item 18*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [expandable](rules/traits/expandable-tv.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Kraken Bottle *Item 18*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [expandable](rules/traits/expandable-tv.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 5000 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/divine
-- trait/grimoire
-- trait/transmutation
-aliases: ["Book of Warding Prayers"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/divine, trait/grimoire, trait/transmutation]
+aliases: [Book of Warding Prayers *Item 8*, "Book of Warding Prayers"]
+title: Book of Warding Prayers *Item 8*
+linter-yaml-title-alias: Book of Warding Prayers *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Book of Warding Prayers *Item 8*  
-[divine](rules/traits/divine.md)  [grimoire](rules/traits/grimoire-som.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Book of Warding Prayers *Item 8*
+
+[divine](rules/traits/divine.md) [grimoire](rules/traits/grimoire-som.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 425 gp
 - **Bulk** L

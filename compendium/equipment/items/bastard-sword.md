@@ -1,16 +1,26 @@
 ---
+bulk:
+price:
+level: "0"
+status: Savah's Armory
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags: [compendium/src/pf2e/crb, item/category/weapon/martial, trait/two-hand-d12]
-aliases: [Bastard Sword *Item 0*, "Bastard Sword"]
-status: [[12 Savah's Armory]]
+tags:
+  - compendium/src/pf2e/crb
+  - item/category/weapon/martial
+  - trait/two-hand-d12
+aliases:
+  - Bastard Sword *Item 0*
+  - Bastard Sword
 title: Bastard Sword *Item 0*
 linter-yaml-title-alias: Bastard Sword *Item 0*
 date created: Monday, June 19th 2023, 5:15:09 pm
-date modified: Thursday, June 29th 2023, 4:29:34 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
 
 # Bastard Sword *Item 0*
+
+#available
 
 [two-hand <d12>](rules/traits/two-hand.md)  
 

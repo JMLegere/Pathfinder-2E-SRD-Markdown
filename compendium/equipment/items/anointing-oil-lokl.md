@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/oil
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/oil
-- trait/uncommon
-aliases: ["Anointing Oil"]
+tags: [compendium/src/pf2e/lokl, item/category/oil, trait/consumable, trait/magical, trait/necromancy, trait/oil, trait/uncommon]
+aliases: [Anointing Oil *Item 4+*, "Anointing Oil"]
+title: Anointing Oil *Item 4+*
+linter-yaml-title-alias: Anointing Oil *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Anointing Oil *Item 4+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [oil](rules/traits/oil.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Anointing Oil *Item 4+*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [oil](rules/traits/oil.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Usage** held in 2 hands; **Bulk** L

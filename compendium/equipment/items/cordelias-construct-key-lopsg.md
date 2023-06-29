@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/worn
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Cordelia's Construct Key"]
+tags: [compendium/src/pf2e/lopsg, item/category/worn, trait/conjuration, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: ["Cordelia's Construct Key *Item 8+*", "Cordelia's Construct Key"]
+title: "Cordelia's Construct Key *Item 8+*"
+linter-yaml-title-alias: "Cordelia's Construct Key *Item 8+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Cordelia's Construct Key *Item 8+*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Cordelia's Construct Key *Item 8+*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** worn
 - **Category** Worn

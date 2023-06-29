@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/adjustment
-- trait/adjustment
-- trait/uncommon
-aliases: ["Parade Armor"]
+tags: [compendium/src/pf2e/lokl, item/category/adjustment, trait/adjustment, trait/uncommon]
+aliases: [Parade Armor *Item 2*, "Parade Armor"]
+title: Parade Armor *Item 2*
+linter-yaml-title-alias: Parade Armor *Item 2*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Parade Armor *Item 2*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Parade Armor *Item 2*
+
+[adjustment](rules/traits/adjustment-lotgb.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 10 gp

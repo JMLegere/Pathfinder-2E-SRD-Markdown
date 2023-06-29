@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot6
-- item/category/artifact
-- trait/artifact
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/primal
-- trait/unique
-aliases: ["Shadowed Scale, the Jungle Secret"]
+tags: [compendium/src/pf2e/sot6, item/category/artifact, trait/artifact, trait/conjuration, trait/invested, trait/magical, trait/primal, trait/unique]
+aliases: ["Shadowed Scale, the Jungle Secret *Item 22*", '"Shadowed Scale', 'the Jungle Secret *Item 22*"', '"Shadowed Scale', 'the Jungle Secret *Item 22*"', '"Shadowed Scale', 'the Jungle Secret *Item 22*"', '"Shadowed Scale', 'the Jungle Secret *Item 22*"', '"Shadowed Scale', 'the Jungle Secret *Item 22*"', '"Shadowed Scale', 'the Jungle Secret *Item 22*"', '"Shadowed Scale', 'the Jungle Secret *Item 22*"', '"Shadowed Scale', 'the Jungle Secret *Item 22*  "', '"Shadowed Scale', 'the Jungle Secret"']
+title: Shadowed Scale, the Jungle Secret *Item 22*
+linter-yaml-title-alias: "Shadowed Scale, the Jungle Secret *Item 22*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shadowed Scale, the Jungle Secret *Item 22*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [primal](rules/traits/primal.md)  [unique](rules/traits/unique.md)  
+
+# Shadowed Scale, the Jungle Secret *Item 22*
+
+[artifact](rules/traits/artifact-gmg.md) [conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [primal](rules/traits/primal.md) [unique](rules/traits/unique.md)  
 
 - **Usage** worn mask; **Bulk** L
 - **Category** Artifact

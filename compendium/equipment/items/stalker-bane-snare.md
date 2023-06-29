@@ -1,25 +1,28 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/snare
-- trait/consumable
-- trait/mechanical
-- trait/snare
-- trait/trap
-- trait/uncommon
-aliases: ["Stalker Bane Snare"]
+tags: [compendium/src/pf2e/crb, item/category/snare, trait/consumable, trait/mechanical, trait/snare, trait/trap, trait/uncommon]
+aliases: [Stalker Bane Snare *Item 4*, "Stalker Bane Snare"]
+title: Stalker Bane Snare *Item 4*
+linter-yaml-title-alias: Stalker Bane Snare *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Stalker Bane Snare *Item 4*  
-[consumable](rules/traits/consumable.md)  [mechanical](rules/traits/mechanical.md)  [snare](rules/traits/snare.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Stalker Bane Snare *Item 4*
+
+[consumable](rules/traits/consumable.md) [mechanical](rules/traits/mechanical.md) [snare](rules/traits/snare.md) [trap](rules/traits/trap.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 15 gp
 - **Category** Snare
 
 This snare explodes in a burst of cloying powder that can cling to a creature stepping into its square. A creature that enters the square of a stalker bane snare must attempt a DC 20 Reflex save.
 
-> [!success-degree] 
+> [!success-degree]
 > - **Critical Success** The target is unaffected.
 > - **Success** Powder sticks to the target, causing it to leave behind telltale footprints. Being [invisible](rules/conditions.md#Invisible) makes the target [hidden](rules/conditions.md#Hidden), rather than [undetected](rules/conditions.md#Undetected), to creatures that could see it if it weren't [invisible](rules/conditions.md#Invisible).
 > - **Failure** Powder clumps on the target, constantly flaking away. Being [invisible](rules/conditions.md#Invisible) makes the target [concealed](rules/conditions.md#Concealed), rather than [hidden](rules/conditions.md#Hidden) or [undetected](rules/conditions.md#Undetected), to creatures that could see it if it weren't [invisible](rules/conditions.md#Invisible).

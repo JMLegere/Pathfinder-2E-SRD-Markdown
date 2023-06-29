@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/talisman
-- trait/consumable
-- trait/magical
-- trait/talisman
-- trait/transmutation
-aliases: ["Stormfeather"]
+tags: [compendium/src/pf2e/som, item/category/talisman, trait/consumable, trait/magical, trait/talisman, trait/transmutation]
+aliases: [Stormfeather *Item 8*, "Stormfeather"]
+title: Stormfeather *Item 8*
+linter-yaml-title-alias: Stormfeather *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Stormfeather *Item 8*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Stormfeather *Item 8*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 100 gp
 - **Usage** affixed to armor

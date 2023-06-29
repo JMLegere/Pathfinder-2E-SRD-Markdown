@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/held
-- trait/abjuration
-- trait/divine
-- trait/magical
-- trait/uncommon
-aliases: ["Guardian Shield"]
+tags: [compendium/src/pf2e/lokl, item/category/held, trait/abjuration, trait/divine, trait/magical, trait/uncommon]
+aliases: [Guardian Shield *Item 11*, "Guardian Shield"]
+title: Guardian Shield *Item 11*
+linter-yaml-title-alias: Guardian Shield *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Guardian Shield *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Guardian Shield *Item 11*
+
+[abjuration](rules/traits/abjuration.md) [divine](rules/traits/divine.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 1200 gp

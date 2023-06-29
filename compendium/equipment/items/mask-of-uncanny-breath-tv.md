@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/focused
-- trait/invested
-- trait/necromancy
-- trait/occult
-aliases: ["Mask of Uncanny Breath"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/focused, trait/invested, trait/necromancy, trait/occult]
+aliases: [Mask of Uncanny Breath *Item 11*, "Mask of Uncanny Breath"]
+title: Mask of Uncanny Breath *Item 11*
+linter-yaml-title-alias: Mask of Uncanny Breath *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mask of Uncanny Breath *Item 11*  
-[focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  
+
+# Mask of Uncanny Breath *Item 11*
+
+[focused](rules/traits/focused.md) [invested](rules/traits/invested.md) [necromancy](rules/traits/necromancy.md) [occult](rules/traits/occult.md)  
 
 - **Price** 1200 gp
 - **Usage** worn mask; **Bulk** L

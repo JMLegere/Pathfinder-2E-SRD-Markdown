@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/consumable
-- trait/consumable
-- trait/magical
-- trait/necromancy
-aliases: ["Sampling Ammunition"]
+tags: [compendium/src/pf2e/da, item/category/consumable, trait/consumable, trait/magical, trait/necromancy]
+aliases: [Sampling Ammunition *Item 5*, "Sampling Ammunition"]
+title: Sampling Ammunition *Item 5*
+linter-yaml-title-alias: Sampling Ammunition *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Sampling Ammunition *Item 5*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Sampling Ammunition *Item 5*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Price** 22 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md), [bolt](compendium/equipment/items/bolt.md)

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/pfum
-- item/category/snare
-- trait/consumable
-- trait/mechanical
-- trait/snare
-- trait/trap
-- trait/uncommon
-aliases: ["Boom Snare"]
+tags: [compendium/src/pf2e/pfum, item/category/snare, trait/consumable, trait/mechanical, trait/snare, trait/trap, trait/uncommon]
+aliases: [Boom Snare *Item 4*, "Boom Snare"]
+title: Boom Snare *Item 4*
+linter-yaml-title-alias: Boom Snare *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Boom Snare *Item 4*  
-[consumable](rules/traits/consumable.md)  [mechanical](rules/traits/mechanical.md)  [snare](rules/traits/snare.md)  [trap](rules/traits/trap.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Boom Snare *Item 4*
+
+[consumable](rules/traits/consumable.md) [mechanical](rules/traits/mechanical.md) [snare](rules/traits/snare.md) [trap](rules/traits/trap.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 18 gp
 - **Category** Snare

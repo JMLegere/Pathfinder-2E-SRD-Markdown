@@ -1,7 +1,18 @@
 ---
+level:
+bulk:
+price:
+status:
+aliases: [Index of Items]
+tags: []
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-index
+title: Index of Items
+linter-yaml-title-alias: Index of Items
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
+
 # Index of Items
 
 - [8-Round Magazine](8-round-magazine-tv.md)

@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/consumable
-- trait/consumable
-- trait/divination
-- trait/magical
-aliases: ["Dust of Appearance"]
+tags: [compendium/src/pf2e/crb, item/category/consumable, trait/consumable, trait/divination, trait/magical]
+aliases: [Dust of Appearance *Item 6*, "Dust of Appearance"]
+title: Dust of Appearance *Item 6*
+linter-yaml-title-alias: Dust of Appearance *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dust of Appearance *Item 6*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Dust of Appearance *Item 6*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Price** 50 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

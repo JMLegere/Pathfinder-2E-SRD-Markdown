@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/scroll
-- trait/consumable
-- trait/magical
-- trait/scroll
-aliases: ["Scroll"]
+tags: [compendium/src/pf2e/crb, item/category/scroll, trait/consumable, trait/magical, trait/scroll]
+aliases: [Scroll *Item 1+*, "Scroll"]
+title: Scroll *Item 1+*
+linter-yaml-title-alias: Scroll *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Scroll *Item 1+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [scroll](rules/traits/scroll.md)  
+
+# Scroll *Item 1+*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [scroll](rules/traits/scroll.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)
@@ -21,6 +26,7 @@ A scroll contains a single spell that you can cast without having to expend a sp
 If you find a scroll, you can try to figure out what spell it contains. If the spell is a common spell from your spell list or a spell you know, you can spend a single [Recall Knowledge](rules/actions/recall-knowledge.md) action and automatically succeed at identifying the scroll's spell. If it's not, you must use [Identify Magic](rules/actions/identify-magic.md) to learn what spell the scroll holds.
 
 ## Casting a Spell from a Scroll
+
 <sup>CRB p. 564</sup>
 
 [Casting a Spell](rules/actions/cast-a-spell.md) from a scroll requires holding the scroll in one hand and activating it with a [Cast a Spell](rules/actions/cast-a-spell.md) activity using the normal number of actions for that spell.
@@ -29,7 +35,7 @@ To [Cast a Spell](rules/actions/cast-a-spell.md) from a scroll, the spell must a
 
 Any physical material components and costs are provided when a scroll is created, so you don't need to provide them when [Casting a Spell](rules/actions/cast-a-spell.md) from a scroll. You must replace any required material component for that spell with a somatic component. If the spell requires a focus, you must have that focus to [Cast the Spell](rules/actions/cast-a-spell.md) from a scroll.
 
-> [!pf2-note]
+> [!pf2-note]  
 > See the following for more details on the rules for Scrolls.
 
 *Source: Core Rulebook p. 564*

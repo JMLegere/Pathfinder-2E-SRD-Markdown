@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/held
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Deepdread Claw"]
+tags: [compendium/src/pf2e/lol, item/category/held, trait/evocation, trait/invested, trait/magical, trait/rare]
+aliases: [Deepdread Claw *Item 14*, "Deepdread Claw"]
+title: Deepdread Claw *Item 14*
+linter-yaml-title-alias: Deepdread Claw *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Deepdread Claw *Item 14*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Deepdread Claw *Item 14*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 4000 gp
 - **Usage** held in 1 or 2 hands; **Bulk** 1

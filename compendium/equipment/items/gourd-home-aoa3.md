@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa3
-- item/category/structure
-- trait/conjuration
-- trait/extradimensional
-- trait/magical
-- trait/rare
-- trait/structure
-aliases: ["Gourd Home"]
+tags: [compendium/src/pf2e/aoa3, item/category/structure, trait/conjuration, trait/extradimensional, trait/magical, trait/rare, trait/structure]
+aliases: [Gourd Home *Item 9*, "Gourd Home"]
+title: Gourd Home *Item 9*
+linter-yaml-title-alias: Gourd Home *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Gourd Home *Item 9*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [structure](rules/traits/structure.md)  
+
+# Gourd Home *Item 9*
+
+[conjuration](rules/traits/conjuration.md) [extradimensional](rules/traits/extradimensional.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [structure](rules/traits/structure.md)  
 
 - **Price** 650 gp
 - **Bulk** L (when not activated)

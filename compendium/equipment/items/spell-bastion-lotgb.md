@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/rune
-- trait/abjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Spell-bastion"]
+tags: [compendium/src/pf2e/lotgb, item/category/rune, trait/abjuration, trait/magical, trait/uncommon]
+aliases: [Spell-bastion *Item 13*, "Spell-bastion"]
+title: Spell-bastion *Item 13*
+linter-yaml-title-alias: Spell-bastion *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spell-bastion *Item 13*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Spell-bastion *Item 13*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 2700 gp
 - **Usage** applied to shield

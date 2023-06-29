@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/adjustment
-- trait/adjustment
-- trait/uncommon
-aliases: ["Throwing Shield"]
+tags: [compendium/src/pf2e/lokl, item/category/adjustment, trait/adjustment, trait/uncommon]
+aliases: [Throwing Shield *Item 1*, "Throwing Shield"]
+title: Throwing Shield *Item 1*
+linter-yaml-title-alias: Throwing Shield *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Throwing Shield *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Throwing Shield *Item 1*
+
+[adjustment](rules/traits/adjustment-lotgb.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 5 gp

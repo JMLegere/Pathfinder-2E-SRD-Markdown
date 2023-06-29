@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/other
-- trait/enchantment
-- trait/magical
-- trait/unique
-aliases: ["Old Tillimaquin"]
+tags: [compendium/src/pf2e/da, item/category/other, trait/enchantment, trait/magical, trait/unique]
+aliases: [Old Tillimaquin *Item 12*, "Old Tillimaquin"]
+title: Old Tillimaquin *Item 12*
+linter-yaml-title-alias: Old Tillimaquin *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Old Tillimaquin *Item 12*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+
+# Old Tillimaquin *Item 12*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [unique](rules/traits/unique.md)  
 
 - **Price** 2000 gp
 - **Bulk** 3

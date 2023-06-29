@@ -1,21 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Detector Stone"]
+tags: [compendium/src/pf2e/lokl, item/category/worn, trait/divination, trait/invested, trait/magical, trait/uncommon]
+aliases: [Detector Stone *Item 7*, "Detector Stone"]
+title: Detector Stone *Item 7*
+linter-yaml-title-alias: Detector Stone *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Detector Stone *Item 7*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Detector Stone *Item 7*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 360 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 During their journeys across the Gravelands, the Knights of Lastwall found several smoky, gemstone-like objects that knights refer to as detector stones. Some of the knights' Magaambyan allies believe the stones are aeon stones corrupted by the same energies that corrupted the Gravelands, though they don't display the characteristic orbiting behavior of aeon stones when invested. Despite the controversy, many knights use the stones for their ability to detect the presence of undead.

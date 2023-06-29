@@ -1,19 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/shield
-- trait/evocation
-- trait/magical
-aliases: ["Spined Shield"]
+tags: [compendium/src/pf2e/crb, item/category/shield, trait/evocation, trait/magical]
+aliases: [Spined Shield *Item 7*, "Spined Shield"]
+title: Spined Shield *Item 7*
+linter-yaml-title-alias: Spined Shield *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spined Shield *Item 7*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Spined Shield *Item 7*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 360 gp
 - **Usage** held in 1 hand; **Bulk** 1
-- **Category** Shield; **Group** Shield 
+- **Category** Shield; **Group** Shield
 
 Five jagged spines project from the surface of this steel shield (Hardness 6, HP 24, BT 12). The spines are +1 striking shield spikes. When you use the [Shield Block](compendium/feats/shield-block.md) reaction with this shield, the spines take the damage before the shield itself does. When the shield would take damage (after applying Hardness), one spine snaps off per 6 damage, reducing the damage by 6. The shield takes any remaining damage. When there are no spines left, the shield takes damage as normal.
 

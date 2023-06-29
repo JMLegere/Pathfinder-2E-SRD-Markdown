@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/ammunition
-- trait/consumable
-- trait/evocation
-- trait/fire
-- trait/magical
-aliases: ["Explosive Ammunition"]
+tags: [compendium/src/pf2e/crb, item/category/ammunition, trait/consumable, trait/evocation, trait/fire, trait/magical]
+aliases: [Explosive Ammunition *Item 9+*, "Explosive Ammunition"]
+title: Explosive Ammunition *Item 9+*
+linter-yaml-title-alias: Explosive Ammunition *Item 9+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Explosive Ammunition *Item 9+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  
+
+# Explosive Ammunition *Item 9+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [magical](rules/traits/magical.md)  
 
 - **Ammunition** any
 - **Activate** [Interact](rules/actions/interact.md)

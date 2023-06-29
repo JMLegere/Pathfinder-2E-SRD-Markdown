@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec2
-- item/category/structure
-- trait/conjuration
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Marvelous Calliope"]
+tags: [compendium/src/pf2e/ec2, item/category/structure, trait/conjuration, trait/magical, trait/structure, trait/uncommon]
+aliases: [Marvelous Calliope *Item 4*, "Marvelous Calliope"]
+title: Marvelous Calliope *Item 4*
+linter-yaml-title-alias: Marvelous Calliope *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Marvelous Calliope *Item 4*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Marvelous Calliope *Item 4*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 100 gp
 - **Bulk** L (when not activated)

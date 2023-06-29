@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa3
-- item/category/consumable
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/negative
-- trait/uncommon
-aliases: ["Corpsecaller Round"]
+tags: [compendium/src/pf2e/ooa3, item/category/consumable, trait/consumable, trait/magical, trait/necromancy, trait/negative, trait/uncommon]
+aliases: [Corpsecaller Round *Item 9*, "Corpsecaller Round"]
+title: Corpsecaller Round *Item 9*
+linter-yaml-title-alias: Corpsecaller Round *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Corpsecaller Round *Item 9*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Corpsecaller Round *Item 9*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 130 gp
 - **Ammunition** round
@@ -21,7 +24,7 @@ aliases: ["Corpsecaller Round"]
 
 This bullet is crafted entirely from obsidian and engraved with hair-thin runes. When an activated corpsecaller round hits a target, the struck creature is called to the grave. It takes `4d10` negative damage with a DC 25 Fortitude saving throw.
 
-> [!success-degree] 
+> [!success-degree]
 > - **Critical Success** The foe is unaffected.
 > - **Success** The foe takes half damage.
 > - **Failure** The foe takes full damage and is [doomed](rules/conditions.md#Doomed). If the foe dies within the next 24 hours, its corpse is tethered to the Negative Energy Plane, making it easier to raise as an undead. Creatures using the create undead ritual on the foe's corpse receive a +2 circumstance bonus to their primary and secondary skill checks for the ritual.

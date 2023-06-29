@@ -1,17 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/weapon/advanced
-- trait/combination
-- trait/dwarf
-- trait/ranged-trip
-- trait/razing
-- trait/reach
-aliases: ["Wrecker"]
+tags: [compendium/src/pf2e/tv, item/category/weapon/advanced, trait/combination, trait/dwarf, trait/ranged-trip, trait/razing, trait/reach]
+aliases: [Wrecker *Item 1*, "Wrecker"]
+title: Wrecker *Item 1*
+linter-yaml-title-alias: Wrecker *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wrecker *Item 1*  
+
+# Wrecker *Item 1*
+
 combination  
 
 - **Price** 8 gp

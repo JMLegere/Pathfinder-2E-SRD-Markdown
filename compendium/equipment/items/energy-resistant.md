@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/abjuration
-- trait/magical
-aliases: ["Energy-Resistant"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/abjuration, trait/magical]
+aliases: [Energy-Resistant *Item 8+*, "Energy-Resistant"]
+title: Energy-Resistant *Item 8+*
+linter-yaml-title-alias: Energy-Resistant *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Energy-Resistant *Item 8+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  
+
+# Energy-Resistant *Item 8+*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md)  
 
 - **Usage** etched onto armor
 - **Category** Rune

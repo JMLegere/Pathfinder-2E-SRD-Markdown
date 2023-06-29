@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/apex
-- trait/apex
-- trait/arcane
-- trait/divination
-- trait/intelligent
-- trait/n
-- trait/rare
-aliases: ["Genius Diadem"]
+tags: [compendium/src/pf2e/gmg, item/category/apex, trait/apex, trait/arcane, trait/divination, trait/intelligent, trait/n, trait/rare]
+aliases: [Genius Diadem *Item 18*, "Genius Diadem"]
+title: Genius Diadem *Item 18*
+linter-yaml-title-alias: Genius Diadem *Item 18*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Genius Diadem *Item 18*  
-[apex](rules/traits/apex.md)  [arcane](rules/traits/arcane.md)  [divination](rules/traits/divination.md)  [intelligent](rules/traits/intelligent-gmg.md)  [n](rules/traits/neutral-b1.md)  [rare](rules/traits/rare.md)  
+
+# Genius Diadem *Item 18*
+
+[apex](rules/traits/apex.md) [arcane](rules/traits/arcane.md) [divination](rules/traits/divination.md) [intelligent](rules/traits/intelligent-gmg.md) [n](rules/traits/neutral-b1.md) [rare](rules/traits/rare.md)  
 
 - **Usage** worn circlet; **Bulk** L
 - **Category** Apex

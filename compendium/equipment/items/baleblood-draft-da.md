@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/elixir
-- trait/alchemical
-- trait/consumable
-- trait/elixir
-- trait/rare
-aliases: ["Baleblood Draft"]
+tags: [compendium/src/pf2e/da, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/rare]
+aliases: [Baleblood Draft *Item 10*, "Baleblood Draft"]
+title: Baleblood Draft *Item 10*
+linter-yaml-title-alias: Baleblood Draft *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Baleblood Draft *Item 10*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [rare](rules/traits/rare.md)  
+
+# Baleblood Draft *Item 10*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [elixir](rules/traits/elixir.md) [rare](rules/traits/rare.md)  
 
 - **Price** 155 gp
 - **Usage** held in 1 hand; **Bulk** L

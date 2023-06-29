@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/evocation
-- trait/magical
-aliases: ["Striking"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/evocation, trait/magical]
+aliases: [Striking *Item 4+*, "Striking"]
+title: Striking *Item 4+*
+linter-yaml-title-alias: Striking *Item 4+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Striking *Item 4+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Striking *Item 4+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

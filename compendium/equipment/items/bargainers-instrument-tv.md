@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/magical
-- trait/rare
-aliases: ["Bargainer's Instrument"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/conjuration, trait/consumable, trait/magical, trait/rare]
+aliases: ["Bargainer's Instrument *Item 15*", "Bargainer's Instrument"]
+title: "Bargainer's Instrument *Item 15*"
+linter-yaml-title-alias: "Bargainer's Instrument *Item 15*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Bargainer's Instrument *Item 15*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Bargainer's Instrument *Item 15*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 1000 gp
 - **Usage** held in 2 hands; **Bulk** L

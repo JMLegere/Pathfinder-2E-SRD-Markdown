@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/divine
-- trait/evocation
-- trait/good
-- trait/uncommon
-aliases: ["Blessed Reformer"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/divine, trait/evocation, trait/good, trait/uncommon]
+aliases: [Blessed Reformer *Item 14*, "Blessed Reformer"]
+title: Blessed Reformer *Item 14*
+linter-yaml-title-alias: Blessed Reformer *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Blessed Reformer *Item 14*  
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Blessed Reformer *Item 14*
+
+[divine](rules/traits/divine.md) [evocation](rules/traits/evocation.md) [good](rules/traits/good.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 4500 gp
 - **Usage** held in 1 hand; **Bulk** 1

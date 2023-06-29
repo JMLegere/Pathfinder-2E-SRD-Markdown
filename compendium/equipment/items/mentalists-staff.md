@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/staff
-- trait/divination
-- trait/magical
-- trait/staff
-aliases: ["Mentalist's Staff"]
+tags: [compendium/src/pf2e/crb, item/category/staff, trait/divination, trait/magical, trait/staff]
+aliases: ["Mentalist's Staff *Item 4+*", "Mentalist's Staff"]
+title: "Mentalist's Staff *Item 4+*"
+linter-yaml-title-alias: "Mentalist's Staff *Item 4+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mentalist's Staff *Item 4+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Mentalist's Staff *Item 4+*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lome
-- item/category/artifact
-- trait/artifact
-- trait/conjuration
-- trait/magical
-- trait/rare
-- trait/teleportation
-aliases: ["Jahan Waystone"]
+tags: [compendium/src/pf2e/lome, item/category/artifact, trait/artifact, trait/conjuration, trait/magical, trait/rare, trait/teleportation]
+aliases: [Jahan Waystone *Item 21*, "Jahan Waystone"]
+title: Jahan Waystone *Item 21*
+linter-yaml-title-alias: Jahan Waystone *Item 21*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Jahan Waystone *Item 21*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [teleportation](rules/traits/teleportation.md)  
+
+# Jahan Waystone *Item 21*
+
+[artifact](rules/traits/artifact-gmg.md) [conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [teleportation](rules/traits/teleportation.md)  
 
 - **Usage** Worn
 - **Category** Artifact

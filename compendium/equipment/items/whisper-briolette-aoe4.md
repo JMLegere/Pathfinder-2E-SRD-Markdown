@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe4
-- item/category/talisman
-- trait/consumable
-- trait/divination
-- trait/magical
-- trait/mental
-- trait/talisman
-- trait/uncommon
-aliases: ["Whisper Briolette"]
+tags: [compendium/src/pf2e/aoe4, item/category/talisman, trait/consumable, trait/divination, trait/magical, trait/mental, trait/talisman, trait/uncommon]
+aliases: [Whisper Briolette *Item 7*, "Whisper Briolette"]
+title: Whisper Briolette *Item 7*
+linter-yaml-title-alias: Whisper Briolette *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Whisper Briolette *Item 7*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Whisper Briolette *Item 7*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [talisman](rules/traits/talisman.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 55 gp
 - **Usage** affixed to armor or to an outfit if a character has no

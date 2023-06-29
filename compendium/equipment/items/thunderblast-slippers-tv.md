@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/sonic
-aliases: ["Thunderblast Slippers"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/evocation, trait/invested, trait/magical, trait/sonic]
+aliases: [Thunderblast Slippers *Item 9+*, "Thunderblast Slippers"]
+title: Thunderblast Slippers *Item 9+*
+linter-yaml-title-alias: Thunderblast Slippers *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Thunderblast Slippers *Item 9+*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  
+
+# Thunderblast Slippers *Item 9+*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [sonic](rules/traits/sonic.md)  
 
 - **Usage** worn footwear; **Bulk** L
 - **Category** Worn

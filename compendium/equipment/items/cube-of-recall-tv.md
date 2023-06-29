@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/conjuration
-- trait/magical
-aliases: ["Cube of Recall"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/conjuration, trait/magical]
+aliases: [Cube of Recall *Item 19*, "Cube of Recall"]
+title: Cube of Recall *Item 19*
+linter-yaml-title-alias: Cube of Recall *Item 19*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Cube of Recall *Item 19*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Cube of Recall *Item 19*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Price** 40000 gp
 - **Usage** held in 1 hand; **Bulk** L

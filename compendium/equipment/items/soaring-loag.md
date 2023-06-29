@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loag
-- item/category/rune
-- trait/abjuration
-- trait/magical
-aliases: ["Soaring"]
+tags: [compendium/src/pf2e/loag, item/category/rune, trait/abjuration, trait/magical]
+aliases: [Soaring *Item 14*, "Soaring"]
+title: Soaring *Item 14*
+linter-yaml-title-alias: Soaring *Item 14*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Soaring *Item 14*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  
+
+# Soaring *Item 14*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md)  
 
 - **Price** 3750 gp
 - **Usage** etched onto armor

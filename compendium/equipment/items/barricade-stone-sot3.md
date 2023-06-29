@@ -1,20 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot3
-- item/category/structure
-- trait/conjuration
-- trait/consumable
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Barricade Stone"]
+tags: [compendium/src/pf2e/sot3, item/category/structure, trait/conjuration, trait/consumable, trait/magical, trait/structure, trait/uncommon]
+aliases: [Barricade Stone *Item 6+*, "Barricade Stone"]
+title: Barricade Stone *Item 6+*
+linter-yaml-title-alias: Barricade Stone *Item 6+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Barricade Stone *Item 6+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
 
-- **Bulk** — (when not activated)
+# Barricade Stone *Item 6+*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
+
+- **Bulk**—(when not activated)
 - **Activate** command, , [Interact](rules/actions/interact.md)
 - **Category** Structure
 

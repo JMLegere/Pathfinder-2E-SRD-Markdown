@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/locg
-- item/category/held
-- trait/conjuration
-- trait/magical
-aliases: ["Insistent Door Knocker"]
+tags: [compendium/src/pf2e/locg, item/category/held, trait/conjuration, trait/magical]
+aliases: [Insistent Door Knocker *Item 6+*, "Insistent Door Knocker"]
+title: Insistent Door Knocker *Item 6+*
+linter-yaml-title-alias: Insistent Door Knocker *Item 6+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Insistent Door Knocker *Item 6+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Insistent Door Knocker *Item 6+*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

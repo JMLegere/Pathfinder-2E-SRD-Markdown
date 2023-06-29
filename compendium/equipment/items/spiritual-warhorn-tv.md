@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/force
-- trait/magical
-aliases: ["Spiritual Warhorn"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/conjuration, trait/consumable, trait/force, trait/magical]
+aliases: [Spiritual Warhorn *Item 5+*, "Spiritual Warhorn"]
+title: Spiritual Warhorn *Item 5+*
+linter-yaml-title-alias: Spiritual Warhorn *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spiritual Warhorn *Item 5+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  
+
+# Spiritual Warhorn *Item 5+*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [force](rules/traits/force.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

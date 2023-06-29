@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec6
-- item/category/armor
-- trait/abjuration
-- trait/armor
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Jerkin Of Liberation"]
+tags: [compendium/src/pf2e/ec6, item/category/armor, trait/abjuration, trait/armor, trait/invested, trait/magical, trait/uncommon]
+aliases: [Jerkin Of Liberation *Item 17*, "Jerkin Of Liberation"]
+title: Jerkin Of Liberation *Item 17*
+linter-yaml-title-alias: Jerkin Of Liberation *Item 17*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Jerkin Of Liberation *Item 17*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  armor  
+
+# Jerkin Of Liberation *Item 17*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md) armor  
 
 - **Price** 14000 gp
 - **Usage** worn armor; **Bulk** 1

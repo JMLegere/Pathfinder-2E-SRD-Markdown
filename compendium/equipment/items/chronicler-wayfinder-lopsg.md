@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/worn
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Chronicler Wayfinder"]
+tags: [compendium/src/pf2e/lopsg, item/category/worn, trait/evocation, trait/invested, trait/magical, trait/uncommon]
+aliases: [Chronicler Wayfinder *Item 6*, "Chronicler Wayfinder"]
+title: Chronicler Wayfinder *Item 6*
+linter-yaml-title-alias: Chronicler Wayfinder *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Chronicler Wayfinder *Item 6*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Chronicler Wayfinder *Item 6*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 200 gp
 - **Usage** worn

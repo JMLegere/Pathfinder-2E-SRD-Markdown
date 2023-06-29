@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/oil
-- trait/abjuration
-- trait/consumable
-- trait/magical
-- trait/oil
-aliases: ["Shielding Salve"]
+tags: [compendium/src/pf2e/apg, item/category/oil, trait/abjuration, trait/consumable, trait/magical, trait/oil]
+aliases: [Shielding Salve *Item 1*, "Shielding Salve"]
+title: Shielding Salve *Item 1*
+linter-yaml-title-alias: Shielding Salve *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shielding Salve *Item 1*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  
+
+# Shielding Salve *Item 1*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [oil](rules/traits/oil.md)  
 
 - **Price** 4 gp
 - **Usage** held in 2 hands; **Bulk** L

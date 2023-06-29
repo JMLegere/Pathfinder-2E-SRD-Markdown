@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec5
-- item/category/staff
-- trait/divination
-- trait/magical
-- trait/staff
-- trait/uncommon
-aliases: ["Staff Of The Black Desert"]
+tags: [compendium/src/pf2e/ec5, item/category/staff, trait/divination, trait/magical, trait/staff, trait/uncommon]
+aliases: [Staff Of The Black Desert *Item 12+*, "Staff Of The Black Desert"]
+title: Staff Of The Black Desert *Item 12+*
+linter-yaml-title-alias: Staff Of The Black Desert *Item 12+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff Of The Black Desert *Item 12+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Staff Of The Black Desert *Item 12+*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

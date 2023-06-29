@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/missive
-- trait/consumable
-- trait/divination
-- trait/magical
-- trait/missive
-aliases: ["Messenger Missive"]
+tags: [compendium/src/pf2e/tv, item/category/missive, trait/consumable, trait/divination, trait/magical, trait/missive]
+aliases: [Messenger Missive *Item 4+*, "Messenger Missive"]
+title: Messenger Missive *Item 4+*
+linter-yaml-title-alias: Messenger Missive *Item 4+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Messenger Missive *Item 4+*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  
 
-- **Usage** held in 1 hand; **Bulk** —
+# Messenger Missive *Item 4+*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [missive](rules/traits/missive-tv.md)  
+
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** envision, , [Interact](rules/actions/interact.md)
 - **Category** Missive
 

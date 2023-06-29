@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/healing
-aliases: ["Healing Vapor"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/healing]
+aliases: [Healing Vapor *Item 4+*, "Healing Vapor"]
+title: Healing Vapor *Item 4+*
+linter-yaml-title-alias: Healing Vapor *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Healing Vapor *Item 4+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [healing](rules/traits/healing.md)  
+
+# Healing Vapor *Item 4+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [healing](rules/traits/healing.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

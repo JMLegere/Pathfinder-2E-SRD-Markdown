@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/grimoire
-- trait/grimoire
-- trait/magical
-- trait/transmutation
-aliases: ["Bestiary Of Metamorphosis"]
+tags: [compendium/src/pf2e/som, item/category/grimoire, trait/grimoire, trait/magical, trait/transmutation]
+aliases: [Bestiary Of Metamorphosis *Item 6*, "Bestiary Of Metamorphosis"]
+title: Bestiary Of Metamorphosis *Item 6*
+linter-yaml-title-alias: Bestiary Of Metamorphosis *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Bestiary Of Metamorphosis *Item 6*  
-[grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Bestiary Of Metamorphosis *Item 6*
+
+[grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 210 gp
 - **Bulk** L

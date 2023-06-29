@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/armor
-- trait/evocation
-- trait/force
-- trait/magical
-aliases: ["Rebounding Breastplate"]
+tags: [compendium/src/pf2e/som, item/category/armor, trait/evocation, trait/force, trait/magical]
+aliases: [Rebounding Breastplate *Item 20*, "Rebounding Breastplate"]
+title: Rebounding Breastplate *Item 20*
+linter-yaml-title-alias: Rebounding Breastplate *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Rebounding Breastplate *Item 20*  
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  
+
+# Rebounding Breastplate *Item 20*
+
+[evocation](rules/traits/evocation.md) [force](rules/traits/force.md) [magical](rules/traits/magical.md)  
 
 - **Price** 70000 gp
 - **Usage** worn armor

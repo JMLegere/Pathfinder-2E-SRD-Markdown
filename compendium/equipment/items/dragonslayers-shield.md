@@ -1,20 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/shield
-- trait/abjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Dragonslayer's Shield"]
+tags: [compendium/src/pf2e/crb, item/category/shield, trait/abjuration, trait/magical, trait/uncommon]
+aliases: ["Dragonslayer's Shield *Item 9*", "Dragonslayer's Shield"]
+title: "Dragonslayer's Shield *Item 9*"
+linter-yaml-title-alias: "Dragonslayer's Shield *Item 9*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragonslayer's Shield *Item 9*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Dragonslayer's Shield *Item 9*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 670 gp
 - **Usage** held in 1 hand; **Bulk** 1
-- **Category** Shield; **Group** Shield 
+- **Category** Shield; **Group** Shield
 
 A dragonslayer's shield is a steel shield covered with dragonhide from a certain type of dragon, which distinguishes each shield from the others. While raised, this steel shield (Hardness 8, HP 32, BT 16) grants its circumstance bonus to Reflex saves against area effects (as well as to AC, as normal)
 

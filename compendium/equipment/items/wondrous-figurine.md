@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/conjuration
-- trait/magical
-aliases: ["Wondrous Figurine"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/conjuration, trait/magical]
+aliases: [Wondrous Figurine *Item 2+*, "Wondrous Figurine"]
+title: Wondrous Figurine *Item 2+*
+linter-yaml-title-alias: Wondrous Figurine *Item 2+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wondrous Figurine *Item 2+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Wondrous Figurine *Item 2+*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

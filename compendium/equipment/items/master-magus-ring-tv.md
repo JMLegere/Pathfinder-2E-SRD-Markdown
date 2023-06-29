@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/arcane
-- trait/conjuration
-- trait/focused
-- trait/invested
-aliases: ["Master Magus Ring"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/arcane, trait/conjuration, trait/focused, trait/invested]
+aliases: [Master Magus Ring *Item 11*, "Master Magus Ring"]
+title: Master Magus Ring *Item 11*
+linter-yaml-title-alias: Master Magus Ring *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Master Magus Ring *Item 11*  
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  
+
+# Master Magus Ring *Item 11*
+
+[arcane](rules/traits/arcane.md) [conjuration](rules/traits/conjuration.md) [focused](rules/traits/focused.md) [invested](rules/traits/invested.md)  
 
 - **Price** 1250 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 Elegant jewelry such as the master magus ring adorns experienced magi. Each ring has a significant metal and symbol to represent a particular hybrid study, such as a heavy iron ring with an icon of a mountain for inexorable iron, or glittering silver with a shield-like emblem for sparkling targe.

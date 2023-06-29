@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/material
-- trait/precious
-aliases: ["Cold Iron"]
+tags: [compendium/src/pf2e/crb, item/category/material, trait/precious]
+aliases: [Cold Iron *Item 2+*, "Cold Iron"]
+title: Cold Iron *Item 2+*
+linter-yaml-title-alias: Cold Iron *Item 2+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Cold Iron *Item 2+*  
+
+# Cold Iron *Item 2+*
+
 [precious](rules/traits/precious.md)  
 
 - **Category** Material
@@ -30,6 +37,5 @@ Cold iron looks like normal iron but is mined from particularly pure sources and
 | Low-grade | 18 | 72 | 36 |
 | Standard-grade | 22 | 88 | 44 |
 | High-grade | 28 | 112 | 56 |
-
 
 *Source: Core Rulebook p. 578*

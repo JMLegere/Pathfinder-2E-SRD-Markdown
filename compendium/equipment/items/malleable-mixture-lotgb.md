@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/elixir
-- trait/alchemical
-- trait/consumable
-- trait/elixir
-- trait/uncommon
-aliases: ["Malleable Mixture"]
+tags: [compendium/src/pf2e/lotgb, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/uncommon]
+aliases: [Malleable Mixture *Item 8+*, "Malleable Mixture"]
+title: Malleable Mixture *Item 8+*
+linter-yaml-title-alias: Malleable Mixture *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Malleable Mixture *Item 8+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Malleable Mixture *Item 8+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [elixir](rules/traits/elixir.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

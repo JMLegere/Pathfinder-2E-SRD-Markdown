@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/held
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Undead Scourge"]
+tags: [compendium/src/pf2e/lokl, item/category/held, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Undead Scourge *Item 7*, "Undead Scourge"]
+title: Undead Scourge *Item 7*
+linter-yaml-title-alias: Undead Scourge *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Undead Scourge *Item 7*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Undead Scourge *Item 7*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 350 gp

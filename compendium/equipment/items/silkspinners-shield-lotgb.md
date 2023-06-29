@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/conjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Silkspinner's Shield"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/conjuration, trait/magical, trait/uncommon]
+aliases: ["Silkspinner's Shield *Item 15*", "Silkspinner's Shield"]
+title: "Silkspinner's Shield *Item 15*"
+linter-yaml-title-alias: "Silkspinner's Shield *Item 15*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Silkspinner's Shield *Item 15*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Silkspinner's Shield *Item 15*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 6000 gp
 - **Usage** held in one hand; **Bulk** L

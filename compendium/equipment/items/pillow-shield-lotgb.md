@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Pillow Shield"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Pillow Shield *Item 4*, "Pillow Shield"]
+title: Pillow Shield *Item 4*
+linter-yaml-title-alias: Pillow Shield *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Pillow Shield *Item 4*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Pillow Shield *Item 4*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 80 gp
 - **Usage** held in one hand; **Bulk** 1

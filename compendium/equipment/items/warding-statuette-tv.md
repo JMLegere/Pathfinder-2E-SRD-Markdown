@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/abjuration
-- trait/force
-- trait/magical
-- trait/spellheart
-aliases: ["Warding Statuette"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/abjuration, trait/force, trait/magical, trait/spellheart]
+aliases: [Warding Statuette *Item 7+*, "Warding Statuette"]
+title: Warding Statuette *Item 7+*
+linter-yaml-title-alias: Warding Statuette *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warding Statuette *Item 7+*  
-[abjuration](rules/traits/abjuration.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Warding Statuette *Item 7+*
+
+[abjuration](rules/traits/abjuration.md) [force](rules/traits/force.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 This small figurine is carved from soapstone in the shape of a deity or guardian, facing both front and back to indicate unflagging vigilance. The spell attack roll of any spell cast by activating this item is +13.

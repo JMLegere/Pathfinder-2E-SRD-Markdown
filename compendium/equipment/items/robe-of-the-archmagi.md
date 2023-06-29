@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/abjuration
-- trait/arcane
-- trait/invested
-- trait/uncommon
-aliases: ["Robe of the Archmagi"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/abjuration, trait/arcane, trait/invested, trait/uncommon]
+aliases: [Robe of the Archmagi *Item 15+*, "Robe of the Archmagi"]
+title: Robe of the Archmagi *Item 15+*
+linter-yaml-title-alias: Robe of the Archmagi *Item 15+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Robe of the Archmagi *Item 15+*  
-[abjuration](rules/traits/abjuration.md)  [arcane](rules/traits/arcane.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Robe of the Archmagi *Item 15+*
+
+[abjuration](rules/traits/abjuration.md) [arcane](rules/traits/arcane.md) [invested](rules/traits/invested.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** worn garment; **Bulk** 1
 - **Category** Worn

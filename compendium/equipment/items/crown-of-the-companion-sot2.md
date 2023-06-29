@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot2
-- item/category/worn
-- trait/healing
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/positive
-- trait/uncommon
-aliases: ["Crown Of The Companion"]
+tags: [compendium/src/pf2e/sot2, item/category/worn, trait/healing, trait/invested, trait/magical, trait/necromancy, trait/positive, trait/uncommon]
+aliases: [Crown Of The Companion *Item 6*, "Crown Of The Companion"]
+title: Crown Of The Companion *Item 6*
+linter-yaml-title-alias: Crown Of The Companion *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Crown Of The Companion *Item 6*  
-[healing](rules/traits/healing.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Crown Of The Companion *Item 6*
+
+[healing](rules/traits/healing.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [positive](rules/traits/positive.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 250 gp
 - **Usage** worn crown; **Bulk** L

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/held
-- trait/alchemical
-- trait/rare
-aliases: ["Alchemical Atomizer"]
+tags: [compendium/src/pf2e/lol, item/category/held, trait/alchemical, trait/rare]
+aliases: [Alchemical Atomizer *Item 10*, "Alchemical Atomizer"]
+title: Alchemical Atomizer *Item 10*
+linter-yaml-title-alias: Alchemical Atomizer *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Alchemical Atomizer *Item 10*  
-[alchemical](rules/traits/alchemical.md)  [rare](rules/traits/rare.md)  
+
+# Alchemical Atomizer *Item 10*
+
+[alchemical](rules/traits/alchemical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 175 gp
 - **Usage** held in 1 hands, Bulk L

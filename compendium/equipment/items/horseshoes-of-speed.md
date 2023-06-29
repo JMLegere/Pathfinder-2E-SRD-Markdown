@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/companion
-- trait/companion
-- trait/invested
-- trait/primal
-- trait/transmutation
-aliases: ["Horseshoes of Speed"]
+tags: [compendium/src/pf2e/crb, item/category/companion, trait/companion, trait/invested, trait/primal, trait/transmutation]
+aliases: [Horseshoes of Speed *Item 7+*, "Horseshoes of Speed"]
+title: Horseshoes of Speed *Item 7+*
+linter-yaml-title-alias: Horseshoes of Speed *Item 7+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Horseshoes of Speed *Item 7+*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Horseshoes of Speed *Item 7+*
+
+[companion](rules/traits/companion.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn horseshoes; **Bulk** 1
 - **Category** Companion

@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/canes-crutches
-aliases: ["Basic Crutch"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/canes-crutches]
+aliases: [Basic Crutch *Item 0*, "Basic Crutch"]
+title: Basic Crutch *Item 0*
+linter-yaml-title-alias: Basic Crutch *Item 0*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Basic Crutch *Item 0*  
+
+# Basic Crutch *Item 0*
 
 - **Price** 5 sp
 - **Usage** held in 1 hand; **Bulk** L

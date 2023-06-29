@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/divination
-- trait/grimoire
-- trait/magical
-aliases: ["Communion Mat"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/divination, trait/grimoire, trait/magical]
+aliases: [Communion Mat *Item 14*, "Communion Mat"]
+title: Communion Mat *Item 14*
+linter-yaml-title-alias: Communion Mat *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Communion Mat *Item 14*  
-[divination](rules/traits/divination.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+
+# Communion Mat *Item 14*
+
+[divination](rules/traits/divination.md) [grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 3750 gp
 - **Bulk** L

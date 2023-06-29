@@ -1,29 +1,33 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/artifact
-- trait/artifact
-- trait/divine
-- trait/necromancy
-- trait/unique
-aliases: ["Whisperer of Souls"]
+tags: [compendium/src/pf2e/tv, item/category/artifact, trait/artifact, trait/divine, trait/necromancy, trait/unique]
+aliases: [Whisperer of Souls *Item 28*, "Whisperer of Souls"]
+title: Whisperer of Souls *Item 28*
+linter-yaml-title-alias: Whisperer of Souls *Item 28*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Whisperer of Souls *Item 28*  
-[artifact](rules/traits/artifact-gmg.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+
+# Whisperer of Souls *Item 28*
+
+[artifact](rules/traits/artifact-gmg.md) [divine](rules/traits/divine.md) [necromancy](rules/traits/necromancy.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Artifact
 
-This +4 major striking greater brilliant SoM keen glaive binds the souls of powerful creatures it slays. The soul can't be returned to life by any means while imprisoned within the glaive and can be freed only by a deed of great benevolence or selflessness. While using the glaive as a weapon, whenever you reduce a sapient creature of 18th level or higher to 0 Hit Points or roll a critical success with a [Strike](rules/actions/strike.md) against such a target, the creature must attempt a DC 50 Fortitude save.
+This +4 major striking greater brilliant Some keen glaive binds the souls of powerful creatures it slays. The soul can't be returned to life by any means while imprisoned within the glaive and can be freed only by a deed of great benevolence or selflessness. While using the glaive as a weapon, whenever you reduce a sapient creature of 18th level or higher to 0 Hit Points or roll a critical success with a [Strike](rules/actions/strike.md) against such a target, the creature must attempt a DC 50 Fortitude save.
 
-> [!success-degree] 
+> [!success-degree]
 > - **Critical Success** No additional effect.
 > - **Success** The glaive siphons the creature's essence, rendering it [drained](rules/conditions.md#Drained). If the creature dies from the [Strike](rules/actions/strike.md) or while [drained](rules/conditions.md#Drained) in this way, the creature's soul is bound in the glaive.
 > - **Failure** As success, but the creature is [drained](rules/conditions.md#Drained).
 > - **Critical Failure** As success, but the creature is [drained](rules/conditions.md#Drained).
->
+> 
 >    The glaive also has the following activations.
 
 ```ad-embed-ability

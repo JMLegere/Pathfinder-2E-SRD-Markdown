@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/enchantment
-- trait/invested
-- trait/magical
-aliases: ["Choker of Elocution"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/enchantment, trait/invested, trait/magical]
+aliases: [Choker of Elocution *Item 6+*, "Choker of Elocution"]
+title: Choker of Elocution *Item 6+*
+linter-yaml-title-alias: Choker of Elocution *Item 6+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Choker of Elocution *Item 6+*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Choker of Elocution *Item 6+*
+
+[enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn collar; **Bulk** L
 - **Category** Worn

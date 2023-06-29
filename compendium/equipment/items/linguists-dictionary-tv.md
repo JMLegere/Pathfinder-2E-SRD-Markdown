@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/divination
-- trait/grimoire
-- trait/magical
-aliases: ["Linguist's Dictionary"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/divination, trait/grimoire, trait/magical]
+aliases: ["Linguist's Dictionary *Item 9+*", "Linguist's Dictionary"]
+title: "Linguist's Dictionary *Item 9+*"
+linter-yaml-title-alias: "Linguist's Dictionary *Item 9+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Linguist's Dictionary *Item 9+*  
-[divination](rules/traits/divination.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+
+# Linguist's Dictionary *Item 9+*
+
+[divination](rules/traits/divination.md) [grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md)  
 
 - **Bulk** L
 - **Category** Grimoire

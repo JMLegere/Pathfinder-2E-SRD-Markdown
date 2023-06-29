@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/coda
-- trait/coda
-- trait/divination
-- trait/occult
-- trait/staff
-- trait/uncommon
-aliases: ["Seer's Flute"]
+tags: [compendium/src/pf2e/tv, item/category/coda, trait/coda, trait/divination, trait/occult, trait/staff, trait/uncommon]
+aliases: ["Seer's Flute *Item 4+*", "Seer's Flute"]
+title: "Seer's Flute *Item 4+*"
+linter-yaml-title-alias: "Seer's Flute *Item 4+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Seer's Flute *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [divination](rules/traits/divination.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Seer's Flute *Item 4+*
+
+[coda](rules/traits/coda-tv.md) [divination](rules/traits/divination.md) [occult](rules/traits/occult.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Coda

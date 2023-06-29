@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/invested
-- trait/primal
-- trait/transmutation
-aliases: ["Berserker's Cloak"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/invested, trait/primal, trait/transmutation]
+aliases: ["Berserker's Cloak *Item 12+*", "Berserker's Cloak"]
+title: "Berserker's Cloak *Item 12+*"
+linter-yaml-title-alias: "Berserker's Cloak *Item 12+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Berserker's Cloak *Item 12+*  
-[invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Berserker's Cloak *Item 12+*
+
+[invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn cloak; **Bulk** 1
 - **Category** Worn

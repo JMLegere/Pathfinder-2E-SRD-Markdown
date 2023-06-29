@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/tattoo
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/positive
-- trait/tattoo
-- trait/uncommon
-aliases: ["Enveloping Light"]
+tags: [compendium/src/pf2e/lotgb, item/category/tattoo, trait/invested, trait/magical, trait/necromancy, trait/positive, trait/tattoo, trait/uncommon]
+aliases: [Enveloping Light *Item 3+*, "Enveloping Light"]
+title: Enveloping Light *Item 3+*
+linter-yaml-title-alias: Enveloping Light *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Enveloping Light *Item 3+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Enveloping Light *Item 3+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [positive](rules/traits/positive.md) [tattoo](rules/traits/tattoo-lowg.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** tattoo
 - **Category** Tattoo

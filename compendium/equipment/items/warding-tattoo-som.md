@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/tattoo
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/tattoo
-aliases: ["Warding Tattoo"]
+tags: [compendium/src/pf2e/som, item/category/tattoo, trait/abjuration, trait/invested, trait/magical, trait/tattoo]
+aliases: [Warding Tattoo *Item 5+*, "Warding Tattoo"]
+title: Warding Tattoo *Item 5+*
+linter-yaml-title-alias: Warding Tattoo *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warding Tattoo *Item 5+*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+
+# Warding Tattoo *Item 5+*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md)  
 
 - **Usage** tattooed on the body
 - **Category** Tattoo

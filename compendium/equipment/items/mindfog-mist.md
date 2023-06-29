@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/inhaled
-- trait/poison
-aliases: ["Mindfog Mist"]
+tags: [compendium/src/pf2e/crb, item/category/poison, trait/alchemical, trait/consumable, trait/inhaled, trait/poison]
+aliases: [Mindfog Mist *Item 15*, "Mindfog Mist"]
+title: Mindfog Mist *Item 15*
+linter-yaml-title-alias: Mindfog Mist *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Mindfog Mist *Item 15*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+
+# Mindfog Mist *Item 15*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [inhaled](rules/traits/inhaled.md) [poison](rules/traits/poison.md)  
 
 - **Price** 1000 gp
 - **Usage** held in 1 hand; **Bulk** L

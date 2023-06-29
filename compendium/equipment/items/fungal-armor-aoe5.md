@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/armor
-- trait/invested
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Fungal Armor"]
+tags: [compendium/src/pf2e/aoe5, item/category/armor, trait/invested, trait/magical, trait/rare, trait/transmutation]
+aliases: [Fungal Armor *Item 15*, "Fungal Armor"]
+title: Fungal Armor *Item 15*
+linter-yaml-title-alias: Fungal Armor *Item 15*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Fungal Armor *Item 15*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Fungal Armor *Item 15*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 7200 gp
 - **Usage** worn armor; **Bulk** 1

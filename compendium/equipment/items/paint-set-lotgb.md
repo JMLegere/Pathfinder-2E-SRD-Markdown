@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-aliases: ["Paint Set"]
+tags: [compendium/src/pf2e/lotgb, item/category/held]
+aliases: [Paint Set *Item 0*, "Paint Set"]
+title: Paint Set *Item 0*
+linter-yaml-title-alias: Paint Set *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Paint Set *Item 0*  
+
+# Paint Set *Item 0*
 
 - **Price** 1 gp
 - **Usage** held in 2 hands; **Bulk** L

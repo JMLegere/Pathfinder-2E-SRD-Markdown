@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/coda
-- trait/coda
-- trait/illusion
-- trait/occult
-- trait/staff
-aliases: ["Trickster's Mandolin"]
+tags: [compendium/src/pf2e/tv, item/category/coda, trait/coda, trait/illusion, trait/occult, trait/staff]
+aliases: ["Trickster's Mandolin *Item 4+*", "Trickster's Mandolin"]
+title: "Trickster's Mandolin *Item 4+*"
+linter-yaml-title-alias: "Trickster's Mandolin *Item 4+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Trickster's Mandolin *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [illusion](rules/traits/illusion.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  
+
+# Trickster's Mandolin *Item 4+*
+
+[coda](rules/traits/coda-tv.md) [illusion](rules/traits/illusion.md) [occult](rules/traits/occult.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Coda

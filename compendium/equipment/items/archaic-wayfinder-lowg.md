@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lowg
-- item/category/held
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Archaic Wayfinder"]
+tags: [compendium/src/pf2e/lowg, item/category/held, trait/evocation, trait/invested, trait/magical, trait/uncommon]
+aliases: [Archaic Wayfinder *Item 2*, "Archaic Wayfinder"]
+title: Archaic Wayfinder *Item 2*
+linter-yaml-title-alias: Archaic Wayfinder *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Archaic Wayfinder *Item 2*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Archaic Wayfinder *Item 2*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 30 gp
 - **Usage** held in 1 hand

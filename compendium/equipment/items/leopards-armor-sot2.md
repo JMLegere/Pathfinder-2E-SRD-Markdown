@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot2
-- item/category/armor
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Leopard's Armor"]
+tags: [compendium/src/pf2e/sot2, item/category/armor, trait/magical, trait/transmutation, trait/uncommon]
+aliases: ["Leopard's Armor *Item 9*", "Leopard's Armor"]
+title: "Leopard's Armor *Item 9*"
+linter-yaml-title-alias: "Leopard's Armor *Item 9*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Leopard's Armor *Item 9*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Leopard's Armor *Item 9*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 700 gp
 - **Usage** worn armor; **Bulk** 2

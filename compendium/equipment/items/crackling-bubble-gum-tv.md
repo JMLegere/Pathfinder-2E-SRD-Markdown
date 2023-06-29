@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/lozenge
-aliases: ["Crackling Bubble Gum"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/lozenge]
+aliases: [Crackling Bubble Gum *Item 5+*, "Crackling Bubble Gum"]
+title: Crackling Bubble Gum *Item 5+*
+linter-yaml-title-alias: Crackling Bubble Gum *Item 5+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Crackling Bubble Gum *Item 5+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [lozenge](rules/traits/lozenge-tv.md)  
 
-- **Usage** held in 1 hand; **Bulk** —
+# Crackling Bubble Gum *Item 5+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [lozenge](rules/traits/lozenge-tv.md)  
+
+- **Usage** held in 1 hand; **Bulk**—
 - **Category** Consumable
 
 This tangy gum cracks and pops in your mouth as you chew it. While you're chewing crackling bubble gum, for up to 10 minutes, you have an item bonus to saving throws against [auditory](rules/traits/auditory.md) and [sonic](rules/traits/sonic.md) effects.

@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/divine
-- trait/ingested
-- trait/necromancy
-- trait/poison
-- trait/uncommon
-aliases: ["Sight-Theft Grit"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/divine, trait/ingested, trait/necromancy, trait/poison, trait/uncommon]
+aliases: [Sight-Theft Grit *Item 9*, "Sight-Theft Grit"]
+title: Sight-Theft Grit *Item 9*
+linter-yaml-title-alias: Sight-Theft Grit *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Sight-Theft Grit *Item 9*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [ingested](rules/traits/ingested.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Sight-Theft Grit *Item 9*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [divine](rules/traits/divine.md) [ingested](rules/traits/ingested.md) [necromancy](rules/traits/necromancy.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 115 gp
 - **Usage** held in 1 hand; **Bulk** L

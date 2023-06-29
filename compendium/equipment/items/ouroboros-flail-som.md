@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Ouroboros Flail"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/magical, trait/transmutation]
+aliases: [Ouroboros Flail *Item 14+*, "Ouroboros Flail"]
+title: Ouroboros Flail *Item 14+*
+linter-yaml-title-alias: Ouroboros Flail *Item 14+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Ouroboros Flail *Item 14+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Ouroboros Flail *Item 14+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Held

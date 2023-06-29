@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lomm
-- item/category/worn
-- trait/abjuration
-- trait/invested
-- trait/primal
-- trait/unique
-aliases: ["Mantle of the Grogrisant"]
+tags: [compendium/src/pf2e/lomm, item/category/worn, trait/abjuration, trait/invested, trait/primal, trait/unique]
+aliases: [Mantle of the Grogrisant *Item 18*, "Mantle of the Grogrisant"]
+title: Mantle of the Grogrisant *Item 18*
+linter-yaml-title-alias: Mantle of the Grogrisant *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mantle of the Grogrisant *Item 18*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [unique](rules/traits/unique.md)  
+
+# Mantle of the Grogrisant *Item 18*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [unique](rules/traits/unique.md)  
 
 - **Price** 22000 gp
 - **Usage** worn cloak; **Bulk** L

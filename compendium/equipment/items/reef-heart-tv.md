@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/conjuration
-- trait/invested
-- trait/magical
-aliases: ["Reef Heart"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/conjuration, trait/invested, trait/magical]
+aliases: [Reef Heart *Item 12+*, "Reef Heart"]
+title: Reef Heart *Item 12+*
+linter-yaml-title-alias: Reef Heart *Item 12+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Reef Heart *Item 12+*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Reef Heart *Item 12+*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn armor; **Bulk** 2
 - **Category** Armor

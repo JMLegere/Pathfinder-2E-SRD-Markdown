@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/evocation
-- trait/fire
-- trait/magical
-- trait/uncommon
-aliases: ["South Wind's Scorch Song"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/evocation, trait/fire, trait/magical, trait/uncommon]
+aliases: ["South Wind's Scorch Song *Item 10*", "South Wind's Scorch Song"]
+title: "South Wind's Scorch Song *Item 10*"
+linter-yaml-title-alias: "South Wind's Scorch Song *Item 10*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# South Wind's Scorch Song *Item 10*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# South Wind's Scorch Song *Item 10*
+
+[evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 900 gp
 - **Usage** held in 1 hands; **Bulk** 1

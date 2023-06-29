@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/enchantment
-- trait/magical
-aliases: ["Singing Shortbow"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/enchantment, trait/magical]
+aliases: [Singing Shortbow *Item 14+*, "Singing Shortbow"]
+title: Singing Shortbow *Item 14+*
+linter-yaml-title-alias: Singing Shortbow *Item 14+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Singing Shortbow *Item 14+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+
+# Singing Shortbow *Item 14+*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/reading
-- trait/divination
-- trait/magical
-aliases: ["Reading Ring"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/reading, trait/divination, trait/magical]
+aliases: [Reading Ring *Item 1+*, "Reading Ring"]
+title: Reading Ring *Item 1+*
+linter-yaml-title-alias: Reading Ring *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Reading Ring *Item 1+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Reading Ring *Item 1+*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn
 - **Category** Reading

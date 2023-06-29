@@ -1,23 +1,27 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa5
-- item/category/held
-- trait/abjuration
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Nethysian Bulwark"]
+tags: [compendium/src/pf2e/aoa5, item/category/held, trait/abjuration, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Nethysian Bulwark *Item 16*, "Nethysian Bulwark"]
+title: Nethysian Bulwark *Item 16*
+linter-yaml-title-alias: Nethysian Bulwark *Item 16*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Nethysian Bulwark *Item 16*  
-[abjuration](rules/traits/abjuration.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Nethysian Bulwark *Item 16*
+
+[abjuration](rules/traits/abjuration.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 8000 gp
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held
 
-This round shield is often fashioned to resemble the religious symbol of its dual-natured namesake. A _Nethysian bulwark_ is a high-grade cold iron shield (Hardness 10, HP 40, BT 20) that defends the wielder and can explode with retributive force when struck.
+This round shield is often fashioned to resemble the religious symbol of its dual-natured namesake. A *Nethysian bulwark* is a high-grade cold iron shield (Hardness 10, HP 40, BT 20) that defends the wielder and can explode with retributive force when struck.
 
 ```ad-embed-ability
 title: Activate [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")

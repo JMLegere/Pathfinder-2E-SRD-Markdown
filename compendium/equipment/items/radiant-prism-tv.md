@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/abjuration
-- trait/magical
-- trait/spellheart
-aliases: ["Radiant Prism"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/abjuration, trait/magical, trait/spellheart]
+aliases: [Radiant Prism *Item 16+*, "Radiant Prism"]
+title: Radiant Prism *Item 16+*
+linter-yaml-title-alias: Radiant Prism *Item 16+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Radiant Prism *Item 16+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Radiant Prism *Item 16+*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 Any armor or weapon this glass prism is affixed to glows softly with shifting colored lights. The spell DC of any spell cast by activating this item is 35.

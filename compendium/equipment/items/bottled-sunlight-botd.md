@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/botd
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-- trait/fire
-- trait/light
-- trait/positive
-- trait/splash
-aliases: ["Bottled Sunlight"]
+tags: [compendium/src/pf2e/botd, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable, trait/fire, trait/light, trait/positive, trait/splash]
+aliases: [Bottled Sunlight *Item 2+*, "Bottled Sunlight"]
+title: Bottled Sunlight *Item 2+*
+linter-yaml-title-alias: Bottled Sunlight *Item 2+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bottled Sunlight *Item 2+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [light](rules/traits/light.md)  [positive](rules/traits/positive.md)  [splash](rules/traits/splash.md)  
+
+# Bottled Sunlight *Item 2+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md) [fire](rules/traits/fire.md) [light](rules/traits/light.md) [positive](rules/traits/positive.md) [splash](rules/traits/splash.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

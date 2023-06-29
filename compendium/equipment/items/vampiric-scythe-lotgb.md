@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/evil
-- trait/magical
-- trait/necromancy
-- trait/negative
-- trait/uncommon
-aliases: ["Vampiric Scythe"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/evil, trait/magical, trait/necromancy, trait/negative, trait/uncommon]
+aliases: [Vampiric Scythe *Item 13*, "Vampiric Scythe"]
+title: Vampiric Scythe *Item 13*
+linter-yaml-title-alias: Vampiric Scythe *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Vampiric Scythe *Item 13*  
-[evil](rules/traits/evil.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Vampiric Scythe *Item 13*
+
+[evil](rules/traits/evil.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 3000 gp
 - **Usage** held in 2 hands; **Bulk** 2

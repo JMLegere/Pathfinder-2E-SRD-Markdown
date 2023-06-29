@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/adventuring-gear
-- trait/uncommon
-aliases: ["Knight's Maintenance Kit"]
+tags: [compendium/src/pf2e/lokl, item/category/adventuring-gear, trait/uncommon]
+aliases: ["Knight's Maintenance Kit *Item 5*", "Knight's Maintenance Kit"]
+title: "Knight's Maintenance Kit *Item 5*"
+linter-yaml-title-alias: "Knight's Maintenance Kit *Item 5*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Knight's Maintenance Kit *Item 5*  
+
+# Knight's Maintenance Kit *Item 5*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.

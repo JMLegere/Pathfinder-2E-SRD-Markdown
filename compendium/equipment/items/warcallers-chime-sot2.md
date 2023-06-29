@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot2
-- item/category/held
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Warcaller's Chime"]
+tags: [compendium/src/pf2e/sot2, item/category/held, trait/evocation, trait/magical, trait/uncommon]
+aliases: ["Warcaller's Chime *Item 4+*", "Warcaller's Chime"]
+title: "Warcaller's Chime *Item 4+*"
+linter-yaml-title-alias: "Warcaller's Chime *Item 4+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warcaller's Chime *Item 4+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Warcaller's Chime *Item 4+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

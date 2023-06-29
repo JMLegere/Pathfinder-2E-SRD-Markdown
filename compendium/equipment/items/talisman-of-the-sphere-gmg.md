@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/evocation
-- trait/magical
-- trait/rare
-aliases: ["Talisman Of The Sphere"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/evocation, trait/magical, trait/rare]
+aliases: [Talisman Of The Sphere *Item 20*, "Talisman Of The Sphere"]
+title: Talisman Of The Sphere *Item 20*
+linter-yaml-title-alias: Talisman Of The Sphere *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Talisman Of The Sphere *Item 20*  
-[artifact](rules/traits/artifact-gmg.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Talisman Of The Sphere *Item 20*
+
+[artifact](rules/traits/artifact-gmg.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 1 hand
 - **Category** Artifact

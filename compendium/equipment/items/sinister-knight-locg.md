@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/locg
-- item/category/rune
-- trait/abjuration
-- trait/illusion
-- trait/magical
-- trait/uncommon
-aliases: ["Sinister Knight"]
+tags: [compendium/src/pf2e/locg, item/category/rune, trait/abjuration, trait/illusion, trait/magical, trait/uncommon]
+aliases: [Sinister Knight *Item 8*, "Sinister Knight"]
+title: Sinister Knight *Item 8*
+linter-yaml-title-alias: Sinister Knight *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Sinister Knight *Item 8*  
-[abjuration](rules/traits/abjuration.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Sinister Knight *Item 8*
+
+[abjuration](rules/traits/abjuration.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 500 gp
 - **Usage** etched onto heavy armor

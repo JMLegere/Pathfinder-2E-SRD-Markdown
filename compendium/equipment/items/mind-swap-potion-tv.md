@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/magical
-- trait/mental
-- trait/necromancy
-- trait/possession
-- trait/potion
-- trait/rare
-aliases: ["Mind-Swap Potion"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/magical, trait/mental, trait/necromancy, trait/possession, trait/potion, trait/rare]
+aliases: [Mind-Swap Potion *Item 15*, "Mind-Swap Potion"]
+title: Mind-Swap Potion *Item 15*
+linter-yaml-title-alias: Mind-Swap Potion *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mind-Swap Potion *Item 15*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [necromancy](rules/traits/necromancy.md)  [possession](rules/traits/possession.md)  [potion](rules/traits/potion.md)  [rare](rules/traits/rare.md)  
+
+# Mind-Swap Potion *Item 15*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [necromancy](rules/traits/necromancy.md) [possession](rules/traits/possession.md) [potion](rules/traits/potion.md) [rare](rules/traits/rare.md)  
 
 - **Price** 1000 gp
 - **Usage** held in 1 hand; **Bulk** L

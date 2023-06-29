@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/drug
-- trait/ingested
-- trait/poison
-- trait/rare
-aliases: ["Hype"]
+tags: [compendium/src/pf2e/lol, item/category/poison, trait/alchemical, trait/consumable, trait/drug, trait/ingested, trait/poison, trait/rare]
+aliases: [Hype *Item 8*, "Hype"]
+title: Hype *Item 8*
+linter-yaml-title-alias: Hype *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Hype *Item 8*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+
+# Hype *Item 8*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [drug](rules/traits/drug-gmg.md) [ingested](rules/traits/ingested.md) [poison](rules/traits/poison.md) [rare](rules/traits/rare.md)  
 
 - **Price** 100 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/tattoo
-- trait/arcane
-- trait/invested
-- trait/tattoo
-- trait/uncommon
-aliases: ["Rune Of Sin"]
+tags: [compendium/src/pf2e/som, item/category/tattoo, trait/arcane, trait/invested, trait/tattoo, trait/uncommon]
+aliases: [Rune Of Sin *Item 12*, "Rune Of Sin"]
+title: Rune Of Sin *Item 12*
+linter-yaml-title-alias: Rune Of Sin *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Rune Of Sin *Item 12*  
-[arcane](rules/traits/arcane.md)  [invested](rules/traits/invested.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Rune Of Sin *Item 12*
+
+[arcane](rules/traits/arcane.md) [invested](rules/traits/invested.md) [tattoo](rules/traits/tattoo-lowg.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1700 gp
 - **Usage** tattooed on the body

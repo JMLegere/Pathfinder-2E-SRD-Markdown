@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/divination
-- trait/light
-- trait/magical
-aliases: ["Sighting Shot"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/divination, trait/light, trait/magical]
+aliases: [Sighting Shot *Item 8*, "Sighting Shot"]
+title: Sighting Shot *Item 8*
+linter-yaml-title-alias: Sighting Shot *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Sighting Shot *Item 8*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  
+
+# Sighting Shot *Item 8*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md)  
 
 - **Price** 72 gp
 - **Ammunition** any

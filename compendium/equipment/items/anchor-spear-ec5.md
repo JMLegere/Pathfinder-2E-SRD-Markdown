@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec5
-- item/category/held
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Anchor Spear"]
+tags: [compendium/src/pf2e/ec5, item/category/held, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Anchor Spear *Item 13*, "Anchor Spear"]
+title: Anchor Spear *Item 13*
+linter-yaml-title-alias: Anchor Spear *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Anchor Spear *Item 13*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Anchor Spear *Item 13*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 2800 gp
 - **Usage** held in 1 hand; **Bulk** 1

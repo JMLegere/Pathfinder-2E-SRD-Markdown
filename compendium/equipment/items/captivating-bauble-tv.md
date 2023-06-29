@@ -1,24 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/talisman
-- trait/auditory
-- trait/consumable
-- trait/emotion
-- trait/enchantment
-- trait/linguistic
-- trait/magical
-- trait/talisman
-- trait/visual
-aliases: ["Captivating Bauble"]
+tags: [compendium/src/pf2e/tv, item/category/talisman, trait/auditory, trait/consumable, trait/emotion, trait/enchantment, trait/linguistic, trait/magical, trait/talisman, trait/visual]
+aliases: [Captivating Bauble *Item 12*, "Captivating Bauble"]
+title: Captivating Bauble *Item 12*
+linter-yaml-title-alias: Captivating Bauble *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Captivating Bauble *Item 12*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [linguistic](rules/traits/linguistic.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [visual](rules/traits/visual.md)  
+
+# Captivating Bauble *Item 12*
+
+[auditory](rules/traits/auditory.md) [consumable](rules/traits/consumable.md) [emotion](rules/traits/emotion.md) [enchantment](rules/traits/enchantment.md) [linguistic](rules/traits/linguistic.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [visual](rules/traits/visual.md)  
 
 - **Price** 350 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Activate** envision, , [Interact](rules/actions/interact.md); **Requirements** You are a master in [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy).
 - **Category** Talisman
 

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/consumable
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Singularity Ammunition"]
+tags: [compendium/src/pf2e/lotgb, item/category/consumable, trait/consumable, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Singularity Ammunition *Item 13*, "Singularity Ammunition"]
+title: Singularity Ammunition *Item 13*
+linter-yaml-title-alias: Singularity Ammunition *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Singularity Ammunition *Item 13*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Singularity Ammunition *Item 13*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 550 gp
 - **Ammunition** Any

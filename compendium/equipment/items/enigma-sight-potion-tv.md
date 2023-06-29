@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/divination
-- trait/magical
-- trait/potion
-- trait/revelation
-aliases: ["Enigma-Sight Potion"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/divination, trait/magical, trait/potion, trait/revelation]
+aliases: [Enigma-Sight Potion *Item 11*, "Enigma-Sight Potion"]
+title: Enigma-Sight Potion *Item 11*
+linter-yaml-title-alias: Enigma-Sight Potion *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Enigma-Sight Potion *Item 11*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [revelation](rules/traits/revelation.md)  
+
+# Enigma-Sight Potion *Item 11*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md) [revelation](rules/traits/revelation.md)  
 
 - **Price** 250 gp
 - **Usage** held in 1 hand; **Bulk** L

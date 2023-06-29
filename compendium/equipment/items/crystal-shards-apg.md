@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-- trait/earth
-- trait/splash
-aliases: ["Crystal Shards"]
+tags: [compendium/src/pf2e/apg, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable, trait/earth, trait/splash]
+aliases: [Crystal Shards *Item 4+*, "Crystal Shards"]
+title: Crystal Shards *Item 4+*
+linter-yaml-title-alias: Crystal Shards *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Crystal Shards *Item 4+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [earth](rules/traits/earth.md)  [splash](rules/traits/splash.md)  
+
+# Crystal Shards *Item 4+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md) [earth](rules/traits/earth.md) [splash](rules/traits/splash.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/staff
-- trait/magical
-- trait/necromancy
-- trait/staff
-- trait/uncommon
-aliases: ["Staff of Final Rest"]
+tags: [compendium/src/pf2e/lotgb, item/category/staff, trait/magical, trait/necromancy, trait/staff, trait/uncommon]
+aliases: [Staff of Final Rest *Item 6+*, "Staff of Final Rest"]
+title: Staff of Final Rest *Item 6+*
+linter-yaml-title-alias: Staff of Final Rest *Item 6+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff of Final Rest *Item 6+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Staff of Final Rest *Item 6+*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

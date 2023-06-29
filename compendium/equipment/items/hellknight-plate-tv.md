@@ -1,22 +1,28 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor/heavy
-- trait/bulwark
-- trait/uncommon
-aliases: ["Hellknight Plate"]
+tags: [compendium/src/pf2e/tv, item/category/armor/heavy, trait/bulwark, trait/uncommon]
+aliases: [Hellknight Plate *Item 2*, "Hellknight Plate"]
+title: Hellknight Plate *Item 2*
+linter-yaml-title-alias: Hellknight Plate *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hellknight Plate *Item 2*  
-[bulwark](rules/traits/bulwark.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Hellknight Plate *Item 2*
+
+[bulwark](rules/traits/bulwark.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** A character who is a member of the Hellknights has access to this option.
 - **Price** 35 gp
 - **Usage** worn armor; **Bulk** 4
 - **AC Bonus** +6; **Dex Cap** +0
 - **Strength** 18; **Check Penalty** -3; **Speed Penalty** -10 ft.
-- **Category** Heavy; **Group** Plate 
+- **Category** Heavy; **Group** Plate
 
 Hellknights wear a variety of armors decorated with designs specific to the order. [Hellknight half plate](compendium/equipment/items/hellknight-half-plate-tv.md) is the armor of choice for Hellknight signifiers, and [Hellknight breastplate](compendium/equipment/items/hellknight-breastplate-tv.md) serves those in the order who lack the training to wear heavy armor.
 

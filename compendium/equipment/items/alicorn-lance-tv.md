@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/evocation
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Alicorn Lance"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/evocation, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Alicorn Lance *Item 5*, "Alicorn Lance"]
+title: Alicorn Lance *Item 5*
+linter-yaml-title-alias: Alicorn Lance *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Alicorn Lance *Item 5*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Alicorn Lance *Item 5*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 150 gp
 - **Usage** held in 1 hand; **Bulk** 2

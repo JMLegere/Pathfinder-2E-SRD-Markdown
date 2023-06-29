@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/invested
-- trait/magical
-- trait/tattoo
-aliases: ["Varisian Emblem"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/invested, trait/magical, trait/tattoo]
+aliases: [Varisian Emblem *Item 3*, "Varisian Emblem"]
+title: Varisian Emblem *Item 3*
+linter-yaml-title-alias: Varisian Emblem *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Varisian Emblem *Item 3*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
 
-- **Usage** tattooed on the body; **Bulk** —
+# Varisian Emblem *Item 3*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md)  
+
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 These tattoos are created using designs and techniques from Varisian culture. Such tattoos often depict the Varisian rune for one of the seven schools of magic, but one might instead show a creature or celestial phenomenon associated with the school, depicted in traditional Varisian iconography.

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/conjuration
-- trait/extradimensional
-- trait/magical
-aliases: ["Coating"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/conjuration, trait/extradimensional, trait/magical]
+aliases: [Coating *Item 9*, "Coating"]
+title: Coating *Item 9*
+linter-yaml-title-alias: Coating *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Coating *Item 9*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  
+
+# Coating *Item 9*
+
+[conjuration](rules/traits/conjuration.md) [extradimensional](rules/traits/extradimensional.md) [magical](rules/traits/magical.md)  
 
 - **Price** 700 gp
 - **Usage** etched onto a weapon

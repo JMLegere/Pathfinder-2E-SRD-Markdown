@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa3
-- item/category/held
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Erraticannon"]
+tags: [compendium/src/pf2e/ooa3, item/category/held, trait/magical, trait/rare, trait/transmutation]
+aliases: [Erraticannon *Item 9*, "Erraticannon"]
+title: Erraticannon *Item 9*
+linter-yaml-title-alias: Erraticannon *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Erraticannon *Item 9*  
-[magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Erraticannon *Item 9*
+
+[magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 700 gp
 - **Usage** held in 1 hand; **Bulk** 1

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/air
-- trait/evocation
-- trait/magical
-- trait/relic
-- trait/unique
-aliases: ["Fan of the Four Winds"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/air, trait/evocation, trait/magical, trait/relic, trait/unique]
+aliases: [Fan of the Four Winds *Item 4*, "Fan of the Four Winds"]
+title: Fan of the Four Winds *Item 4*
+linter-yaml-title-alias: Fan of the Four Winds *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fan of the Four Winds *Item 4*  
-[air](rules/traits/air.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [relic](rules/traits/relic-tv.md)  [unique](rules/traits/unique.md)  
+
+# Fan of the Four Winds *Item 4*
+
+[air](rules/traits/air.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [relic](rules/traits/relic-tv.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/rune
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Bloodthirsty"]
+tags: [compendium/src/pf2e/lotgb, item/category/rune, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Bloodthirsty *Item 16*, "Bloodthirsty"]
+title: Bloodthirsty *Item 16*
+linter-yaml-title-alias: Bloodthirsty *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bloodthirsty *Item 16*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Bloodthirsty *Item 16*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 8500 gp
 - **Usage** etched onto a slashing or piercing

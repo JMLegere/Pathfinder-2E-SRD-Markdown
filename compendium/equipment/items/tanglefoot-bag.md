@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-aliases: ["Tanglefoot Bag"]
+tags: [compendium/src/pf2e/crb, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable]
+aliases: [Tanglefoot Bag *Item 1+*, "Tanglefoot Bag"]
+title: Tanglefoot Bag *Item 1+*
+linter-yaml-title-alias: Tanglefoot Bag *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Tanglefoot Bag *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  
+
+# Tanglefoot Bag *Item 1+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

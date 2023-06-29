@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Clockwork Shield"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/magical, trait/transmutation]
+aliases: [Clockwork Shield *Item 11+*, "Clockwork Shield"]
+title: Clockwork Shield *Item 11+*
+linter-yaml-title-alias: Clockwork Shield *Item 11+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Clockwork Shield *Item 11+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Clockwork Shield *Item 11+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

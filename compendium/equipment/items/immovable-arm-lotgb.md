@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/prosthesis
-- trait/magical
-- trait/transmutation
-aliases: ["Immovable Arm"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/prosthesis, trait/magical, trait/transmutation]
+aliases: [Immovable Arm *Item 9*, "Immovable Arm"]
+title: Immovable Arm *Item 9*
+linter-yaml-title-alias: Immovable Arm *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Immovable Arm *Item 9*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Immovable Arm *Item 9*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 700 gp
 - **Usage** worn; **Bulk** 1

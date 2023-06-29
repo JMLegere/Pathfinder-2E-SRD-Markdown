@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/talisman
-- trait/consumable
-- trait/magical
-- trait/talisman
-- trait/transmutation
-aliases: ["Vapor Sphere"]
+tags: [compendium/src/pf2e/som, item/category/talisman, trait/consumable, trait/magical, trait/talisman, trait/transmutation]
+aliases: [Vapor Sphere *Item 14*, "Vapor Sphere"]
+title: Vapor Sphere *Item 14*
+linter-yaml-title-alias: Vapor Sphere *Item 14*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Vapor Sphere *Item 14*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Vapor Sphere *Item 14*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 900 gp
 - **Usage** affixed to armor

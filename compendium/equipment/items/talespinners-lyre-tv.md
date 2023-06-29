@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/auditory
-- trait/consumable
-- trait/illusion
-- trait/magical
-- trait/olfactory
-- trait/uncommon
-- trait/visual
-aliases: ["Talespinner's Lyre"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/auditory, trait/consumable, trait/illusion, trait/magical, trait/olfactory, trait/uncommon, trait/visual]
+aliases: ["Talespinner's Lyre *Item 11*", "Talespinner's Lyre"]
+title: "Talespinner's Lyre *Item 11*"
+linter-yaml-title-alias: "Talespinner's Lyre *Item 11*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Talespinner's Lyre *Item 11*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [olfactory](rules/traits/olfactory-b1.md)  [uncommon](rules/traits/uncommon.md)  [visual](rules/traits/visual.md)  
+
+# Talespinner's Lyre *Item 11*
+
+[auditory](rules/traits/auditory.md) [consumable](rules/traits/consumable.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [olfactory](rules/traits/olfactory-b1.md) [uncommon](rules/traits/uncommon.md) [visual](rules/traits/visual.md)  
 
 - **Price** 235 gp
 - **Usage** held in 2 hands; **Bulk** L

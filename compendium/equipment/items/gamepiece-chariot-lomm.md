@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lomm
-- item/category/held
-- trait/conjuration
-- trait/magical
-- trait/rare
-aliases: ["Gamepiece Chariot"]
+tags: [compendium/src/pf2e/lomm, item/category/held, trait/conjuration, trait/magical, trait/rare]
+aliases: [Gamepiece Chariot *Item 11*, "Gamepiece Chariot"]
+title: Gamepiece Chariot *Item 11*
+linter-yaml-title-alias: Gamepiece Chariot *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Gamepiece Chariot *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Gamepiece Chariot *Item 11*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 1200 gp
-- **Usage** held in one hand; **Bulk** —
+- **Usage** held in one hand; **Bulk**—
 - **Category** Held
 
 This stone figurine of a chariot pulled by two horses was used by Tekritanin adults during strategy game competitions. Sometimes, though, mischievous adolescents snatched pieces like this one for joyriding.

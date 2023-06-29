@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/worn
-- trait/illusion
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Quick Wig"]
+tags: [compendium/src/pf2e/lotgb, item/category/worn, trait/illusion, trait/invested, trait/magical, trait/uncommon]
+aliases: [Quick Wig *Item 2*, "Quick Wig"]
+title: Quick Wig *Item 2*
+linter-yaml-title-alias: Quick Wig *Item 2*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Quick Wig *Item 2*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Quick Wig *Item 2*
+
+[illusion](rules/traits/illusion.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 30 gp
 - **Usage** worn headwear; **Bulk** L

@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/consumable
-- trait/consumable
-aliases: ["Psychic Warding Bracelet"]
+tags: [compendium/src/pf2e/lopsg, item/category/consumable, trait/consumable]
+aliases: [Psychic Warding Bracelet *Item 3*, "Psychic Warding Bracelet"]
+title: Psychic Warding Bracelet *Item 3*
+linter-yaml-title-alias: Psychic Warding Bracelet *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Psychic Warding Bracelet *Item 3*  
+
+# Psychic Warding Bracelet *Item 3*
+
 [consumable](rules/traits/consumable.md)  
 
 - **Price** 10 gp

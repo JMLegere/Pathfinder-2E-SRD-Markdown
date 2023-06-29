@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/tattoo
-- trait/cold
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/tattoo
-- trait/uncommon
-aliases: ["Arctic Vigor"]
+tags: [compendium/src/pf2e/lotgb, item/category/tattoo, trait/cold, trait/evocation, trait/invested, trait/magical, trait/tattoo, trait/uncommon]
+aliases: [Arctic Vigor *Item 10+*, "Arctic Vigor"]
+title: Arctic Vigor *Item 10+*
+linter-yaml-title-alias: Arctic Vigor *Item 10+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Arctic Vigor *Item 10+*  
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Arctic Vigor *Item 10+*
+
+[cold](rules/traits/cold.md) [evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** tattoo
 - **Category** Tattoo

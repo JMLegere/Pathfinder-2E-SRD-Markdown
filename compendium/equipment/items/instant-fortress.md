@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/structure
-- trait/conjuration
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Instant Fortress"]
+tags: [compendium/src/pf2e/crb, item/category/structure, trait/conjuration, trait/magical, trait/structure, trait/uncommon]
+aliases: [Instant Fortress *Item 16*, "Instant Fortress"]
+title: Instant Fortress *Item 16*
+linter-yaml-title-alias: Instant Fortress *Item 16*
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Instant Fortress *Item 16*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Instant Fortress *Item 16*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 9300 gp
 - **Bulk** L (when not activated)

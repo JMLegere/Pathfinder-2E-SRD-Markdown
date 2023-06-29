@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/apex
-- trait/apex
-- trait/invested
-- trait/magical
-- trait/necromancy
-aliases: ["Emberheart"]
+tags: [compendium/src/pf2e/som, item/category/apex, trait/apex, trait/invested, trait/magical, trait/necromancy]
+aliases: [Emberheart *Item 18*, "Emberheart"]
+title: Emberheart *Item 18*
+linter-yaml-title-alias: Emberheart *Item 18*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Emberheart *Item 18*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Emberheart *Item 18*
+
+[apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Price** 24000 gp
 - **Usage** worn

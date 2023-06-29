@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/coda
-- trait/coda
-- trait/enchantment
-- trait/occult
-- trait/staff
-aliases: ["Entertainer's Lute"]
+tags: [compendium/src/pf2e/tv, item/category/coda, trait/coda, trait/enchantment, trait/occult, trait/staff]
+aliases: ["Entertainer's Lute *Item 4+*", "Entertainer's Lute"]
+title: "Entertainer's Lute *Item 4+*"
+linter-yaml-title-alias: "Entertainer's Lute *Item 4+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Entertainer's Lute *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [enchantment](rules/traits/enchantment.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  
+
+# Entertainer's Lute *Item 4+*
+
+[coda](rules/traits/coda-tv.md) [enchantment](rules/traits/enchantment.md) [occult](rules/traits/occult.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Coda

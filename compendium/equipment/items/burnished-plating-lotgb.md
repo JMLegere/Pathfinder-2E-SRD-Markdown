@@ -1,21 +1,27 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/adjustment/armor
-- trait/adjustment
-- trait/uncommon
-aliases: ["Burnished Plating"]
+tags: [compendium/src/pf2e/lotgb, item/category/adjustment/armor, trait/adjustment, trait/uncommon]
+aliases: [Burnished Plating *Item 1*, "Burnished Plating"]
+title: Burnished Plating *Item 1*
+linter-yaml-title-alias: Burnished Plating *Item 1*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Burnished Plating *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Burnished Plating *Item 1*
+
+[adjustment](rules/traits/adjustment-lotgb.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 5 gp
 - **Usage** applied to metal armor; **Bulk** L
 - **Category** Armor
 
-These highly polished metal plates can be added to any armor. While wearing armor with burnished plating, you gain the Sunshine! reaction. However, you take a –4 circumstance penalty to [Stealth](compendium/skills.md#Stealth) checks except in darkness, and your armor's Strength entry increases its value by 2, requiring you to have a higher Strength score to overcome the armor's penalties. Even if you meet your armor's new Strength entry, you still take the penalty to [Stealth](compendium/skills.md#Stealth) checks. When you are critically hit by an attack that deals bludgeoning damage, burnished plating stops working until someone spends 10 minutes repairing and polishing it; this doesn't require a [Crafting](compendium/skills.md#Crafting) check.
+These highly polished metal plates can be added to any armor. While wearing armor with burnished plating, you gain the Sunshine! reaction. However, you take a–4 circumstance penalty to [Stealth](compendium/skills.md#Stealth) checks except in darkness, and your armor's Strength entry increases its value by 2, requiring you to have a higher Strength score to overcome the armor's penalties. Even if you meet your armor's new Strength entry, you still take the penalty to [Stealth](compendium/skills.md#Stealth) checks. When you are critically hit by an attack that deals bludgeoning damage, burnished plating stops working until someone spends 10 minutes repairing and polishing it; this doesn't require a [Crafting](compendium/skills.md#Crafting) check.
 
 ```ad-embed-ability
 title: Sunshine! [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

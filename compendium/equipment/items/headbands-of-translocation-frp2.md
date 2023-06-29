@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/frp2
-- item/category/worn
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/teleportation
-- trait/uncommon
-aliases: ["Headbands Of Translocation"]
+tags: [compendium/src/pf2e/frp2, item/category/worn, trait/conjuration, trait/invested, trait/magical, trait/teleportation, trait/uncommon]
+aliases: [Headbands Of Translocation *Item 16*, "Headbands Of Translocation"]
+title: Headbands Of Translocation *Item 16*
+linter-yaml-title-alias: Headbands Of Translocation *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Headbands Of Translocation *Item 16*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Headbands Of Translocation *Item 16*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [teleportation](rules/traits/teleportation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 10000 gp
 - **Usage** worn headband

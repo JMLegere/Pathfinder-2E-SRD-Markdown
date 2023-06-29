@@ -1,24 +1,28 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/snare
-- trait/consumable
-- trait/mechanical
-- trait/snare
-- trait/trap
-aliases: ["Bomb Snare"]
+tags: [compendium/src/pf2e/crb, item/category/snare, trait/consumable, trait/mechanical, trait/snare, trait/trap]
+aliases: [Bomb Snare *Item 8*, "Bomb Snare"]
+title: Bomb Snare *Item 8*
+linter-yaml-title-alias: Bomb Snare *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bomb Snare *Item 8*  
-[consumable](rules/traits/consumable.md)  [mechanical](rules/traits/mechanical.md)  [snare](rules/traits/snare.md)  [trap](rules/traits/trap.md)  
+
+# Bomb Snare *Item 8*
+
+[consumable](rules/traits/consumable.md) [mechanical](rules/traits/mechanical.md) [snare](rules/traits/snare.md) [trap](rules/traits/trap.md)  
 
 - **Price** 75 gp
 - **Category** Snare
 
 You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare's square. The target and all creatures in adjacent squares must attempt a DC 26 Reflex save, as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, `6d6` electricity damage from bottled lightning) with no splash damage or other effects.
 
-> [!success-degree] 
+> [!success-degree]
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage and no other effects.
 > - **Failure** The creature takes full damage. It also takes all other effects of a direct hit from one of the component bombs (such as [flat-footed](rules/conditions.md#Flat-footed) from bottled lightning or [persistent damage](rules/conditions.md#Persistent%20Damage) from an acid flask).

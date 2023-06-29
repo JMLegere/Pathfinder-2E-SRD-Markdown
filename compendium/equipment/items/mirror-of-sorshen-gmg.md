@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/enchantment
-- trait/magical
-- trait/unique
-aliases: ["Mirror Of Sorshen"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/enchantment, trait/magical, trait/unique]
+aliases: [Mirror Of Sorshen *Item 25*, "Mirror Of Sorshen"]
+title: Mirror Of Sorshen *Item 25*
+linter-yaml-title-alias: Mirror Of Sorshen *Item 25*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Mirror Of Sorshen *Item 25*  
-[artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+
+# Mirror Of Sorshen *Item 25*
+
+[artifact](rules/traits/artifact-gmg.md) [enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [unique](rules/traits/unique.md)  
 
 - **Usage** bonded (see below); **Bulk** L
 - **Category** Artifact

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/evocation
-- trait/lawful
-- trait/magical
-aliases: ["Axiomatic"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/evocation, trait/lawful, trait/magical]
+aliases: [Axiomatic *Item 11*, "Axiomatic"]
+title: Axiomatic *Item 11*
+linter-yaml-title-alias: Axiomatic *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Axiomatic *Item 11*  
-[evocation](rules/traits/evocation.md)  [lawful](rules/traits/lawful.md)  [magical](rules/traits/magical.md)  
+
+# Axiomatic *Item 11*
+
+[evocation](rules/traits/evocation.md) [lawful](rules/traits/lawful.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1400 gp
 - **Usage** etched onto a weapon without an anarchic rune

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/electricity
-- trait/enchantment
-- trait/magical
-- trait/mental
-- trait/wand
-aliases: ["Wand of Paralytic Shock"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/electricity, trait/enchantment, trait/magical, trait/mental, trait/wand]
+aliases: [Wand of Paralytic Shock *Item 8+*, "Wand of Paralytic Shock"]
+title: Wand of Paralytic Shock *Item 8+*
+linter-yaml-title-alias: Wand of Paralytic Shock *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Wand of Paralytic Shock *Item 8+*  
-[electricity](rules/traits/electricity.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [wand](rules/traits/wand.md)  
+
+# Wand of Paralytic Shock *Item 8+*
+
+[electricity](rules/traits/electricity.md) [enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [wand](rules/traits/wand.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

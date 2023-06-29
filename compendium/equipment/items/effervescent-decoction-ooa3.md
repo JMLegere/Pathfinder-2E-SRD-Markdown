@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa3
-- item/category/potion
-- trait/air
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/potion
-- trait/uncommon
-aliases: ["Effervescent Decoction"]
+tags: [compendium/src/pf2e/ooa3, item/category/potion, trait/air, trait/consumable, trait/evocation, trait/magical, trait/potion, trait/uncommon]
+aliases: [Effervescent Decoction *Item 10*, "Effervescent Decoction"]
+title: Effervescent Decoction *Item 10*
+linter-yaml-title-alias: Effervescent Decoction *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Effervescent Decoction *Item 10*  
-[air](rules/traits/air.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Effervescent Decoction *Item 10*
+
+[air](rules/traits/air.md) [consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 160 gp
 - **Usage** held in 1 hand; **Bulk** L

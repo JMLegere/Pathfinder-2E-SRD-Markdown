@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Library Robes"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/invested, trait/magical, trait/transmutation]
+aliases: [Library Robes *Item 9+*, "Library Robes"]
+title: Library Robes *Item 9+*
+linter-yaml-title-alias: Library Robes *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Library Robes *Item 9+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Library Robes *Item 9+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn armor; **Bulk** L
 - **Category** Armor

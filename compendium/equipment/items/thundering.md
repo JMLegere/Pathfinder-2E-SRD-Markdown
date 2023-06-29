@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/evocation
-- trait/magical
-- trait/sonic
-aliases: ["Thundering"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/evocation, trait/magical, trait/sonic]
+aliases: [Thundering *Item 8+*, "Thundering"]
+title: Thundering *Item 8+*
+linter-yaml-title-alias: Thundering *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Thundering *Item 8+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  
+
+# Thundering *Item 8+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [sonic](rules/traits/sonic.md)  
 
 - **Usage** etched onto a weapon
 - **Category** Rune

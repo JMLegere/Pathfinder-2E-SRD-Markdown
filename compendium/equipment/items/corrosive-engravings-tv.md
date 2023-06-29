@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/acid
-- trait/conjuration
-- trait/grimoire
-- trait/magical
-aliases: ["Corrosive Engravings"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/acid, trait/conjuration, trait/grimoire, trait/magical]
+aliases: [Corrosive Engravings *Item 5*, "Corrosive Engravings"]
+title: Corrosive Engravings *Item 5*
+linter-yaml-title-alias: Corrosive Engravings *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Corrosive Engravings *Item 5*  
-[acid](rules/traits/acid.md)  [conjuration](rules/traits/conjuration.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+
+# Corrosive Engravings *Item 5*
+
+[acid](rules/traits/acid.md) [conjuration](rules/traits/conjuration.md) [grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 140 gp
 - **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/held
-- trait/divine
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Torag's Silver Anvil"]
+tags: [compendium/src/pf2e/logm, item/category/held, trait/divine, trait/magical, trait/transmutation, trait/uncommon]
+aliases: ["Torag's Silver Anvil *Item 18*", "Torag's Silver Anvil"]
+title: "Torag's Silver Anvil *Item 18*"
+linter-yaml-title-alias: "Torag's Silver Anvil *Item 18*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Torag's Silver Anvil *Item 18*  
-[divine](rules/traits/divine.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Torag's Silver Anvil *Item 18*
+
+[divine](rules/traits/divine.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Torag](compendium/setting/deities/torag.md)
 - **Price** 24000 gp

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/tattoo
-- trait/invested
-- trait/magical
-- trait/tattoo
-- trait/transmutation
-aliases: ["Familiar Tattoo"]
+tags: [compendium/src/pf2e/som, item/category/tattoo, trait/invested, trait/magical, trait/tattoo, trait/transmutation]
+aliases: [Familiar Tattoo *Item 3*, "Familiar Tattoo"]
+title: Familiar Tattoo *Item 3*
+linter-yaml-title-alias: Familiar Tattoo *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Familiar Tattoo *Item 3*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Familiar Tattoo *Item 3*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 60 gp
 - **Usage** tattooed on the body

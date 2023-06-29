@@ -1,20 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/talisman
-- trait/conjuration
-- trait/consumable
-- trait/magical
-- trait/talisman
-- trait/uncommon
-aliases: ["False Death Vial"]
+tags: [compendium/src/pf2e/tv, item/category/talisman, trait/conjuration, trait/consumable, trait/magical, trait/talisman, trait/uncommon]
+aliases: [False Death Vial *Item 13+*, "False Death Vial"]
+title: False Death Vial *Item 13+*
+linter-yaml-title-alias: False Death Vial *Item 13+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# False Death Vial *Item 13+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
 
-- **Usage** affixed to explorer's clothing (or another item in the unarmored defense category); **Bulk** —
+# False Death Vial *Item 13+*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [uncommon](rules/traits/uncommon.md)  
+
+- **Usage** affixed to explorer's clothing (or another item in the unarmored defense category); **Bulk**—
 - **Activate** envision; **Trigger** You would be reduced to 0 Hit Points by damage but not immediately killed; **Requirements** You are unarmored.
 - **Category** Talisman
 

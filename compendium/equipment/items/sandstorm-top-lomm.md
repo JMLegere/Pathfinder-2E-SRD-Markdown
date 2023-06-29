@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lomm
-- item/category/held
-- trait/evocation
-- trait/magical
-- trait/rare
-aliases: ["Sandstorm Top"]
+tags: [compendium/src/pf2e/lomm, item/category/held, trait/evocation, trait/magical, trait/rare]
+aliases: [Sandstorm Top *Item 13*, "Sandstorm Top"]
+title: Sandstorm Top *Item 13*
+linter-yaml-title-alias: Sandstorm Top *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Sandstorm Top *Item 13*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Sandstorm Top *Item 13*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 3000 gp
 - **Usage** held in one hand; **Bulk** L

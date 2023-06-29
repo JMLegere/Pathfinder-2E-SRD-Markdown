@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lomm
-- item/category/weapon
-- trait/enchantment
-- trait/magical
-- trait/unique
-aliases: ["Devil's Trident"]
+tags: [compendium/src/pf2e/lomm, item/category/weapon, trait/enchantment, trait/magical, trait/unique]
+aliases: ["Devil's Trident *Item 9*", "Devil's Trident"]
+title: "Devil's Trident *Item 9*"
+linter-yaml-title-alias: "Devil's Trident *Item 9*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Devil's Trident *Item 9*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+
+# Devil's Trident *Item 9*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [unique](rules/traits/unique.md)  
 
 - **Price** 100 gp
 - **Usage** held in 1 hand; **Bulk** 1

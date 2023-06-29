@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/tattoo
-- trait/invested
-- trait/magical
-- trait/tattoo
-- trait/uncommon
-aliases: ["Venomed Tongue"]
+tags: [compendium/src/pf2e/loil, item/category/tattoo, trait/invested, trait/magical, trait/tattoo, trait/uncommon]
+aliases: [Venomed Tongue *Item 7*, "Venomed Tongue"]
+title: Venomed Tongue *Item 7*
+linter-yaml-title-alias: Venomed Tongue *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Venomed Tongue *Item 7*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Venomed Tongue *Item 7*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 333 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Tattoo
 
 Secrets must be unraveled, no matter how painful.

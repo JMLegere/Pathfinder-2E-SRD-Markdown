@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/held
-- trait/magical
-- trait/necromancy
-- trait/negative
-aliases: ["Urn Of Ashes"]
+tags: [compendium/src/pf2e/apg, item/category/held, trait/magical, trait/necromancy, trait/negative]
+aliases: [Urn Of Ashes *Item 9*, "Urn Of Ashes"]
+title: Urn Of Ashes *Item 9*
+linter-yaml-title-alias: Urn Of Ashes *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Urn Of Ashes *Item 9*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+
+# Urn Of Ashes *Item 9*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md)  
 
 - **Price** 700 gp
 - **Usage** held in 1 hand

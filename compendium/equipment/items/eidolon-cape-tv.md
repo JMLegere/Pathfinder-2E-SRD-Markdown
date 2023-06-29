@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/conjuration
-- trait/focused
-- trait/invested
-- trait/magical
-aliases: ["Eidolon Cape"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/conjuration, trait/focused, trait/invested, trait/magical]
+aliases: [Eidolon Cape *Item 11*, "Eidolon Cape"]
+title: Eidolon Cape *Item 11*
+linter-yaml-title-alias: Eidolon Cape *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Eidolon Cape *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Eidolon Cape *Item 11*
+
+[conjuration](rules/traits/conjuration.md) [focused](rules/traits/focused.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1400 gp
 - **Usage** worn cloak; **Bulk** L

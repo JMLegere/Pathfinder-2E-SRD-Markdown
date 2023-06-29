@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec6
-- item/category/artifact
-- trait/arcane
-- trait/artifact
-- trait/invested
-- trait/transmutation
-- trait/unique
-aliases: ["Tears Of The Last Azlanti"]
+tags: [compendium/src/pf2e/ec6, item/category/artifact, trait/arcane, trait/artifact, trait/invested, trait/transmutation, trait/unique]
+aliases: [Tears Of The Last Azlanti *Item 25*, "Tears Of The Last Azlanti"]
+title: Tears Of The Last Azlanti *Item 25*
+linter-yaml-title-alias: Tears Of The Last Azlanti *Item 25*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Tears Of The Last Azlanti *Item 25*  
-[arcane](rules/traits/arcane.md)  [artifact](rules/traits/artifact-gmg.md)  [invested](rules/traits/invested.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+
+# Tears Of The Last Azlanti *Item 25*
+
+[arcane](rules/traits/arcane.md) [artifact](rules/traits/artifact-gmg.md) [invested](rules/traits/invested.md) [transmutation](rules/traits/transmutation.md) [unique](rules/traits/unique.md)  
 
 - **Usage** worn necklace; **Bulk** L
 - **Category** Artifact
@@ -60,6 +63,5 @@ Once per day, you can attempt to exchange the aeon stone in a given bail for ano
   <td>Lavender and green ellipsoid</td>
 </tr>
 </table>
-
 
 *Source: Extinction Curse #6: The Apocalypse Prophet p. 69*

@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/missive
-- trait/abjuration
-- trait/consumable
-- trait/magical
-- trait/missive
-aliases: ["Heartening Missive"]
+tags: [compendium/src/pf2e/tv, item/category/missive, trait/abjuration, trait/consumable, trait/magical, trait/missive]
+aliases: [Heartening Missive *Item 5+*, "Heartening Missive"]
+title: Heartening Missive *Item 5+*
+linter-yaml-title-alias: Heartening Missive *Item 5+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Heartening Missive *Item 5+*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  
 
-- **Usage** held in 1 hand; **Bulk** —
+# Heartening Missive *Item 5+*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [missive](rules/traits/missive-tv.md)  
+
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** envision, , [Interact](rules/actions/interact.md)
 - **Category** Missive
 

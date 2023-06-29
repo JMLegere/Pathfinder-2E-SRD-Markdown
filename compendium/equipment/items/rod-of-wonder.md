@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/chaotic
-- trait/evocation
-- trait/magical
-- trait/rare
-aliases: ["Rod of Wonder"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/chaotic, trait/evocation, trait/magical, trait/rare]
+aliases: [Rod of Wonder *Item 8*, "Rod of Wonder"]
+title: Rod of Wonder *Item 8*
+linter-yaml-title-alias: Rod of Wonder *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Rod of Wonder *Item 8*  
-[chaotic](rules/traits/chaotic.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Rod of Wonder *Item 8*
+
+[chaotic](rules/traits/chaotic.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 465 gp
 - **Usage** held in 1 hand; **Bulk** L
@@ -59,6 +63,5 @@ Once activated, the rod can't be activated again for `1d4` hours.
 | 88–92 | [Faerie fire](compendium/spells/faerie-fire.md) |
 | 93–97 | The rod casts [invisibility](compendium/spells/invisibility.md) on you |
 | 98–100 | The rod casts [shrink](compendium/spells/shrink.md) on you, lasting 1 day |
-
 
 *Source: Core Rulebook p. 575*

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/contract
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Cryolite Eye"]
+tags: [compendium/src/pf2e/da, item/category/contract, trait/contract, trait/invested, trait/magical, trait/rare]
+aliases: [Cryolite Eye *Item 6*, "Cryolite Eye"]
+title: Cryolite Eye *Item 6*
+linter-yaml-title-alias: Cryolite Eye *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Cryolite Eye *Item 6*  
-[contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Cryolite Eye *Item 6*
+
+[contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

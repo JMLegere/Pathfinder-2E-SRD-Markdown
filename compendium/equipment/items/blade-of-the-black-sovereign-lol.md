@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/held
-- trait/electricity
-- trait/evocation
-- trait/magical
-- trait/unique
-aliases: ["Blade Of The Black Sovereign"]
+tags: [compendium/src/pf2e/lol, item/category/held, trait/electricity, trait/evocation, trait/magical, trait/unique]
+aliases: [Blade Of The Black Sovereign *Item 15*, "Blade Of The Black Sovereign"]
+title: Blade Of The Black Sovereign *Item 15*
+linter-yaml-title-alias: Blade Of The Black Sovereign *Item 15*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Blade Of The Black Sovereign *Item 15*  
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+
+# Blade Of The Black Sovereign *Item 15*
+
+[electricity](rules/traits/electricity.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [unique](rules/traits/unique.md)  
 
 - **Price** 6500 gp
 - **Usage** held in 2 hands; **Bulk** 2

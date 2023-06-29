@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/wheelchair-upgrade
-- trait/magical
-- trait/transmutation
-aliases: ["Amphibious Chair"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/wheelchair-upgrade, trait/magical, trait/transmutation]
+aliases: [Amphibious Chair *Item 9*, "Amphibious Chair"]
+title: Amphibious Chair *Item 9*
+linter-yaml-title-alias: Amphibious Chair *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Amphibious Chair *Item 9*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Amphibious Chair *Item 9*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 575 gp
 - **Category** Wheelchair Upgrade

@@ -1,22 +1,27 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/weapon/martial
-- trait/agile
-- trait/modular-b-p-or-s
-- trait/uncommon
-aliases: ["Polytool"]
+tags: [compendium/src/pf2e/tv, item/category/weapon/martial, trait/agile, trait/modular-b-p-or-s, trait/uncommon]
+aliases: [Polytool *Item 1*, "Polytool"]
+title: Polytool *Item 1*
+linter-yaml-title-alias: Polytool *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Polytool *Item 1*  
-[agile](rules/traits/agile.md)  [modular <b, p, or s>](rules/traits/modular-logm.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Polytool *Item 1*
+
+[agile](rules/traits/agile.md) [modular <b, p, or s>](rules/traits/modular-logm.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 10 gp
 - **Bulk** 1
 - **Damage** `1d6` modular
 - **Hands** 1
-- **Category** Martial; **Group** Sword 
+- **Category** Martial; **Group** Sword
 
 The polytool is a small metal rod with a number of simple tools folded inside. The user can extend a long ceramic blade, as well as an awl, a chisel, a file, flint and steel, a hook, an inkpen, a magnifying glass, pliers, scissors, and a small saw. The flint and steel can be used up to 10 times before needing to be replaced. Though inspired by advanced Numerian technology, the polytool is a simple enough feat of metalworking that any blacksmith could produce it—perfect for the goddess Casandalee to spread innovation farther than actual Numerian tech could reach.
 

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa5
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/injury
-- trait/poison
-- trait/uncommon
-aliases: ["Weeping Midnight"]
+tags: [compendium/src/pf2e/aoa5, item/category/poison, trait/alchemical, trait/consumable, trait/injury, trait/poison, trait/uncommon]
+aliases: [Weeping Midnight *Item 16*, "Weeping Midnight"]
+title: Weeping Midnight *Item 16*
+linter-yaml-title-alias: Weeping Midnight *Item 16*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Weeping Midnight *Item 16*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Weeping Midnight *Item 16*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1400 gp
 - **Usage** held in 2 hands; **Bulk** L

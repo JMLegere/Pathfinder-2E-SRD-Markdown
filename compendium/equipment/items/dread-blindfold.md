@@ -1,22 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/emotion
-- trait/enchantment
-- trait/fear
-- trait/invested
-- trait/magical
-- trait/mental
-aliases: ["Dread Blindfold"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/emotion, trait/enchantment, trait/fear, trait/invested, trait/magical, trait/mental]
+aliases: [Dread Blindfold *Item 17*, "Dread Blindfold"]
+title: Dread Blindfold *Item 17*
+linter-yaml-title-alias: Dread Blindfold *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dread Blindfold *Item 17*  
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+
+# Dread Blindfold *Item 17*
+
+[emotion](rules/traits/emotion.md) [enchantment](rules/traits/enchantment.md) [fear](rules/traits/fear.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md)  
 
 - **Price** 15000 gp
-- **Usage** worn eyepiece; **Bulk** —
+- **Usage** worn eyepiece; **Bulk**—
 - **Category** Worn
 
 When tied over your eyes, this ragged strip of black linen gives you a +3 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks and [darkvision](rules/abilities/darkvision.md). You can see through the blindfold, but only using [darkvision](rules/abilities/darkvision.md).

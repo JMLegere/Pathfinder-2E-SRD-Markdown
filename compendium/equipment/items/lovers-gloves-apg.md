@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/worn
-- trait/emotion
-- trait/enchantment
-- trait/invested
-- trait/magical
-- trait/mental
-aliases: ["Lover's Gloves"]
+tags: [compendium/src/pf2e/apg, item/category/worn, trait/emotion, trait/enchantment, trait/invested, trait/magical, trait/mental]
+aliases: ["Lover's Gloves *Item 8*", "Lover's Gloves"]
+title: "Lover's Gloves *Item 8*"
+linter-yaml-title-alias: "Lover's Gloves *Item 8*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lover's Gloves *Item 8*  
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+
+# Lover's Gloves *Item 8*
+
+[emotion](rules/traits/emotion.md) [enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md)  
 
 - **Price** 500 gp
 - **Usage** worn gloves

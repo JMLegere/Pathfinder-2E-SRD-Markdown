@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/contract
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Lost Ember"]
+tags: [compendium/src/pf2e/da, item/category/contract, trait/contract, trait/invested, trait/magical, trait/rare]
+aliases: [Lost Ember *Item 10*, "Lost Ember"]
+title: Lost Ember *Item 10*
+linter-yaml-title-alias: Lost Ember *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lost Ember *Item 10*  
-[contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Lost Ember *Item 10*
+
+[contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

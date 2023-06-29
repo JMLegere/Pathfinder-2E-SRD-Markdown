@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/magical
-- trait/necromancy
-- trait/spellheart
-aliases: ["Ghostcaller's Planchette"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/magical, trait/necromancy, trait/spellheart]
+aliases: ["Ghostcaller's Planchette *Item 12+*", "Ghostcaller's Planchette"]
+title: "Ghostcaller's Planchette *Item 12+*"
+linter-yaml-title-alias: "Ghostcaller's Planchette *Item 12+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Ghostcaller's Planchette *Item 12+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Ghostcaller's Planchette *Item 12+*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 This miniature wooden planchette is engraved with symbols designed to attract spirits. When affixed, the symbols begin to glow, and the planchette turns slightly insubstantial. The spell DC of any spell cast by activating this item is 29.

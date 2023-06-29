@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/divination
-- trait/magical
-- trait/scrying
-- trait/uncommon
-aliases: ["Crystal Ball"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/divination, trait/magical, trait/scrying, trait/uncommon]
+aliases: [Crystal Ball *Item 14+*, "Crystal Ball"]
+title: Crystal Ball *Item 14+*
+linter-yaml-title-alias: Crystal Ball *Item 14+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Crystal Ball *Item 14+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [scrying](rules/traits/scrying.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Crystal Ball *Item 14+*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [scrying](rules/traits/scrying.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

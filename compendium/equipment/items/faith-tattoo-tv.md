@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/divine
-- trait/invested
-- trait/tattoo
-aliases: ["Faith Tattoo"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/divine, trait/invested, trait/tattoo]
+aliases: [Faith Tattoo *Item 4+*, "Faith Tattoo"]
+title: Faith Tattoo *Item 4+*
+linter-yaml-title-alias: Faith Tattoo *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Faith Tattoo *Item 4+*  
-[divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [tattoo](rules/traits/tattoo-lowg.md)  
 
-- **Usage** tattooed on the body; **Bulk** —
+# Faith Tattoo *Item 4+*
+
+[divine](rules/traits/divine.md) [invested](rules/traits/invested.md) [tattoo](rules/traits/tattoo-lowg.md)  
+
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 You have marked your body to show your devotion to a deity. This tattoo could be the deity's religious symbol, another image that evokes that deity, or another mark you gained through your devotion. The tattoo serves as a silver religious symbol of the deity. Provided you keep the tattoo uncovered, you need not wield it to gain that benefit.

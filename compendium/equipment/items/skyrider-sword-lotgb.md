@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/air
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Skyrider Sword"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/air, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Skyrider Sword *Item 14+*, "Skyrider Sword"]
+title: Skyrider Sword *Item 14+*
+linter-yaml-title-alias: Skyrider Sword *Item 14+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Skyrider Sword *Item 14+*  
-[air](rules/traits/air.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Skyrider Sword *Item 14+*
+
+[air](rules/traits/air.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/cursed
-- trait/necromancy
-- trait/primal
-- trait/rare
-aliases: ["Bower Fruit"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/cursed, trait/necromancy, trait/primal, trait/rare]
+aliases: [Bower Fruit *Item 13*, "Bower Fruit"]
+title: Bower Fruit *Item 13*
+linter-yaml-title-alias: Bower Fruit *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bower Fruit *Item 13*  
-[consumable](rules/traits/consumable.md)  [cursed](rules/traits/cursed-gmg.md)  [necromancy](rules/traits/necromancy.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+
+# Bower Fruit *Item 13*
+
+[consumable](rules/traits/consumable.md) [cursed](rules/traits/cursed-gmg.md) [necromancy](rules/traits/necromancy.md) [primal](rules/traits/primal.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/companion
-- trait/companion
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Barding Saddle"]
+tags: [compendium/src/pf2e/lokl, item/category/companion, trait/companion, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Barding Saddle *Item 7*, "Barding Saddle"]
+title: Barding Saddle *Item 7*
+linter-yaml-title-alias: Barding Saddle *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Barding Saddle *Item 7*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Barding Saddle *Item 7*
+
+[companion](rules/traits/companion.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 330 gp

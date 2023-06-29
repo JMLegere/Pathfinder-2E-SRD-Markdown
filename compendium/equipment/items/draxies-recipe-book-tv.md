@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/grimoire
-- trait/magical
-- trait/transmutation
-aliases: ["Draxie's Recipe Book"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/grimoire, trait/magical, trait/transmutation]
+aliases: ["Draxie's Recipe Book *Item 4*", "Draxie's Recipe Book"]
+title: "Draxie's Recipe Book *Item 4*"
+linter-yaml-title-alias: "Draxie's Recipe Book *Item 4*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Draxie's Recipe Book *Item 4*  
-[grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Draxie's Recipe Book *Item 4*
+
+[grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 90 gp
 - **Bulk** L

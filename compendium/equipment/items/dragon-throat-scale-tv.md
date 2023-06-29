@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/catalyst
-- trait/consumable
-- trait/magical
-aliases: ["Dragon Throat Scale"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/catalyst, trait/consumable, trait/magical]
+aliases: [Dragon Throat Scale *Item 7*, "Dragon Throat Scale"]
+title: Dragon Throat Scale *Item 7*
+linter-yaml-title-alias: Dragon Throat Scale *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragon Throat Scale *Item 7*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Dragon Throat Scale *Item 7*
+
+[catalyst](rules/traits/catalyst-som.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Price** 55 gp
 - **Usage** held in 1 hand; **Bulk** L

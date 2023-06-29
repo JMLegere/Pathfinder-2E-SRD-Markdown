@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/abjuration
-- trait/focused
-- trait/invested
-- trait/magical
-aliases: ["Warden's Signet"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/abjuration, trait/focused, trait/invested, trait/magical]
+aliases: ["Warden's Signet *Item 11*", "Warden's Signet"]
+title: "Warden's Signet *Item 11*"
+linter-yaml-title-alias: "Warden's Signet *Item 11*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warden's Signet *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Warden's Signet *Item 11*
+
+[abjuration](rules/traits/abjuration.md) [focused](rules/traits/focused.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1250 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This symbol shows your dedication to the magic practiced by some rangers. Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to [Nature](compendium/skills.md#Nature) checks.

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa1
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/fire
-- trait/uncommon
-aliases: ["Searing Suture"]
+tags: [compendium/src/pf2e/ooa1, item/category/consumable, trait/alchemical, trait/consumable, trait/fire, trait/uncommon]
+aliases: [Searing Suture *Item 1+*, "Searing Suture"]
+title: Searing Suture *Item 1+*
+linter-yaml-title-alias: Searing Suture *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Searing Suture *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Searing Suture *Item 1+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [fire](rules/traits/fire.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

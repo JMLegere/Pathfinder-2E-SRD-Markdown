@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/consumable
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Dagger Of Eternal Sleep"]
+tags: [compendium/src/pf2e/logm, item/category/consumable, trait/consumable, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Dagger Of Eternal Sleep *Item 5*, "Dagger Of Eternal Sleep"]
+title: Dagger Of Eternal Sleep *Item 5*
+linter-yaml-title-alias: Dagger Of Eternal Sleep *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Dagger Of Eternal Sleep *Item 5*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Dagger Of Eternal Sleep *Item 5*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Achaekek](compendium/setting/deities/achaekek-logm.md)
 - **Price** 25 gp

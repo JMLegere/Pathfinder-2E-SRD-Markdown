@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av2
-- item/category/contract
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/rare
-aliases: ["Pact Of Blood-taking"]
+tags: [compendium/src/pf2e/av2, item/category/contract, trait/contract, trait/invested, trait/magical, trait/necromancy, trait/rare]
+aliases: [Pact Of Blood-taking *Item 5*, "Pact Of Blood-taking"]
+title: Pact Of Blood-taking *Item 5*
+linter-yaml-title-alias: Pact Of Blood-taking *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Pact Of Blood-taking *Item 5*  
-[contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+
+# Pact Of Blood-taking *Item 5*
+
+[contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [rare](rules/traits/rare.md)  
 
 - **Devil** barbazu; **Decipher Writing** [Society](compendium/skills.md#Society), [Warfare Lore](compendium/skills.md#Lore)
 - **Category** Contract

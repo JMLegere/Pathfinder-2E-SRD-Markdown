@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/tattoo
-aliases: ["Wyrm on the Wing"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/abjuration, trait/invested, trait/magical, trait/tattoo]
+aliases: [Wyrm on the Wing *Item 9+*, "Wyrm on the Wing"]
+title: Wyrm on the Wing *Item 9+*
+linter-yaml-title-alias: Wyrm on the Wing *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wyrm on the Wing *Item 9+*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
 
-- **Usage** tattooed on the body; **Bulk** —
+# Wyrm on the Wing *Item 9+*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md)  
+
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 Depicting a majestic dragon in flight, this tattoo imparts the endurance and majesty of those powerful creatures. You gain resistance 5 to the damage type matching the dragon your tattoo depicts.

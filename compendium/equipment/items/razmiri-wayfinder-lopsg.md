@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/worn
-- trait/illusion
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Razmiri Wayfinder"]
+tags: [compendium/src/pf2e/lopsg, item/category/worn, trait/illusion, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Razmiri Wayfinder *Item 10*, "Razmiri Wayfinder"]
+title: Razmiri Wayfinder *Item 10*
+linter-yaml-title-alias: Razmiri Wayfinder *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Razmiri Wayfinder *Item 10*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Razmiri Wayfinder *Item 10*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 900 gp
-- **Usage** worn; **Bulk** –
+- **Usage** worn; **Bulk**–
 - **Category** Worn
 
 Worn on a chain around the neck, a Razmiri wayfinder functions as a compass and provides its wearer a +1 item bonus to [Deception](compendium/skills.md#Deception) checks to [Lie](rules/actions/lie.md) or [Impersonate](rules/actions/impersonate.md). Razmiri wayfinders can also be used to grant temporary healing, making it easier for the wearer to impersonate a divine spellcaster.

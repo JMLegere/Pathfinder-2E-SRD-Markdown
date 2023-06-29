@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Robe of Eyes"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/divination, trait/invested, trait/magical, trait/uncommon]
+aliases: [Robe of Eyes *Item 17*, "Robe of Eyes"]
+title: Robe of Eyes *Item 17*
+linter-yaml-title-alias: Robe of Eyes *Item 17*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Robe of Eyes *Item 17*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Robe of Eyes *Item 17*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 13000 gp
 - **Usage** worn garment; **Bulk** 1

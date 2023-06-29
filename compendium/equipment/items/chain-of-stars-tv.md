@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/talisman
-- trait/consumable
-- trait/evocation
-- trait/force
-- trait/magical
-- trait/talisman
-aliases: ["Chain of Stars"]
+tags: [compendium/src/pf2e/tv, item/category/talisman, trait/consumable, trait/evocation, trait/force, trait/magical, trait/talisman]
+aliases: [Chain of Stars *Item 8*, "Chain of Stars"]
+title: Chain of Stars *Item 8*
+linter-yaml-title-alias: Chain of Stars *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Chain of Stars *Item 8*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Chain of Stars *Item 8*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [force](rules/traits/force.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 100 gp
-- **Usage** affixed to a thrown weapon; **Bulk** —
+- **Usage** affixed to a thrown weapon; **Bulk**—
 - **Activate** envision; **Trigger** You hit a creature with the affixed weapon.
 - **Category** Talisman
 

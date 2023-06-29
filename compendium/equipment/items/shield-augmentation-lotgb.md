@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/adjustment/shield
-- trait/adjustment
-- trait/uncommon
-aliases: ["Shield Augmentation"]
+tags: [compendium/src/pf2e/lotgb, item/category/adjustment/shield, trait/adjustment, trait/uncommon]
+aliases: [Shield Augmentation *Item 0*, "Shield Augmentation"]
+title: Shield Augmentation *Item 0*
+linter-yaml-title-alias: Shield Augmentation *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shield Augmentation *Item 0*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Shield Augmentation *Item 0*
+
+[adjustment](rules/traits/adjustment-lotgb.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 8 sp
 - **Usage** applied to a shield

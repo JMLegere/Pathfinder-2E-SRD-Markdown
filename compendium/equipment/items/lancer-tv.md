@@ -1,16 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/weapon/martial
-- trait/capacity-2
-- trait/combination
-- trait/critical-fusion
-- trait/reach
-aliases: ["Lancer"]
+tags: [compendium/src/pf2e/tv, item/category/weapon/martial, trait/capacity-2, trait/combination, trait/critical-fusion, trait/reach]
+aliases: [Lancer *Item 1*, "Lancer"]
+title: Lancer *Item 1*
+linter-yaml-title-alias: Lancer *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lancer *Item 1*  
+
+# Lancer *Item 1*
+
 combination  
 
 - **Price** 8 gp

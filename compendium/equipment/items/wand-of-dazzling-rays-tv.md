@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/evocation
-- trait/fire
-- trait/good
-- trait/light
-- trait/magical
-- trait/wand
-aliases: ["Wand of Dazzling Rays"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/evocation, trait/fire, trait/good, trait/light, trait/magical, trait/wand]
+aliases: [Wand of Dazzling Rays *Item 8+*, "Wand of Dazzling Rays"]
+title: Wand of Dazzling Rays *Item 8+*
+linter-yaml-title-alias: Wand of Dazzling Rays *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Wand of Dazzling Rays *Item 8+*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [good](rules/traits/good.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+
+# Wand of Dazzling Rays *Item 8+*
+
+[evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [good](rules/traits/good.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [wand](rules/traits/wand.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

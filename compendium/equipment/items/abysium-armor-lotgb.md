@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/rare
-aliases: ["Abysium Armor"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/rare]
+aliases: [Abysium Armor *Item 12+*, "Abysium Armor"]
+title: Abysium Armor *Item 12+*
+linter-yaml-title-alias: Abysium Armor *Item 12+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Abysium Armor *Item 12+*  
+
+# Abysium Armor *Item 12+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** worn armor; **Bulk** varies by armor

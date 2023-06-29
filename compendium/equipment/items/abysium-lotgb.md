@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/precious
-- trait/rare
-aliases: ["Abysium"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/precious, trait/rare]
+aliases: [Abysium *Item 0+*, "Abysium"]
+title: Abysium *Item 0+*
+linter-yaml-title-alias: Abysium *Item 0+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Abysium *Item 0+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+
+# Abysium *Item 0+*
+
+[precious](rules/traits/precious.md) [rare](rules/traits/rare.md)  
 
 - **Category** Material
 
@@ -26,6 +32,5 @@ A blue-green metal with an eerie green luminescence, abysium radiates power that
 | **Structures** |  |  |  |
 | Standard-grade | 20 | 80 | 40 |
 | High-grade | 26 | 104 | 52 |
-
 
 *Source: Lost Omens: The Grand Bazaar p. 96*

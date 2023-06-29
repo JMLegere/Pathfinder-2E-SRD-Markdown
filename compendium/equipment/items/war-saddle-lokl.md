@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/adventuring-gear
-- trait/uncommon
-aliases: ["War Saddle"]
+tags: [compendium/src/pf2e/lokl, item/category/adventuring-gear, trait/uncommon]
+aliases: [War Saddle *Item 5*, "War Saddle"]
+title: War Saddle *Item 5*
+linter-yaml-title-alias: War Saddle *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# War Saddle *Item 5*  
+
+# War Saddle *Item 5*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/abjuration
-- trait/light
-- trait/magical
-- trait/wand
-aliases: ["Wand of Chromatic Burst"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/abjuration, trait/light, trait/magical, trait/wand]
+aliases: [Wand of Chromatic Burst *Item 10+*, "Wand of Chromatic Burst"]
+title: Wand of Chromatic Burst *Item 10+*
+linter-yaml-title-alias: Wand of Chromatic Burst *Item 10+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Wand of Chromatic Burst *Item 10+*  
-[abjuration](rules/traits/abjuration.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+
+# Wand of Chromatic Burst *Item 10+*
+
+[abjuration](rules/traits/abjuration.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [wand](rules/traits/wand.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

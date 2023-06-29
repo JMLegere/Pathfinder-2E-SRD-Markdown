@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/divination
-- trait/divine
-- trait/evil
-- trait/invested
-- trait/uncommon
-aliases: ["Skinsaw Mask"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/divination, trait/divine, trait/evil, trait/invested, trait/uncommon]
+aliases: [Skinsaw Mask *Item 3*, "Skinsaw Mask"]
+title: Skinsaw Mask *Item 3*
+linter-yaml-title-alias: Skinsaw Mask *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Skinsaw Mask *Item 3*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [evil](rules/traits/evil.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Skinsaw Mask *Item 3*
+
+[divination](rules/traits/divination.md) [divine](rules/traits/divine.md) [evil](rules/traits/evil.md) [invested](rules/traits/invested.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 50 gp
 - **Usage** worn mask; **Bulk** L

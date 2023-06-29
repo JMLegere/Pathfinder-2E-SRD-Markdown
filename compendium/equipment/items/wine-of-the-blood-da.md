@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/potion
-- trait/consumable
-- trait/healing
-- trait/magical
-- trait/necromancy
-- trait/potion
-- trait/rare
-aliases: ["Wine of the Blood"]
+tags: [compendium/src/pf2e/da, item/category/potion, trait/consumable, trait/healing, trait/magical, trait/necromancy, trait/potion, trait/rare]
+aliases: [Wine of the Blood *Item 5*, "Wine of the Blood"]
+title: Wine of the Blood *Item 5*
+linter-yaml-title-alias: Wine of the Blood *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wine of the Blood *Item 5*  
-[consumable](rules/traits/consumable.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [potion](rules/traits/potion.md)  [rare](rules/traits/rare.md)  
+
+# Wine of the Blood *Item 5*
+
+[consumable](rules/traits/consumable.md) [healing](rules/traits/healing.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [potion](rules/traits/potion.md) [rare](rules/traits/rare.md)  
 
 - **Price** 30 gp
 - **Usage** held in 1 hand; **Bulk** L

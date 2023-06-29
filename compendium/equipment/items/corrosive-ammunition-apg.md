@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/consumable
-- trait/consumable
-- trait/evocation
-- trait/magical
-aliases: ["Corrosive Ammunition"]
+tags: [compendium/src/pf2e/apg, item/category/consumable, trait/consumable, trait/evocation, trait/magical]
+aliases: [Corrosive Ammunition *Item 7*, "Corrosive Ammunition"]
+title: Corrosive Ammunition *Item 7*
+linter-yaml-title-alias: Corrosive Ammunition *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Corrosive Ammunition *Item 7*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Corrosive Ammunition *Item 7*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 70 gp
 - **Ammunition** any

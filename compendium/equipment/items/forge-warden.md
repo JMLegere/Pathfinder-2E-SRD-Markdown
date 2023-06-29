@@ -1,20 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/shield
-- trait/abjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Forge Warden"]
+tags: [compendium/src/pf2e/crb, item/category/shield, trait/abjuration, trait/magical, trait/uncommon]
+aliases: [Forge Warden *Item 10*, "Forge Warden"]
+title: Forge Warden *Item 10*
+linter-yaml-title-alias: Forge Warden *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Forge Warden *Item 10*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Forge Warden *Item 10*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 975 gp
 - **Usage** held in 1 hand; **Bulk** 1
-- **Category** Shield; **Group** Shield 
+- **Category** Shield; **Group** Shield
 
 The religious symbol of Torag, the forge god—an ornate hammer of dwarven construction—adorns the face of this reinforced steel shield (Hardness 10, HP 24, BT 12). The shield is a religious symbol of Torag.
 

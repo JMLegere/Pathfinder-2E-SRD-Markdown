@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/consumable
-- trait/cold
-- trait/consumable
-- trait/evocation
-- trait/magical
-aliases: ["Freezing Ammunition"]
+tags: [compendium/src/pf2e/apg, item/category/consumable, trait/cold, trait/consumable, trait/evocation, trait/magical]
+aliases: [Freezing Ammunition *Item 5*, "Freezing Ammunition"]
+title: Freezing Ammunition *Item 5*
+linter-yaml-title-alias: Freezing Ammunition *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Freezing Ammunition *Item 5*  
-[cold](rules/traits/cold.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Freezing Ammunition *Item 5*
+
+[cold](rules/traits/cold.md) [consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 25 gp
 - **Ammunition** any

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/arcane
-- trait/artifact
-- trait/enchantment
-- trait/unique
-aliases: ["Orb Of Dragonkind"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/arcane, trait/artifact, trait/enchantment, trait/unique]
+aliases: [Orb Of Dragonkind *Item 25*, "Orb Of Dragonkind"]
+title: Orb Of Dragonkind *Item 25*
+linter-yaml-title-alias: Orb Of Dragonkind *Item 25*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Orb Of Dragonkind *Item 25*  
-[arcane](rules/traits/arcane.md)  [artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [unique](rules/traits/unique.md)  
+
+# Orb Of Dragonkind *Item 25*
+
+[arcane](rules/traits/arcane.md) [artifact](rules/traits/artifact-gmg.md) [enchantment](rules/traits/enchantment.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Artifact

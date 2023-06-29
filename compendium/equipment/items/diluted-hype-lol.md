@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/drug
-- trait/ingested
-- trait/poison
-- trait/uncommon
-aliases: ["Diluted Hype"]
+tags: [compendium/src/pf2e/lol, item/category/poison, trait/alchemical, trait/consumable, trait/drug, trait/ingested, trait/poison, trait/uncommon]
+aliases: [Diluted Hype *Item 5*, "Diluted Hype"]
+title: Diluted Hype *Item 5*
+linter-yaml-title-alias: Diluted Hype *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Diluted Hype *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Diluted Hype *Item 5*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [drug](rules/traits/drug-gmg.md) [ingested](rules/traits/ingested.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 20 gp
 - **Usage** held in 1 hand; **Bulk** L

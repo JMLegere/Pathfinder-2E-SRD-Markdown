@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/held
-- trait/abjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Banner of the Restful"]
+tags: [compendium/src/pf2e/lokl, item/category/held, trait/abjuration, trait/magical, trait/uncommon]
+aliases: [Banner of the Restful *Item 9*, "Banner of the Restful"]
+title: Banner of the Restful *Item 9*
+linter-yaml-title-alias: Banner of the Restful *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Banner of the Restful *Item 9*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Banner of the Restful *Item 9*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 700 gp

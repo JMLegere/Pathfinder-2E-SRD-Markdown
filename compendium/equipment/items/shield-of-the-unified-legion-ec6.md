@@ -1,21 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec6
-- item/category/shield
-- trait/evocation
-- trait/magical
-- trait/shield
-- trait/uncommon
-aliases: ["Shield Of The Unified Legion"]
+tags: [compendium/src/pf2e/ec6, item/category/shield, trait/evocation, trait/magical, trait/shield, trait/uncommon]
+aliases: [Shield Of The Unified Legion *Item 20*, "Shield Of The Unified Legion"]
+title: Shield Of The Unified Legion *Item 20*
+linter-yaml-title-alias: Shield Of The Unified Legion *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shield Of The Unified Legion *Item 20*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  shield  
+
+# Shield Of The Unified Legion *Item 20*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md) shield  
 
 - **Price** 70000 gp
 - **Usage** strapped to 1 hand; **Bulk** L
-- **Category** Shield; **Group** Shield 
+- **Category** Shield; **Group** Shield
 
 This high-grade orichalcum shield (Hardness 16, HP 64, and BT 32) bears a +3 major striking shield boss that cannot be removed. It gleams brightly in any light, drawing attention at all times. When you Raise this Shield, ephemeral reflections of it appear in front of each of your allies within 30 feet, granting them its +2 circumstance bonus to AC for as long as they are within 30 feet of you and your shield is raised.
 

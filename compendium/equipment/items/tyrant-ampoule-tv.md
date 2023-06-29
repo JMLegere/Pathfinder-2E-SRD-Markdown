@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/expandable
-aliases: ["Tyrant Ampoule"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/expandable]
+aliases: [Tyrant Ampoule *Item 10*, "Tyrant Ampoule"]
+title: Tyrant Ampoule *Item 10*
+linter-yaml-title-alias: Tyrant Ampoule *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Tyrant Ampoule *Item 10*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [expandable](rules/traits/expandable-tv.md)  
+
+# Tyrant Ampoule *Item 10*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [expandable](rules/traits/expandable-tv.md)  
 
 - **Price** 175 gp
 - **Usage** held in 1 hand; **Bulk** L

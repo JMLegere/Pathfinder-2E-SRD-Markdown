@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/potion
-aliases: ["Hovering Potion"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/evocation, trait/magical, trait/potion]
+aliases: [Hovering Potion *Item 7*, "Hovering Potion"]
+title: Hovering Potion *Item 7*
+linter-yaml-title-alias: Hovering Potion *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hovering Potion *Item 7*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+
+# Hovering Potion *Item 7*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md)  
 
 - **Price** 55 gp
 - **Usage** held in 1 hand; **Bulk** L

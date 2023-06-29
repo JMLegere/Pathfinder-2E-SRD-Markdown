@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/locg
-- item/category/held
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Scroll Case Of Simplicity"]
+tags: [compendium/src/pf2e/locg, item/category/held, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Scroll Case Of Simplicity *Item 4*, "Scroll Case Of Simplicity"]
+title: Scroll Case Of Simplicity *Item 4*
+linter-yaml-title-alias: Scroll Case Of Simplicity *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Scroll Case Of Simplicity *Item 4*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Scroll Case Of Simplicity *Item 4*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand
 - **Category** Held

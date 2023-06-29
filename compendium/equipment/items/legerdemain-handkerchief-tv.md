@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/conjuration
-- trait/extradimensional
-- trait/magical
-aliases: ["Legerdemain Handkerchief"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/conjuration, trait/extradimensional, trait/magical]
+aliases: [Legerdemain Handkerchief *Item 2*, "Legerdemain Handkerchief"]
+title: Legerdemain Handkerchief *Item 2*
+linter-yaml-title-alias: Legerdemain Handkerchief *Item 2*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Legerdemain Handkerchief *Item 2*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  
+
+# Legerdemain Handkerchief *Item 2*
+
+[conjuration](rules/traits/conjuration.md) [extradimensional](rules/traits/extradimensional.md) [magical](rules/traits/magical.md)  
 
 - **Price** 25 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Category** Held
 
 This frilled, silvery-gray handkerchief is a stylish tool for personal hygiene by all appearances, but it can be used to covertly make very small items vanish.

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/arcane
-- trait/evocation
-- trait/uncommon
-aliases: ["Thundercrasher"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/arcane, trait/evocation, trait/uncommon]
+aliases: [Thundercrasher *Item 5*, "Thundercrasher"]
+title: Thundercrasher *Item 5*
+linter-yaml-title-alias: Thundercrasher *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Thundercrasher *Item 5*  
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Thundercrasher *Item 5*
+
+[arcane](rules/traits/arcane.md) [evocation](rules/traits/evocation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 155 gp
 - **Usage** held in 2 hands; **Bulk** 2

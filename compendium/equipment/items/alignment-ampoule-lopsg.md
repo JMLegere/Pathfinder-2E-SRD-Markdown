@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-- trait/uncommon
-aliases: ["Alignment Ampoule"]
+tags: [compendium/src/pf2e/lopsg, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable, trait/uncommon]
+aliases: [Alignment Ampoule *Item 1+*, "Alignment Ampoule"]
+title: Alignment Ampoule *Item 1+*
+linter-yaml-title-alias: Alignment Ampoule *Item 1+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Alignment Ampoule *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Alignment Ampoule *Item 1+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Bomb

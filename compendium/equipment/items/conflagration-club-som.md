@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/weapon/martial
-- trait/evocation
-- trait/magical
-aliases: ["Conflagration Club"]
+tags: [compendium/src/pf2e/som, item/category/weapon/martial, trait/evocation, trait/magical]
+aliases: [Conflagration Club *Item 6*, "Conflagration Club"]
+title: Conflagration Club *Item 6*
+linter-yaml-title-alias: Conflagration Club *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Conflagration Club *Item 6*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Conflagration Club *Item 6*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 250 gp
 - **Usage** held in 2 hands; **Bulk** 2

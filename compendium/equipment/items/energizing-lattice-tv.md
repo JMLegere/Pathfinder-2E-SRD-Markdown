@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/evocation
-- trait/invested
-- trait/light
-- trait/magical
-aliases: ["Energizing Lattice"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/evocation, trait/invested, trait/light, trait/magical]
+aliases: [Energizing Lattice *Item 13*, "Energizing Lattice"]
+title: Energizing Lattice *Item 13*
+linter-yaml-title-alias: Energizing Lattice *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Energizing Lattice *Item 13*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  
+
+# Energizing Lattice *Item 13*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md)  
 
 - **Price** 3000 gp
 - **Usage** worn armor; **Bulk** 2

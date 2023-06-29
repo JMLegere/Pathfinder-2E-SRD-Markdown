@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/rare
-aliases: ["Abysium Shield"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/rare]
+aliases: [Abysium Shield *Item 8+*, "Abysium Shield"]
+title: Abysium Shield *Item 8+*
+linter-yaml-title-alias: Abysium Shield *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Abysium Shield *Item 8+*  
+
+# Abysium Shield *Item 8+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** varies by shield

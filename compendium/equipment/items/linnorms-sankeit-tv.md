@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Linnorm's Sankeit"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/evocation, trait/invested, trait/magical, trait/uncommon]
+aliases: ["Linnorm's Sankeit *Item 18*", "Linnorm's Sankeit"]
+title: "Linnorm's Sankeit *Item 18*"
+linter-yaml-title-alias: "Linnorm's Sankeit *Item 18*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Linnorm's Sankeit *Item 18*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Linnorm's Sankeit *Item 18*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 22750 gp
 - **Usage** worn armor; **Bulk** 2

@@ -1,20 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/cursed
-- trait/illusion
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Hat of Disagreeable Disguise"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/cursed, trait/illusion, trait/invested, trait/magical, trait/rare]
+aliases: [Hat of Disagreeable Disguise *Item 2+*, "Hat of Disagreeable Disguise"]
+title: Hat of Disagreeable Disguise *Item 2+*
+linter-yaml-title-alias: Hat of Disagreeable Disguise *Item 2+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Hat of Disagreeable Disguise *Item 2+*  
-[cursed](rules/traits/cursed-gmg.md)  [illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
 
-- **Usage** worn headwear; **Bulk** —
+# Hat of Disagreeable Disguise *Item 2+*
+
+[cursed](rules/traits/cursed-gmg.md) [illusion](rules/traits/illusion.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
+
+- **Usage** worn headwear; **Bulk**—
 - **Category** Worn
 
 This elegant hat appears to be and functions as a hat of disguise. When you invest the hat, it fuses to you.

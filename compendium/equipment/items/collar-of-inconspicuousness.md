@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/companion
-- trait/companion
-- trait/invested
-- trait/primal
-- trait/transmutation
-aliases: ["Collar of Inconspicuousness"]
+tags: [compendium/src/pf2e/crb, item/category/companion, trait/companion, trait/invested, trait/primal, trait/transmutation]
+aliases: [Collar of Inconspicuousness *Item 8*, "Collar of Inconspicuousness"]
+title: Collar of Inconspicuousness *Item 8*
+linter-yaml-title-alias: Collar of Inconspicuousness *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Collar of Inconspicuousness *Item 8*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Collar of Inconspicuousness *Item 8*
+
+[companion](rules/traits/companion.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 475 gp
 - **Usage** worn collar; **Bulk** 1

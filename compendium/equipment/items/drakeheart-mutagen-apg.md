@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/elixir
-- trait/alchemical
-- trait/consumable
-- trait/elixir
-- trait/mutagen
-- trait/polymorph
-aliases: ["Drakeheart Mutagen"]
+tags: [compendium/src/pf2e/apg, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/mutagen, trait/polymorph]
+aliases: [Drakeheart Mutagen *Item 1+*, "Drakeheart Mutagen"]
+title: Drakeheart Mutagen *Item 1+*
+linter-yaml-title-alias: Drakeheart Mutagen *Item 1+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Drakeheart Mutagen *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [mutagen](rules/traits/mutagen.md)  [polymorph](rules/traits/polymorph.md)  
+
+# Drakeheart Mutagen *Item 1+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [elixir](rules/traits/elixir.md) [mutagen](rules/traits/mutagen.md) [polymorph](rules/traits/polymorph.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
@@ -30,6 +33,6 @@ title: Final Surge [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions
 You [Stride](rules/actions/stride.md) twice. The drakeheart mutagen's duration ends.
 ```
 
-**Drawback** You take a –1 penalty to Will saves, Reflex saves, and all skill checks to [Recall Knowledge](rules/actions/recall-knowledge.md).
+**Drawback** You take a–1 penalty to Will saves, Reflex saves, and all skill checks to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
 *Source: Advanced Player's Guide p. 253*

@@ -1,20 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/healing
-- trait/magical
-- trait/necromancy
-- trait/positive
-- trait/spellheart
-aliases: ["Jyoti's Feather"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/healing, trait/magical, trait/necromancy, trait/positive, trait/spellheart]
+aliases: ["Jyoti's Feather *Item 10+*", "Jyoti's Feather"]
+title: "Jyoti's Feather *Item 10+*"
+linter-yaml-title-alias: "Jyoti's Feather *Item 10+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Jyoti's Feather *Item 10+*  
-[healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Jyoti's Feather *Item 10+*
+
+[healing](rules/traits/healing.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [positive](rules/traits/positive.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 A jyoti's feather is a shimmering red and gold feather, seeming almost metallic, although delicate and flexible to the touch.

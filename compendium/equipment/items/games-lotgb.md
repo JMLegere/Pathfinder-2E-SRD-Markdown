@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-aliases: ["Games"]
+tags: [compendium/src/pf2e/lotgb, item/category/held]
+aliases: [Games *Item 0+*, "Games"]
+title: Games *Item 0+*
+linter-yaml-title-alias: Games *Item 0+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Games *Item 0+*  
+
+# Games *Item 0+*
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Held

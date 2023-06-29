@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec2
-- item/category/talisman
-- trait/consumable
-- trait/divination
-- trait/fortune
-- trait/magical
-- trait/talisman
-- trait/uncommon
-aliases: ["Beckoning Cat Amulet"]
+tags: [compendium/src/pf2e/ec2, item/category/talisman, trait/consumable, trait/divination, trait/fortune, trait/magical, trait/talisman, trait/uncommon]
+aliases: [Beckoning Cat Amulet *Item 5*, "Beckoning Cat Amulet"]
+title: Beckoning Cat Amulet *Item 5*
+linter-yaml-title-alias: Beckoning Cat Amulet *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Beckoning Cat Amulet *Item 5*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Beckoning Cat Amulet *Item 5*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [fortune](rules/traits/fortune.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 26 gp
 - **Usage** affixed to armor

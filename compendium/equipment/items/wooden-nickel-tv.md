@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/talisman
-- trait/consumable
-- trait/illusion
-- trait/magical
-- trait/talisman
-- trait/visual
-aliases: ["Wooden Nickel"]
+tags: [compendium/src/pf2e/tv, item/category/talisman, trait/consumable, trait/illusion, trait/magical, trait/talisman, trait/visual]
+aliases: [Wooden Nickel *Item 9*, "Wooden Nickel"]
+title: Wooden Nickel *Item 9*
+linter-yaml-title-alias: Wooden Nickel *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wooden Nickel *Item 9*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [visual](rules/traits/visual.md)  
+
+# Wooden Nickel *Item 9*
+
+[consumable](rules/traits/consumable.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [visual](rules/traits/visual.md)  
 
 - **Price** 130 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Activate** envision
 - **Category** Talisman
 

@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/conjuration
-- trait/invested
-- trait/magical
-aliases: ["Armory Bracelet"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/conjuration, trait/invested, trait/magical]
+aliases: [Armory Bracelet *Item 3+*, "Armory Bracelet"]
+title: Armory Bracelet *Item 3+*
+linter-yaml-title-alias: Armory Bracelet *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Armory Bracelet *Item 3+*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
 
-- **Usage** worn; **Bulk** —
+# Armory Bracelet *Item 3+*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
+
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 Several small charms shaped like weapons hang from an armory bracelet, which is often brass. The bracelet has one charm each for the groups bow, brawling, club, dart, flail, hammer, knife, pick, polearm, shield, sling, spear, and sword. Rare versions of the armory bracelet include charms for firearms.

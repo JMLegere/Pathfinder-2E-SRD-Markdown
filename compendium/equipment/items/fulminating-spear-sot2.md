@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot2
-- item/category/held
-- trait/evocation
-- trait/fire
-- trait/magical
-- trait/uncommon
-aliases: ["Fulminating Spear"]
+tags: [compendium/src/pf2e/sot2, item/category/held, trait/evocation, trait/fire, trait/magical, trait/uncommon]
+aliases: [Fulminating Spear *Item 7*, "Fulminating Spear"]
+title: Fulminating Spear *Item 7*
+linter-yaml-title-alias: Fulminating Spear *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Fulminating Spear *Item 7*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Fulminating Spear *Item 7*
+
+[evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 360 gp
 - **Usage** held in 1 hand; **Bulk** 1

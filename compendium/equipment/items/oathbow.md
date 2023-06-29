@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/divination
-- trait/magical
-aliases: ["Oathbow"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/divination, trait/magical]
+aliases: [Oathbow *Item 11*, "Oathbow"]
+title: Oathbow *Item 11*
+linter-yaml-title-alias: Oathbow *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Oathbow *Item 11*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Oathbow *Item 11*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1300 gp
 - **Usage** held in 1 hand; **Bulk** 2

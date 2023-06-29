@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/conjuration
-- trait/magical
-- trait/teleportation
-- trait/uncommon
-aliases: ["Bring Me Near"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/conjuration, trait/magical, trait/teleportation, trait/uncommon]
+aliases: [Bring Me Near *Item 12*, "Bring Me Near"]
+title: Bring Me Near *Item 12*
+linter-yaml-title-alias: Bring Me Near *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bring Me Near *Item 12*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Bring Me Near *Item 12*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [teleportation](rules/traits/teleportation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1800 gp
 - **Usage** held in 2 hands; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/contract
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Self-Emptying Pocket"]
+tags: [compendium/src/pf2e/da, item/category/contract, trait/contract, trait/invested, trait/magical, trait/rare]
+aliases: [Self-Emptying Pocket *Item 9*, "Self-Emptying Pocket"]
+title: Self-Emptying Pocket *Item 9*
+linter-yaml-title-alias: Self-Emptying Pocket *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Self-Emptying Pocket *Item 9*  
-[contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Self-Emptying Pocket *Item 9*
+
+[contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

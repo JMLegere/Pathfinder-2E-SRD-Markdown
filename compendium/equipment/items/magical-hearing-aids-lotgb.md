@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/hearing
-- trait/divination
-- trait/magical
-aliases: ["Magical Hearing Aids"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/hearing, trait/divination, trait/magical]
+aliases: [Magical Hearing Aids *Item 1*, "Magical Hearing Aids"]
+title: Magical Hearing Aids *Item 1*
+linter-yaml-title-alias: Magical Hearing Aids *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Magical Hearing Aids *Item 1*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Magical Hearing Aids *Item 1*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Price** 5 gp
 - **Usage** worn

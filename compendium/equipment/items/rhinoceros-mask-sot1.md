@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot1
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Rhinoceros Mask"]
+tags: [compendium/src/pf2e/sot1, item/category/worn, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Rhinoceros Mask *Item 4+*, "Rhinoceros Mask"]
+title: Rhinoceros Mask *Item 4+*
+linter-yaml-title-alias: Rhinoceros Mask *Item 4+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Rhinoceros Mask *Item 4+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Rhinoceros Mask *Item 4+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** worn mask
 - **Category** Worn

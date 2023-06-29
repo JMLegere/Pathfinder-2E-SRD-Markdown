@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa3
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-- trait/fire
-- trait/splash
-- trait/uncommon
-aliases: ["Star Grenade"]
+tags: [compendium/src/pf2e/ooa3, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable, trait/fire, trait/splash, trait/uncommon]
+aliases: [Star Grenade *Item 1+*, "Star Grenade"]
+title: Star Grenade *Item 1+*
+linter-yaml-title-alias: Star Grenade *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Star Grenade *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [splash](rules/traits/splash.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Star Grenade *Item 1+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md) [fire](rules/traits/fire.md) [splash](rules/traits/splash.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** These unusual gunpowder bombs, , typically marked with a

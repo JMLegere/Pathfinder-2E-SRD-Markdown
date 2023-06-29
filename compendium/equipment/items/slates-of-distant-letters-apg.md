@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/held
-- trait/divination
-- trait/magical
-aliases: ["Slates Of Distant Letters"]
+tags: [compendium/src/pf2e/apg, item/category/held, trait/divination, trait/magical]
+aliases: [Slates Of Distant Letters *Item 13*, "Slates Of Distant Letters"]
+title: Slates Of Distant Letters *Item 13*
+linter-yaml-title-alias: Slates Of Distant Letters *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Slates Of Distant Letters *Item 13*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Slates Of Distant Letters *Item 13*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Price** 2450 gp
 - **Usage** held in 2 hands; **Bulk** L

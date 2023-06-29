@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/contract
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Stone of Unrivaled Skill"]
+tags: [compendium/src/pf2e/da, item/category/contract, trait/contract, trait/invested, trait/magical, trait/rare]
+aliases: [Stone of Unrivaled Skill *Item 17*, "Stone of Unrivaled Skill"]
+title: Stone of Unrivaled Skill *Item 17*
+linter-yaml-title-alias: Stone of Unrivaled Skill *Item 17*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Stone of Unrivaled Skill *Item 17*  
-[contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Stone of Unrivaled Skill *Item 17*
+
+[contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

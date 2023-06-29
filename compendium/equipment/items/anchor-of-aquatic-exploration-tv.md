@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/conjuration
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Anchor of Aquatic Exploration"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/conjuration, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Anchor of Aquatic Exploration *Item 9*, "Anchor of Aquatic Exploration"]
+title: Anchor of Aquatic Exploration *Item 9*
+linter-yaml-title-alias: Anchor of Aquatic Exploration *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Anchor of Aquatic Exploration *Item 9*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Anchor of Aquatic Exploration *Item 9*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 690 gp
 - **Usage** held in 1 hand; **Bulk** 1

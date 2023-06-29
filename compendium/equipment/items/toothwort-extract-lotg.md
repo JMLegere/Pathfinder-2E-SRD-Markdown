@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotg
-- item/category/plant
-- trait/additive-1
-- trait/alchemical
-- trait/consumable
-aliases: ["Toothwort Extract"]
+tags: [compendium/src/pf2e/lotg, item/category/plant, trait/additive-1, trait/alchemical, trait/consumable]
+aliases: [Toothwort Extract *Item 3*, "Toothwort Extract"]
+title: Toothwort Extract *Item 3*
+linter-yaml-title-alias: Toothwort Extract *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Toothwort Extract *Item 3*  
-[additive <1>](rules/traits/additive.md)  [alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+
+# Toothwort Extract *Item 3*
+
+[additive <1>](rules/traits/additive.md) [alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md)  
 
 - **Price** 9 gp
 - **Usage** held in 1 hand; **Bulk** L

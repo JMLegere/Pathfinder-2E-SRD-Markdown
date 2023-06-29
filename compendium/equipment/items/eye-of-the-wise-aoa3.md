@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa3
-- item/category/artifact
-- trait/artifact
-- trait/divination
-- trait/invested
-- trait/unique
-aliases: ["Eye Of The Wise"]
+tags: [compendium/src/pf2e/aoa3, item/category/artifact, trait/artifact, trait/divination, trait/invested, trait/unique]
+aliases: [Eye Of The Wise *Item 11*, "Eye Of The Wise"]
+title: Eye Of The Wise *Item 11*
+linter-yaml-title-alias: Eye Of The Wise *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Eye Of The Wise *Item 11*  
-[artifact](rules/traits/artifact-gmg.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [unique](rules/traits/unique.md)  
+
+# Eye Of The Wise *Item 11*
+
+[artifact](rules/traits/artifact-gmg.md) [divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

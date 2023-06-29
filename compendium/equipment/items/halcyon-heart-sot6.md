@@ -1,24 +1,28 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot6
-- item/category/artifact
-- trait/artifact
-- trait/divination
-- trait/magical
-- trait/rare
-aliases: ["Halcyon Heart"]
+tags: [compendium/src/pf2e/sot6, item/category/artifact, trait/artifact, trait/divination, trait/magical, trait/rare]
+aliases: [Halcyon Heart *Item 21*, "Halcyon Heart"]
+title: Halcyon Heart *Item 21*
+linter-yaml-title-alias: Halcyon Heart *Item 21*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Halcyon Heart *Item 21*  
-[artifact](rules/traits/artifact-gmg.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Halcyon Heart *Item 21*
+
+[artifact](rules/traits/artifact-gmg.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Artifact
 
 This shekere features carved prayers barely visible under a fine silk net of colorful beads. The handheld percussion instrument grants a +3 item bonus to [Performance](compendium/skills.md#Performance) checks while playing music with it. In addition, when you [Perform](rules/actions/perform.md) with it, you can make it heard by any number of creatures within 100 miles. You can specify one or more specific creatures, or otherwise describe those who will hear it, such as all humans, or all inhabitants of a village. You can send a message through the music that the targets understand. Demons and creatures connected to demons (such as a creature whose deity is a demon lord or a sorcerer with the demonic bloodline) can't easily understand any messages conveyed in this way, even if you wish to send the message to them. They must attempt a [Society](compendium/skills.md#Society) check against your [Performance](compendium/skills.md#Performance) DC or against DC 40, whichever is higher. If your [Performance](compendium/skills.md#Performance) DC is higher than DC 40 and you want demons to be able to understand the message, you can choose to use DC 40 instead.
 
-> [!success-degree] 
+> [!success-degree]
 > - **Success** They understand the message.
 > - **Failure** They don't understand the message but are aware there was one.
 > - **Critical Failure** They don't realize the sound of the halcyon heart contains a message.

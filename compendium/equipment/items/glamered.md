@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/illusion
-- trait/magical
-aliases: ["Glamered"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/illusion, trait/magical]
+aliases: [Glamered *Item 5*, "Glamered"]
+title: Glamered *Item 5*
+linter-yaml-title-alias: Glamered *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Glamered *Item 5*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+
+# Glamered *Item 5*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md)  
 
 - **Price** 140 gp
 - **Usage** etched onto armor

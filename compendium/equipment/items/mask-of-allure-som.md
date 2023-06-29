@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/apex
-- trait/apex
-- trait/enchantment
-- trait/invested
-- trait/magical
-aliases: ["Mask Of Allure"]
+tags: [compendium/src/pf2e/som, item/category/apex, trait/apex, trait/enchantment, trait/invested, trait/magical]
+aliases: [Mask Of Allure *Item 18*, "Mask Of Allure"]
+title: Mask Of Allure *Item 18*
+linter-yaml-title-alias: Mask Of Allure *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mask Of Allure *Item 18*  
-[apex](rules/traits/apex.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Mask Of Allure *Item 18*
+
+[apex](rules/traits/apex.md) [enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 24000 gp
 - **Usage** worn mask; **Bulk** L

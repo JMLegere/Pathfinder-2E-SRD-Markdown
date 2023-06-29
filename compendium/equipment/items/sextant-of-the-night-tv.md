@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/divination
-- trait/magical
-aliases: ["Sextant of the Night"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/divination, trait/magical]
+aliases: [Sextant of the Night *Item 4*, "Sextant of the Night"]
+title: Sextant of the Night *Item 4*
+linter-yaml-title-alias: Sextant of the Night *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Sextant of the Night *Item 4*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Sextant of the Night *Item 4*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Price** 95 gp
 - **Usage** held in 1 hand; **Bulk** 1

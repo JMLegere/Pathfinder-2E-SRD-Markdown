@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/ingested
-- trait/poison
-aliases: ["Belladonna"]
+tags: [compendium/src/pf2e/crb, item/category/poison, trait/alchemical, trait/consumable, trait/ingested, trait/poison]
+aliases: [Belladonna *Item 2*, "Belladonna"]
+title: Belladonna *Item 2*
+linter-yaml-title-alias: Belladonna *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Belladonna *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  
+
+# Belladonna *Item 2*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [ingested](rules/traits/ingested.md) [poison](rules/traits/poison.md)  
 
 - **Price** 5 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/adventuring-gear
-aliases: ["Marked Playing Cards"]
+tags: [compendium/src/pf2e/lopsg, item/category/adventuring-gear]
+aliases: [Marked Playing Cards *Item 0*, "Marked Playing Cards"]
+title: Marked Playing Cards *Item 0*
+linter-yaml-title-alias: Marked Playing Cards *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Marked Playing Cards *Item 0*  
+
+# Marked Playing Cards *Item 0*
 
 - **Price** 1 gp
 - **Hands** 2

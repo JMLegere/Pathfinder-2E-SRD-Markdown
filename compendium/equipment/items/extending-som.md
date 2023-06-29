@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/rune
-- trait/magical
-- trait/transmutation
-aliases: ["Extending"]
+tags: [compendium/src/pf2e/som, item/category/rune, trait/magical, trait/transmutation]
+aliases: [Extending *Item 9+*, "Extending"]
+title: Extending *Item 9+*
+linter-yaml-title-alias: Extending *Item 9+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Extending *Item 9+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Extending *Item 9+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** etched onto a melee weapon
 - **Category** Rune

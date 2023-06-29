@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot4
-- item/category/held
-- trait/evocation
-- trait/fire
-- trait/light
-- trait/magical
-- trait/rare
-aliases: ["Golden Blade of Mzali"]
+tags: [compendium/src/pf2e/sot4, item/category/held, trait/evocation, trait/fire, trait/light, trait/magical, trait/rare]
+aliases: [Golden Blade of Mzali *Item 15*, "Golden Blade of Mzali"]
+title: Golden Blade of Mzali *Item 15*
+linter-yaml-title-alias: Golden Blade of Mzali *Item 15*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Golden Blade of Mzali *Item 15*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Golden Blade of Mzali *Item 15*
+
+[evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 6500 gp
 - **Usage** held in 1 hand; **Bulk** 1

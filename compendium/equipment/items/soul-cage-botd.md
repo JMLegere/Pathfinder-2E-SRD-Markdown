@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/botd
-- item/category/held
-- trait/arcane
-- trait/necromancy
-- trait/negative
-- trait/rare
-aliases: ["Soul Cage"]
+tags: [compendium/src/pf2e/botd, item/category/held, trait/arcane, trait/necromancy, trait/negative, trait/rare]
+aliases: [Soul Cage *Item 12*, "Soul Cage"]
+title: Soul Cage *Item 12*
+linter-yaml-title-alias: Soul Cage *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Soul Cage *Item 12*  
-[arcane](rules/traits/arcane.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [rare](rules/traits/rare.md)  
+
+# Soul Cage *Item 12*
+
+[arcane](rules/traits/arcane.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md) [rare](rules/traits/rare.md)  
 
 - **Price** 1600 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Category** Held
 
 As you [Craft](rules/actions/craft.md) your soul cage, you trap your soul within it, an integral part of the complicated process of becoming a lich.

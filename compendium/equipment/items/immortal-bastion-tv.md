@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/abjuration
-- trait/invested
-- trait/magical
-aliases: ["Immortal Bastion"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/abjuration, trait/invested, trait/magical]
+aliases: [Immortal Bastion *Item 20*, "Immortal Bastion"]
+title: Immortal Bastion *Item 20*
+linter-yaml-title-alias: Immortal Bastion *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Immortal Bastion *Item 20*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Immortal Bastion *Item 20*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 70000 gp
 - **Usage** worn armor; **Bulk** 5

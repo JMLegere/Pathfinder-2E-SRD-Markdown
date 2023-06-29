@@ -1,20 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/abjuration
-- trait/intelligent
-- trait/invested
-- trait/primal
-- trait/rare
-aliases: ["Toshigami Blossom"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/abjuration, trait/intelligent, trait/invested, trait/primal, trait/rare]
+aliases: [Toshigami Blossom *Item 15*, "Toshigami Blossom"]
+title: Toshigami Blossom *Item 15*
+linter-yaml-title-alias: Toshigami Blossom *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Toshigami Blossom *Item 15*  
-[abjuration](rules/traits/abjuration.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
 
-- **Usage** worn; **Bulk** —
+# Toshigami Blossom *Item 15*
+
+[abjuration](rules/traits/abjuration.md) [intelligent](rules/traits/intelligent-gmg.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [rare](rules/traits/rare.md)  
+
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 An encounter with a toshigami, the enigmatic kami who protect cherry trees, is rare, though often sought after and treasured by those who achieve such an encounter. Only a handful of mortals can truthfully claim to have seen a toshigami, let alone met one, though many popular fireside tales tell of virtuous souls receiving a toshigami's blessing to fight for a worthy cause. Such stories have a basis in fact; every so often, a toshigami gives a worthy mortal a flower from their ward, time-locked in perfect bloom and granted sapience. Such toshigami blossoms are more sociable than their creators. Like toshigami, a blossom has a strong curiosity about the mortal world. If you wear a toshigami blossom, it can intercede for you, helping you make a good impression.

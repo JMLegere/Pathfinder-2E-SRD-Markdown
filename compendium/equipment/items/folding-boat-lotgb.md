@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Folding Boat"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Folding Boat *Item 8+*, "Folding Boat"]
+title: Folding Boat *Item 8+*
+linter-yaml-title-alias: Folding Boat *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Folding Boat *Item 8+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Folding Boat *Item 8+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

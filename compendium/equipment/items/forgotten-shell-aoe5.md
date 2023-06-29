@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/armor
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Forgotten Shell"]
+tags: [compendium/src/pf2e/aoe5, item/category/armor, trait/divination, trait/invested, trait/magical, trait/rare]
+aliases: [Forgotten Shell *Item 13*, "Forgotten Shell"]
+title: Forgotten Shell *Item 13*
+linter-yaml-title-alias: Forgotten Shell *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Forgotten Shell *Item 13*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Forgotten Shell *Item 13*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 2500 gp
 - **Usage** worn armor; **Bulk** 4

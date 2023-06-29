@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/abjuration
-- trait/consumable
-- trait/fulu
-- trait/magical
-aliases: ["Sentry Fulu"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/abjuration, trait/consumable, trait/fulu, trait/magical]
+aliases: [Sentry Fulu *Item 4*, "Sentry Fulu"]
+title: Sentry Fulu *Item 4*
+linter-yaml-title-alias: Sentry Fulu *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Sentry Fulu *Item 4*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  
+
+# Sentry Fulu *Item 4*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 15 gp
-- **Usage** affixed to the ground; **Bulk** —
+- **Usage** affixed to the ground; **Bulk**—
 - **Activate** command, , envision, , [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/potion
-- trait/consumable
-- trait/illusion
-- trait/magical
-- trait/potion
-aliases: ["Potion of Undetectability"]
+tags: [compendium/src/pf2e/crb, item/category/potion, trait/consumable, trait/illusion, trait/magical, trait/potion]
+aliases: [Potion of Undetectability *Item 18*, "Potion of Undetectability"]
+title: Potion of Undetectability *Item 18*
+linter-yaml-title-alias: Potion of Undetectability *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Potion of Undetectability *Item 18*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+
+# Potion of Undetectability *Item 18*
+
+[consumable](rules/traits/consumable.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md)  
 
 - **Price** 4400 gp
 - **Usage** held in 1 hand; **Bulk** L

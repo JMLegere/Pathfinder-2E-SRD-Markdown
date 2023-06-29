@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/magical
-aliases: ["Dimension Shot"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/conjuration, trait/consumable, trait/magical]
+aliases: [Dimension Shot *Item 12*, "Dimension Shot"]
+title: Dimension Shot *Item 12*
+linter-yaml-title-alias: Dimension Shot *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Dimension Shot *Item 12*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Dimension Shot *Item 12*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Price** 360 gp
 - **Ammunition** any

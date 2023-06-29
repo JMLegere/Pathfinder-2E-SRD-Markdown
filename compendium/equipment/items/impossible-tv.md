@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/conjuration
-- trait/magical
-aliases: ["Impossible"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/conjuration, trait/magical]
+aliases: [Impossible *Item 20*, "Impossible"]
+title: Impossible *Item 20*
+linter-yaml-title-alias: Impossible *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Impossible *Item 20*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Impossible *Item 20*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Price** 70000 gp
 - **Usage** etched onto a weapon

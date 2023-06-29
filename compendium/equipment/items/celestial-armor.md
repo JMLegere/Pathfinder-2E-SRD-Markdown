@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/armor
-- trait/divine
-- trait/good
-- trait/invested
-- trait/transmutation
-aliases: ["Celestial Armor"]
+tags: [compendium/src/pf2e/crb, item/category/armor, trait/divine, trait/good, trait/invested, trait/transmutation]
+aliases: [Celestial Armor *Item 13*, "Celestial Armor"]
+title: Celestial Armor *Item 13*
+linter-yaml-title-alias: Celestial Armor *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Celestial Armor *Item 13*  
-[divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [invested](rules/traits/invested.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Celestial Armor *Item 13*
+
+[divine](rules/traits/divine.md) [good](rules/traits/good.md) [invested](rules/traits/invested.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 2500 gp
 - **Usage** worn armor; **Bulk** 1

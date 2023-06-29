@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-aliases: ["Ring of Maniacal Devices"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/divination, trait/invested, trait/magical]
+aliases: [Ring of Maniacal Devices *Item 11+*, "Ring of Maniacal Devices"]
+title: Ring of Maniacal Devices *Item 11+*
+linter-yaml-title-alias: Ring of Maniacal Devices *Item 11+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Ring of Maniacal Devices *Item 11+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
 
-- **Usage** worn; **Bulk** —
+# Ring of Maniacal Devices *Item 11+*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
+
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This ring seems like simple tarnished brass, but it enhances your curiosity about traps and devices of all kinds. You can use an [Interact](rules/actions/interact.md) action to pull a set of [thieves' tools](compendium/equipment/items/thieves-tools.md) from the ring. These tools appear in your hand and fold back into the ring if they would leave your possession. They grant you a +2 item bonus to [Thievery](compendium/skills.md#Thievery) checks to [Disable a Device](rules/actions/disable-a-device.md) and to [Pick a Lock](rules/actions/pick-a-lock.md), and the ring's insights grant you the same bonus to [Crafting](compendium/skills.md#Crafting) checks to [Craft](rules/actions/craft.md) and [Repair](rules/actions/repair.md) snares and traps.

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/magical
-- trait/necromancy
-aliases: ["Ghast Stiletto"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/magical, trait/necromancy]
+aliases: [Ghast Stiletto *Item 3*, "Ghast Stiletto"]
+title: Ghast Stiletto *Item 3*
+linter-yaml-title-alias: Ghast Stiletto *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Ghast Stiletto *Item 3*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Ghast Stiletto *Item 3*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/evocation
-- trait/magical
-aliases: ["Depth Charge"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/evocation, trait/magical]
+aliases: [Depth Charge *Item 5+*, "Depth Charge"]
+title: Depth Charge *Item 5+*
+linter-yaml-title-alias: Depth Charge *Item 5+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Depth Charge *Item 5+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Depth Charge *Item 5+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Ammunition** any
 - **Category** Consumable

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/held
-- trait/divination
-- trait/magical
-- trait/uncommon
-aliases: ["Abadar's Flawless Scale"]
+tags: [compendium/src/pf2e/logm, item/category/held, trait/divination, trait/magical, trait/uncommon]
+aliases: ["Abadar's Flawless Scale *Item 3*", "Abadar's Flawless Scale"]
+title: "Abadar's Flawless Scale *Item 3*"
+linter-yaml-title-alias: "Abadar's Flawless Scale *Item 3*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Abadar's Flawless Scale *Item 3*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Abadar's Flawless Scale *Item 3*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Abadar](compendium/setting/deities/abadar.md)
 - **Price** 50 gp

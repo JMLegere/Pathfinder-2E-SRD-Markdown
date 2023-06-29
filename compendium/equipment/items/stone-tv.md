@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/material
-aliases: ["Stone"]
+tags: [compendium/src/pf2e/tv, item/category/material]
+aliases: [Stone *Item 0+*, "Stone"]
+title: Stone *Item 0+*
+linter-yaml-title-alias: Stone *Item 0+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Stone *Item 0+*  
+
+# Stone *Item 0+*
 
 - **Category** Material
 
@@ -17,6 +24,5 @@ Stone was one of the earliest materials used to create tools, and crafters can s
 | Thin Items | 4 | 16 | 8 |
 | Items | 7 | 24 | 12 |
 | Structures | 14 | 48 | 24 |
-
 
 *Source: Treasure Vault p. 169*

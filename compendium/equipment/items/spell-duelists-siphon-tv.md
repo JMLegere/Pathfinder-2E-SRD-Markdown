@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/abjuration
-- trait/grimoire
-- trait/magical
-aliases: ["Spell Duelist's Siphon"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/abjuration, trait/grimoire, trait/magical]
+aliases: ["Spell Duelist's Siphon *Item 12*", "Spell Duelist's Siphon"]
+title: "Spell Duelist's Siphon *Item 12*"
+linter-yaml-title-alias: "Spell Duelist's Siphon *Item 12*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spell Duelist's Siphon *Item 12*  
-[abjuration](rules/traits/abjuration.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+
+# Spell Duelist's Siphon *Item 12*
+
+[abjuration](rules/traits/abjuration.md) [grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1750 gp
 - **Bulk** L

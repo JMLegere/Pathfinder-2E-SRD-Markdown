@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/consumable
-- trait/consumable
-- trait/enchantment
-- trait/fortune
-- trait/fulu
-- trait/magical
-- trait/talisman
-aliases: ["Matchmaker Fulu"]
+tags: [compendium/src/pf2e/som, item/category/consumable, trait/consumable, trait/enchantment, trait/fortune, trait/fulu, trait/magical, trait/talisman]
+aliases: [Matchmaker Fulu *Item 3*, "Matchmaker Fulu"]
+title: Matchmaker Fulu *Item 3*
+linter-yaml-title-alias: Matchmaker Fulu *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Matchmaker Fulu *Item 3*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [fortune](rules/traits/fortune.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Matchmaker Fulu *Item 3*
+
+[consumable](rules/traits/consumable.md) [enchantment](rules/traits/enchantment.md) [fortune](rules/traits/fortune.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 10 gp
 - **Usage** affixed to armor

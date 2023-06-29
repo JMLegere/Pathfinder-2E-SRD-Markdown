@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/inhaled
-- trait/poison
-aliases: ["Nightmare Vapor"]
+tags: [compendium/src/pf2e/crb, item/category/poison, trait/alchemical, trait/consumable, trait/inhaled, trait/poison]
+aliases: [Nightmare Vapor *Item 16*, "Nightmare Vapor"]
+title: Nightmare Vapor *Item 16*
+linter-yaml-title-alias: Nightmare Vapor *Item 16*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Nightmare Vapor *Item 16*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+
+# Nightmare Vapor *Item 16*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [inhaled](rules/traits/inhaled.md) [poison](rules/traits/poison.md)  
 
 - **Price** 1400 gp
 - **Usage** held in 1 hand; **Bulk** L

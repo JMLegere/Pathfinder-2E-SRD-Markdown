@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/staff
-- trait/illusion
-- trait/magical
-- trait/staff
-- trait/uncommon
-aliases: ["Staff Of Impossible Visions"]
+tags: [compendium/src/pf2e/apg, item/category/staff, trait/illusion, trait/magical, trait/staff, trait/uncommon]
+aliases: [Staff Of Impossible Visions *Item 6+*, "Staff Of Impossible Visions"]
+title: Staff Of Impossible Visions *Item 6+*
+linter-yaml-title-alias: Staff Of Impossible Visions *Item 6+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff Of Impossible Visions *Item 6+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Staff Of Impossible Visions *Item 6+*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

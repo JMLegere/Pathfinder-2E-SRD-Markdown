@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av1
-- item/category/artifact
-- trait/artifact
-- trait/magical
-- trait/necromancy
-- trait/unique
-aliases: ["Gauntlight"]
+tags: [compendium/src/pf2e/av1, item/category/artifact, trait/artifact, trait/magical, trait/necromancy, trait/unique]
+aliases: [Gauntlight *Item 20*, "Gauntlight"]
+title: Gauntlight *Item 20*
+linter-yaml-title-alias: Gauntlight *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Gauntlight *Item 20*  
-[artifact](rules/traits/artifact-gmg.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+
+# Gauntlight *Item 20*
+
+[artifact](rules/traits/artifact-gmg.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [unique](rules/traits/unique.md)  
 
 - **Category** Artifact
 

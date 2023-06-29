@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/extradimensional
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Gloves of Storing"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/extradimensional, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Gloves of Storing *Item 7*, "Gloves of Storing"]
+title: Gloves of Storing *Item 7*
+linter-yaml-title-alias: Gloves of Storing *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Gloves of Storing *Item 7*  
-[extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Gloves of Storing *Item 7*
+
+[extradimensional](rules/traits/extradimensional.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 340 gp
-- **Usage** worn gloves; **Bulk** —
+- **Usage** worn gloves; **Bulk**—
 - **Category** Worn
 
 An item can be stored inside these supple leather gloves, held in an extradimensional space. When an item is inside the glove, an image of the item appears as a simple, stitched pattern on the back of each glove.

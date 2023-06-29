@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/poison
-aliases: ["Blister Ammunition"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/poison]
+aliases: [Blister Ammunition *Item 5+*, "Blister Ammunition"]
+title: Blister Ammunition *Item 5+*
+linter-yaml-title-alias: Blister Ammunition *Item 5+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Blister Ammunition *Item 5+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [poison](rules/traits/poison.md)  
+
+# Blister Ammunition *Item 5+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [poison](rules/traits/poison.md)  
 
 - **Ammunition** any
 - **Activate** [Interact](rules/actions/interact.md)

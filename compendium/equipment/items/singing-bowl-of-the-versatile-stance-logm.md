@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/held
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Singing Bowl Of The Versatile Stance"]
+tags: [compendium/src/pf2e/logm, item/category/held, trait/enchantment, trait/magical, trait/uncommon]
+aliases: [Singing Bowl Of The Versatile Stance *Item 11*, "Singing Bowl Of The Versatile Stance"]
+title: Singing Bowl Of The Versatile Stance *Item 11*
+linter-yaml-title-alias: Singing Bowl Of The Versatile Stance *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Singing Bowl Of The Versatile Stance *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Singing Bowl Of The Versatile Stance *Item 11*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Irori](compendium/setting/deities/irori.md)
 - **Price** 1175 gp

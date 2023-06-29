@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/illusion
-- trait/magical
-- trait/spellheart
-- trait/visual
-aliases: ["Lightweave Scarf"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/illusion, trait/magical, trait/spellheart, trait/visual]
+aliases: [Lightweave Scarf *Item 8+*, "Lightweave Scarf"]
+title: Lightweave Scarf *Item 8+*
+linter-yaml-title-alias: Lightweave Scarf *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lightweave Scarf *Item 8+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  [visual](rules/traits/visual.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Lightweave Scarf *Item 8+*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md) [visual](rules/traits/visual.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 The first of these strips of glittering cloth was worn by a monk from Jinin who would interweave it into his handwraps of mighty blows. The spell DC of any spell cast by activating this item is 24.

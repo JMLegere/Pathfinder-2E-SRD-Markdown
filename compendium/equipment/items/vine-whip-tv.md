@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Vine Whip"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/magical, trait/transmutation]
+aliases: [Vine Whip *Item 8*, "Vine Whip"]
+title: Vine Whip *Item 8*
+linter-yaml-title-alias: Vine Whip *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Vine Whip *Item 8*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Vine Whip *Item 8*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 500 gp
 - **Usage** held in 1 hand; **Bulk** 1

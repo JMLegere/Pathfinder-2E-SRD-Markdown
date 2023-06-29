@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa3
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/inhaled
-- trait/poison
-- trait/rare
-aliases: ["Addlebrain"]
+tags: [compendium/src/pf2e/aoa3, item/category/poison, trait/alchemical, trait/consumable, trait/inhaled, trait/poison, trait/rare]
+aliases: [Addlebrain *Item 7*, "Addlebrain"]
+title: Addlebrain *Item 7*
+linter-yaml-title-alias: Addlebrain *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Addlebrain *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+
+# Addlebrain *Item 7*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [inhaled](rules/traits/inhaled.md) [poison](rules/traits/poison.md) [rare](rules/traits/rare.md)  
 
 - **Price** 58 gp
 - **Usage** held in 2 hands; **Bulk** L

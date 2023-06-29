@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/divine
-- trait/good
-- trait/intelligent
-- trait/invested
-- trait/rare
-- trait/transmutation
-aliases: ["Faerie Queen's Bower"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/divine, trait/good, trait/intelligent, trait/invested, trait/rare, trait/transmutation]
+aliases: ["Faerie Queen's Bower *Item 13*", "Faerie Queen's Bower"]
+title: "Faerie Queen's Bower *Item 13*"
+linter-yaml-title-alias: "Faerie Queen's Bower *Item 13*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Faerie Queen's Bower *Item 13*  
-[divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Faerie Queen's Bower *Item 13*
+
+[divine](rules/traits/divine.md) [good](rules/traits/good.md) [intelligent](rules/traits/intelligent-gmg.md) [invested](rules/traits/invested.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn armor; **Bulk** 1
 - **Category** Armor

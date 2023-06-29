@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/companion
-- trait/companion
-- trait/invested
-- trait/primal
-- trait/transmutation
-- trait/uncommon
-aliases: ["Swarmform Collar"]
+tags: [compendium/src/pf2e/lotgb, item/category/companion, trait/companion, trait/invested, trait/primal, trait/transmutation, trait/uncommon]
+aliases: [Swarmform Collar *Item 7*, "Swarmform Collar"]
+title: Swarmform Collar *Item 7*
+linter-yaml-title-alias: Swarmform Collar *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Swarmform Collar *Item 7*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Swarmform Collar *Item 7*
+
+[companion](rules/traits/companion.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 350 gp
 - **Usage** worn collar; **Bulk** 1

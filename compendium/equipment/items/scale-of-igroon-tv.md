@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/artifact
-- trait/abjuration
-- trait/artifact
-- trait/primal
-- trait/rare
-aliases: ["Scale of Igroon"]
+tags: [compendium/src/pf2e/tv, item/category/artifact, trait/abjuration, trait/artifact, trait/primal, trait/rare]
+aliases: [Scale of Igroon *Item 21*, "Scale of Igroon"]
+title: Scale of Igroon *Item 21*
+linter-yaml-title-alias: Scale of Igroon *Item 21*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Scale of Igroon *Item 21*  
-[abjuration](rules/traits/abjuration.md)  [artifact](rules/traits/artifact-gmg.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+
+# Scale of Igroon *Item 21*
+
+[abjuration](rules/traits/abjuration.md) [artifact](rules/traits/artifact-gmg.md) [primal](rules/traits/primal.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

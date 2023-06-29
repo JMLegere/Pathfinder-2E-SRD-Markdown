@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/talisman
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/talisman
-aliases: ["Dragonbone Arrowhead"]
+tags: [compendium/src/pf2e/som, item/category/talisman, trait/consumable, trait/evocation, trait/magical, trait/talisman]
+aliases: [Dragonbone Arrowhead *Item 4*, "Dragonbone Arrowhead"]
+title: Dragonbone Arrowhead *Item 4*
+linter-yaml-title-alias: Dragonbone Arrowhead *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragonbone Arrowhead *Item 4*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Dragonbone Arrowhead *Item 4*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 20 gp
 - **Usage** affixed to a melee weapon or a ranged weapon

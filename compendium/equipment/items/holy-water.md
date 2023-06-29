@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/consumable
-- trait/consumable
-- trait/divine
-- trait/good
-- trait/necromancy
-- trait/splash
-aliases: ["Holy Water"]
+tags: [compendium/src/pf2e/crb, item/category/consumable, trait/consumable, trait/divine, trait/good, trait/necromancy, trait/splash]
+aliases: [Holy Water *Item 1*, "Holy Water"]
+title: Holy Water *Item 1*
+linter-yaml-title-alias: Holy Water *Item 1*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Holy Water *Item 1*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [necromancy](rules/traits/necromancy.md)  [splash](rules/traits/splash.md)  
+
+# Holy Water *Item 1*
+
+[consumable](rules/traits/consumable.md) [divine](rules/traits/divine.md) [good](rules/traits/good.md) [necromancy](rules/traits/necromancy.md) [splash](rules/traits/splash.md)  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L

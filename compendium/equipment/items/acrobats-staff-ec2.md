@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec2
-- item/category/held
-- trait/fortune
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Acrobat's Staff"]
+tags: [compendium/src/pf2e/ec2, item/category/held, trait/fortune, trait/magical, trait/transmutation, trait/uncommon]
+aliases: ["Acrobat's Staff *Item 6*", "Acrobat's Staff"]
+title: "Acrobat's Staff *Item 6*"
+linter-yaml-title-alias: "Acrobat's Staff *Item 6*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Acrobat's Staff *Item 6*  
-[fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Acrobat's Staff *Item 6*
+
+[fortune](rules/traits/fortune.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 235 gp
 - **Usage** held in 2 hands; **Bulk** 2

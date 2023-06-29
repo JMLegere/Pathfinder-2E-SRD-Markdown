@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/rune
-- trait/magical
-- trait/transmutation
-aliases: ["Winged"]
+tags: [compendium/src/pf2e/apg, item/category/rune, trait/magical, trait/transmutation]
+aliases: [Winged *Item 13+*, "Winged"]
+title: Winged *Item 13+*
+linter-yaml-title-alias: Winged *Item 13+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Winged *Item 13+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Winged *Item 13+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** etched onto armor
 - **Category** Rune

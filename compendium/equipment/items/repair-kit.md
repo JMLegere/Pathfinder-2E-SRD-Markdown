@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/adventuring-gear
-aliases: ["Repair Kit"]
+tags: [compendium/src/pf2e/crb, item/category/adventuring-gear]
+aliases: [Repair Kit *Item 0*, "Repair Kit"]
+title: Repair Kit *Item 0*
+linter-yaml-title-alias: Repair Kit *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Repair Kit *Item 0*  
+
+# Repair Kit *Item 0*
 
 - **Bulk** 1
 - **Hands** 2

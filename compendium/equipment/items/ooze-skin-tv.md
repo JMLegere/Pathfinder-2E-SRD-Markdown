@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/alchemical
-aliases: ["Ooze Skin"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/alchemical]
+aliases: [Ooze Skin *Item 5*, "Ooze Skin"]
+title: Ooze Skin *Item 5*
+linter-yaml-title-alias: Ooze Skin *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Ooze Skin *Item 5*  
+
+# Ooze Skin *Item 5*
+
 [alchemical](rules/traits/alchemical.md)  
 
 - **Price** 150 gp

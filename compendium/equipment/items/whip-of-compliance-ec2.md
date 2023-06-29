@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec2
-- item/category/held
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Whip Of Compliance"]
+tags: [compendium/src/pf2e/ec2, item/category/held, trait/enchantment, trait/magical, trait/uncommon]
+aliases: [Whip Of Compliance *Item 9*, "Whip Of Compliance"]
+title: Whip Of Compliance *Item 9*
+linter-yaml-title-alias: Whip Of Compliance *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Whip Of Compliance *Item 9*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Whip Of Compliance *Item 9*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 3000 gp
 - **Usage** held, 1 hand; **Bulk** 1

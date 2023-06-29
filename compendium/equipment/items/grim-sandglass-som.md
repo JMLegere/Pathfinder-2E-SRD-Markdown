@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/spellheart
-- trait/magical
-- trait/necromancy
-- trait/spellheart
-aliases: ["Grim Sandglass"]
+tags: [compendium/src/pf2e/som, item/category/spellheart, trait/magical, trait/necromancy, trait/spellheart]
+aliases: [Grim Sandglass *Item 3+*, "Grim Sandglass"]
+title: Grim Sandglass *Item 3+*
+linter-yaml-title-alias: Grim Sandglass *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Grim Sandglass *Item 3+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [spellheart](rules/traits/spellheart-som.md)  
+
+# Grim Sandglass *Item 3+*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [spellheart](rules/traits/spellheart-som.md)  
 
 - **Usage** affixed to armor or a weapon
 - **Category** Spellheart

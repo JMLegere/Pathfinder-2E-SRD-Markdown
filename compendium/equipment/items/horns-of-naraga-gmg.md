@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/unique
-aliases: ["Horns Of Naraga"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/invested, trait/magical, trait/necromancy, trait/unique]
+aliases: [Horns Of Naraga *Item 26*, "Horns Of Naraga"]
+title: Horns Of Naraga *Item 26*
+linter-yaml-title-alias: Horns Of Naraga *Item 26*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Horns Of Naraga *Item 26*  
-[artifact](rules/traits/artifact-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+
+# Horns Of Naraga *Item 26*
+
+[artifact](rules/traits/artifact-gmg.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [unique](rules/traits/unique.md)  
 
 - **Usage** worn headwear; **Bulk** 2
 - **Category** Artifact

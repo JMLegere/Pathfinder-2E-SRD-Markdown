@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/alchemical
-- trait/aura
-- trait/emotion
-- trait/fear
-- trait/mental
-aliases: ["Dread Helm"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/alchemical, trait/aura, trait/emotion, trait/fear, trait/mental]
+aliases: [Dread Helm *Item 4*, "Dread Helm"]
+title: Dread Helm *Item 4*
+linter-yaml-title-alias: Dread Helm *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dread Helm *Item 4*  
-[alchemical](rules/traits/alchemical.md)  [aura](rules/traits/aura.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+
+# Dread Helm *Item 4*
+
+[alchemical](rules/traits/alchemical.md) [aura](rules/traits/aura.md) [emotion](rules/traits/emotion.md) [fear](rules/traits/fear.md) [mental](rules/traits/mental.md)  
 
 - **Price** 100 gp
 - **Usage** worn; **Bulk** L

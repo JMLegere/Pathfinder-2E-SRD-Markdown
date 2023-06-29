@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/grimoire
-- trait/enchantment
-- trait/grimoire
-- trait/magical
-aliases: ["Spellbook Of Redundant Enchantment"]
+tags: [compendium/src/pf2e/som, item/category/grimoire, trait/enchantment, trait/grimoire, trait/magical]
+aliases: [Spellbook Of Redundant Enchantment *Item 8*, "Spellbook Of Redundant Enchantment"]
+title: Spellbook Of Redundant Enchantment *Item 8*
+linter-yaml-title-alias: Spellbook Of Redundant Enchantment *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spellbook Of Redundant Enchantment *Item 8*  
-[enchantment](rules/traits/enchantment.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+
+# Spellbook Of Redundant Enchantment *Item 8*
+
+[enchantment](rules/traits/enchantment.md) [grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 420 gp
 - **Bulk** L

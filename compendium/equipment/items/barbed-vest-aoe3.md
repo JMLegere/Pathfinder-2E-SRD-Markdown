@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe3
-- item/category/armor
-- trait/cursed
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/rare
-aliases: ["Barbed Vest"]
+tags: [compendium/src/pf2e/aoe3, item/category/armor, trait/cursed, trait/invested, trait/magical, trait/necromancy, trait/rare]
+aliases: [Barbed Vest *Item 10*, "Barbed Vest"]
+title: Barbed Vest *Item 10*
+linter-yaml-title-alias: Barbed Vest *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Barbed Vest *Item 10*  
-[cursed](rules/traits/cursed-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+
+# Barbed Vest *Item 10*
+
+[cursed](rules/traits/cursed-gmg.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [rare](rules/traits/rare.md)  
 
 - **Usage** worn armor; **Bulk** 1
 - **Category** Armor

@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/adventuring-gear
-aliases: ["Concealed Sheath"]
+tags: [compendium/src/pf2e/apg, item/category/adventuring-gear]
+aliases: [Concealed Sheath *Item 3*, "Concealed Sheath"]
+title: Concealed Sheath *Item 3*
+linter-yaml-title-alias: Concealed Sheath *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Concealed Sheath *Item 3*  
+
+# Concealed Sheath *Item 3*
 
 - **Price** 25 gp
 - **Category** Adventuring Gear

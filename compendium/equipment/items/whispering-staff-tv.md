@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/apex
-- trait/apex
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/staff
-aliases: ["Whispering Staff"]
+tags: [compendium/src/pf2e/tv, item/category/apex, trait/apex, trait/divination, trait/invested, trait/magical, trait/staff]
+aliases: [Whispering Staff *Item 20*, "Whispering Staff"]
+title: Whispering Staff *Item 20*
+linter-yaml-title-alias: Whispering Staff *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Whispering Staff *Item 20*  
-[apex](rules/traits/apex.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Whispering Staff *Item 20*
+
+[apex](rules/traits/apex.md) [divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Price** 70000 gp
 - **Usage** held in 1 hand; **Bulk** 1

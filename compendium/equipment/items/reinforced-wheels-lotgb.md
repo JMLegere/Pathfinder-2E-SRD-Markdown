@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/wheelchair-upgrade
-aliases: ["Reinforced Wheels"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/wheelchair-upgrade]
+aliases: [Reinforced Wheels *Item 0*, "Reinforced Wheels"]
+title: Reinforced Wheels *Item 0*
+linter-yaml-title-alias: Reinforced Wheels *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Reinforced Wheels *Item 0*  
+
+# Reinforced Wheels *Item 0*
 
 - **Price** 5 sp
 - **Category** Wheelchair Upgrade

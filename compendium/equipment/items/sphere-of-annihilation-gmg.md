@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Sphere Of Annihilation"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/magical, trait/rare, trait/transmutation]
+aliases: [Sphere Of Annihilation *Item 27*, "Sphere Of Annihilation"]
+title: Sphere Of Annihilation *Item 27*
+linter-yaml-title-alias: Sphere Of Annihilation *Item 27*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Sphere Of Annihilation *Item 27*  
-[artifact](rules/traits/artifact-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Sphere Of Annihilation *Item 27*
+
+[artifact](rules/traits/artifact-gmg.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Category** Artifact
 

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/frp2
-- item/category/talisman
-- trait/consumable
-- trait/incapacitation
-- trait/magical
-- trait/talisman
-- trait/uncommon
-aliases: ["Tusk And Fang Chain"]
+tags: [compendium/src/pf2e/frp2, item/category/talisman, trait/consumable, trait/incapacitation, trait/magical, trait/talisman, trait/uncommon]
+aliases: [Tusk And Fang Chain *Item 16*, "Tusk And Fang Chain"]
+title: Tusk And Fang Chain *Item 16*
+linter-yaml-title-alias: Tusk And Fang Chain *Item 16*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Tusk And Fang Chain *Item 16*  
-[consumable](rules/traits/consumable.md)  [incapacitation](rules/traits/incapacitation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Tusk And Fang Chain *Item 16*
+
+[consumable](rules/traits/consumable.md) [incapacitation](rules/traits/incapacitation.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1800 gp
 - **Usage** affixed to armor
@@ -21,7 +24,7 @@ aliases: ["Tusk And Fang Chain"]
 
 This length of silver chain has a tiger's fang on one end and the tip of a dire boar's tusk on the other. When you activate the chain, an ephemeral chain encircles the target creature's head and a cacophony of animal sounds clouds its mind. It must attempt a DC 35 Will save.
 
-> [!success-degree] 
+> [!success-degree]
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature is [confused](rules/conditions.md#Confused) on its next action.
 > - **Failure** The creature is [confused](rules/conditions.md#Confused) for 1 round.

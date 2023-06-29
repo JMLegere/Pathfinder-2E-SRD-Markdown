@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av3
-- item/category/other
-- trait/invested
-- trait/necromancy
-- trait/occult
-- trait/unique
-aliases: ["Ebon Fulcrum Lens"]
+tags: [compendium/src/pf2e/av3, item/category/other, trait/invested, trait/necromancy, trait/occult, trait/unique]
+aliases: [Ebon Fulcrum Lens *Item 12*, "Ebon Fulcrum Lens"]
+title: Ebon Fulcrum Lens *Item 12*
+linter-yaml-title-alias: Ebon Fulcrum Lens *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Ebon Fulcrum Lens *Item 12*  
-[invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+
+# Ebon Fulcrum Lens *Item 12*
+
+[invested](rules/traits/invested.md) [necromancy](rules/traits/necromancy.md) [occult](rules/traits/occult.md) [unique](rules/traits/unique.md)  
 
 - **Price** 2000 gp
 - **Bulk** L

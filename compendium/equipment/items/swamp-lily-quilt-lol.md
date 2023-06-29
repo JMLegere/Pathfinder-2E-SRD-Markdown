@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/rare
-aliases: ["Swamp Lily Quilt"]
+tags: [compendium/src/pf2e/lol, item/category/consumable, trait/alchemical, trait/consumable, trait/rare]
+aliases: [Swamp Lily Quilt *Item 3*, "Swamp Lily Quilt"]
+title: Swamp Lily Quilt *Item 3*
+linter-yaml-title-alias: Swamp Lily Quilt *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Swamp Lily Quilt *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+
+# Swamp Lily Quilt *Item 3*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [rare](rules/traits/rare.md)  
 
 - **Price** 12 gp
 - **Usage** held in 2 hands; **Bulk** 2

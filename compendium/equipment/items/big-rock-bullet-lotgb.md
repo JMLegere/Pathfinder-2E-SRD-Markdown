@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/consumable
-- trait/consumable
-- trait/earth
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Big Rock Bullet"]
+tags: [compendium/src/pf2e/lotgb, item/category/consumable, trait/consumable, trait/earth, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Big Rock Bullet *Item 7+*, "Big Rock Bullet"]
+title: Big Rock Bullet *Item 7+*
+linter-yaml-title-alias: Big Rock Bullet *Item 7+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Big Rock Bullet *Item 7+*  
-[consumable](rules/traits/consumable.md)  [earth](rules/traits/earth.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Big Rock Bullet *Item 7+*
+
+[consumable](rules/traits/consumable.md) [earth](rules/traits/earth.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Ammunition** sling bullet
 - **Activate** [Interact](rules/actions/interact.md)

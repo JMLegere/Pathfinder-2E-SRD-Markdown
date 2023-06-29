@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/chaotic
-- trait/divine
-- trait/evocation
-- trait/good
-aliases: ["Guiding Star"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/chaotic, trait/divine, trait/evocation, trait/good]
+aliases: [Guiding Star *Item 7*, "Guiding Star"]
+title: Guiding Star *Item 7*
+linter-yaml-title-alias: Guiding Star *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Guiding Star *Item 7*  
-[chaotic](rules/traits/chaotic.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  
+
+# Guiding Star *Item 7*
+
+[chaotic](rules/traits/chaotic.md) [divine](rules/traits/divine.md) [evocation](rules/traits/evocation.md) [good](rules/traits/good.md)  
 
 - **Price** 325 gp
 - **Usage** held in 1 hand Bulk L

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/magical
-- trait/wand
-aliases: ["Wand Cane"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/magical, trait/wand]
+aliases: [Wand Cane *Item 4*, "Wand Cane"]
+title: Wand Cane *Item 4*
+linter-yaml-title-alias: Wand Cane *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Wand Cane *Item 4*  
-[magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+
+# Wand Cane *Item 4*
+
+[magical](rules/traits/magical.md) [wand](rules/traits/wand.md)  
 
 - **Price** 100 gp
 - **Usage** held in 1 hand; **Bulk** L

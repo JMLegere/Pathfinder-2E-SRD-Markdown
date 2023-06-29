@@ -1,15 +1,29 @@
 ---
+level: "1"
+bulk:
+price:
+status: Pillbug's Pantry
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags: [compendium/src/pf2e/av1, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/uncommon]
-aliases: ["Skeptic's Elixir *Item 1+*  ", "Skeptic's Elixir"]
-title: "Skeptic's Elixir *Item 1+*  "
-linter-yaml-title-alias: "Skeptic's Elixir *Item 1+*  "
+tags:
+  - compendium/src/pf2e/av1
+  - item/category/elixir
+  - trait/alchemical
+  - trait/consumable
+  - trait/elixir
+  - trait/uncommon
+aliases:
+  - Skeptic's Elixir *Item 1+*
+  - Skeptic's Elixir
+title: Skeptic's Elixir *Item 1+*
+linter-yaml-title-alias: Skeptic's Elixir *Item 1+*
 date created: Monday, June 19th 2023, 5:15:11 pm
-date modified: Thursday, June 29th 2023, 3:58:23 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
 
 # Skeptic's Elixir *Item 1+*
+
+#available
 
 [alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [elixir](rules/traits/elixir.md) [uncommon](rules/traits/uncommon.md)  
 

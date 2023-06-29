@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/magical
-- trait/necromancy
-- trait/negative
-- trait/spellheart
-aliases: ["Sanguine Fang"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/magical, trait/necromancy, trait/negative, trait/spellheart]
+aliases: [Sanguine Fang *Item 9+*, "Sanguine Fang"]
+title: Sanguine Fang *Item 9+*
+linter-yaml-title-alias: Sanguine Fang *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Sanguine Fang *Item 9+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Sanguine Fang *Item 9+*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 A pointed vampire fang hovers within this smoked-glass vial, its tip crimson with slowly dripping blood. The spell DC of any spell cast by activating this item is 25.

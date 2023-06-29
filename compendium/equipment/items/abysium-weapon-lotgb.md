@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/rare
-aliases: ["Abysium Weapon"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/rare]
+aliases: [Abysium Weapon *Item 12+*, "Abysium Weapon"]
+title: Abysium Weapon *Item 12+*
+linter-yaml-title-alias: Abysium Weapon *Item 12+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Abysium Weapon *Item 12+*  
+
+# Abysium Weapon *Item 12+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** varies by weapon; **Bulk** varies by weapon

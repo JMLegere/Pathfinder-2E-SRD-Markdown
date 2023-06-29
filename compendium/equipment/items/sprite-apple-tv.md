@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/light
-aliases: ["Sprite Apple"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/light]
+aliases: [Sprite Apple *Item 3+*, "Sprite Apple"]
+title: Sprite Apple *Item 3+*
+linter-yaml-title-alias: Sprite Apple *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Sprite Apple *Item 3+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [light](rules/traits/light.md)  
+
+# Sprite Apple *Item 3+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [light](rules/traits/light.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

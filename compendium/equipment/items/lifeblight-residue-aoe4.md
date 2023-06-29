@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe4
-- item/category/poison
-- trait/consumable
-- trait/divine
-- trait/injury
-- trait/poison
-- trait/uncommon
-- trait/virulent
-aliases: ["Lifeblight Residue"]
+tags: [compendium/src/pf2e/aoe4, item/category/poison, trait/consumable, trait/divine, trait/injury, trait/poison, trait/uncommon, trait/virulent]
+aliases: [Lifeblight Residue *Item 15*, "Lifeblight Residue"]
+title: Lifeblight Residue *Item 15*
+linter-yaml-title-alias: Lifeblight Residue *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lifeblight Residue *Item 15*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  [virulent](rules/traits/virulent.md)  
+
+# Lifeblight Residue *Item 15*
+
+[consumable](rules/traits/consumable.md) [divine](rules/traits/divine.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md) [virulent](rules/traits/virulent.md)  
 
 - **Price** 1100 gp
 - **Usage** held in 2 hands; **Bulk** L

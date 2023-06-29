@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/abjuration
-- trait/divine
-- trait/invested
-aliases: ["Cloister Robe"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/abjuration, trait/divine, trait/invested]
+aliases: [Cloister Robe *Item 9+*, "Cloister Robe"]
+title: Cloister Robe *Item 9+*
+linter-yaml-title-alias: Cloister Robe *Item 9+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Cloister Robe *Item 9+*  
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  
+
+# Cloister Robe *Item 9+*
+
+[abjuration](rules/traits/abjuration.md) [divine](rules/traits/divine.md) [invested](rules/traits/invested.md)  
 
 - **Usage** worn garment; **Bulk** 1
 - **Category** Worn

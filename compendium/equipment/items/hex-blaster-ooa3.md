@@ -1,21 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa3
-- item/category/curse
-- trait/curse
-- trait/emotion
-- trait/enchantment
-- trait/fear
-- trait/magical
-- trait/mental
-- trait/occult
-- trait/unique
-aliases: ["Hex Blaster"]
+tags: [compendium/src/pf2e/ooa3, item/category/curse, trait/curse, trait/emotion, trait/enchantment, trait/fear, trait/magical, trait/mental, trait/occult, trait/unique]
+aliases: [Hex Blaster *Item 11*, "Hex Blaster"]
+title: Hex Blaster *Item 11*
+linter-yaml-title-alias: Hex Blaster *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hex Blaster *Item 11*  
-[curse](rules/traits/curse.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [fear](rules/traits/fear.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+
+# Hex Blaster *Item 11*
+
+[curse](rules/traits/curse.md) [emotion](rules/traits/emotion.md) [enchantment](rules/traits/enchantment.md) [fear](rules/traits/fear.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [occult](rules/traits/occult.md) [unique](rules/traits/unique.md)  
 
 - **Price** 1400 gp
 - **Usage** held in 2 hands; **Bulk** 2

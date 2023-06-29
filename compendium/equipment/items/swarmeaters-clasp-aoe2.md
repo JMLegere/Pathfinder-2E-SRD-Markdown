@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe2
-- item/category/worn
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Swarmeater's Clasp"]
+tags: [compendium/src/pf2e/aoe2, item/category/worn, trait/abjuration, trait/invested, trait/magical, trait/uncommon]
+aliases: ["Swarmeater's Clasp *Item 8*", "Swarmeater's Clasp"]
+title: "Swarmeater's Clasp *Item 8*"
+linter-yaml-title-alias: "Swarmeater's Clasp *Item 8*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Swarmeater's Clasp *Item 8*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Swarmeater's Clasp *Item 8*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 460 gp
-- **Usage** worn; **Bulk** –
+- **Usage** worn; **Bulk**–
 - **Category** Worn
 
 These small brooches usually feature carved reliefs of verminous, swarming creatures. When you wear the clasp, you gain resistance 10 to physical damage from swarm creatures.

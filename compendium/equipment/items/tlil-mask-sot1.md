@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot1
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Tlil Mask"]
+tags: [compendium/src/pf2e/sot1, item/category/worn, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Tlil Mask *Item 5+*, "Tlil Mask"]
+title: Tlil Mask *Item 5+*
+linter-yaml-title-alias: Tlil Mask *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Tlil Mask *Item 5+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Tlil Mask *Item 5+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** worn mask; **Bulk** L
 - **Category** Worn

@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/drug
-- trait/ingested
-- trait/inhaled
-- trait/poison
-aliases: ["Refined Pesh"]
+tags: [compendium/src/pf2e/gmg, item/category/poison, trait/alchemical, trait/consumable, trait/drug, trait/ingested, trait/inhaled, trait/poison]
+aliases: [Refined Pesh *Item 1*, "Refined Pesh"]
+title: Refined Pesh *Item 1*
+linter-yaml-title-alias: Refined Pesh *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Refined Pesh *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+
+# Refined Pesh *Item 1*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [drug](rules/traits/drug-gmg.md) [ingested](rules/traits/ingested.md) [inhaled](rules/traits/inhaled.md) [poison](rules/traits/poison.md)  
 
 - **Price** 2 gp
 - **Usage** held in 1 hand; **Bulk** L

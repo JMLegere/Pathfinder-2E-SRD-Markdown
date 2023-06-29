@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec2
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Moonstone Diadem"]
+tags: [compendium/src/pf2e/ec2, item/category/worn, trait/divination, trait/invested, trait/magical, trait/rare]
+aliases: [Moonstone Diadem *Item 8*, "Moonstone Diadem"]
+title: Moonstone Diadem *Item 8*
+linter-yaml-title-alias: Moonstone Diadem *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Moonstone Diadem *Item 8*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Moonstone Diadem *Item 8*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 500 gp
 - **Usage** worn circlet; **Bulk** L

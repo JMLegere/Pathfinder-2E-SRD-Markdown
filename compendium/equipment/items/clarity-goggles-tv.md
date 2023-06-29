@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-aliases: ["Clarity Goggles"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/divination, trait/invested, trait/magical]
+aliases: [Clarity Goggles *Item 8+*, "Clarity Goggles"]
+title: Clarity Goggles *Item 8+*
+linter-yaml-title-alias: Clarity Goggles *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Clarity Goggles *Item 8+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
 
-- **Usage** worn eyepiece; **Bulk** —
+# Clarity Goggles *Item 8+*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
+
+- **Usage** worn eyepiece; **Bulk**—
 - **Category** Worn
 
 Clarity goggles feature faceted lenses that filter your surroundings from several slightly different angles at once, giving you a sharper picture of them. While wearing the goggles, you gain a +1 item bonus to visual [Perception](compendium/skills.md#Perception) checks.

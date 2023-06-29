@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/magical
-aliases: ["Elemental Gem"]
+tags: [compendium/src/pf2e/crb, item/category/consumable, trait/conjuration, trait/consumable, trait/magical]
+aliases: [Elemental Gem *Item 10*, "Elemental Gem"]
+title: Elemental Gem *Item 10*
+linter-yaml-title-alias: Elemental Gem *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Elemental Gem *Item 10*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Elemental Gem *Item 10*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Price** 200 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** command, , [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

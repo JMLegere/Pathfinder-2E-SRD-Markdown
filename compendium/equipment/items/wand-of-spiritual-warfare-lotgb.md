@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/wand
-- trait/evocation
-- trait/force
-- trait/magical
-- trait/uncommon
-- trait/wand
-aliases: ["Wand Of Spiritual Warfare"]
+tags: [compendium/src/pf2e/lotgb, item/category/wand, trait/evocation, trait/force, trait/magical, trait/uncommon, trait/wand]
+aliases: [Wand Of Spiritual Warfare *Item 7+*, "Wand Of Spiritual Warfare"]
+title: Wand Of Spiritual Warfare *Item 7+*
+linter-yaml-title-alias: Wand Of Spiritual Warfare *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Wand Of Spiritual Warfare *Item 7+*  
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  [wand](rules/traits/wand.md)  
+
+# Wand Of Spiritual Warfare *Item 7+*
+
+[evocation](rules/traits/evocation.md) [force](rules/traits/force.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md) [wand](rules/traits/wand.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

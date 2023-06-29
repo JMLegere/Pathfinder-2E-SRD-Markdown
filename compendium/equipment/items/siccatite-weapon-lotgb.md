@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/rare
-aliases: ["Siccatite Weapon"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/rare]
+aliases: [Siccatite Weapon *Item 11+*, "Siccatite Weapon"]
+title: Siccatite Weapon *Item 11+*
+linter-yaml-title-alias: Siccatite Weapon *Item 11+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Siccatite Weapon *Item 11+*  
+
+# Siccatite Weapon *Item 11+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** varies by weapon; **Bulk** varies by weapon

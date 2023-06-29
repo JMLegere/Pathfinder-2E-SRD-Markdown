@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/invested
-- trait/magical
-aliases: ["Bravery Baldric"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/invested, trait/magical]
+aliases: [Bravery Baldric *Item 5+*, "Bravery Baldric"]
+title: Bravery Baldric *Item 5+*
+linter-yaml-title-alias: Bravery Baldric *Item 5+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bravery Baldric *Item 5+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Bravery Baldric *Item 5+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn; **Bulk** L
 - **Category** Worn

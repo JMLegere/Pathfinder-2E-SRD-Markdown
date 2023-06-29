@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/intelligent
-- trait/invested
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Wrestler's Armbands"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/intelligent, trait/invested, trait/magical, trait/rare, trait/transmutation]
+aliases: ["Wrestler's Armbands *Item 9*", "Wrestler's Armbands"]
+title: "Wrestler's Armbands *Item 9*"
+linter-yaml-title-alias: "Wrestler's Armbands *Item 9*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wrestler's Armbands *Item 9*  
-[intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Wrestler's Armbands *Item 9*
+
+[intelligent](rules/traits/intelligent-gmg.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn armbands; **Bulk** L
 - **Category** Worn

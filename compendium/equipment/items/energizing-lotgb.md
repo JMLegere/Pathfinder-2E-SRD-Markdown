@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/rune
-- trait/abjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Energizing"]
+tags: [compendium/src/pf2e/lotgb, item/category/rune, trait/abjuration, trait/magical, trait/uncommon]
+aliases: [Energizing *Item 6*, "Energizing"]
+title: Energizing *Item 6*
+linter-yaml-title-alias: Energizing *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Energizing *Item 6*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Energizing *Item 6*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 250 gp
 - **Usage** etched onto a weapon

@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/enchantment
-- trait/invested
-- trait/magical
-aliases: ["Diplomat's Badge"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/enchantment, trait/invested, trait/magical]
+aliases: ["Diplomat's Badge *Item 5*", "Diplomat's Badge"]
+title: "Diplomat's Badge *Item 5*"
+linter-yaml-title-alias: "Diplomat's Badge *Item 5*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Diplomat's Badge *Item 5*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Diplomat's Badge *Item 5*
+
+[enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 125 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 When displayed prominently, this brass badge makes creatures find you more agreeable. You gain a +1 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks.

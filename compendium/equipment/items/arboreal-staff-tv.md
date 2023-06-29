@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/divination
-- trait/intelligent
-- trait/primal
-- trait/rare
-- trait/staff
-aliases: ["Arboreal Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/divination, trait/intelligent, trait/primal, trait/rare, trait/staff]
+aliases: [Arboreal Staff *Item 12*, "Arboreal Staff"]
+title: Arboreal Staff *Item 12*
+linter-yaml-title-alias: Arboreal Staff *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Arboreal Staff *Item 12*  
-[divination](rules/traits/divination.md)  [intelligent](rules/traits/intelligent-gmg.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  [staff](rules/traits/staff.md)  
+
+# Arboreal Staff *Item 12*
+
+[divination](rules/traits/divination.md) [intelligent](rules/traits/intelligent-gmg.md) [primal](rules/traits/primal.md) [rare](rules/traits/rare.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

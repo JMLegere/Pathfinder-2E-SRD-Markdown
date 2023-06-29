@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Cloak of the Bat"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/invested, trait/magical, trait/transmutation]
+aliases: [Cloak of the Bat *Item 10+*, "Cloak of the Bat"]
+title: Cloak of the Bat *Item 10+*
+linter-yaml-title-alias: Cloak of the Bat *Item 10+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Cloak of the Bat *Item 10+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Cloak of the Bat *Item 10+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn cloak; **Bulk** L
 - **Category** Worn

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Rope Of Climbing"]
+tags: [compendium/src/pf2e/apg, item/category/held, trait/magical, trait/transmutation]
+aliases: [Rope Of Climbing *Item 3+*, "Rope Of Climbing"]
+title: Rope Of Climbing *Item 3+*
+linter-yaml-title-alias: Rope Of Climbing *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Rope Of Climbing *Item 3+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Rope Of Climbing *Item 3+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

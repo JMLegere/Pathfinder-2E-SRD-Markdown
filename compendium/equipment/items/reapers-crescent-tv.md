@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/evocation
-- trait/light
-- trait/magical
-- trait/uncommon
-aliases: ["Reaper's Crescent"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/evocation, trait/light, trait/magical, trait/uncommon]
+aliases: ["Reaper's Crescent *Item 9*", "Reaper's Crescent"]
+title: "Reaper's Crescent *Item 9*"
+linter-yaml-title-alias: "Reaper's Crescent *Item 9*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Reaper's Crescent *Item 9*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Reaper's Crescent *Item 9*
+
+[evocation](rules/traits/evocation.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 575 gp
 - **Usage** held in 1 hand; **Bulk** L

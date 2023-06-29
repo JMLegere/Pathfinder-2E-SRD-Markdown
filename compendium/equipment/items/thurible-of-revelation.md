@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/divination
-- trait/divine
-aliases: ["Thurible of Revelation"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/divination, trait/divine]
+aliases: [Thurible of Revelation *Item 3+*, "Thurible of Revelation"]
+title: Thurible of Revelation *Item 3+*
+linter-yaml-title-alias: Thurible of Revelation *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Thurible of Revelation *Item 3+*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  
+
+# Thurible of Revelation *Item 3+*
+
+[divination](rules/traits/divination.md) [divine](rules/traits/divine.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

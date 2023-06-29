@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/evocation
-- trait/magical
-aliases: ["Flurrying"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/evocation, trait/magical]
+aliases: [Flurrying *Item 7*, "Flurrying"]
+title: Flurrying *Item 7*
+linter-yaml-title-alias: Flurrying *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Flurrying *Item 7*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Flurrying *Item 7*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 360 gp
 - **Usage** etched onto a melee weapon with the [monk](rules/traits/monk.md) trait

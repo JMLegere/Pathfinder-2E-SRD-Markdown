@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/frp2
-- item/category/held
-- trait/evocation
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Sky-piercing Bow"]
+tags: [compendium/src/pf2e/frp2, item/category/held, trait/evocation, trait/magical, trait/rare, trait/transmutation]
+aliases: [Sky-piercing Bow *Item 19*, "Sky-piercing Bow"]
+title: Sky-piercing Bow *Item 19*
+linter-yaml-title-alias: Sky-piercing Bow *Item 19*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Sky-piercing Bow *Item 19*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Sky-piercing Bow *Item 19*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 40000 gp
 - **Usage** held in 2 hands; **Bulk** L

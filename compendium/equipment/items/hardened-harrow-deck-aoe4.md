@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe4
-- item/category/held
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Hardened Harrow Deck"]
+tags: [compendium/src/pf2e/aoe4, item/category/held, trait/magical, trait/rare, trait/transmutation]
+aliases: [Hardened Harrow Deck *Item 14*, "Hardened Harrow Deck"]
+title: Hardened Harrow Deck *Item 14*
+linter-yaml-title-alias: Hardened Harrow Deck *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Hardened Harrow Deck *Item 14*  
-[magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Hardened Harrow Deck *Item 14*
+
+[magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 4350 gp
 - **Usage** held in 1 hand; **Bulk** L

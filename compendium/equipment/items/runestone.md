@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/consumable
-- trait/consumable
-- trait/magical
-aliases: ["Runestone"]
+tags: [compendium/src/pf2e/crb, item/category/consumable, trait/consumable, trait/magical]
+aliases: [Runestone *Item 1*, "Runestone"]
+title: Runestone *Item 1*
+linter-yaml-title-alias: Runestone *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Runestone *Item 1*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Runestone *Item 1*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L

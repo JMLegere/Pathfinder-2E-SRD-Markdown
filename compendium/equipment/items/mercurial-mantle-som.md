@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/apex
-- trait/apex
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Mercurial Mantle"]
+tags: [compendium/src/pf2e/som, item/category/apex, trait/apex, trait/invested, trait/magical, trait/transmutation]
+aliases: [Mercurial Mantle *Item 18*, "Mercurial Mantle"]
+title: Mercurial Mantle *Item 18*
+linter-yaml-title-alias: Mercurial Mantle *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mercurial Mantle *Item 18*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Mercurial Mantle *Item 18*
+
+[apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 24000 gp
 - **Usage** worn cloak; **Bulk** L

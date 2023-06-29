@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec6
-- item/category/artifact
-- trait/arcane
-- trait/artifact
-- trait/enchantment
-- trait/unique
-aliases: ["Hunter's Dawn"]
+tags: [compendium/src/pf2e/ec6, item/category/artifact, trait/arcane, trait/artifact, trait/enchantment, trait/unique]
+aliases: ["Hunter's Dawn *Item 23*", "Hunter's Dawn"]
+title: "Hunter's Dawn *Item 23*"
+linter-yaml-title-alias: "Hunter's Dawn *Item 23*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Hunter's Dawn *Item 23*  
-[arcane](rules/traits/arcane.md)  [artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [unique](rules/traits/unique.md)  
+
+# Hunter's Dawn *Item 23*
+
+[arcane](rules/traits/arcane.md) [artifact](rules/traits/artifact-gmg.md) [enchantment](rules/traits/enchantment.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Artifact

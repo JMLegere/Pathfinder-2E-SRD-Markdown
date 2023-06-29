@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tok
-- item/category/talisman
-- trait/abjuration
-- trait/consumable
-- trait/magical
-- trait/talisman
-- trait/uncommon
-aliases: ["Lion Badge"]
+tags: [compendium/src/pf2e/tok, item/category/talisman, trait/abjuration, trait/consumable, trait/magical, trait/talisman, trait/uncommon]
+aliases: [Lion Badge *Item 4*, "Lion Badge"]
+title: Lion Badge *Item 4*
+linter-yaml-title-alias: Lion Badge *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lion Badge *Item 4*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Lion Badge *Item 4*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 15 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Activate** envision; **Trigger** You gain the [frightened](rules/conditions.md#Frightened) condition as a result of a Will save; **Requirements** You're an expert in Will saves.
 - **Category** Talisman
 

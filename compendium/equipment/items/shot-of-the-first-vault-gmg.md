@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/divine
-- trait/evocation
-- trait/rare
-aliases: ["Shot Of The First Vault"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/divine, trait/evocation, trait/rare]
+aliases: [Shot Of The First Vault *Item 23*, "Shot Of The First Vault"]
+title: Shot Of The First Vault *Item 23*
+linter-yaml-title-alias: Shot Of The First Vault *Item 23*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shot Of The First Vault *Item 23*  
-[artifact](rules/traits/artifact-gmg.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [rare](rules/traits/rare.md)  
+
+# Shot Of The First Vault *Item 23*
+
+[artifact](rules/traits/artifact-gmg.md) [divine](rules/traits/divine.md) [evocation](rules/traits/evocation.md) [rare](rules/traits/rare.md)  
 
 - **Ammunition** any
 - **Category** Artifact

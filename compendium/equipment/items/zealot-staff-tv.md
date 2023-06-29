@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/evocation
-- trait/magical
-- trait/staff
-aliases: ["Zealot Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/evocation, trait/magical, trait/staff]
+aliases: [Zealot Staff *Item 17*, "Zealot Staff"]
+title: Zealot Staff *Item 17*
+linter-yaml-title-alias: Zealot Staff *Item 17*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Zealot Staff *Item 17*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Zealot Staff *Item 17*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Price** 13000 gp
 - **Usage** held in 1 hand; **Bulk** 1

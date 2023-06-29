@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/elixir
-- trait/alchemical
-- trait/consumable
-- trait/elixir
-- trait/polymorph
-aliases: ["Infiltrator's Elixir"]
+tags: [compendium/src/pf2e/crb, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/polymorph]
+aliases: ["Infiltrator's Elixir *Item 2*", "Infiltrator's Elixir"]
+title: "Infiltrator's Elixir *Item 2*"
+linter-yaml-title-alias: "Infiltrator's Elixir *Item 2*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Infiltrator's Elixir *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [polymorph](rules/traits/polymorph.md)  
+
+# Infiltrator's Elixir *Item 2*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [elixir](rules/traits/elixir.md) [polymorph](rules/traits/polymorph.md)  
 
 - **Price** 6 gp
 - **Usage** held in 1 hand; **Bulk** L

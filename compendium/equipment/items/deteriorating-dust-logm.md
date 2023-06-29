@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/consumable
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Deteriorating Dust"]
+tags: [compendium/src/pf2e/logm, item/category/consumable, trait/consumable, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Deteriorating Dust *Item 4+*, "Deteriorating Dust"]
+title: Deteriorating Dust *Item 4+*
+linter-yaml-title-alias: Deteriorating Dust *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Deteriorating Dust *Item 4+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Deteriorating Dust *Item 4+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Rovagug](compendium/setting/deities/rovagug.md)
 - **Usage** held in 1 hand

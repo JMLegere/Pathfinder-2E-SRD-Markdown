@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/held
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Glaive Of The Artist"]
+tags: [compendium/src/pf2e/logm, item/category/held, trait/enchantment, trait/magical, trait/uncommon]
+aliases: [Glaive Of The Artist *Item 14*, "Glaive Of The Artist"]
+title: Glaive Of The Artist *Item 14*
+linter-yaml-title-alias: Glaive Of The Artist *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Glaive Of The Artist *Item 14*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Glaive Of The Artist *Item 14*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Shelyn](compendium/setting/deities/shelyn.md)
 - **Price** 4000 gp

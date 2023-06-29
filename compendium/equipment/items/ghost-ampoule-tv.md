@@ -1,22 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/auditory
-- trait/consumable
-- trait/divine
-- trait/emotion
-- trait/enchantment
-- trait/expandable
-- trait/fear
-- trait/mental
-aliases: ["Ghost Ampoule"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/auditory, trait/consumable, trait/divine, trait/emotion, trait/enchantment, trait/expandable, trait/fear, trait/mental]
+aliases: [Ghost Ampoule *Item 4*, "Ghost Ampoule"]
+title: Ghost Ampoule *Item 4*
+linter-yaml-title-alias: Ghost Ampoule *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Ghost Ampoule *Item 4*  
-[alchemical](rules/traits/alchemical.md)  [auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [expandable](rules/traits/expandable-tv.md)  [fear](rules/traits/fear.md)  [mental](rules/traits/mental.md)  
+
+# Ghost Ampoule *Item 4*
+
+[alchemical](rules/traits/alchemical.md) [auditory](rules/traits/auditory.md) [consumable](rules/traits/consumable.md) [divine](rules/traits/divine.md) [emotion](rules/traits/emotion.md) [enchantment](rules/traits/enchantment.md) [expandable](rules/traits/expandable-tv.md) [fear](rules/traits/fear.md) [mental](rules/traits/mental.md)  
 
 - **Price** 20 gp
 - **Usage** held in 1 hand; **Bulk** L

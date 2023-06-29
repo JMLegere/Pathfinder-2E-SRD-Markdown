@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/enchantment
-- trait/grimoire
-- trait/magical
-aliases: ["Courtier's Pillow Book"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/enchantment, trait/grimoire, trait/magical]
+aliases: ["Courtier's Pillow Book *Item 6*", "Courtier's Pillow Book"]
+title: "Courtier's Pillow Book *Item 6*"
+linter-yaml-title-alias: "Courtier's Pillow Book *Item 6*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Courtier's Pillow Book *Item 6*  
-[enchantment](rules/traits/enchantment.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+
+# Courtier's Pillow Book *Item 6*
+
+[enchantment](rules/traits/enchantment.md) [grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 250 gp
 - **Bulk** L

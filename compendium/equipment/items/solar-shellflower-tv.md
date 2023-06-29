@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/arcane
-- trait/evocation
-- trait/fire
-- trait/uncommon
-aliases: ["Solar Shellflower"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/arcane, trait/evocation, trait/fire, trait/uncommon]
+aliases: [Solar Shellflower *Item 5*, "Solar Shellflower"]
+title: Solar Shellflower *Item 5*
+linter-yaml-title-alias: Solar Shellflower *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Solar Shellflower *Item 5*  
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Solar Shellflower *Item 5*
+
+[arcane](rules/traits/arcane.md) [evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 160 gp
 - **Usage** held in two hands; **Bulk** L

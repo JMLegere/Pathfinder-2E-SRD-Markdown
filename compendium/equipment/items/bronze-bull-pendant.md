@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/talisman
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/talisman
-aliases: ["Bronze Bull Pendant"]
+tags: [compendium/src/pf2e/crb, item/category/talisman, trait/consumable, trait/evocation, trait/magical, trait/talisman]
+aliases: [Bronze Bull Pendant *Item 2*, "Bronze Bull Pendant"]
+title: Bronze Bull Pendant *Item 2*
+linter-yaml-title-alias: Bronze Bull Pendant *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bronze Bull Pendant *Item 2*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Bronze Bull Pendant *Item 2*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 7 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Activate** envision; **Trigger** You attempt an [Athletics](compendium/skills.md#Athletics) check to [Shove](rules/actions/shove.md), but you haven't rolled yet; **Requirements** You are trained in [Athletics](compendium/skills.md#Athletics).
 - **Category** Talisman
 

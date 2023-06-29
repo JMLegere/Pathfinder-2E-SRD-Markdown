@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec6
-- item/category/held
-- trait/conjuration
-- trait/occult
-- trait/unique
-aliases: ["Planar Ribbon"]
+tags: [compendium/src/pf2e/ec6, item/category/held, trait/conjuration, trait/occult, trait/unique]
+aliases: [Planar Ribbon *Item 20*, "Planar Ribbon"]
+title: Planar Ribbon *Item 20*
+linter-yaml-title-alias: Planar Ribbon *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Planar Ribbon *Item 20*  
-[conjuration](rules/traits/conjuration.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+
+# Planar Ribbon *Item 20*
+
+[conjuration](rules/traits/conjuration.md) [occult](rules/traits/occult.md) [unique](rules/traits/unique.md)  
 
 - **Price** 60000 gp
 - **Usage** held in 1 hand; **Bulk** L

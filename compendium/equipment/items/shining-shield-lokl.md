@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/held
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Shining Shield"]
+tags: [compendium/src/pf2e/lokl, item/category/held, trait/enchantment, trait/magical, trait/uncommon]
+aliases: [Shining Shield *Item 10*, "Shining Shield"]
+title: Shining Shield *Item 10*
+linter-yaml-title-alias: Shining Shield *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shining Shield *Item 10*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Shining Shield *Item 10*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 1000 gp

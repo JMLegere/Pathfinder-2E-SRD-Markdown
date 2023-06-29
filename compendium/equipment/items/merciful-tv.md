@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/abjuration
-- trait/magical
-- trait/mental
-aliases: ["Merciful"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/abjuration, trait/magical, trait/mental]
+aliases: [Merciful *Item 4*, "Merciful"]
+title: Merciful *Item 4*
+linter-yaml-title-alias: Merciful *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Merciful *Item 4*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+
+# Merciful *Item 4*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md)  
 
 - **Price** 70 gp
 - **Usage** etched onto a weapon

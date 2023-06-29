@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/potion
-- trait/sonic
-aliases: ["Roaring Potion"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/evocation, trait/magical, trait/potion, trait/sonic]
+aliases: [Roaring Potion *Item 8+*, "Roaring Potion"]
+title: Roaring Potion *Item 8+*
+linter-yaml-title-alias: Roaring Potion *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Roaring Potion *Item 8+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [sonic](rules/traits/sonic.md)  
+
+# Roaring Potion *Item 8+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md) [sonic](rules/traits/sonic.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

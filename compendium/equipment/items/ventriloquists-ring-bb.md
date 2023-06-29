@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/bb
-- item/category/worn
-- trait/illusion
-- trait/magical
-aliases: ["Ventriloquist's Ring"]
+tags: [compendium/src/pf2e/bb, item/category/worn, trait/illusion, trait/magical]
+aliases: ["Ventriloquist's Ring *Item 3*", "Ventriloquist's Ring"]
+title: "Ventriloquist's Ring *Item 3*"
+linter-yaml-title-alias: "Ventriloquist's Ring *Item 3*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Ventriloquist's Ring *Item 3*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+
+# Ventriloquist's Ring *Item 3*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md)  
 
 - **Price** 30 gp
 - **Usage** worn headwear

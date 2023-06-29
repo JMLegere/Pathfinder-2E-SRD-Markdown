@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot4
-- item/category/held
-- trait/abjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Deflecting Branch"]
+tags: [compendium/src/pf2e/sot4, item/category/held, trait/abjuration, trait/magical, trait/uncommon]
+aliases: [Deflecting Branch *Item 14*, "Deflecting Branch"]
+title: Deflecting Branch *Item 14*
+linter-yaml-title-alias: Deflecting Branch *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Deflecting Branch *Item 14*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Deflecting Branch *Item 14*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 4500 gp
 - **Usage** held in 2 hands; **Bulk** 2

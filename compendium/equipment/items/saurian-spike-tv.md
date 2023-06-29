@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/magical
-- trait/spellheart
-- trait/transmutation
-aliases: ["Saurian Spike"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/magical, trait/spellheart, trait/transmutation]
+aliases: [Saurian Spike *Item 9+*, "Saurian Spike"]
+title: Saurian Spike *Item 9+*
+linter-yaml-title-alias: Saurian Spike *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Saurian Spike *Item 9+*  
-[magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  [transmutation](rules/traits/transmutation.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Saurian Spike *Item 9+*
+
+[magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md) [transmutation](rules/traits/transmutation.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 This jagged, bony growth narrows to a sharp, pointed tip. Deep groves from some former battle scar its surface. The bearer of a saurian spike often feels a sudden surge in power and confidence.

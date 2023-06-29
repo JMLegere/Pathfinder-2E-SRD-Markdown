@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/evocation
-- trait/magical
-aliases: ["Dragontooth Club"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/evocation, trait/magical]
+aliases: [Dragontooth Club *Item 12*, "Dragontooth Club"]
+title: Dragontooth Club *Item 12*
+linter-yaml-title-alias: Dragontooth Club *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragontooth Club *Item 12*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Dragontooth Club *Item 12*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1800 gp
 - **Usage** held in 1 hand; **Bulk** 2

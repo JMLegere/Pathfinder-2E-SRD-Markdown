@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/worn
-- trait/cursed
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Cloak Of Immolation"]
+tags: [compendium/src/pf2e/gmg, item/category/worn, trait/cursed, trait/evocation, trait/invested, trait/magical, trait/rare]
+aliases: [Cloak Of Immolation *Item 7*, "Cloak Of Immolation"]
+title: Cloak Of Immolation *Item 7*
+linter-yaml-title-alias: Cloak Of Immolation *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Cloak Of Immolation *Item 7*  
-[cursed](rules/traits/cursed-gmg.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Cloak Of Immolation *Item 7*
+
+[cursed](rules/traits/cursed-gmg.md) [evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** worn cloak; **Bulk** L
 - **Category** Worn

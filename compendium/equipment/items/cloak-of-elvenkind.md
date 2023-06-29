@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/illusion
-- trait/invested
-- trait/magical
-aliases: ["Cloak of Elvenkind"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/illusion, trait/invested, trait/magical]
+aliases: [Cloak of Elvenkind *Item 7+*, "Cloak of Elvenkind"]
+title: Cloak of Elvenkind *Item 7+*
+linter-yaml-title-alias: Cloak of Elvenkind *Item 7+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Cloak of Elvenkind *Item 7+*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Cloak of Elvenkind *Item 7+*
+
+[illusion](rules/traits/illusion.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn cloak; **Bulk** L
 - **Category** Worn

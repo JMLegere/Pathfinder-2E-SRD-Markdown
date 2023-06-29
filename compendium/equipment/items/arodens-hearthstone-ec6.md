@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec6
-- item/category/artifact
-- trait/arcane
-- trait/artifact
-- trait/enchantment
-- trait/unique
-aliases: ["Aroden's Hearthstone"]
+tags: [compendium/src/pf2e/ec6, item/category/artifact, trait/arcane, trait/artifact, trait/enchantment, trait/unique]
+aliases: ["Aroden's Hearthstone *Item 25*", "Aroden's Hearthstone"]
+title: "Aroden's Hearthstone *Item 25*"
+linter-yaml-title-alias: "Aroden's Hearthstone *Item 25*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Aroden's Hearthstone *Item 25*  
-[arcane](rules/traits/arcane.md)  [artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [unique](rules/traits/unique.md)  
+
+# Aroden's Hearthstone *Item 25*
+
+[arcane](rules/traits/arcane.md) [artifact](rules/traits/artifact-gmg.md) [enchantment](rules/traits/enchantment.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

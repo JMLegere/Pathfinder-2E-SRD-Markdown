@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot1
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Psychopomp Mask"]
+tags: [compendium/src/pf2e/sot1, item/category/worn, trait/invested, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Psychopomp Mask *Item 1*, "Psychopomp Mask"]
+title: Psychopomp Mask *Item 1*
+linter-yaml-title-alias: Psychopomp Mask *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Psychopomp Mask *Item 1*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Psychopomp Mask *Item 1*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 5 gp
 - **Usage** worn mask

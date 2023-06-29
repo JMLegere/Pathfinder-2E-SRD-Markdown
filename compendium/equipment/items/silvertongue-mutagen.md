@@ -1,4 +1,8 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags: [compendium/src/pf2e/crb, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/mutagen, trait/polymorph]
@@ -6,7 +10,7 @@ aliases: [Silvertongue Mutagen *Item 1+*, "Silvertongue Mutagen"]
 title: Silvertongue Mutagen *Item 1+*
 linter-yaml-title-alias: Silvertongue Mutagen *Item 1+*
 date created: Monday, June 19th 2023, 5:15:11 pm
-date modified: Thursday, June 29th 2023, 3:59:39 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
 
 # Silvertongue Mutagen *Item 1+*

@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lowg
-- item/category/held
-aliases: ["Jellyfish Lamp"]
+tags: [compendium/src/pf2e/lowg, item/category/held]
+aliases: [Jellyfish Lamp *Item 0*, "Jellyfish Lamp"]
+title: Jellyfish Lamp *Item 0*
+linter-yaml-title-alias: Jellyfish Lamp *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Jellyfish Lamp *Item 0*  
+
+# Jellyfish Lamp *Item 0*
 
 - **Price** 2 gp
 - **Usage** held in 1 hand; **Bulk** L

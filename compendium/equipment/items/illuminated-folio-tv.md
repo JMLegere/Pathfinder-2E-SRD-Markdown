@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/conjuration
-- trait/grimoire
-- trait/magical
-aliases: ["Illuminated Folio"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/conjuration, trait/grimoire, trait/magical]
+aliases: [Illuminated Folio *Item 14*, "Illuminated Folio"]
+title: Illuminated Folio *Item 14*
+linter-yaml-title-alias: Illuminated Folio *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Illuminated Folio *Item 14*  
-[conjuration](rules/traits/conjuration.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+
+# Illuminated Folio *Item 14*
+
+[conjuration](rules/traits/conjuration.md) [grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 4200 gp
 - **Bulk** L

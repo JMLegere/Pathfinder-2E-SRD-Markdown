@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/magical
-- trait/staff
-- trait/transmutation
-aliases: ["Dragonscale Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/magical, trait/staff, trait/transmutation]
+aliases: [Dragonscale Staff *Item 14+*, "Dragonscale Staff"]
+title: Dragonscale Staff *Item 14+*
+linter-yaml-title-alias: Dragonscale Staff *Item 14+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragonscale Staff *Item 14+*  
-[magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Dragonscale Staff *Item 14+*
+
+[magical](rules/traits/magical.md) [staff](rules/traits/staff.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

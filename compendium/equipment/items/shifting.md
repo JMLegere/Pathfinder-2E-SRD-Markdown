@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/magical
-- trait/transmutation
-aliases: ["Shifting"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/magical, trait/transmutation]
+aliases: [Shifting *Item 6*, "Shifting"]
+title: Shifting *Item 6*
+linter-yaml-title-alias: Shifting *Item 6*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shifting *Item 6*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Shifting *Item 6*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 225 gp
 - **Usage** etched onto a melee weapon

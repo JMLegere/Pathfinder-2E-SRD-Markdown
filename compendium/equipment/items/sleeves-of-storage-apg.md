@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/worn
-- trait/conjuration
-- trait/extradimensional
-- trait/invested
-- trait/magical
-aliases: ["Sleeves Of Storage"]
+tags: [compendium/src/pf2e/apg, item/category/worn, trait/conjuration, trait/extradimensional, trait/invested, trait/magical]
+aliases: [Sleeves Of Storage *Item 4+*, "Sleeves Of Storage"]
+title: Sleeves Of Storage *Item 4+*
+linter-yaml-title-alias: Sleeves Of Storage *Item 4+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Sleeves Of Storage *Item 4+*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Sleeves Of Storage *Item 4+*
+
+[conjuration](rules/traits/conjuration.md) [extradimensional](rules/traits/extradimensional.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn garment; **Bulk** L
 - **Category** Worn

@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/tattoo
-aliases: ["Tradecraft Tattoo"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/conjuration, trait/invested, trait/magical, trait/tattoo]
+aliases: [Tradecraft Tattoo *Item 9+*, "Tradecraft Tattoo"]
+title: Tradecraft Tattoo *Item 9+*
+linter-yaml-title-alias: Tradecraft Tattoo *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Tradecraft Tattoo *Item 9+*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
 
-- **Usage** tattooed on the body; **Bulk** —
+# Tradecraft Tattoo *Item 9+*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md)  
+
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 Crafters choose tattoos that represent their dedication and skill in their chosen field. Such tattoos might adorn the arm, fingers, or eyes, and they take the form of artistic patterns or depict tools of the trade, such as anvils, paintbrushes, or trowels. You gain a +2 item bonus to [Crafting](compendium/skills.md#Crafting) checks. Furthermore, when you roll a critical failure on a [Crafting](compendium/skills.md#Crafting) check to [Earn Income](rules/actions/earn-income.md), treat it as a failure instead.

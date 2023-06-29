@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec3
-- item/category/held
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Golem Stylus"]
+tags: [compendium/src/pf2e/ec3, item/category/held, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Golem Stylus *Item 10*, "Golem Stylus"]
+title: Golem Stylus *Item 10*
+linter-yaml-title-alias: Golem Stylus *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Golem Stylus *Item 10*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Golem Stylus *Item 10*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 850 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/invested
-- trait/magical
-- trait/necromancy
-aliases: ["Wasp Guard"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/invested, trait/magical, trait/necromancy]
+aliases: [Wasp Guard *Item 8*, "Wasp Guard"]
+title: Wasp Guard *Item 8*
+linter-yaml-title-alias: Wasp Guard *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Wasp Guard *Item 8*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Wasp Guard *Item 8*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Price** 487 gp
 - **Usage** worn armor; **Bulk** 1

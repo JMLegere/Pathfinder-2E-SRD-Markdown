@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/consumable
-- trait/abjuration
-- trait/consumable
-- trait/fulu
-- trait/magical
-- trait/talisman
-aliases: ["Rebound Fulu"]
+tags: [compendium/src/pf2e/som, item/category/consumable, trait/abjuration, trait/consumable, trait/fulu, trait/magical, trait/talisman]
+aliases: [Rebound Fulu *Item 9*, "Rebound Fulu"]
+title: Rebound Fulu *Item 9*
+linter-yaml-title-alias: Rebound Fulu *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Rebound Fulu *Item 9*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Rebound Fulu *Item 9*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 125 gp
 - **Usage** affixed to a shield

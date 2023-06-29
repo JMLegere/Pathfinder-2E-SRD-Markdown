@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/consumable
-- trait/catalyst
-- trait/consumable
-- trait/magical
-- trait/uncommon
-aliases: ["Grave Token"]
+tags: [compendium/src/pf2e/loil, item/category/consumable, trait/catalyst, trait/consumable, trait/magical, trait/uncommon]
+aliases: [Grave Token *Item 4*, "Grave Token"]
+title: Grave Token *Item 4*
+linter-yaml-title-alias: Grave Token *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Grave Token *Item 4*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Grave Token *Item 4*
+
+[catalyst](rules/traits/catalyst-som.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 18 gp
 - **Usage** held in one hand; **Bulk** L

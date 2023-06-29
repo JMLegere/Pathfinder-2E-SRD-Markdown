@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/worn
-- trait/uncommon
-aliases: ["Membership Cords"]
+tags: [compendium/src/pf2e/da, item/category/worn, trait/uncommon]
+aliases: [Membership Cords *Item 0*, "Membership Cords"]
+title: Membership Cords *Item 0*
+linter-yaml-title-alias: Membership Cords *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Membership Cords *Item 0*  
+
+# Membership Cords *Item 0*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Member of a secret society

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-- trait/worn
-aliases: ["Silhouette Cloak"]
+tags: [compendium/src/pf2e/lotgb, item/category/worn, trait/invested, trait/magical, trait/transmutation, trait/uncommon, trait/worn]
+aliases: [Silhouette Cloak *Item 20*, "Silhouette Cloak"]
+title: Silhouette Cloak *Item 20*
+linter-yaml-title-alias: Silhouette Cloak *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Silhouette Cloak *Item 20*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  worn  
+
+# Silhouette Cloak *Item 20*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md) worn  
 
 - **Price** 70000 gp
 - **Usage** worn cloak

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Alluring Scarf"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/enchantment, trait/magical, trait/uncommon]
+aliases: [Alluring Scarf *Item 8+*, "Alluring Scarf"]
+title: Alluring Scarf *Item 8+*
+linter-yaml-title-alias: Alluring Scarf *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Alluring Scarf *Item 8+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Alluring Scarf *Item 8+*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand
 - **Category** Held

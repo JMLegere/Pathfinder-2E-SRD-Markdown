@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec2
-- item/category/oil
-- trait/consumable
-- trait/healing
-- trait/magical
-- trait/necromancy
-- trait/oil
-- trait/uncommon
-aliases: ["Saints' Balm"]
+tags: [compendium/src/pf2e/ec2, item/category/oil, trait/consumable, trait/healing, trait/magical, trait/necromancy, trait/oil, trait/uncommon]
+aliases: ["Saints' Balm *Item 7*", "Saints' Balm"]
+title: "Saints' Balm *Item 7*"
+linter-yaml-title-alias: "Saints' Balm *Item 7*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Saints' Balm *Item 7*  
-[consumable](rules/traits/consumable.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [oil](rules/traits/oil.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Saints' Balm *Item 7*
+
+[consumable](rules/traits/consumable.md) [healing](rules/traits/healing.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [oil](rules/traits/oil.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 70 gp
 - **Usage** held in 1 hand

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/conjuration
-- trait/extradimensional
-- trait/invested
-- trait/magical
-aliases: ["Alchemist's Haversack"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/conjuration, trait/extradimensional, trait/invested, trait/magical]
+aliases: ["Alchemist's Haversack *Item 11*", "Alchemist's Haversack"]
+title: "Alchemist's Haversack *Item 11*"
+linter-yaml-title-alias: "Alchemist's Haversack *Item 11*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Alchemist's Haversack *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Alchemist's Haversack *Item 11*
+
+[conjuration](rules/traits/conjuration.md) [extradimensional](rules/traits/extradimensional.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1400 gp
 - **Usage** worn backpack; **Bulk** 1

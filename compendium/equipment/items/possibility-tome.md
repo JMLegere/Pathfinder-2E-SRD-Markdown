@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/divination
-- trait/magical
-aliases: ["Possibility Tome"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/divination, trait/magical]
+aliases: [Possibility Tome *Item 18*, "Possibility Tome"]
+title: Possibility Tome *Item 18*
+linter-yaml-title-alias: Possibility Tome *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Possibility Tome *Item 18*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Possibility Tome *Item 18*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Price** 22000 gp
 - **Usage** held in 2 hands; **Bulk** 2

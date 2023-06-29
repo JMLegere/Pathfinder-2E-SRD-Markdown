@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/transmutation
-- trait/unique
-aliases: ["Essence Prism"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/transmutation, trait/unique]
+aliases: [Essence Prism *Item 28*, "Essence Prism"]
+title: Essence Prism *Item 28*
+linter-yaml-title-alias: Essence Prism *Item 28*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Essence Prism *Item 28*  
-[artifact](rules/traits/artifact-gmg.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+
+# Essence Prism *Item 28*
+
+[artifact](rules/traits/artifact-gmg.md) [transmutation](rules/traits/transmutation.md) [unique](rules/traits/unique.md)  
 
 - **Bulk** 5
 - **Category** Artifact

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/processed
-aliases: ["Diplomat's Charcuterie"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/processed]
+aliases: ["Diplomat's Charcuterie *Item 3*", "Diplomat's Charcuterie"]
+title: "Diplomat's Charcuterie *Item 3*"
+linter-yaml-title-alias: "Diplomat's Charcuterie *Item 3*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Diplomat's Charcuterie *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [processed](rules/traits/processed-tv.md)  
+
+# Diplomat's Charcuterie *Item 3*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [processed](rules/traits/processed-tv.md)  
 
 - **Price** 9 gp
 - **Usage** held in 2 hands; **Bulk** L

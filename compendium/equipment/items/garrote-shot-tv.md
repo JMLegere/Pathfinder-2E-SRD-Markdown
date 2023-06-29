@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/magical
-- trait/transmutation
-aliases: ["Garrote Shot"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/magical, trait/transmutation]
+aliases: [Garrote Shot *Item 15*, "Garrote Shot"]
+title: Garrote Shot *Item 15*
+linter-yaml-title-alias: Garrote Shot *Item 15*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Garrote Shot *Item 15*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Garrote Shot *Item 15*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 1200 gp
 - **Ammunition** any

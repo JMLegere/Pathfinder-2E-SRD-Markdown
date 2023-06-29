@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/held
-- trait/conjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Rat-catcher Trident"]
+tags: [compendium/src/pf2e/logm, item/category/held, trait/conjuration, trait/magical, trait/uncommon]
+aliases: [Rat-catcher Trident *Item 11*, "Rat-catcher Trident"]
+title: Rat-catcher Trident *Item 11*
+linter-yaml-title-alias: Rat-catcher Trident *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Rat-catcher Trident *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Rat-catcher Trident *Item 11*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Hanspur](compendium/setting/deities/hanspur-logm.md)
 - **Price** 1200 gp

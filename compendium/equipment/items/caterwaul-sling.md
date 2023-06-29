@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/evocation
-- trait/magical
-aliases: ["Caterwaul Sling"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/evocation, trait/magical]
+aliases: [Caterwaul Sling *Item 5*, "Caterwaul Sling"]
+title: Caterwaul Sling *Item 5*
+linter-yaml-title-alias: Caterwaul Sling *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Caterwaul Sling *Item 5*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Caterwaul Sling *Item 5*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 155 gp
 - **Usage** held in 1 hand; **Bulk** L

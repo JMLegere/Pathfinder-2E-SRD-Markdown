@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-aliases: ["Glasses Of Sociability"]
+tags: [compendium/src/pf2e/som, item/category/worn, trait/divination, trait/invested, trait/magical]
+aliases: [Glasses Of Sociability *Item 3*, "Glasses Of Sociability"]
+title: Glasses Of Sociability *Item 3*
+linter-yaml-title-alias: Glasses Of Sociability *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Glasses Of Sociability *Item 3*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Glasses Of Sociability *Item 3*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 60 gp
 - **Usage** worn eyepiece; **Bulk** L

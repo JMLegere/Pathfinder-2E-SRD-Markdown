@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/magical
-- trait/necromancy
-aliases: ["Horrid Figurine"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/magical, trait/necromancy]
+aliases: [Horrid Figurine *Item 8*, "Horrid Figurine"]
+title: Horrid Figurine *Item 8*
+linter-yaml-title-alias: Horrid Figurine *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Horrid Figurine *Item 8*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Horrid Figurine *Item 8*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Price** 450 gp
 - **Usage** held in 2 hands; **Bulk** L

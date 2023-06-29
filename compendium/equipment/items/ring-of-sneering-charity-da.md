@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/worn
-- trait/cursed
-- trait/enchantment
-- trait/invested
-- trait/magical
-aliases: ["Ring of Sneering Charity"]
+tags: [compendium/src/pf2e/da, item/category/worn, trait/cursed, trait/enchantment, trait/invested, trait/magical]
+aliases: [Ring of Sneering Charity *Item 7*, "Ring of Sneering Charity"]
+title: Ring of Sneering Charity *Item 7*
+linter-yaml-title-alias: Ring of Sneering Charity *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Ring of Sneering Charity *Item 7*  
-[cursed](rules/traits/cursed-gmg.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
 
-- **Usage** worn ring; **Bulk** –
+# Ring of Sneering Charity *Item 7*
+
+[cursed](rules/traits/cursed-gmg.md) [enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
+
+- **Usage** worn ring; **Bulk**–
 - **Category** Worn
 
 This gold ring seems to offer good fortune to the wearer when they are charitable to those in need, but its curse was created to tear societies apart by inflaming class resentments and discrediting good works of true charity.

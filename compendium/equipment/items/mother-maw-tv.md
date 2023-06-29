@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/conjuration
-- trait/cursed
-- trait/extradimensional
-- trait/magical
-- trait/rare
-aliases: ["Mother Maw"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/conjuration, trait/cursed, trait/extradimensional, trait/magical, trait/rare]
+aliases: [Mother Maw *Item 15*, "Mother Maw"]
+title: Mother Maw *Item 15*
+linter-yaml-title-alias: Mother Maw *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Mother Maw *Item 15*  
-[conjuration](rules/traits/conjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Mother Maw *Item 15*
+
+[conjuration](rules/traits/conjuration.md) [cursed](rules/traits/cursed-gmg.md) [extradimensional](rules/traits/extradimensional.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** placed on a surface; **Bulk** L
 - **Category** Held

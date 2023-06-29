@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sli
-- item/category/talisman
-- trait/conjuration
-- trait/consumable
-- trait/magical
-- trait/talisman
-- trait/uncommon
-aliases: ["Putrescent Glob"]
+tags: [compendium/src/pf2e/sli, item/category/talisman, trait/conjuration, trait/consumable, trait/magical, trait/talisman, trait/uncommon]
+aliases: [Putrescent Glob *Item 7*, "Putrescent Glob"]
+title: Putrescent Glob *Item 7*
+linter-yaml-title-alias: Putrescent Glob *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Putrescent Glob *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Putrescent Glob *Item 7*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 65 gp
 - **Usage** affixed to a weapon

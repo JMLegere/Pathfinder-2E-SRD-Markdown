@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec6
-- item/category/consumable
-- trait/consumable
-- trait/healing
-- trait/necromancy
-- trait/primal
-- trait/rare
-aliases: ["Panacea Fruit"]
+tags: [compendium/src/pf2e/ec6, item/category/consumable, trait/consumable, trait/healing, trait/necromancy, trait/primal, trait/rare]
+aliases: [Panacea Fruit *Item 19*, "Panacea Fruit"]
+title: Panacea Fruit *Item 19*
+linter-yaml-title-alias: Panacea Fruit *Item 19*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Panacea Fruit *Item 19*  
-[consumable](rules/traits/consumable.md)  [healing](rules/traits/healing.md)  [necromancy](rules/traits/necromancy.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
+
+# Panacea Fruit *Item 19*
+
+[consumable](rules/traits/consumable.md) [healing](rules/traits/healing.md) [necromancy](rules/traits/necromancy.md) [primal](rules/traits/primal.md) [rare](rules/traits/rare.md)  
 
 - **Price** 8000 gp
 - **Usage** held in 1 hand; **Bulk** L

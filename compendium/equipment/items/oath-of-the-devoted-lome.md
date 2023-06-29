@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lome
-- item/category/contract
-- trait/contract
-- trait/divine
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/rare
-aliases: ["Oath Of The Devoted"]
+tags: [compendium/src/pf2e/lome, item/category/contract, trait/contract, trait/divine, trait/invested, trait/magical, trait/necromancy, trait/rare]
+aliases: [Oath Of The Devoted *Item 9*, "Oath Of The Devoted"]
+title: Oath Of The Devoted *Item 9*
+linter-yaml-title-alias: Oath Of The Devoted *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Oath Of The Devoted *Item 9*  
-[contract](rules/traits/contract-lol.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+
+# Oath Of The Devoted *Item 9*
+
+[contract](rules/traits/contract-lol.md) [divine](rules/traits/divine.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

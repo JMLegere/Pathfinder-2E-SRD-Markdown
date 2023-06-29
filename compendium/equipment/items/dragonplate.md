@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/armor
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Dragonplate"]
+tags: [compendium/src/pf2e/crb, item/category/armor, trait/evocation, trait/invested, trait/magical, trait/uncommon]
+aliases: [Dragonplate *Item 16*, "Dragonplate"]
+title: Dragonplate *Item 16*
+linter-yaml-title-alias: Dragonplate *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragonplate *Item 16*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Dragonplate *Item 16*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 10000 gp
 - **Usage** worn armor; **Bulk** 4

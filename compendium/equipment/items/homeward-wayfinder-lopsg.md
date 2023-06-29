@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/worn
-- trait/conjuration
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/teleportation
-- trait/uncommon
-aliases: ["Homeward Wayfinder"]
+tags: [compendium/src/pf2e/lopsg, item/category/worn, trait/conjuration, trait/evocation, trait/invested, trait/magical, trait/teleportation, trait/uncommon]
+aliases: [Homeward Wayfinder *Item 13*, "Homeward Wayfinder"]
+title: Homeward Wayfinder *Item 13*
+linter-yaml-title-alias: Homeward Wayfinder *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Homeward Wayfinder *Item 13*  
-[conjuration](rules/traits/conjuration.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Homeward Wayfinder *Item 13*
+
+[conjuration](rules/traits/conjuration.md) [evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [teleportation](rules/traits/teleportation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 2750 gp
 - **Usage** worn

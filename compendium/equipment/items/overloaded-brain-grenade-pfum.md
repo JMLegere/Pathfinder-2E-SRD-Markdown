@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/pfum
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/fire
-- trait/mental
-- trait/splash
-- trait/unique
-aliases: ["Overloaded Brain Grenade"]
+tags: [compendium/src/pf2e/pfum, item/category/consumable, trait/alchemical, trait/consumable, trait/fire, trait/mental, trait/splash, trait/unique]
+aliases: [Overloaded Brain Grenade *Item 10*, "Overloaded Brain Grenade"]
+title: Overloaded Brain Grenade *Item 10*
+linter-yaml-title-alias: Overloaded Brain Grenade *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Overloaded Brain Grenade *Item 10*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [mental](rules/traits/mental.md)  [splash](rules/traits/splash.md)  [unique](rules/traits/unique.md)  
+
+# Overloaded Brain Grenade *Item 10*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [fire](rules/traits/fire.md) [mental](rules/traits/mental.md) [splash](rules/traits/splash.md) [unique](rules/traits/unique.md)  
 
 - **Price** 200 gp
 - **Usage** held in 2 hands; **Bulk** 1

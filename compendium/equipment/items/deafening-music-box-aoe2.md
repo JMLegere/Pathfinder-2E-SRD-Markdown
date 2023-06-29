@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe2
-- item/category/held
-- trait/auditory
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Deafening Music Box"]
+tags: [compendium/src/pf2e/aoe2, item/category/held, trait/auditory, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Deafening Music Box *Item 8*, "Deafening Music Box"]
+title: Deafening Music Box *Item 8*
+linter-yaml-title-alias: Deafening Music Box *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Deafening Music Box *Item 8*  
-[auditory](rules/traits/auditory.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Deafening Music Box *Item 8*
+
+[auditory](rules/traits/auditory.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 500 gp
 - **Usage** held in 2 hands; **Bulk** 1

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa2
-- item/category/talisman
-- trait/consumable
-- trait/illusion
-- trait/magical
-- trait/talisman
-- trait/uncommon
-aliases: ["Golden Silencer"]
+tags: [compendium/src/pf2e/ooa2, item/category/talisman, trait/consumable, trait/illusion, trait/magical, trait/talisman, trait/uncommon]
+aliases: [Golden Silencer *Item 6+*, "Golden Silencer"]
+title: Golden Silencer *Item 6+*
+linter-yaml-title-alias: Golden Silencer *Item 6+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Golden Silencer *Item 6+*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Golden Silencer *Item 6+*
+
+[consumable](rules/traits/consumable.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** affixed to a firearm; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md); **Requirements** You're an expert in

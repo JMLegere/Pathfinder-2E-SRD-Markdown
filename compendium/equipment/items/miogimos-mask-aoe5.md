@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/unique
-aliases: ["Miogimo's Mask"]
+tags: [compendium/src/pf2e/aoe5, item/category/worn, trait/invested, trait/magical, trait/necromancy, trait/unique]
+aliases: ["Miogimo's Mask *Item 16*", "Miogimo's Mask"]
+title: "Miogimo's Mask *Item 16*"
+linter-yaml-title-alias: "Miogimo's Mask *Item 16*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Miogimo's Mask *Item 16*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+
+# Miogimo's Mask *Item 16*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [unique](rules/traits/unique.md)  
 
 - **Price** 9500 gp
 - **Usage** worn mask; **Bulk** L

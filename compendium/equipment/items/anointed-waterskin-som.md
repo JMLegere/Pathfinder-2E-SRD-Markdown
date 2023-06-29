@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/divine
-- trait/evocation
-- trait/good
-- trait/water
-aliases: ["Anointed Waterskin"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/divine, trait/evocation, trait/good, trait/water]
+aliases: [Anointed Waterskin *Item 9*, "Anointed Waterskin"]
+title: Anointed Waterskin *Item 9*
+linter-yaml-title-alias: Anointed Waterskin *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Anointed Waterskin *Item 9*  
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [water](rules/traits/water.md)  
+
+# Anointed Waterskin *Item 9*
+
+[divine](rules/traits/divine.md) [evocation](rules/traits/evocation.md) [good](rules/traits/good.md) [water](rules/traits/water.md)  
 
 - **Price** 600 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec3
-- item/category/worn
-- trait/abjuration
-- trait/invested
-- trait/occult
-- trait/uncommon
-aliases: ["Skarja's Heartstone"]
+tags: [compendium/src/pf2e/ec3, item/category/worn, trait/abjuration, trait/invested, trait/occult, trait/uncommon]
+aliases: ["Skarja's Heartstone *Item 13*", "Skarja's Heartstone"]
+title: "Skarja's Heartstone *Item 13*"
+linter-yaml-title-alias: "Skarja's Heartstone *Item 13*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Skarja's Heartstone *Item 13*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [occult](rules/traits/occult.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Skarja's Heartstone *Item 13*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [occult](rules/traits/occult.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 2500 gp
 - **Usage** worn

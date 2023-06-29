@@ -1,23 +1,27 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa2
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/fire
-- trait/rare
-aliases: ["Pyronite"]
+tags: [compendium/src/pf2e/ooa2, item/category/consumable, trait/alchemical, trait/consumable, trait/fire, trait/rare]
+aliases: [Pyronite *Item 11*, "Pyronite"]
+title: Pyronite *Item 11*
+linter-yaml-title-alias: Pyronite *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Pyronite *Item 11*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [rare](rules/traits/rare.md)  
+
+# Pyronite *Item 11*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [fire](rules/traits/fire.md) [rare](rules/traits/rare.md)  
 
 - **Price** 250 gp
 - **Usage** held in one hand; **Bulk** L
 - **Category** Consumable
 
-A stick of pyronite is a devastating explosive that fills an area with fire and concussive force when it detonates— as long as its fuse has been lit!
+A stick of pyronite is a devastating explosive that fills an area with fire and concussive force when it detonates—as long as its fuse has been lit!
 
 Pyronite is an unstable material with a limited shelf life. Sticks of pyronite must be kept dry and cool; otherwise, the raw pyronite will leak out of the rods and collect as a semi-transparent goo that explodes on any impact or loud noise, with an explosive effect equal to half the number of rods.
 
@@ -37,7 +41,7 @@ You can toss the pyronite anywhere within 50 feet, though at the GM's discretion
 
 Once a stick of pyronite's fuse is lit, it explodes at the end of your turn, regardless of whether you've thrown it or not. (A lit fuse can be extinguished with an [Interact](rules/actions/interact.md) action.) If multiple sticks of pyronite detonate at the end of your turn, you can increase the area, but not the damage, of this effect. When the pyronite explodes, all creatures in a 20-foot burst must attempt a DC 28 Reflex save or take `3d6` fire damage and `3d6` bludgeoning damage.
 
-> [!success-degree] 
+> [!success-degree]
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage and is [deafened](rules/conditions.md#Deafened) for 1 round.
 > - **Failure** The creature takes full damage and is [deafened](rules/conditions.md#Deafened) for 1 minute.

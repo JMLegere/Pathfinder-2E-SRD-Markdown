@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot4
-- item/category/weapon/martial
-- trait/concussive
-- trait/propulsive
-- trait/uncommon
-aliases: ["Sun Sling"]
+tags: [compendium/src/pf2e/sot4, item/category/weapon/martial, trait/concussive, trait/propulsive, trait/uncommon]
+aliases: [Sun Sling *Item 0*, "Sun Sling"]
+title: Sun Sling *Item 0*
+linter-yaml-title-alias: Sun Sling *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Sun Sling *Item 0*  
-[propulsive](rules/traits/propulsive.md)  [uncommon](rules/traits/uncommon.md)  concussive  
+
+# Sun Sling *Item 0*
+
+[propulsive](rules/traits/propulsive.md) [uncommon](rules/traits/uncommon.md) concussive  
 
 - **Price** 3 gp
 - **Bulk** L

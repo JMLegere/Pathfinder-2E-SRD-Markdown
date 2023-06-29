@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/companion
-- trait/companion
-aliases: ["Guide Harness"]
+tags: [compendium/src/pf2e/tv, item/category/companion, trait/companion]
+aliases: [Guide Harness *Item 1*, "Guide Harness"]
+title: Guide Harness *Item 1*
+linter-yaml-title-alias: Guide Harness *Item 1*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Guide Harness *Item 1*  
+
+# Guide Harness *Item 1*
+
 [companion](rules/traits/companion.md)  
 
 - **Price** 5 gp

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/afof
-- item/category/consumable
-- trait/consumable
-- trait/uncommon
-aliases: ["Sack of Rotten Fruit"]
+tags: [compendium/src/pf2e/afof, item/category/consumable, trait/consumable, trait/uncommon]
+aliases: [Sack of Rotten Fruit *Item 1*, "Sack of Rotten Fruit"]
+title: Sack of Rotten Fruit *Item 1*
+linter-yaml-title-alias: Sack of Rotten Fruit *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Sack of Rotten Fruit *Item 1*  
-[consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Sack of Rotten Fruit *Item 1*
+
+[consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 3 gp
 - **Usage** Held in 1 hand; **Bulk** L

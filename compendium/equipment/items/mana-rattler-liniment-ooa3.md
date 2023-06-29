@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa3
-- item/category/elixir
-- trait/alchemical
-- trait/consumable
-- trait/elixir
-- trait/morph
-- trait/uncommon
-aliases: ["Mana-Rattler Liniment"]
+tags: [compendium/src/pf2e/ooa3, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/morph, trait/uncommon]
+aliases: [Mana-Rattler Liniment *Item 9*, "Mana-Rattler Liniment"]
+title: Mana-Rattler Liniment *Item 9*
+linter-yaml-title-alias: Mana-Rattler Liniment *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mana-Rattler Liniment *Item 9*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [morph](rules/traits/morph.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Mana-Rattler Liniment *Item 9*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [elixir](rules/traits/elixir.md) [morph](rules/traits/morph.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 110 gp
 - **Usage** held in 1 hand; **Bulk** L

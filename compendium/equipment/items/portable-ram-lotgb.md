@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-aliases: ["Portable Ram"]
+tags: [compendium/src/pf2e/lotgb, item/category/held]
+aliases: [Portable Ram *Item 3+*, "Portable Ram"]
+title: Portable Ram *Item 3+*
+linter-yaml-title-alias: Portable Ram *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Portable Ram *Item 3+*  
+
+# Portable Ram *Item 3+*
 
 - **Usage** held in 2 hands; **Bulk** 3
 - **Category** Held

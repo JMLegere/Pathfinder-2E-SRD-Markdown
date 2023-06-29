@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/held
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Dreadsmoke Thurible"]
+tags: [compendium/src/pf2e/logm, item/category/held, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Dreadsmoke Thurible *Item 9*, "Dreadsmoke Thurible"]
+title: Dreadsmoke Thurible *Item 9*
+linter-yaml-title-alias: Dreadsmoke Thurible *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dreadsmoke Thurible *Item 9*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Dreadsmoke Thurible *Item 9*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Urgathoa](compendium/setting/deities/urgathoa.md)
 - **Price** 600 gp

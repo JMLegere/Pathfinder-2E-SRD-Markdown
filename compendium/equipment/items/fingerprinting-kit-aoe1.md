@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe1
-- item/category/held
-- trait/uncommon
-aliases: ["Fingerprinting Kit"]
+tags: [compendium/src/pf2e/aoe1, item/category/held, trait/uncommon]
+aliases: [Fingerprinting Kit *Item 3*, "Fingerprinting Kit"]
+title: Fingerprinting Kit *Item 3*
+linter-yaml-title-alias: Fingerprinting Kit *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fingerprinting Kit *Item 3*  
+
+# Fingerprinting Kit *Item 3*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 30 gp

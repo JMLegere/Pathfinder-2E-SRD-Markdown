@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/consumable
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Follypops"]
+tags: [compendium/src/pf2e/lotgb, item/category/consumable, trait/consumable, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Follypops *Item 10*, "Follypops"]
+title: Follypops *Item 10*
+linter-yaml-title-alias: Follypops *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Follypops *Item 10*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Follypops *Item 10*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe6
-- item/category/artifact
-- trait/artifact
-- trait/conjuration
-- trait/occult
-- trait/unique
-aliases: ["Radiant Spark"]
+tags: [compendium/src/pf2e/aoe6, item/category/artifact, trait/artifact, trait/conjuration, trait/occult, trait/unique]
+aliases: [Radiant Spark *Item 25*, "Radiant Spark"]
+title: Radiant Spark *Item 25*
+linter-yaml-title-alias: Radiant Spark *Item 25*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Radiant Spark *Item 25*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [occult](rules/traits/occult.md)  [unique](rules/traits/unique.md)  
+
+# Radiant Spark *Item 25*
+
+[artifact](rules/traits/artifact-gmg.md) [conjuration](rules/traits/conjuration.md) [occult](rules/traits/occult.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/oil
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/oil
-aliases: ["Nectar of Purification"]
+tags: [compendium/src/pf2e/crb, item/category/oil, trait/consumable, trait/magical, trait/necromancy, trait/oil]
+aliases: [Nectar of Purification *Item 1*, "Nectar of Purification"]
+title: Nectar of Purification *Item 1*
+linter-yaml-title-alias: Nectar of Purification *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Nectar of Purification *Item 1*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [oil](rules/traits/oil.md)  
+
+# Nectar of Purification *Item 1*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [oil](rules/traits/oil.md)  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L

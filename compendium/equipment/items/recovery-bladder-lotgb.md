@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/consumable
-- trait/consumable
-- trait/rare
-aliases: ["Recovery Bladder"]
+tags: [compendium/src/pf2e/lotgb, item/category/consumable, trait/consumable, trait/rare]
+aliases: [Recovery Bladder *Item 3*, "Recovery Bladder"]
+title: Recovery Bladder *Item 3*
+linter-yaml-title-alias: Recovery Bladder *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Recovery Bladder *Item 3*  
-[consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+
+# Recovery Bladder *Item 3*
+
+[consumable](rules/traits/consumable.md) [rare](rules/traits/rare.md)  
 
 - **Price** 10 gp
 - **Bulk** L (8 if inflated)

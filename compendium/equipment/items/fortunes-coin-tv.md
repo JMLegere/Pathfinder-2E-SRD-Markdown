@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/divination
-- trait/fortune
-- trait/magical
-aliases: ["Fortune's Coin"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/divination, trait/fortune, trait/magical]
+aliases: ["Fortune's Coin *Item 8+*", "Fortune's Coin"]
+title: "Fortune's Coin *Item 8+*"
+linter-yaml-title-alias: "Fortune's Coin *Item 8+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Fortune's Coin *Item 8+*  
-[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  
 
-- **Usage** held in 1 hand; **Bulk** —
+# Fortune's Coin *Item 8+*
+
+[divination](rules/traits/divination.md) [fortune](rules/traits/fortune.md) [magical](rules/traits/magical.md)  
+
+- **Usage** held in 1 hand; **Bulk**—
 - **Category** Held
 
 This coin is struck with the image of a beatific seraph in gold on one side and a fearsome fiend with seven eyes enameled in black on the other. While it may seem nothing more than a curiosity, it's a powerful agent of fortune when activated.

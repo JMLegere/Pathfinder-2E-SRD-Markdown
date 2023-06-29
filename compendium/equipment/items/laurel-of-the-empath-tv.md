@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/apex
-- trait/apex
-- trait/divination
-- trait/fortune
-- trait/invested
-- trait/magical
-aliases: ["Laurel of the Empath"]
+tags: [compendium/src/pf2e/tv, item/category/apex, trait/apex, trait/divination, trait/fortune, trait/invested, trait/magical]
+aliases: [Laurel of the Empath *Item 20*, "Laurel of the Empath"]
+title: Laurel of the Empath *Item 20*
+linter-yaml-title-alias: Laurel of the Empath *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Laurel of the Empath *Item 20*  
-[apex](rules/traits/apex.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Laurel of the Empath *Item 20*
+
+[apex](rules/traits/apex.md) [divination](rules/traits/divination.md) [fortune](rules/traits/fortune.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 70000 gp
-- **Usage** worn cap; **Bulk** —
+- **Usage** worn cap; **Bulk**—
 - **Category** Apex
 
 This silvery, woven ring of leaves sits on top of the head. While wearing it, when you roll [Perception](compendium/skills.md#Perception) for initiative, you can roll twice and take the higher result. This is a [fortune](rules/traits/fortune.md) effect. Whenever you spend at least 1 minute talking with a living creature, you automatically become aware of its attitude toward you. When you invest the laurel, you either increase your Wisdom score by 2 or increase it to 18, whichever is higher.

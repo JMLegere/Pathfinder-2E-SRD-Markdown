@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/botd
-- item/category/held
-- trait/divine
-- trait/evocation
-- trait/uncommon
-aliases: ["Dawnlight"]
+tags: [compendium/src/pf2e/botd, item/category/held, trait/divine, trait/evocation, trait/uncommon]
+aliases: [Dawnlight *Item 3+*, "Dawnlight"]
+title: Dawnlight *Item 3+*
+linter-yaml-title-alias: Dawnlight *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Dawnlight *Item 3+*  
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Dawnlight *Item 3+*
+
+[divine](rules/traits/divine.md) [evocation](rules/traits/evocation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

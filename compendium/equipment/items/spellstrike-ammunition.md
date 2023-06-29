@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/ammunition
-- trait/consumable
-- trait/magical
-- trait/transmutation
-aliases: ["Spellstrike Ammunition"]
+tags: [compendium/src/pf2e/crb, item/category/ammunition, trait/consumable, trait/magical, trait/transmutation]
+aliases: [Spellstrike Ammunition *Item 3+*, "Spellstrike Ammunition"]
+title: Spellstrike Ammunition *Item 3+*
+linter-yaml-title-alias: Spellstrike Ammunition *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spellstrike Ammunition *Item 3+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Spellstrike Ammunition *Item 3+*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Ammunition** any
 - **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)

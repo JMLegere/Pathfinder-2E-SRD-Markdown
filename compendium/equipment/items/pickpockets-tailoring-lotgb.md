@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/adjustment/clothing
-- trait/uncommon
-aliases: ["Pickpocket's Tailoring"]
+tags: [compendium/src/pf2e/lotgb, item/category/adjustment/clothing, trait/uncommon]
+aliases: ["Pickpocket's Tailoring *Item 4*", "Pickpocket's Tailoring"]
+title: "Pickpocket's Tailoring *Item 4*"
+linter-yaml-title-alias: "Pickpocket's Tailoring *Item 4*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Pickpocket's Tailoring *Item 4*  
+
+# Pickpocket's Tailoring *Item 4*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 100 gp

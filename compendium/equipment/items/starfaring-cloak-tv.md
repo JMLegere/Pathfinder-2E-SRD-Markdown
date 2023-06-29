@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/artifact
-- trait/artifact
-- trait/conjuration
-- trait/divine
-- trait/invested
-- trait/light
-- trait/rare
-aliases: ["Starfaring Cloak"]
+tags: [compendium/src/pf2e/tv, item/category/artifact, trait/artifact, trait/conjuration, trait/divine, trait/invested, trait/light, trait/rare]
+aliases: [Starfaring Cloak *Item 24*, "Starfaring Cloak"]
+title: Starfaring Cloak *Item 24*
+linter-yaml-title-alias: Starfaring Cloak *Item 24*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Starfaring Cloak *Item 24*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [light](rules/traits/light.md)  [rare](rules/traits/rare.md)  
+
+# Starfaring Cloak *Item 24*
+
+[artifact](rules/traits/artifact-gmg.md) [conjuration](rules/traits/conjuration.md) [divine](rules/traits/divine.md) [invested](rules/traits/invested.md) [light](rules/traits/light.md) [rare](rules/traits/rare.md)  
 
 - **Usage** worn; **Bulk** L
 - **Category** Artifact

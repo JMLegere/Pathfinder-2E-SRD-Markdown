@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/fop
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/uncommon
-aliases: ["Warrior's Training Ring"]
+tags: [compendium/src/pf2e/fop, item/category/worn, trait/divination, trait/invested, trait/uncommon]
+aliases: ["Warrior's Training Ring *Item 5*", "Warrior's Training Ring"]
+title: "Warrior's Training Ring *Item 5*"
+linter-yaml-title-alias: "Warrior's Training Ring *Item 5*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warrior's Training Ring *Item 5*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Warrior's Training Ring *Item 5*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 160 gp
 - **Usage** worn

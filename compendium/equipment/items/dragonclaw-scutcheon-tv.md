@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/talisman
-- trait/abjuration
-- trait/consumable
-- trait/magical
-- trait/talisman
-aliases: ["Dragonclaw Scutcheon"]
+tags: [compendium/src/pf2e/tv, item/category/talisman, trait/abjuration, trait/consumable, trait/magical, trait/talisman]
+aliases: [Dragonclaw Scutcheon *Item 16*, "Dragonclaw Scutcheon"]
+title: Dragonclaw Scutcheon *Item 16*
+linter-yaml-title-alias: Dragonclaw Scutcheon *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragonclaw Scutcheon *Item 16*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Dragonclaw Scutcheon *Item 16*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 1600 gp
-- **Usage** affixed to a shield; **Bulk** —
+- **Usage** affixed to a shield; **Bulk**—
 - **Activate** envision; **Trigger** You would take damage of a type depending on the talisman's dragon type: acid, cold, electricity, fire, or poison damage
 - **Category** Talisman
 

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/worn
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Hummingbird Wayfinder"]
+tags: [compendium/src/pf2e/lopsg, item/category/worn, trait/evocation, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Hummingbird Wayfinder *Item 12*, "Hummingbird Wayfinder"]
+title: Hummingbird Wayfinder *Item 12*
+linter-yaml-title-alias: Hummingbird Wayfinder *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hummingbird Wayfinder *Item 12*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Hummingbird Wayfinder *Item 12*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1750 gp
 - **Usage** worn
