@@ -1,7 +1,7 @@
 ---
 level: "1"
-bulk:
-price:
+bulk: "0.1"
+price: "4.0"
 status: Pillbug's Pantry
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item

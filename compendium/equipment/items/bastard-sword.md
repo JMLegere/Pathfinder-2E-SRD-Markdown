@@ -1,6 +1,6 @@
 ---
-bulk:
-price:
+bulk: "1"
+price: "4"
 level: "0"
 status: Savah's Armory
 obsidianUIMode: preview
