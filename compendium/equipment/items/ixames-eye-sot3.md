@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot3
-- item/category/talisman
-- trait/consumable
-- trait/divination
-- trait/magical
-- trait/rare
-- trait/talisman
-aliases: ["Ixamè's Eye"]
+tags: [compendium/src/pf2e/sot3, item/category/talisman, trait/consumable, trait/divination, trait/magical, trait/rare, trait/talisman]
+aliases: ["Ixamè's Eye *Item 9*", "Ixamè's Eye"]
+title: "Ixamè's Eye *Item 9*"
+linter-yaml-title-alias: "Ixamè's Eye *Item 9*"
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:40 pm
 ---
-# Ixamè's Eye *Item 9*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [talisman](rules/traits/talisman.md)  
+
+# Ixamè's Eye *Item 9*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 150 gp
-- **Usage** affixed to headgear; **Bulk** –
+- **Usage** affixed to headgear; **Bulk**–
 - **Activate** envision
 - **Category** Talisman
 

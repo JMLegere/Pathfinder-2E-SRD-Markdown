@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/locg
-- item/category/worn
-- trait/abjuration
-- trait/divination
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Shining Wayfinder"]
+tags: [compendium/src/pf2e/locg, item/category/worn, trait/abjuration, trait/divination, trait/evocation, trait/invested, trait/magical, trait/uncommon]
+aliases: [Shining Wayfinder *Item 4*, "Shining Wayfinder"]
+title: Shining Wayfinder *Item 4*
+linter-yaml-title-alias: Shining Wayfinder *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shining Wayfinder *Item 4*  
-[abjuration](rules/traits/abjuration.md)  [divination](rules/traits/divination.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Shining Wayfinder *Item 4*
+
+[abjuration](rules/traits/abjuration.md) [divination](rules/traits/divination.md) [evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 100 gp
 - **Usage** worn

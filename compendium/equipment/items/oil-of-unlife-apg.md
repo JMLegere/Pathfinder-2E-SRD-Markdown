@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/oil
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/negative
-- trait/oil
-aliases: ["Oil Of Unlife"]
+tags: [compendium/src/pf2e/apg, item/category/oil, trait/consumable, trait/magical, trait/necromancy, trait/negative, trait/oil]
+aliases: [Oil Of Unlife *Item 1+*, "Oil Of Unlife"]
+title: Oil Of Unlife *Item 1+*
+linter-yaml-title-alias: Oil Of Unlife *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Oil Of Unlife *Item 1+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  [oil](rules/traits/oil.md)  
+
+# Oil Of Unlife *Item 1+*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md) [oil](rules/traits/oil.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

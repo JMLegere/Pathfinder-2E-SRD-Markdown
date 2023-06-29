@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Ring of Spell Turning"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/abjuration, trait/invested, trait/magical, trait/rare]
+aliases: [Ring of Spell Turning *Item 20*, "Ring of Spell Turning"]
+title: Ring of Spell Turning *Item 20*
+linter-yaml-title-alias: Ring of Spell Turning *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Ring of Spell Turning *Item 20*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Ring of Spell Turning *Item 20*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 67000 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This golden ring has three diamonds set into its face.

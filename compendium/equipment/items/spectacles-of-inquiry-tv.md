@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-aliases: ["Spectacles of Inquiry"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/divination, trait/invested, trait/magical]
+aliases: [Spectacles of Inquiry *Item 12*, "Spectacles of Inquiry"]
+title: Spectacles of Inquiry *Item 12*
+linter-yaml-title-alias: Spectacles of Inquiry *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spectacles of Inquiry *Item 12*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Spectacles of Inquiry *Item 12*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1750 gp
-- **Usage** worn eyepiece; **Bulk** —
+- **Usage** worn eyepiece; **Bulk**—
 - **Category** Worn
 
 Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to [Perception](compendium/skills.md#Perception) checks.

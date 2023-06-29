@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/divination
-- trait/magical
-- trait/uncommon
-aliases: ["Falconsight Eye"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/divination, trait/magical, trait/uncommon]
+aliases: [Falconsight Eye *Item 6*, "Falconsight Eye"]
+title: Falconsight Eye *Item 6*
+linter-yaml-title-alias: Falconsight Eye *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Falconsight Eye *Item 6*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Falconsight Eye *Item 6*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 200 gp
 - **Usage** worn; **Bulk** L

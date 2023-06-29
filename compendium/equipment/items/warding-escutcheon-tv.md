@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/conjuration
-- trait/magical
-aliases: ["Warding Escutcheon"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/conjuration, trait/magical]
+aliases: [Warding Escutcheon *Item 9+*, "Warding Escutcheon"]
+title: Warding Escutcheon *Item 9+*
+linter-yaml-title-alias: Warding Escutcheon *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warding Escutcheon *Item 9+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Warding Escutcheon *Item 9+*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** 4
 - **Category** Held

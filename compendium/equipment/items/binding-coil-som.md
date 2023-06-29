@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/talisman
-- trait/consumable
-- trait/magical
-- trait/talisman
-- trait/transmutation
-aliases: ["Binding Coil"]
+tags: [compendium/src/pf2e/som, item/category/talisman, trait/consumable, trait/magical, trait/talisman, trait/transmutation]
+aliases: [Binding Coil *Item 6+*, "Binding Coil"]
+title: Binding Coil *Item 6+*
+linter-yaml-title-alias: Binding Coil *Item 6+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Binding Coil *Item 6+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Binding Coil *Item 6+*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** affixed to a weapon
 - **Activate** envision; **Trigger** Your [Strike](rules/actions/strike.md) with the affixed weapon damages a creature; **Requirements** You're an expert in [Athletics](compendium/skills.md#Athletics).

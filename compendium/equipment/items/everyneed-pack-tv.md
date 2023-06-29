@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Everyneed Pack"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/conjuration, trait/invested, trait/magical, trait/uncommon]
+aliases: [Everyneed Pack *Item 3+*, "Everyneed Pack"]
+title: Everyneed Pack *Item 3+*
+linter-yaml-title-alias: Everyneed Pack *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Everyneed Pack *Item 3+*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Everyneed Pack *Item 3+*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** worn backpack; **Bulk** 1
 - **Category** Worn

@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/evocation
-- trait/invested
-- trait/magical
-aliases: ["Necklace of Fireballs"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/evocation, trait/invested, trait/magical]
+aliases: [Necklace of Fireballs *Item 5+*, "Necklace of Fireballs"]
+title: Necklace of Fireballs *Item 5+*
+linter-yaml-title-alias: Necklace of Fireballs *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Necklace of Fireballs *Item 5+*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
 
-- **Usage** worn; **Bulk** —
+# Necklace of Fireballs *Item 5+*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
+
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This string of beads appears to be a hemp string with lustrous red beads of various sizes hanging from it. When activated, it briefly appears in its true form: a golden chain with golden spheres attached by fine threads.

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/conjuration
-- trait/magical
-- trait/transmutation
-- trait/unique
-aliases: ["Axe Of The Dwarven Lords"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/conjuration, trait/magical, trait/transmutation, trait/unique]
+aliases: [Axe Of The Dwarven Lords *Item 26*, "Axe Of The Dwarven Lords"]
+title: Axe Of The Dwarven Lords *Item 26*
+linter-yaml-title-alias: Axe Of The Dwarven Lords *Item 26*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Axe Of The Dwarven Lords *Item 26*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+
+# Axe Of The Dwarven Lords *Item 26*
+
+[artifact](rules/traits/artifact-gmg.md) [conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 2 hands; **Bulk** 3
 - **Category** Artifact

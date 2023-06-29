@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/evocation
-- trait/light
-- trait/magical
-- trait/uncommon
-aliases: ["Duelist's Beacon"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/evocation, trait/light, trait/magical, trait/uncommon]
+aliases: ["Duelist's Beacon *Item 8*", "Duelist's Beacon"]
+title: "Duelist's Beacon *Item 8*"
+linter-yaml-title-alias: "Duelist's Beacon *Item 8*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Duelist's Beacon *Item 8*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Duelist's Beacon *Item 8*
+
+[evocation](rules/traits/evocation.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 450 gp
 - **Usage** held in one hand; **Bulk** L

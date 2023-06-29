@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/evocation
-- trait/magical
-- trait/sonic
-- trait/spellheart
-aliases: ["Resonating Fork"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/evocation, trait/magical, trait/sonic, trait/spellheart]
+aliases: [Resonating Fork *Item 5+*, "Resonating Fork"]
+title: Resonating Fork *Item 5+*
+linter-yaml-title-alias: Resonating Fork *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Resonating Fork *Item 5+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Resonating Fork *Item 5+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [sonic](rules/traits/sonic.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 This two-pronged fork of metal emits a constant low hum, vibrating slightly when touched. The spell attack roll of any spell cast by activating this item is +9, and the spell DC is 19.

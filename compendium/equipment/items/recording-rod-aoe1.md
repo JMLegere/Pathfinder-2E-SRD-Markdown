@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe1
-- item/category/consumable
-- trait/consumable
-- trait/divination
-- trait/magical
-- trait/scrying
-- trait/uncommon
-aliases: ["Recording Rod"]
+tags: [compendium/src/pf2e/aoe1, item/category/consumable, trait/consumable, trait/divination, trait/magical, trait/scrying, trait/uncommon]
+aliases: [Recording Rod *Item 3+*, "Recording Rod"]
+title: Recording Rod *Item 3+*
+linter-yaml-title-alias: Recording Rod *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Recording Rod *Item 3+*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [scrying](rules/traits/scrying.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Recording Rod *Item 3+*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [scrying](rules/traits/scrying.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** varies; **Bulk** 1
 - **Category** Consumable

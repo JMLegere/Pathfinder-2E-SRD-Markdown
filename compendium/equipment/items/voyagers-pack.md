@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Voyager's Pack"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/conjuration, trait/invested, trait/magical, trait/uncommon]
+aliases: ["Voyager's Pack *Item 17*", "Voyager's Pack"]
+title: "Voyager's Pack *Item 17*"
+linter-yaml-title-alias: "Voyager's Pack *Item 17*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Voyager's Pack *Item 17*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Voyager's Pack *Item 17*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 14800 gp
-- **Usage** worn backpack; **Bulk** —
+- **Usage** worn backpack; **Bulk**—
 - **Category** Worn
 
 This leather rucksack has icons burned into it, and every time it's taken to a plane it hasn't been to before, a new icon representing that plane scorches into the surface. The pack grants you a +3 bonus to [Survival](compendium/skills.md#Survival) checks.

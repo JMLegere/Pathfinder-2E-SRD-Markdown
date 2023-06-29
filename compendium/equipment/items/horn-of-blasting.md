@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/evocation
-- trait/sonic
-aliases: ["Horn of Blasting"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/evocation, trait/sonic]
+aliases: [Horn of Blasting *Item 9*, "Horn of Blasting"]
+title: Horn of Blasting *Item 9*
+linter-yaml-title-alias: Horn of Blasting *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Horn of Blasting *Item 9*  
-[evocation](rules/traits/evocation.md)  [sonic](rules/traits/sonic.md)  
+
+# Horn of Blasting *Item 9*
+
+[evocation](rules/traits/evocation.md) [sonic](rules/traits/sonic.md)  
 
 - **Price** 700 gp
 - **Usage** held in 1 hand; **Bulk** L

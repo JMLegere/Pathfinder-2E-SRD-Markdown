@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/divination
-- trait/fortune
-- trait/magical
-- trait/potion
-- trait/rare
-aliases: ["Starsong Nectar"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/divination, trait/fortune, trait/magical, trait/potion, trait/rare]
+aliases: [Starsong Nectar *Item 20*, "Starsong Nectar"]
+title: Starsong Nectar *Item 20*
+linter-yaml-title-alias: Starsong Nectar *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Starsong Nectar *Item 20*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [rare](rules/traits/rare.md)  
+
+# Starsong Nectar *Item 20*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [fortune](rules/traits/fortune.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md) [rare](rules/traits/rare.md)  
 
 - **Price** 14000 gp
 - **Usage** held in 1 hand; **Bulk** L

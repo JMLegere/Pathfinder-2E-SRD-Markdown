@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/material
-aliases: ["Bone"]
+tags: [compendium/src/pf2e/tv, item/category/material]
+aliases: [Bone *Item 0+*, "Bone"]
+title: Bone *Item 0+*
+linter-yaml-title-alias: Bone *Item 0+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bone *Item 0+*  
+
+# Bone *Item 0+*
 
 - **Category** Material
 
@@ -17,6 +24,5 @@ A durable material when properly treated, bone can replace wood and metal when c
 | Thin Items | 4 | 16 | 8 |
 | Items | 6 | 24 | 12 |
 | Structures | 12 | 48 | 24 |
-
 
 *Source: Treasure Vault p. 169*

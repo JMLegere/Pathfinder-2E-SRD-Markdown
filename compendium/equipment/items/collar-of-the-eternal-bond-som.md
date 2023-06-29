@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/worn
-- trait/conjuration
-- trait/eidolon
-- trait/invested
-- trait/magical
-aliases: ["Collar Of The Eternal Bond"]
+tags: [compendium/src/pf2e/som, item/category/worn, trait/conjuration, trait/eidolon, trait/invested, trait/magical]
+aliases: [Collar Of The Eternal Bond *Item 7*, "Collar Of The Eternal Bond"]
+title: Collar Of The Eternal Bond *Item 7*
+linter-yaml-title-alias: Collar Of The Eternal Bond *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Collar Of The Eternal Bond *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [eidolon](rules/traits/eidolon-som.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Collar Of The Eternal Bond *Item 7*
+
+[conjuration](rules/traits/conjuration.md) [eidolon](rules/traits/eidolon-som.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 330 gp
 - **Usage** worn collar; **Bulk** L

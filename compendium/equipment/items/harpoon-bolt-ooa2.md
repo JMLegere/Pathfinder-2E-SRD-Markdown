@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa2
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/magical
-- trait/uncommon
-aliases: ["Harpoon Bolt"]
+tags: [compendium/src/pf2e/ooa2, item/category/consumable, trait/conjuration, trait/consumable, trait/magical, trait/uncommon]
+aliases: [Harpoon Bolt *Item 4*, "Harpoon Bolt"]
+title: Harpoon Bolt *Item 4*
+linter-yaml-title-alias: Harpoon Bolt *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Harpoon Bolt *Item 4*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Harpoon Bolt *Item 4*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 15 gp
 - **Ammunition** round

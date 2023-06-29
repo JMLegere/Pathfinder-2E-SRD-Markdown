@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/conjuration
-- trait/intelligent
-- trait/magical
-- trait/rare
-aliases: ["Bleachguard Doll"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/conjuration, trait/intelligent, trait/magical, trait/rare]
+aliases: [Bleachguard Doll *Item 8*, "Bleachguard Doll"]
+title: Bleachguard Doll *Item 8*
+linter-yaml-title-alias: Bleachguard Doll *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Bleachguard Doll *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [intelligent](rules/traits/intelligent-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Bleachguard Doll *Item 8*
+
+[conjuration](rules/traits/conjuration.md) [intelligent](rules/traits/intelligent-gmg.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

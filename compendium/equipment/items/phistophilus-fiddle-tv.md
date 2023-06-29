@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/adventuring-gear
-- trait/enchantment
-- trait/magical
-- trait/relic
-- trait/unique
-aliases: ["Phistophilus Fiddle"]
+tags: [compendium/src/pf2e/tv, item/category/adventuring-gear, trait/enchantment, trait/magical, trait/relic, trait/unique]
+aliases: [Phistophilus Fiddle *Item 3*, "Phistophilus Fiddle"]
+title: Phistophilus Fiddle *Item 3*
+linter-yaml-title-alias: Phistophilus Fiddle *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Phistophilus Fiddle *Item 3*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [relic](rules/traits/relic-tv.md)  [unique](rules/traits/unique.md)  
+
+# Phistophilus Fiddle *Item 3*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [relic](rules/traits/relic-tv.md) [unique](rules/traits/unique.md)  
 
 - **Bulk** 1
 - **Hands** 2

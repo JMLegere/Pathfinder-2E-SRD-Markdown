@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/enchantment
-- trait/magical
-- trait/spellheart
-aliases: ["Desolation Locket"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/enchantment, trait/magical, trait/spellheart]
+aliases: [Desolation Locket *Item 8+*, "Desolation Locket"]
+title: Desolation Locket *Item 8+*
+linter-yaml-title-alias: Desolation Locket *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Desolation Locket *Item 8+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Desolation Locket *Item 8+*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 The surface of this golden, heart-shaped locket is nearly worn through with cracks. If opened, it reveals a portrait of someone the bearer loved dearly and has lost. The spell DC of any spell cast by activating this item is 24.

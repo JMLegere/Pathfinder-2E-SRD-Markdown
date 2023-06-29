@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot3
-- item/category/held
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Exploration Lens"]
+tags: [compendium/src/pf2e/sot3, item/category/held, trait/divination, trait/invested, trait/magical, trait/uncommon]
+aliases: [Exploration Lens *Item 10+*, "Exploration Lens"]
+title: Exploration Lens *Item 10+*
+linter-yaml-title-alias: Exploration Lens *Item 10+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Exploration Lens *Item 10+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
 
-- **Usage** held in 1 hand; **Bulk** –
+# Exploration Lens *Item 10+*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
+
+- **Usage** held in 1 hand; **Bulk**–
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Held
 

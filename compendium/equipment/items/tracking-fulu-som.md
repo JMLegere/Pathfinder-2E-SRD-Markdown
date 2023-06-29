@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/consumable
-- trait/abjuration
-- trait/consumable
-- trait/fulu
-- trait/magical
-aliases: ["Tracking Fulu"]
+tags: [compendium/src/pf2e/som, item/category/consumable, trait/abjuration, trait/consumable, trait/fulu, trait/magical]
+aliases: [Tracking Fulu *Item 5*, "Tracking Fulu"]
+title: Tracking Fulu *Item 5*
+linter-yaml-title-alias: Tracking Fulu *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Tracking Fulu *Item 5*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  
+
+# Tracking Fulu *Item 5*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 25 gp
 - **Usage** affixed to creature or object

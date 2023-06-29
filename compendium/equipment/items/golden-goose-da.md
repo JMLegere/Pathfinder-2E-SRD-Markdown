@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/held
-- trait/cursed
-- trait/evil
-- trait/magical
-- trait/transmutation
-aliases: ["Golden Goose"]
+tags: [compendium/src/pf2e/da, item/category/held, trait/cursed, trait/evil, trait/magical, trait/transmutation]
+aliases: [Golden Goose *Item 11*, "Golden Goose"]
+title: Golden Goose *Item 11*
+linter-yaml-title-alias: Golden Goose *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Golden Goose *Item 11*  
-[cursed](rules/traits/cursed-gmg.md)  [evil](rules/traits/evil.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Golden Goose *Item 11*
+
+[cursed](rules/traits/cursed-gmg.md) [evil](rules/traits/evil.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Held

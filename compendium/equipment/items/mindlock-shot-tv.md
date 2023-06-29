@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/enchantment
-- trait/magical
-aliases: ["Mindlock Shot"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/enchantment, trait/magical]
+aliases: [Mindlock Shot *Item 11*, "Mindlock Shot"]
+title: Mindlock Shot *Item 11*
+linter-yaml-title-alias: Mindlock Shot *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Mindlock Shot *Item 11*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+
+# Mindlock Shot *Item 11*
+
+[consumable](rules/traits/consumable.md) [enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md)  
 
 - **Price** 250 gp
 - **Ammunition** any

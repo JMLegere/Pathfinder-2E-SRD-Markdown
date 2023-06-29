@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/conjuration
-- trait/magical
-aliases: ["Keymaking Tools"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/conjuration, trait/magical]
+aliases: [Keymaking Tools *Item 3*, "Keymaking Tools"]
+title: Keymaking Tools *Item 3*
+linter-yaml-title-alias: Keymaking Tools *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Keymaking Tools *Item 3*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Keymaking Tools *Item 3*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Price** 55 gp
 - **Usage** held in 2 hands; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/frp2
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Cape Of The Open Sky"]
+tags: [compendium/src/pf2e/frp2, item/category/worn, trait/invested, trait/magical, trait/rare, trait/transmutation]
+aliases: [Cape Of The Open Sky *Item 18*, "Cape Of The Open Sky"]
+title: Cape Of The Open Sky *Item 18*
+linter-yaml-title-alias: Cape Of The Open Sky *Item 18*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Cape Of The Open Sky *Item 18*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Cape Of The Open Sky *Item 18*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 22000 gp
 - **Usage** worn cloak; **Bulk** L

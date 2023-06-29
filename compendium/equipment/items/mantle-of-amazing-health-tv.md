@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/apex
-- trait/apex
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Mantle of Amazing Health"]
+tags: [compendium/src/pf2e/tv, item/category/apex, trait/apex, trait/invested, trait/magical, trait/transmutation]
+aliases: [Mantle of Amazing Health *Item 19*, "Mantle of Amazing Health"]
+title: Mantle of Amazing Health *Item 19*
+linter-yaml-title-alias: Mantle of Amazing Health *Item 19*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mantle of Amazing Health *Item 19*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Mantle of Amazing Health *Item 19*
+
+[apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 40000 gp
 - **Usage** worn cape; **Bulk** L

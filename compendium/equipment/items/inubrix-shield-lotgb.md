@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/rare
-aliases: ["Inubrix Shield"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/rare]
+aliases: [Inubrix Shield *Item 8+*, "Inubrix Shield"]
+title: Inubrix Shield *Item 8+*
+linter-yaml-title-alias: Inubrix Shield *Item 8+*
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Inubrix Shield *Item 8+*  
+
+# Inubrix Shield *Item 8+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** varies by shield

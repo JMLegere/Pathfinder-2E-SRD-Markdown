@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/rune
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Fanged"]
+tags: [compendium/src/pf2e/lotgb, item/category/rune, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Fanged *Item 2+*, "Fanged"]
+title: Fanged *Item 2+*
+linter-yaml-title-alias: Fanged *Item 2+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fanged *Item 2+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Fanged *Item 2+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** etched onto a melee weapon
 - **Category** Rune

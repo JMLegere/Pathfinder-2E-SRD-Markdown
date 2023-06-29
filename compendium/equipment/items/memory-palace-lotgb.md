@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/structure
-- trait/conjuration
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Memory Palace"]
+tags: [compendium/src/pf2e/lotgb, item/category/structure, trait/conjuration, trait/magical, trait/structure, trait/uncommon]
+aliases: [Memory Palace *Item 14*, "Memory Palace"]
+title: Memory Palace *Item 14*
+linter-yaml-title-alias: Memory Palace *Item 14*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Memory Palace *Item 14*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Memory Palace *Item 14*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 4200 gp
-- **Bulk** — (when not activated)
+- **Bulk**—(when not activated)
 - **Category** Structure
 
 A memory palace is an elaborate magical structure that safely stores memories for easy access. It appears to be a miniature Taldan villa small enough to fit in the palm of a human hand.

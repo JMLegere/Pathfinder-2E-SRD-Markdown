@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/evocation
-- trait/magical
-aliases: ["Magnetizing"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/evocation, trait/magical]
+aliases: [Magnetizing *Item 10*, "Magnetizing"]
+title: Magnetizing *Item 10*
+linter-yaml-title-alias: Magnetizing *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Magnetizing *Item 10*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Magnetizing *Item 10*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 900 gp
 - **Usage** etched onto metal armor

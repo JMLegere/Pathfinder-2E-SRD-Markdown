@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/precious
-- trait/rare
-aliases: ["Inubrix"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/precious, trait/rare]
+aliases: [Inubrix *Item 0+*, "Inubrix"]
+title: Inubrix *Item 0+*
+linter-yaml-title-alias: Inubrix *Item 0+*
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Inubrix *Item 0+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+
+# Inubrix *Item 0+*
+
+[precious](rules/traits/precious.md) [rare](rules/traits/rare.md)  
 
 - **Category** Material
 
@@ -26,6 +32,5 @@ This pale, malleable metal's unusual molecular structure allows it to partially 
 | **Structures** |  |  |  |
 | Standard-grade | 17 | 68 | 34 |
 | High-grade | 23 | 92 | 46 |
-
 
 *Source: Lost Omens: The Grand Bazaar p. 98*

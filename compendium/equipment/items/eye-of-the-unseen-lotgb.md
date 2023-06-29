@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/prosthesis
-- trait/divination
-- trait/invested
-- trait/magical
-aliases: ["Eye Of The Unseen"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/prosthesis, trait/divination, trait/invested, trait/magical]
+aliases: [Eye Of The Unseen *Item 8+*, "Eye Of The Unseen"]
+title: Eye Of The Unseen *Item 8+*
+linter-yaml-title-alias: Eye Of The Unseen *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Eye Of The Unseen *Item 8+*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Eye Of The Unseen *Item 8+*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn; **Bulk** L
 - **Category** Prosthesis

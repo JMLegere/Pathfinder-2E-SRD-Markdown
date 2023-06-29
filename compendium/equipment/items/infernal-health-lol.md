@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/contract
-- trait/contract
-- trait/healing
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Infernal Health"]
+tags: [compendium/src/pf2e/lol, item/category/contract, trait/contract, trait/healing, trait/invested, trait/magical, trait/rare]
+aliases: [Infernal Health *Item 15*, "Infernal Health"]
+title: Infernal Health *Item 15*
+linter-yaml-title-alias: Infernal Health *Item 15*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Infernal Health *Item 15*  
-[contract](rules/traits/contract-lol.md)  [healing](rules/traits/healing.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Infernal Health *Item 15*
+
+[contract](rules/traits/contract-lol.md) [healing](rules/traits/healing.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

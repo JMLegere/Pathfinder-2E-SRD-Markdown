@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/consumable
-- trait/consumable
-- trait/illusion
-- trait/magical
-- trait/uncommon
-aliases: ["Camp Shroud"]
+tags: [compendium/src/pf2e/lokl, item/category/consumable, trait/consumable, trait/illusion, trait/magical, trait/uncommon]
+aliases: [Camp Shroud *Item 4+*, "Camp Shroud"]
+title: Camp Shroud *Item 4+*
+linter-yaml-title-alias: Camp Shroud *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Camp Shroud *Item 4+*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Camp Shroud *Item 4+*
+
+[consumable](rules/traits/consumable.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

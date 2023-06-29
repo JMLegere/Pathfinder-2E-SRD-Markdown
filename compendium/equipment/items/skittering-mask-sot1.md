@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot1
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Skittering Mask"]
+tags: [compendium/src/pf2e/sot1, item/category/worn, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Skittering Mask *Item 2+*, "Skittering Mask"]
+title: Skittering Mask *Item 2+*
+linter-yaml-title-alias: Skittering Mask *Item 2+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Skittering Mask *Item 2+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Skittering Mask *Item 2+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** worn mask; **Bulk** 1
 - **Category** Worn

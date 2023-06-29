@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot6
-- item/category/artifact
-- trait/artifact
-- trait/divine
-- trait/invested
-- trait/necromancy
-- trait/unique
-aliases: ["Ancestral Embrace"]
+tags: [compendium/src/pf2e/sot6, item/category/artifact, trait/artifact, trait/divine, trait/invested, trait/necromancy, trait/unique]
+aliases: [Ancestral Embrace *Item 26*, "Ancestral Embrace"]
+title: Ancestral Embrace *Item 26*
+linter-yaml-title-alias: Ancestral Embrace *Item 26*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Ancestral Embrace *Item 26*  
-[artifact](rules/traits/artifact-gmg.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  [unique](rules/traits/unique.md)  
+
+# Ancestral Embrace *Item 26*
+
+[artifact](rules/traits/artifact-gmg.md) [divine](rules/traits/divine.md) [invested](rules/traits/invested.md) [necromancy](rules/traits/necromancy.md) [unique](rules/traits/unique.md)  
 
 - **Usage** worn armor; **Bulk** 1
 - **Category** Artifact

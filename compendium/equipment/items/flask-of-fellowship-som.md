@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/conjuration
-- trait/magical
-aliases: ["Flask Of Fellowship"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/conjuration, trait/magical]
+aliases: [Flask Of Fellowship *Item 2*, "Flask Of Fellowship"]
+title: Flask Of Fellowship *Item 2*
+linter-yaml-title-alias: Flask Of Fellowship *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Flask Of Fellowship *Item 2*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Flask Of Fellowship *Item 2*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Price** 25 gp
 - **Usage** held in 2 hands; **Bulk** L

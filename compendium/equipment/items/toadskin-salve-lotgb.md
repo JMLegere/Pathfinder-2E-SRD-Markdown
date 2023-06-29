@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/poison
-- trait/uncommon
-aliases: ["Toadskin Salve"]
+tags: [compendium/src/pf2e/lotgb, item/category/poison, trait/alchemical, trait/consumable, trait/poison, trait/uncommon]
+aliases: [Toadskin Salve *Item 3+*, "Toadskin Salve"]
+title: Toadskin Salve *Item 3+*
+linter-yaml-title-alias: Toadskin Salve *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Toadskin Salve *Item 3+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Toadskin Salve *Item 3+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Poison

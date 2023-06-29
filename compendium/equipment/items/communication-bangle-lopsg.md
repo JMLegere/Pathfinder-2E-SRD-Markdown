@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/worn
-- trait/uncommon
-aliases: ["Communication Bangle"]
+tags: [compendium/src/pf2e/lopsg, item/category/worn, trait/uncommon]
+aliases: [Communication Bangle *Item 1*, "Communication Bangle"]
+title: Communication Bangle *Item 1*
+linter-yaml-title-alias: Communication Bangle *Item 1*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Communication Bangle *Item 1*  
+
+# Communication Bangle *Item 1*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 10 gp

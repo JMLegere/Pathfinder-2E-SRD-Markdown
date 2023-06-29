@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/grimoire
-- trait/magical
-- trait/necromancy
-aliases: ["Tome of Restorative Cleansing"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/grimoire, trait/magical, trait/necromancy]
+aliases: [Tome of Restorative Cleansing *Item 5+*, "Tome of Restorative Cleansing"]
+title: Tome of Restorative Cleansing *Item 5+*
+linter-yaml-title-alias: Tome of Restorative Cleansing *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Tome of Restorative Cleansing *Item 5+*  
-[grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Tome of Restorative Cleansing *Item 5+*
+
+[grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Bulk** L
 - **Category** Grimoire

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot5
-- item/category/grimoire
-- trait/divination
-- trait/grimoire
-- trait/invested
-- trait/magical
-- trait/unique
-aliases: ["Grimoire of Unknown Necessities"]
+tags: [compendium/src/pf2e/sot5, item/category/grimoire, trait/divination, trait/grimoire, trait/invested, trait/magical, trait/unique]
+aliases: [Grimoire of Unknown Necessities *Item 16*, "Grimoire of Unknown Necessities"]
+title: Grimoire of Unknown Necessities *Item 16*
+linter-yaml-title-alias: Grimoire of Unknown Necessities *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Grimoire of Unknown Necessities *Item 16*  
-[divination](rules/traits/divination.md)  [grimoire](rules/traits/grimoire-som.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+
+# Grimoire of Unknown Necessities *Item 16*
+
+[divination](rules/traits/divination.md) [grimoire](rules/traits/grimoire-som.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [unique](rules/traits/unique.md)  
 
 - **Price** 8000 gp
 - **Bulk** L

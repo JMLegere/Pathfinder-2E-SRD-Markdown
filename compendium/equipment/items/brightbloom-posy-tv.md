@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/conjuration
-- trait/magical
-- trait/plant
-- trait/spellheart
-aliases: ["Brightbloom Posy"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/conjuration, trait/magical, trait/plant, trait/spellheart]
+aliases: [Brightbloom Posy *Item 8+*, "Brightbloom Posy"]
+title: Brightbloom Posy *Item 8+*
+linter-yaml-title-alias: Brightbloom Posy *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Brightbloom Posy *Item 8+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [plant](rules/traits/plant.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Brightbloom Posy *Item 8+*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [plant](rules/traits/plant.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 Appearing as vibrant as the day they were picked, this cluster of flowers is arranged in a small spray, tied with a red satin ribbon.

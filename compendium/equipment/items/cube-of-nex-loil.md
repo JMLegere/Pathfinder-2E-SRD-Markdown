@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/artifact
-- trait/artifact
-- trait/evocation
-- trait/magical
-- trait/unique
-aliases: ["Cube of Nex"]
+tags: [compendium/src/pf2e/loil, item/category/artifact, trait/artifact, trait/evocation, trait/magical, trait/unique]
+aliases: [Cube of Nex *Item 25*, "Cube of Nex"]
+title: Cube of Nex *Item 25*
+linter-yaml-title-alias: Cube of Nex *Item 25*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Cube of Nex *Item 25*  
-[artifact](rules/traits/artifact-gmg.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+
+# Cube of Nex *Item 25*
+
+[artifact](rules/traits/artifact-gmg.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand
 - **Category** Artifact

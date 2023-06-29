@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av2
-- item/category/worn
-- trait/enchantment
-- trait/incapacitation
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Drover's Band"]
+tags: [compendium/src/pf2e/av2, item/category/worn, trait/enchantment, trait/incapacitation, trait/invested, trait/magical, trait/rare]
+aliases: ["Drover's Band *Item 7*", "Drover's Band"]
+title: "Drover's Band *Item 7*"
+linter-yaml-title-alias: "Drover's Band *Item 7*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Drover's Band *Item 7*  
-[enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Drover's Band *Item 7*
+
+[enchantment](rules/traits/enchantment.md) [incapacitation](rules/traits/incapacitation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 675 gp
 - **Usage** worn bracers; **Bulk** L

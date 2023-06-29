@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/magical
-- trait/rare
-aliases: ["Starshot Arrow"]
+tags: [compendium/src/pf2e/lol, item/category/consumable, trait/conjuration, trait/consumable, trait/magical, trait/rare]
+aliases: [Starshot Arrow *Item 7+*, "Starshot Arrow"]
+title: Starshot Arrow *Item 7+*
+linter-yaml-title-alias: Starshot Arrow *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Starshot Arrow *Item 7+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Starshot Arrow *Item 7+*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)
 - **Activate** [Interact](rules/actions/interact.md)

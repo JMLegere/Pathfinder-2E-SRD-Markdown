@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/enchantment
-- trait/intelligent
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Majordomo Torc"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/enchantment, trait/intelligent, trait/invested, trait/magical, trait/rare]
+aliases: [Majordomo Torc *Item 6*, "Majordomo Torc"]
+title: Majordomo Torc *Item 6*
+linter-yaml-title-alias: Majordomo Torc *Item 6*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Majordomo Torc *Item 6*  
-[enchantment](rules/traits/enchantment.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Majordomo Torc *Item 6*
+
+[enchantment](rules/traits/enchantment.md) [intelligent](rules/traits/intelligent-gmg.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** worn; **Bulk** L
 - **Category** Worn

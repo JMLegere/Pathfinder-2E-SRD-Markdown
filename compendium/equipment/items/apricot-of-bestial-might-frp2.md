@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/frp2
-- item/category/elixir
-- trait/alchemical
-- trait/consumable
-- trait/elixir
-- trait/mutagen
-- trait/polymorph
-- trait/uncommon
-aliases: ["Apricot Of Bestial Might"]
+tags: [compendium/src/pf2e/frp2, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/mutagen, trait/polymorph, trait/uncommon]
+aliases: [Apricot Of Bestial Might *Item 16*, "Apricot Of Bestial Might"]
+title: Apricot Of Bestial Might *Item 16*
+linter-yaml-title-alias: Apricot Of Bestial Might *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Apricot Of Bestial Might *Item 16*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [mutagen](rules/traits/mutagen.md)  [polymorph](rules/traits/polymorph.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Apricot Of Bestial Might *Item 16*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [elixir](rules/traits/elixir.md) [mutagen](rules/traits/mutagen.md) [polymorph](rules/traits/polymorph.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 2000 gp
 - **Usage** held in 1 hand; **Bulk** L

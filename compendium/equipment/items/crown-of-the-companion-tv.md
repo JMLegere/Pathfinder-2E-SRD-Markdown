@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/healing
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/positive
-- trait/uncommon
-aliases: ["Crown of the Companion"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/healing, trait/invested, trait/magical, trait/necromancy, trait/positive, trait/uncommon]
+aliases: [Crown of the Companion *Item 6*, "Crown of the Companion"]
+title: Crown of the Companion *Item 6*
+linter-yaml-title-alias: Crown of the Companion *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Crown of the Companion *Item 6*  
-[healing](rules/traits/healing.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Crown of the Companion *Item 6*
+
+[healing](rules/traits/healing.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [positive](rules/traits/positive.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 250 gp
 - **Usage** worn headwear; **Bulk** L

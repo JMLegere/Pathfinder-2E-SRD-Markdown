@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/tattoo
-- trait/uncommon
-aliases: ["Ancestral Geometry"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/abjuration, trait/invested, trait/magical, trait/tattoo, trait/uncommon]
+aliases: [Ancestral Geometry *Item 2*, "Ancestral Geometry"]
+title: Ancestral Geometry *Item 2*
+linter-yaml-title-alias: Ancestral Geometry *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Ancestral Geometry *Item 2*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Ancestral Geometry *Item 2*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 30 gp
-- **Usage** tattooed on the body; **Bulk** —
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 Geometric precision and perfect angles signify that an artist with exemplary knowledge of dwarven tattooing traditions created this body art. Your family's ancestral stories, recited throughout the tattooing process, bind your blood even tighter to theirs. During your daily preparations, you manifest a visitation by an ancestor—possibly via a dream, a vision, or a magical trinket left by your bedroll. Roll `2d20` and record the highest result. Then roll `1d6` and note a type of saving throw:

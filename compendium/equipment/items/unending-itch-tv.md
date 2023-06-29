@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/injury
-- trait/poison
-- trait/virulent
-aliases: ["Unending Itch"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/injury, trait/poison, trait/virulent]
+aliases: [Unending Itch *Item 14*, "Unending Itch"]
+title: Unending Itch *Item 14*
+linter-yaml-title-alias: Unending Itch *Item 14*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Unending Itch *Item 14*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [virulent](rules/traits/virulent.md)  
+
+# Unending Itch *Item 14*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md) [virulent](rules/traits/virulent.md)  
 
 - **Price** 700 gp
 - **Usage** held in 2 hands; **Bulk** L

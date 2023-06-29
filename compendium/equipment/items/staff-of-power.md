@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/staff
-- trait/evocation
-- trait/magical
-- trait/rare
-- trait/staff
-aliases: ["Staff of Power"]
+tags: [compendium/src/pf2e/crb, item/category/staff, trait/evocation, trait/magical, trait/rare, trait/staff]
+aliases: [Staff of Power *Item 16*, "Staff of Power"]
+title: Staff of Power *Item 16*
+linter-yaml-title-alias: Staff of Power *Item 16*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff of Power *Item 16*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [staff](rules/traits/staff.md)  
+
+# Staff of Power *Item 16*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [staff](rules/traits/staff.md)  
 
 - **Price** 10000 gp
 - **Usage** held in 1 hand; **Bulk** 1

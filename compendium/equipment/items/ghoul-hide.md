@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/armor
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Ghoul Hide"]
+tags: [compendium/src/pf2e/crb, item/category/armor, trait/invested, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Ghoul Hide *Item 6*, "Ghoul Hide"]
+title: Ghoul Hide *Item 6*
+linter-yaml-title-alias: Ghoul Hide *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Ghoul Hide *Item 6*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Ghoul Hide *Item 6*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 220 gp
 - **Usage** worn armor; **Bulk** 2

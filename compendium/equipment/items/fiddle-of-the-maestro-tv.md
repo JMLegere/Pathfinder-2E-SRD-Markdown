@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/coda
-- trait/coda
-- trait/enchantment
-- trait/occult
-- trait/rare
-- trait/staff
-aliases: ["Fiddle of the Maestro"]
+tags: [compendium/src/pf2e/tv, item/category/coda, trait/coda, trait/enchantment, trait/occult, trait/rare, trait/staff]
+aliases: [Fiddle of the Maestro *Item 16*, "Fiddle of the Maestro"]
+title: Fiddle of the Maestro *Item 16*
+linter-yaml-title-alias: Fiddle of the Maestro *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fiddle of the Maestro *Item 16*  
-[coda](rules/traits/coda-tv.md)  [enchantment](rules/traits/enchantment.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  [staff](rules/traits/staff.md)  
+
+# Fiddle of the Maestro *Item 16*
+
+[coda](rules/traits/coda-tv.md) [enchantment](rules/traits/enchantment.md) [occult](rules/traits/occult.md) [rare](rules/traits/rare.md) [staff](rules/traits/staff.md)  
 
 - **Price** 10000 gp
 - **Usage** held in 2 hands; **Bulk** L

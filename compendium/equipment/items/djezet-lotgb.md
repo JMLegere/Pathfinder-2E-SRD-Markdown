@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/precious
-- trait/rare
-aliases: ["Djezet"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/precious, trait/rare]
+aliases: [Djezet *Item 0+*, "Djezet"]
+title: Djezet *Item 0+*
+linter-yaml-title-alias: Djezet *Item 0+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Djezet *Item 0+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+
+# Djezet *Item 0+*
+
+[precious](rules/traits/precious.md) [rare](rules/traits/rare.md)  
 
 - **Category** Material
 
@@ -28,6 +34,5 @@ Djezet is also extremely reactive to magic, even in its solid, workable alloyed 
 | **Structures** |  |  |  |
 | Standard-grade | 18 | 72 | 36 |
 | High-grade | 24 | 96 | 48 |
-
 
 *Source: Lost Omens: The Grand Bazaar p. 97*

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/oil
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/oil
-- trait/uncommon
-aliases: ["Fundamental Oil"]
+tags: [compendium/src/pf2e/tv, item/category/oil, trait/consumable, trait/evocation, trait/magical, trait/oil, trait/uncommon]
+aliases: [Fundamental Oil *Item 11*, "Fundamental Oil"]
+title: Fundamental Oil *Item 11*
+linter-yaml-title-alias: Fundamental Oil *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Fundamental Oil *Item 11*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Fundamental Oil *Item 11*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [oil](rules/traits/oil.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 220 gp
 - **Usage** held in 2 hands; **Bulk** L

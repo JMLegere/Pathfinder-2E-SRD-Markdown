@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/oil
-- trait/consumable
-- trait/magical
-- trait/oil
-- trait/transmutation
-- trait/uncommon
-aliases: ["Oil Of Object Animation"]
+tags: [compendium/src/pf2e/apg, item/category/oil, trait/consumable, trait/magical, trait/oil, trait/transmutation, trait/uncommon]
+aliases: [Oil Of Object Animation *Item 8+*, "Oil Of Object Animation"]
+title: Oil Of Object Animation *Item 8+*
+linter-yaml-title-alias: Oil Of Object Animation *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Oil Of Object Animation *Item 8+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Oil Of Object Animation *Item 8+*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [oil](rules/traits/oil.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)

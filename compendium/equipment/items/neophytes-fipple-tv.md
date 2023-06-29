@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/illusion
-- trait/magical
-aliases: ["Neophyte's Fipple"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/illusion, trait/magical]
+aliases: ["Neophyte's Fipple *Item 3*", "Neophyte's Fipple"]
+title: "Neophyte's Fipple *Item 3*"
+linter-yaml-title-alias: "Neophyte's Fipple *Item 3*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Neophyte's Fipple *Item 3*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+
+# Neophyte's Fipple *Item 3*
+
+[consumable](rules/traits/consumable.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md)  
 
 - **Price** 8 gp
 - **Usage** held in 2 hands; **Bulk** L

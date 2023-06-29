@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/bb
-- item/category/worn
-- trait/magical
-- trait/transmutation
-aliases: ["Bracelet of Dashing"]
+tags: [compendium/src/pf2e/bb, item/category/worn, trait/magical, trait/transmutation]
+aliases: [Bracelet of Dashing *Item 3*, "Bracelet of Dashing"]
+title: Bracelet of Dashing *Item 3*
+linter-yaml-title-alias: Bracelet of Dashing *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bracelet of Dashing *Item 3*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Bracelet of Dashing *Item 3*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 58 gp
 - **Usage** worn

@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/emotion
-- trait/enchantment
-- trait/healing
-- trait/magical
-- trait/mental
-- trait/wand
-aliases: ["Wand of Mental Purification"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/emotion, trait/enchantment, trait/healing, trait/magical, trait/mental, trait/wand]
+aliases: [Wand of Mental Purification *Item 4+*, "Wand of Mental Purification"]
+title: Wand of Mental Purification *Item 4+*
+linter-yaml-title-alias: Wand of Mental Purification *Item 4+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Wand of Mental Purification *Item 4+*  
-[emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [wand](rules/traits/wand.md)  
+
+# Wand of Mental Purification *Item 4+*
+
+[emotion](rules/traits/emotion.md) [enchantment](rules/traits/enchantment.md) [healing](rules/traits/healing.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [wand](rules/traits/wand.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

@@ -1,23 +1,27 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/held
-- trait/illusion
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Cauldron Of Nightmares"]
+tags: [compendium/src/pf2e/aoe5, item/category/held, trait/illusion, trait/invested, trait/magical, trait/rare]
+aliases: [Cauldron Of Nightmares *Item 17*, "Cauldron Of Nightmares"]
+title: Cauldron Of Nightmares *Item 17*
+linter-yaml-title-alias: Cauldron Of Nightmares *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Cauldron Of Nightmares *Item 17*  
-[illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Cauldron Of Nightmares *Item 17*
+
+[illusion](rules/traits/illusion.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 13000 gp
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held
 
-Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a–2 circumstance penalty to saving throws against it.
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/other
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Walking Cauldron"]
+tags: [compendium/src/pf2e/apg, item/category/other, trait/invested, trait/magical, trait/transmutation]
+aliases: [Walking Cauldron *Item 1*, "Walking Cauldron"]
+title: Walking Cauldron *Item 1*
+linter-yaml-title-alias: Walking Cauldron *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Walking Cauldron *Item 1*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Walking Cauldron *Item 1*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 12 gp
 - **Bulk** 4

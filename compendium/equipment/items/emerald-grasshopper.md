@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/talisman
-- trait/consumable
-- trait/magical
-- trait/talisman
-- trait/transmutation
-aliases: ["Emerald Grasshopper"]
+tags: [compendium/src/pf2e/crb, item/category/talisman, trait/consumable, trait/magical, trait/talisman, trait/transmutation]
+aliases: [Emerald Grasshopper *Item 5*, "Emerald Grasshopper"]
+title: Emerald Grasshopper *Item 5*
+linter-yaml-title-alias: Emerald Grasshopper *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Emerald Grasshopper *Item 5*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Emerald Grasshopper *Item 5*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 30 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Activate** envision; **Trigger** You attempt a [High Jump](rules/actions/high-jump.md) but haven't rolled yet; **Requirements** You are an expert in [Athletics](compendium/skills.md#Athletics).
 - **Category** Talisman
 

@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/cold
-- trait/evocation
-- trait/magical
-- trait/spellheart
-aliases: ["Rime Crystal"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/cold, trait/evocation, trait/magical, trait/spellheart]
+aliases: [Rime Crystal *Item 3+*, "Rime Crystal"]
+title: Rime Crystal *Item 3+*
+linter-yaml-title-alias: Rime Crystal *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Rime Crystal *Item 3+*  
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Rime Crystal *Item 3+*
+
+[cold](rules/traits/cold.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 Slowly spinning at the center of this crystalline orb is a single snowflake, and its surface remains lightly covered in frost no matter how hot the weather is outside. The spell attack roll of any spell cast by activating this item is +7, and the spell DC is 17.

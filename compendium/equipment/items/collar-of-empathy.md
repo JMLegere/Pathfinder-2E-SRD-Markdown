@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/companion
-- trait/companion
-- trait/divination
-- trait/invested
-- trait/primal
-aliases: ["Collar of Empathy"]
+tags: [compendium/src/pf2e/crb, item/category/companion, trait/companion, trait/divination, trait/invested, trait/primal]
+aliases: [Collar of Empathy *Item 9*, "Collar of Empathy"]
+title: Collar of Empathy *Item 9*
+linter-yaml-title-alias: Collar of Empathy *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Collar of Empathy *Item 9*  
-[companion](rules/traits/companion.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  
+
+# Collar of Empathy *Item 9*
+
+[companion](rules/traits/companion.md) [divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md)  
 
 - **Price** 600 gp
 - **Usage** worn collar (companion) and worn bracelet (you); **Bulk** 1

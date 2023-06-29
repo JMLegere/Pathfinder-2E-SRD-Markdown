@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa3
-- item/category/consumable
-- trait/clockwork
-- trait/consumable
-- trait/fire
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Skull Bomb"]
+tags: [compendium/src/pf2e/ooa3, item/category/consumable, trait/clockwork, trait/consumable, trait/fire, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Skull Bomb *Item 8*, "Skull Bomb"]
+title: Skull Bomb *Item 8*
+linter-yaml-title-alias: Skull Bomb *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Skull Bomb *Item 8*  
-[consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  clockwork  
+
+# Skull Bomb *Item 8*
+
+[consumable](rules/traits/consumable.md) [fire](rules/traits/fire.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md) clockwork  
 
 - **Price** 80 gp
 - **Usage** held in 1 hand (see text); **Bulk** L

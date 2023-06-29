@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/companion
-- trait/companion
-- trait/invested
-- trait/primal
-- trait/transmutation
-aliases: ["Chaos Collar"]
+tags: [compendium/src/pf2e/da, item/category/companion, trait/companion, trait/invested, trait/primal, trait/transmutation]
+aliases: [Chaos Collar *Item 5*, "Chaos Collar"]
+title: Chaos Collar *Item 5*
+linter-yaml-title-alias: Chaos Collar *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Chaos Collar *Item 5*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Chaos Collar *Item 5*
+
+[companion](rules/traits/companion.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 125 gp
 - **Usage** worn collar; **Bulk** L

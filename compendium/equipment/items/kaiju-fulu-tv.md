@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/abjuration
-- trait/consumable
-- trait/fulu
-- trait/magical
-- trait/uncommon
-aliases: ["Kaiju Fulu"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/abjuration, trait/consumable, trait/fulu, trait/magical, trait/uncommon]
+aliases: [Kaiju Fulu *Item 13*, "Kaiju Fulu"]
+title: Kaiju Fulu *Item 13*
+linter-yaml-title-alias: Kaiju Fulu *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Kaiju Fulu *Item 13*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Kaiju Fulu *Item 13*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 500 gp
-- **Usage** affixed to a load‑bearing wall or pillar; **Bulk** —
+- **Usage** affixed to a load‑bearing wall or pillar; **Bulk**—
 - **Category** Consumable
 
 Despite the name, a kaiju fulu protects a building against damage of all sorts. When an affixed structure no larger than 100 feet × 100 feet and up to 50 feet tall takes damage, the structure is as hard as standard‑grade adamantine against that damage and any damage that occurs within 1 hour thereafter.

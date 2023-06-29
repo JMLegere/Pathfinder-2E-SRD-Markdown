@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/adventuring-gear
-- trait/uncommon
-aliases: ["Portable Altar"]
+tags: [compendium/src/pf2e/lokl, item/category/adventuring-gear, trait/uncommon]
+aliases: [Portable Altar *Item 3*, "Portable Altar"]
+title: Portable Altar *Item 3*
+linter-yaml-title-alias: Portable Altar *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Portable Altar *Item 3*  
+
+# Portable Altar *Item 3*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.

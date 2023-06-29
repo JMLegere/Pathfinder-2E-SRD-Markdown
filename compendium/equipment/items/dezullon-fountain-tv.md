@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/acid
-- trait/conjuration
-- trait/magical
-- trait/plant
-aliases: ["Dezullon Fountain"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/acid, trait/conjuration, trait/magical, trait/plant]
+aliases: [Dezullon Fountain *Item 11*, "Dezullon Fountain"]
+title: Dezullon Fountain *Item 11*
+linter-yaml-title-alias: Dezullon Fountain *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Dezullon Fountain *Item 11*  
-[acid](rules/traits/acid.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [plant](rules/traits/plant.md)  
+
+# Dezullon Fountain *Item 11*
+
+[acid](rules/traits/acid.md) [conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [plant](rules/traits/plant.md)  
 
 - **Price** 1300 gp
 - **Usage** held in 2 hands; **Bulk** 1

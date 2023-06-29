@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/arcane
-- trait/evocation
-- trait/unique
-aliases: ["Kaldemash's Lament"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/arcane, trait/evocation, trait/unique]
+aliases: ["Kaldemash's Lament *Item 20*", "Kaldemash's Lament"]
+title: "Kaldemash's Lament *Item 20*"
+linter-yaml-title-alias: "Kaldemash's Lament *Item 20*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Kaldemash's Lament *Item 20*  
-[arcane](rules/traits/arcane.md)  [evocation](rules/traits/evocation.md)  [unique](rules/traits/unique.md)  
+
+# Kaldemash's Lament *Item 20*
+
+[arcane](rules/traits/arcane.md) [evocation](rules/traits/evocation.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in one hand; **Bulk** L
 - **Category** Held

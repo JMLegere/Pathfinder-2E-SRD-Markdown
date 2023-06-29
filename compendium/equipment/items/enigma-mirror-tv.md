@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/illusion
-- trait/magical
-- trait/spellheart
-aliases: ["Enigma Mirror"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/illusion, trait/magical, trait/spellheart]
+aliases: [Enigma Mirror *Item 7+*, "Enigma Mirror"]
+title: Enigma Mirror *Item 7+*
+linter-yaml-title-alias: Enigma Mirror *Item 7+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Enigma Mirror *Item 7+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Enigma Mirror *Item 7+*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 Mist fills the glass of this small circular hand mirror, creating strange patterns in the shifting gray wisps. The back of the mirror bears a flowing script engraving in an unknown language.

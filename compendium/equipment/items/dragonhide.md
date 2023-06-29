@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/material
-- trait/precious
-- trait/uncommon
-aliases: ["Dragonhide"]
+tags: [compendium/src/pf2e/crb, item/category/material, trait/precious, trait/uncommon]
+aliases: [Dragonhide *Item 8+*, "Dragonhide"]
+title: Dragonhide *Item 8+*
+linter-yaml-title-alias: Dragonhide *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragonhide *Item 8+*  
-[precious](rules/traits/precious.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Dragonhide *Item 8+*
+
+[precious](rules/traits/precious.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Category** Material
 
@@ -31,6 +37,5 @@ The hide and scales of a dragon can be used to [Craft](rules/actions/craft.md) a
 | **Items** |  |  |  |
 | Standard-grade | 7 | 28 | 14 |
 | High-grade | 11 | 44 | 22 |
-
 
 *Source: Core Rulebook p. 579*

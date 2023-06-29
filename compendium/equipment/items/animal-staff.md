@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/staff
-- trait/divination
-- trait/magical
-- trait/staff
-aliases: ["Animal Staff"]
+tags: [compendium/src/pf2e/crb, item/category/staff, trait/divination, trait/magical, trait/staff]
+aliases: [Animal Staff *Item 4+*, "Animal Staff"]
+title: Animal Staff *Item 4+*
+linter-yaml-title-alias: Animal Staff *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Animal Staff *Item 4+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Animal Staff *Item 4+*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

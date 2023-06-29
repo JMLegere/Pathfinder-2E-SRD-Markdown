@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/held
-- trait/cg
-- trait/enchantment
-- trait/intelligent
-- trait/occult
-- trait/rare
-aliases: ["Singing Sword"]
+tags: [compendium/src/pf2e/gmg, item/category/held, trait/cg, trait/enchantment, trait/intelligent, trait/occult, trait/rare]
+aliases: [Singing Sword *Item 5*, "Singing Sword"]
+title: Singing Sword *Item 5*
+linter-yaml-title-alias: Singing Sword *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Singing Sword *Item 5*  
-[cg](rules/traits/chaotic-good-b1.md)  [enchantment](rules/traits/enchantment.md)  [intelligent](rules/traits/intelligent-gmg.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+
+# Singing Sword *Item 5*
+
+[cg](rules/traits/chaotic-good-b1.md) [enchantment](rules/traits/enchantment.md) [intelligent](rules/traits/intelligent-gmg.md) [occult](rules/traits/occult.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

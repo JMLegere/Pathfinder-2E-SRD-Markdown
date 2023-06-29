@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/evocation
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Philosopher's Extractor"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/evocation, trait/magical, trait/rare, trait/transmutation]
+aliases: ["Philosopher's Extractor *Item 28*", "Philosopher's Extractor"]
+title: "Philosopher's Extractor *Item 28*"
+linter-yaml-title-alias: "Philosopher's Extractor *Item 28*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Philosopher's Extractor *Item 28*  
-[artifact](rules/traits/artifact-gmg.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Philosopher's Extractor *Item 28*
+
+[artifact](rules/traits/artifact-gmg.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Bulk** 8
 - **Category** Artifact

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/conjuration
-- trait/evil
-- trait/magical
-- trait/staff
-- trait/uncommon
-aliases: ["Hell Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/conjuration, trait/evil, trait/magical, trait/staff, trait/uncommon]
+aliases: [Hell Staff *Item 17*, "Hell Staff"]
+title: Hell Staff *Item 17*
+linter-yaml-title-alias: Hell Staff *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hell Staff *Item 17*  
-[conjuration](rules/traits/conjuration.md)  [evil](rules/traits/evil.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Hell Staff *Item 17*
+
+[conjuration](rules/traits/conjuration.md) [evil](rules/traits/evil.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 13000 gp
 - **Usage** held in 1 hand; **Bulk** 1

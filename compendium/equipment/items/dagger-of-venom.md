@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/magical
-- trait/necromancy
-- trait/poison
-aliases: ["Dagger of Venom"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/magical, trait/necromancy, trait/poison]
+aliases: [Dagger of Venom *Item 5*, "Dagger of Venom"]
+title: Dagger of Venom *Item 5*
+linter-yaml-title-alias: Dagger of Venom *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Dagger of Venom *Item 5*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  
+
+# Dagger of Venom *Item 5*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [poison](rules/traits/poison.md)  
 
 - **Price** 150 gp
 - **Usage** held in 1 hand; **Bulk** L

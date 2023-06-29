@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/coda
-- trait/coda
-- trait/enchantment
-- trait/occult
-- trait/staff
-- trait/uncommon
-aliases: ["Pipes of Compulsion"]
+tags: [compendium/src/pf2e/tv, item/category/coda, trait/coda, trait/enchantment, trait/occult, trait/staff, trait/uncommon]
+aliases: [Pipes of Compulsion *Item 4+*, "Pipes of Compulsion"]
+title: Pipes of Compulsion *Item 4+*
+linter-yaml-title-alias: Pipes of Compulsion *Item 4+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Pipes of Compulsion *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [enchantment](rules/traits/enchantment.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Pipes of Compulsion *Item 4+*
+
+[coda](rules/traits/coda-tv.md) [enchantment](rules/traits/enchantment.md) [occult](rules/traits/occult.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Coda

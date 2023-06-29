@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe4
-- item/category/poison
-- trait/consumable
-- trait/divine
-- trait/injury
-- trait/poison
-- trait/uncommon
-aliases: ["Spell-eating Pitch"]
+tags: [compendium/src/pf2e/aoe4, item/category/poison, trait/consumable, trait/divine, trait/injury, trait/poison, trait/uncommon]
+aliases: [Spell-eating Pitch *Item 12*, "Spell-eating Pitch"]
+title: Spell-eating Pitch *Item 12*
+linter-yaml-title-alias: Spell-eating Pitch *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spell-eating Pitch *Item 12*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Spell-eating Pitch *Item 12*
+
+[consumable](rules/traits/consumable.md) [divine](rules/traits/divine.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 325 gp
 - **Usage** held in 2 hands; **Bulk** L

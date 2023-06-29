@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-aliases: ["Folding Ladder"]
+tags: [compendium/src/pf2e/lotgb, item/category/held]
+aliases: [Folding Ladder *Item 0*, "Folding Ladder"]
+title: Folding Ladder *Item 0*
+linter-yaml-title-alias: Folding Ladder *Item 0*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Folding Ladder *Item 0*  
+
+# Folding Ladder *Item 0*
 
 - **Price** 3 gp
 - **Usage** held in 2 hands; **Bulk** 1 (3 unfolded)

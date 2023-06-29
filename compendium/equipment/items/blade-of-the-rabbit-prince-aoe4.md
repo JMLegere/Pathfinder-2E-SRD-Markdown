@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe4
-- item/category/held
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Blade Of The Rabbit Prince"]
+tags: [compendium/src/pf2e/aoe4, item/category/held, trait/magical, trait/rare, trait/transmutation]
+aliases: [Blade Of The Rabbit Prince *Item 15*, "Blade Of The Rabbit Prince"]
+title: Blade Of The Rabbit Prince *Item 15*
+linter-yaml-title-alias: Blade Of The Rabbit Prince *Item 15*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Blade Of The Rabbit Prince *Item 15*  
-[magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Blade Of The Rabbit Prince *Item 15*
+
+[magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 6250 gp
 - **Usage** held in 1 hand; **Bulk** 1

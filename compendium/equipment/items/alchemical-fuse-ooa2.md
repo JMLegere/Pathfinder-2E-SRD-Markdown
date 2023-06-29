@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa2
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/fire
-aliases: ["Alchemical Fuse"]
+tags: [compendium/src/pf2e/ooa2, item/category/consumable, trait/alchemical, trait/consumable, trait/fire]
+aliases: [Alchemical Fuse *Item 1*, "Alchemical Fuse"]
+title: Alchemical Fuse *Item 1*
+linter-yaml-title-alias: Alchemical Fuse *Item 1*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Alchemical Fuse *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [fire](rules/traits/fire.md)  
+
+# Alchemical Fuse *Item 1*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [fire](rules/traits/fire.md)  
 
 - **Usage** held in one hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

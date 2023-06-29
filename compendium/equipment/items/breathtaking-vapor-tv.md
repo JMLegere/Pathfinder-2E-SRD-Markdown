@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/inhaled
-- trait/poison
-- trait/uncommon
-aliases: ["Breathtaking Vapor"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/inhaled, trait/poison, trait/uncommon]
+aliases: [Breathtaking Vapor *Item 17*, "Breathtaking Vapor"]
+title: Breathtaking Vapor *Item 17*
+linter-yaml-title-alias: Breathtaking Vapor *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Breathtaking Vapor *Item 17*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Breathtaking Vapor *Item 17*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [inhaled](rules/traits/inhaled.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 3000 gp
 - **Usage** held in 1 hand; **Bulk** L

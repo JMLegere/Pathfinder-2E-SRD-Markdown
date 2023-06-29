@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/rare
-aliases: ["Inubrix Armor"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/rare]
+aliases: [Inubrix Armor *Item 11+*, "Inubrix Armor"]
+title: Inubrix Armor *Item 11+*
+linter-yaml-title-alias: Inubrix Armor *Item 11+*
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Inubrix Armor *Item 11+*  
+
+# Inubrix Armor *Item 11+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** worn armor; **Bulk** varies by armor

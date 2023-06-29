@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Broom of Flying"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/magical, trait/transmutation]
+aliases: [Broom of Flying *Item 12*, "Broom of Flying"]
+title: Broom of Flying *Item 12*
+linter-yaml-title-alias: Broom of Flying *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Broom of Flying *Item 12*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Broom of Flying *Item 12*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 1900 gp
 - **Usage** held in 1 hand; **Bulk** 1
@@ -17,7 +23,7 @@ aliases: ["Broom of Flying"]
 
 This broom has a tenuous connection to gravity, and it tends to drift even while stowed. You can ride on the broom using one hand to guide it, and the broom can carry up to one passenger in addition to you. The broom moves at a fly Speed of 20 feet.
 
-The broom can carry only so much, taking a –10-foot penalty to its Speed if laden with more than 20 Bulk, and crashing to the ground if it carries more than 30 Bulk.
+The broom can carry only so much, taking a–10-foot penalty to its Speed if laden with more than 20 Bulk, and crashing to the ground if it carries more than 30 Bulk.
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

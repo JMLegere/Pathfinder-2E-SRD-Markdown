@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/injury
-- trait/poison
-aliases: ["Eldritch Flare"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/injury, trait/poison]
+aliases: [Eldritch Flare *Item 15*, "Eldritch Flare"]
+title: Eldritch Flare *Item 15*
+linter-yaml-title-alias: Eldritch Flare *Item 15*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Eldritch Flare *Item 15*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  
+
+# Eldritch Flare *Item 15*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md)  
 
 - **Price** 1100 gp
 - **Usage** held in 2 hands; **Bulk** L

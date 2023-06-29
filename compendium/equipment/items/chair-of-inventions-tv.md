@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/assistive-item
-- trait/conjuration
-- trait/magical
-aliases: ["Chair of Inventions"]
+tags: [compendium/src/pf2e/tv, item/category/assistive-item, trait/conjuration, trait/magical]
+aliases: [Chair of Inventions *Item 8*, "Chair of Inventions"]
+title: Chair of Inventions *Item 8*
+linter-yaml-title-alias: Chair of Inventions *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Chair of Inventions *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Chair of Inventions *Item 8*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Price** 875 gp
 - **Bulk** 1

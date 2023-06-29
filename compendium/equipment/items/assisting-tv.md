@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/magical
-- trait/transmutation
-aliases: ["Assisting"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/magical, trait/transmutation]
+aliases: [Assisting *Item 5*, "Assisting"]
+title: Assisting *Item 5*
+linter-yaml-title-alias: Assisting *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Assisting *Item 5*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Assisting *Item 5*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 125 gp
 - **Usage** etched onto armor

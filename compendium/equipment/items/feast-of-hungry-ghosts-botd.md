@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/botd
-- item/category/consumable
-- trait/consumable
-- trait/enchantment
-- trait/magical
-aliases: ["Feast of Hungry Ghosts"]
+tags: [compendium/src/pf2e/botd, item/category/consumable, trait/consumable, trait/enchantment, trait/magical]
+aliases: [Feast of Hungry Ghosts *Item 9+*, "Feast of Hungry Ghosts"]
+title: Feast of Hungry Ghosts *Item 9+*
+linter-yaml-title-alias: Feast of Hungry Ghosts *Item 9+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Feast of Hungry Ghosts *Item 9+*  
-[consumable](rules/traits/consumable.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+
+# Feast of Hungry Ghosts *Item 9+*
+
+[consumable](rules/traits/consumable.md) [enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md)  
 
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Consumable

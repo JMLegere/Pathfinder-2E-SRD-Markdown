@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/necromancy
-aliases: ["Healer's Gloves"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/invested, trait/magical, trait/necromancy]
+aliases: ["Healer's Gloves *Item 4+*", "Healer's Gloves"]
+title: "Healer's Gloves *Item 4+*"
+linter-yaml-title-alias: "Healer's Gloves *Item 4+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Healer's Gloves *Item 4+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Healer's Gloves *Item 4+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Usage** worn gloves; **Bulk** L
 - **Category** Worn

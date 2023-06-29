@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/clockwork
-- trait/mechanical
-- trait/uncommon
-aliases: ["Spring Heel"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/clockwork, trait/mechanical, trait/uncommon]
+aliases: [Spring Heel *Item 5*, "Spring Heel"]
+title: Spring Heel *Item 5*
+linter-yaml-title-alias: Spring Heel *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spring Heel *Item 5*  
-[mechanical](rules/traits/mechanical.md)  [uncommon](rules/traits/uncommon.md)  clockwork  
+
+# Spring Heel *Item 5*
+
+[mechanical](rules/traits/mechanical.md) [uncommon](rules/traits/uncommon.md) clockwork  
 
 - **Price** 150 gp
 - **Usage** worn; **Bulk** 1

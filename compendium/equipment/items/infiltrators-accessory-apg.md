@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/held
-- trait/illusion
-- trait/magical
-aliases: ["Infiltrator's Accessory"]
+tags: [compendium/src/pf2e/apg, item/category/held, trait/illusion, trait/magical]
+aliases: ["Infiltrator's Accessory *Item 5*", "Infiltrator's Accessory"]
+title: "Infiltrator's Accessory *Item 5*"
+linter-yaml-title-alias: "Infiltrator's Accessory *Item 5*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Infiltrator's Accessory *Item 5*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+
+# Infiltrator's Accessory *Item 5*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md)  
 
 - **Price** 150 gp
 - **Usage** held in 1 hand; **Bulk** 1

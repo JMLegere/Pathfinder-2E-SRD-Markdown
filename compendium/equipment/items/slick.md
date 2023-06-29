@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/magical
-- trait/transmutation
-aliases: ["Slick"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/magical, trait/transmutation]
+aliases: [Slick *Item 5+*, "Slick"]
+title: Slick *Item 5+*
+linter-yaml-title-alias: Slick *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Slick *Item 5+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Slick *Item 5+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** etched onto armor
 - **Category** Rune

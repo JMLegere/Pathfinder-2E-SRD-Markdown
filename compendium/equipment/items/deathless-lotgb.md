@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/rune
-- trait/healing
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Deathless"]
+tags: [compendium/src/pf2e/lotgb, item/category/rune, trait/healing, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Deathless *Item 7*, "Deathless"]
+title: Deathless *Item 7*
+linter-yaml-title-alias: Deathless *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Deathless *Item 7*  
-[healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Deathless *Item 7*
+
+[healing](rules/traits/healing.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 330 gp
 - **Usage** etched onto armor

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/botd
-- item/category/held
-- trait/conjuration
-- trait/divine
-- trait/good
-- trait/uncommon
-aliases: ["Lady's Chalice"]
+tags: [compendium/src/pf2e/botd, item/category/held, trait/conjuration, trait/divine, trait/good, trait/uncommon]
+aliases: ["Lady's Chalice *Item 3*", "Lady's Chalice"]
+title: "Lady's Chalice *Item 3*"
+linter-yaml-title-alias: "Lady's Chalice *Item 3*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Lady's Chalice *Item 3*  
-[conjuration](rules/traits/conjuration.md)  [divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Lady's Chalice *Item 3*
+
+[conjuration](rules/traits/conjuration.md) [divine](rules/traits/divine.md) [good](rules/traits/good.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand; **Bulk** L

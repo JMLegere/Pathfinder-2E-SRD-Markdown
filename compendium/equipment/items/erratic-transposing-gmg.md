@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/curse
-- trait/conjuration
-- trait/cursed
-- trait/magical
-- trait/rare
-aliases: ["Erratic Transposing"]
+tags: [compendium/src/pf2e/gmg, item/category/curse, trait/conjuration, trait/cursed, trait/magical, trait/rare]
+aliases: [Erratic Transposing *Item 11*, "Erratic Transposing"]
+title: Erratic Transposing *Item 11*
+linter-yaml-title-alias: Erratic Transposing *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Erratic Transposing *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Erratic Transposing *Item 11*
+
+[conjuration](rules/traits/conjuration.md) [cursed](rules/traits/cursed-gmg.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** curses a weapon
 - **Category** Curse

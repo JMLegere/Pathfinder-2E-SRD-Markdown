@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/missive
-- trait/consumable
-- trait/evocation
-- trait/light
-- trait/magical
-- trait/missive
-aliases: ["Glimmering Missive"]
+tags: [compendium/src/pf2e/tv, item/category/missive, trait/consumable, trait/evocation, trait/light, trait/magical, trait/missive]
+aliases: [Glimmering Missive *Item 4*, "Glimmering Missive"]
+title: Glimmering Missive *Item 4*
+linter-yaml-title-alias: Glimmering Missive *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Glimmering Missive *Item 4*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [missive](rules/traits/missive-tv.md)  
+
+# Glimmering Missive *Item 4*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [missive](rules/traits/missive-tv.md)  
 
 - **Price** 20 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** envision, , [Interact](rules/actions/interact.md)
 - **Category** Missive
 

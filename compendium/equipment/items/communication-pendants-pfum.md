@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/pfum
-- item/category/worn
-- trait/auditory
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Communication Pendants"]
+tags: [compendium/src/pf2e/pfum, item/category/worn, trait/auditory, trait/divination, trait/invested, trait/magical, trait/rare]
+aliases: [Communication Pendants *Item 13*, "Communication Pendants"]
+title: Communication Pendants *Item 13*
+linter-yaml-title-alias: Communication Pendants *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Communication Pendants *Item 13*  
-[auditory](rules/traits/auditory.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Communication Pendants *Item 13*
+
+[auditory](rules/traits/auditory.md) [divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 3000 gp
 - **Usage** worn; **Bulk** L

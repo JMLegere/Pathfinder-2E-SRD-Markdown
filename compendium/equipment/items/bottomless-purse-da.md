@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/contract
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Bottomless Purse"]
+tags: [compendium/src/pf2e/da, item/category/contract, trait/contract, trait/invested, trait/magical, trait/rare]
+aliases: [Bottomless Purse *Item 8*, "Bottomless Purse"]
+title: Bottomless Purse *Item 8*
+linter-yaml-title-alias: Bottomless Purse *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bottomless Purse *Item 8*  
-[contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Bottomless Purse *Item 8*
+
+[contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

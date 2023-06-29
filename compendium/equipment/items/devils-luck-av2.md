@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av2
-- item/category/contract
-- trait/contract
-- trait/enchantment
-- trait/fortune
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Devil's Luck"]
+tags: [compendium/src/pf2e/av2, item/category/contract, trait/contract, trait/enchantment, trait/fortune, trait/invested, trait/magical, trait/rare]
+aliases: ["Devil's Luck *Item 3*", "Devil's Luck"]
+title: "Devil's Luck *Item 3*"
+linter-yaml-title-alias: "Devil's Luck *Item 3*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Devil's Luck *Item 3*  
-[contract](rules/traits/contract-lol.md)  [enchantment](rules/traits/enchantment.md)  [fortune](rules/traits/fortune.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Devil's Luck *Item 3*
+
+[contract](rules/traits/contract-lol.md) [enchantment](rules/traits/enchantment.md) [fortune](rules/traits/fortune.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Devil** imp; **Decipher Writing** [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism), [Society](compendium/skills.md#Society)
 - **Category** Contract

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/evocation
-- trait/magical
-aliases: ["Buzzsaw Axe"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/evocation, trait/magical]
+aliases: [Buzzsaw Axe *Item 11+*, "Buzzsaw Axe"]
+title: Buzzsaw Axe *Item 11+*
+linter-yaml-title-alias: Buzzsaw Axe *Item 11+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Buzzsaw Axe *Item 11+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Buzzsaw Axe *Item 11+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

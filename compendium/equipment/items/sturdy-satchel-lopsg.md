@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/worn
-- trait/uncommon
-aliases: ["Sturdy Satchel"]
+tags: [compendium/src/pf2e/lopsg, item/category/worn, trait/uncommon]
+aliases: [Sturdy Satchel *Item 2*, "Sturdy Satchel"]
+title: Sturdy Satchel *Item 2*
+linter-yaml-title-alias: Sturdy Satchel *Item 2*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Sturdy Satchel *Item 2*  
+
+# Sturdy Satchel *Item 2*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 30 gp

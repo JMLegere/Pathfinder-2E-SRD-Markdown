@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/magical
-- trait/transmutation
-aliases: ["Fighter's Fork"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/magical, trait/transmutation]
+aliases: ["Fighter's Fork *Item 3*", "Fighter's Fork"]
+title: "Fighter's Fork *Item 3*"
+linter-yaml-title-alias: "Fighter's Fork *Item 3*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fighter's Fork *Item 3*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Fighter's Fork *Item 3*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 50 gp
 - **Usage** held in 1 or 2 hands; **Bulk** 1

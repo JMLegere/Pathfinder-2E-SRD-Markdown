@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/worn
-- trait/magical
-- trait/necromancy
-- trait/nonlethal
-- trait/uncommon
-aliases: ["Manacles Of Persuasion"]
+tags: [compendium/src/pf2e/logm, item/category/worn, trait/magical, trait/necromancy, trait/nonlethal, trait/uncommon]
+aliases: [Manacles Of Persuasion *Item 3*, "Manacles Of Persuasion"]
+title: Manacles Of Persuasion *Item 3*
+linter-yaml-title-alias: Manacles Of Persuasion *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Manacles Of Persuasion *Item 3*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [nonlethal](rules/traits/nonlethal.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Manacles Of Persuasion *Item 3*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [nonlethal](rules/traits/nonlethal.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Zon-Kuthon](compendium/setting/deities/zon-kuthon.md)
 - **Price** 45 gp

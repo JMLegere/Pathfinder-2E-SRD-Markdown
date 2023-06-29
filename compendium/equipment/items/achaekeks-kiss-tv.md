@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/injury
-- trait/poison
-- trait/rare
-aliases: ["Achaekek's Kiss"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/injury, trait/poison, trait/rare]
+aliases: ["Achaekek's Kiss *Item 20*", "Achaekek's Kiss"]
+title: "Achaekek's Kiss *Item 20*"
+linter-yaml-title-alias: "Achaekek's Kiss *Item 20*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Achaekek's Kiss *Item 20*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+
+# Achaekek's Kiss *Item 20*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md) [rare](rules/traits/rare.md)  
 
 - **Access** member of the Red Mantis assassins
 - **Price** 13000 gp

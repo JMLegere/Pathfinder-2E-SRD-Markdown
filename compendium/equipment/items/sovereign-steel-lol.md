@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/material
-- trait/precious
-- trait/rare
-aliases: ["Sovereign Steel"]
+tags: [compendium/src/pf2e/lol, item/category/material, trait/precious, trait/rare]
+aliases: [Sovereign Steel *Item 9+*, "Sovereign Steel"]
+title: Sovereign Steel *Item 9+*
+linter-yaml-title-alias: Sovereign Steel *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Sovereign Steel *Item 9+*  
-[precious](rules/traits/precious.md)  [rare](rules/traits/rare.md)  
+
+# Sovereign Steel *Item 9+*
+
+[precious](rules/traits/precious.md) [rare](rules/traits/rare.md)  
 
 - **Category** Material
 
@@ -26,6 +32,5 @@ Created by Black Sovereign Kevoth-Kul, this unique alloy of cold iron and the sk
 | **Structures** |  |  |  |
 | Standard-grade | 22 | 88 | 44 |
 | High-grade | 28 | 112 | 56 |
-
 
 *Source: Lost Omens: Legends p. 77*

@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/enchantment
-- trait/invested
-- trait/magical
-- trait/tattoo
-aliases: ["Unbreakable Heart"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/enchantment, trait/invested, trait/magical, trait/tattoo]
+aliases: [Unbreakable Heart *Item 3*, "Unbreakable Heart"]
+title: Unbreakable Heart *Item 3*
+linter-yaml-title-alias: Unbreakable Heart *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Unbreakable Heart *Item 3*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+
+# Unbreakable Heart *Item 3*
+
+[enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md)  
 
 - **Price** 60 gp
-- **Usage** tattooed on the body; **Bulk** —
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 The name of your beloved adorns this stylized image of a heart.

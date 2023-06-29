@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/enchantment
-- trait/invested
-- trait/magical
-aliases: ["Gorget of the Primal Roar"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/enchantment, trait/invested, trait/magical]
+aliases: [Gorget of the Primal Roar *Item 11*, "Gorget of the Primal Roar"]
+title: Gorget of the Primal Roar *Item 11*
+linter-yaml-title-alias: Gorget of the Primal Roar *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Gorget of the Primal Roar *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Gorget of the Primal Roar *Item 11*
+
+[enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1250 gp
 - **Usage** worn collar; **Bulk** L

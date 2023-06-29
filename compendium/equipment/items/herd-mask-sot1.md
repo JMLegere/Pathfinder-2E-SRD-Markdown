@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot1
-- item/category/worn
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/teleportation
-- trait/uncommon
-aliases: ["Herd Mask"]
+tags: [compendium/src/pf2e/sot1, item/category/worn, trait/conjuration, trait/invested, trait/magical, trait/teleportation, trait/uncommon]
+aliases: [Herd Mask *Item 6*, "Herd Mask"]
+title: Herd Mask *Item 6*
+linter-yaml-title-alias: Herd Mask *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Herd Mask *Item 6*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Herd Mask *Item 6*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [teleportation](rules/traits/teleportation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 210 gp
 - **Usage** worn mask

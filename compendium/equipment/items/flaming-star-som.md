@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/spellheart
-- trait/evocation
-- trait/fire
-- trait/magical
-- trait/spellheart
-aliases: ["Flaming Star"]
+tags: [compendium/src/pf2e/som, item/category/spellheart, trait/evocation, trait/fire, trait/magical, trait/spellheart]
+aliases: [Flaming Star *Item 3+*, "Flaming Star"]
+title: Flaming Star *Item 3+*
+linter-yaml-title-alias: Flaming Star *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Flaming Star *Item 3+*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
+
+# Flaming Star *Item 3+*
+
+[evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
 
 - **Usage** affixed to armor or a weapon
 - **Category** Spellheart

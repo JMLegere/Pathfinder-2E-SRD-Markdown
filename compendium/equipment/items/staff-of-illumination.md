@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/staff
-- trait/evocation
-- trait/magical
-- trait/staff
-aliases: ["Staff of Illumination"]
+tags: [compendium/src/pf2e/crb, item/category/staff, trait/evocation, trait/magical, trait/staff]
+aliases: [Staff of Illumination *Item 8*, "Staff of Illumination"]
+title: Staff of Illumination *Item 8*
+linter-yaml-title-alias: Staff of Illumination *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff of Illumination *Item 8*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Staff of Illumination *Item 8*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Price** 425 gp
 - **Usage** held in 1 hand; **Bulk** 1

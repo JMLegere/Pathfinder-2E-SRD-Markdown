@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/held
-- trait/clockwork
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Gearblade"]
+tags: [compendium/src/pf2e/aoe5, item/category/held, trait/clockwork, trait/invested, trait/magical, trait/rare]
+aliases: [Gearblade *Item 17*, "Gearblade"]
+title: Gearblade *Item 17*
+linter-yaml-title-alias: Gearblade *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Gearblade *Item 17*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  clockwork  
+
+# Gearblade *Item 17*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) clockwork  
 
 - **Price** 13000 gp
 - **Usage** held in 1 or 2 hands; **Bulk** 2

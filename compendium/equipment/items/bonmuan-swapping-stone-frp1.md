@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/frp1
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/magical
-- trait/teleportation
-- trait/uncommon
-aliases: ["Bonmuan Swapping Stone"]
+tags: [compendium/src/pf2e/frp1, item/category/consumable, trait/conjuration, trait/consumable, trait/magical, trait/teleportation, trait/uncommon]
+aliases: [Bonmuan Swapping Stone *Item 11+*, "Bonmuan Swapping Stone"]
+title: Bonmuan Swapping Stone *Item 11+*
+linter-yaml-title-alias: Bonmuan Swapping Stone *Item 11+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bonmuan Swapping Stone *Item 11+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Bonmuan Swapping Stone *Item 11+*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [teleportation](rules/traits/teleportation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand
 - **Activate** [Interact](rules/actions/interact.md)

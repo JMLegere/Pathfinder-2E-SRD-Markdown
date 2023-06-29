@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/mechanical
-aliases: ["Extendable Tail"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/mechanical]
+aliases: [Extendable Tail *Item 3*, "Extendable Tail"]
+title: Extendable Tail *Item 3*
+linter-yaml-title-alias: Extendable Tail *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Extendable Tail *Item 3*  
+
+# Extendable Tail *Item 3*
+
 [mechanical](rules/traits/mechanical.md)  
 
 - **Price** 10 gp

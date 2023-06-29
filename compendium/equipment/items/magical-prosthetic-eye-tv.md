@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/divination
-- trait/magical
-aliases: ["Magical Prosthetic Eye"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/divination, trait/magical]
+aliases: [Magical Prosthetic Eye *Item 1*, "Magical Prosthetic Eye"]
+title: Magical Prosthetic Eye *Item 1*
+linter-yaml-title-alias: Magical Prosthetic Eye *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Magical Prosthetic Eye *Item 1*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Magical Prosthetic Eye *Item 1*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Price** 5 gp
 - **Usage** worn; **Bulk** L

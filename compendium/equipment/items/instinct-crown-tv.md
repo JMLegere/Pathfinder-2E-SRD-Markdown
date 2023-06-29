@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Instinct Crown"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/invested, trait/magical, trait/transmutation]
+aliases: [Instinct Crown *Item 10*, "Instinct Crown"]
+title: Instinct Crown *Item 10*
+linter-yaml-title-alias: Instinct Crown *Item 10*
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Instinct Crown *Item 10*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Instinct Crown *Item 10*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 900 gp
 - **Usage** worn headwear; **Bulk** L

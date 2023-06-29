@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/conjuration
-- trait/magical
-- trait/water
-aliases: ["Decanter of Endless Water"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/conjuration, trait/magical, trait/water]
+aliases: [Decanter of Endless Water *Item 7*, "Decanter of Endless Water"]
+title: Decanter of Endless Water *Item 7*
+linter-yaml-title-alias: Decanter of Endless Water *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Decanter of Endless Water *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [water](rules/traits/water.md)  
+
+# Decanter of Endless Water *Item 7*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [water](rules/traits/water.md)  
 
 - **Price** 320 gp
 - **Usage** held in 2 hands; **Bulk** L

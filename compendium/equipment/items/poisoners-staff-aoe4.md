@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe4
-- item/category/staff
-- trait/conjuration
-- trait/magical
-- trait/necromancy
-- trait/staff
-- trait/uncommon
-aliases: ["Poisoner's Staff"]
+tags: [compendium/src/pf2e/aoe4, item/category/staff, trait/conjuration, trait/magical, trait/necromancy, trait/staff, trait/uncommon]
+aliases: ["Poisoner's Staff *Item 4+*", "Poisoner's Staff"]
+title: "Poisoner's Staff *Item 4+*"
+linter-yaml-title-alias: "Poisoner's Staff *Item 4+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Poisoner's Staff *Item 4+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Poisoner's Staff *Item 4+*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

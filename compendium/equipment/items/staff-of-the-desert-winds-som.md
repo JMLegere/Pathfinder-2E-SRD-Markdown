@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/staff
-- trait/abjuration
-- trait/magical
-- trait/staff
-aliases: ["Staff Of The Desert Winds"]
+tags: [compendium/src/pf2e/som, item/category/staff, trait/abjuration, trait/magical, trait/staff]
+aliases: [Staff Of The Desert Winds *Item 6+*, "Staff Of The Desert Winds"]
+title: Staff Of The Desert Winds *Item 6+*
+linter-yaml-title-alias: Staff Of The Desert Winds *Item 6+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff Of The Desert Winds *Item 6+*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Staff Of The Desert Winds *Item 6+*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

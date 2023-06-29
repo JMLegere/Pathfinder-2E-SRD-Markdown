@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/bb
-- item/category/weapon
-- trait/electricity
-- trait/evocation
-- trait/magical
-aliases: ["Storm Hammer"]
+tags: [compendium/src/pf2e/bb, item/category/weapon, trait/electricity, trait/evocation, trait/magical]
+aliases: [Storm Hammer *Item 3*, "Storm Hammer"]
+title: Storm Hammer *Item 3*
+linter-yaml-title-alias: Storm Hammer *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Storm Hammer *Item 3*  
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Storm Hammer *Item 3*
+
+[electricity](rules/traits/electricity.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 60 gp
 - **Category** Weapon

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/fop
-- item/category/worn
-- trait/invested
-- trait/transmutation
-- trait/uncommon
-aliases: ["Ring Of The Weary Traveler"]
+tags: [compendium/src/pf2e/fop, item/category/worn, trait/invested, trait/transmutation, trait/uncommon]
+aliases: [Ring Of The Weary Traveler *Item 5*, "Ring Of The Weary Traveler"]
+title: Ring Of The Weary Traveler *Item 5*
+linter-yaml-title-alias: Ring Of The Weary Traveler *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Ring Of The Weary Traveler *Item 5*  
-[invested](rules/traits/invested.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Ring Of The Weary Traveler *Item 5*
+
+[invested](rules/traits/invested.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 160 gp
 - **Usage** worn

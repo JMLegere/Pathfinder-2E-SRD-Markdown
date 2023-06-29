@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/oil
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/oil
-aliases: ["Oil Of Revelation"]
+tags: [compendium/src/pf2e/apg, item/category/oil, trait/consumable, trait/evocation, trait/magical, trait/oil]
+aliases: [Oil Of Revelation *Item 5*, "Oil Of Revelation"]
+title: Oil Of Revelation *Item 5*
+linter-yaml-title-alias: Oil Of Revelation *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Oil Of Revelation *Item 5*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  
+
+# Oil Of Revelation *Item 5*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [oil](rules/traits/oil.md)  
 
 - **Price** 25 gp
 - **Usage** held in 2 hands; **Bulk** L

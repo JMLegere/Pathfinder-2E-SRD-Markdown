@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa3
-- item/category/other
-- trait/conjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Bountiful Cauldron"]
+tags: [compendium/src/pf2e/aoa3, item/category/other, trait/conjuration, trait/magical, trait/uncommon]
+aliases: [Bountiful Cauldron *Item 9*, "Bountiful Cauldron"]
+title: Bountiful Cauldron *Item 9*
+linter-yaml-title-alias: Bountiful Cauldron *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bountiful Cauldron *Item 9*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Bountiful Cauldron *Item 9*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 680 gp
 - **Bulk** 2
@@ -18,7 +23,7 @@ aliases: ["Bountiful Cauldron"]
 
 This mid-sized, silver cauldron is a boon within areas where access to fresh food is limited, for it can be commanded to fill itself with hearty (and delicious) vegetable stew. It can also be put to a much greater use in the pursuit of crafting certain items.
 
-When used to [Craft](rules/actions/craft.md) alchemical items, potions, or oils, a _bountiful cauldron_ grants a +2 item bonus to the [Crafting](compendium/skills.md#Crafting) check.
+When used to [Craft](rules/actions/craft.md) alchemical items, potions, or oils, a *bountiful cauldron* grants a +2 item bonus to the [Crafting](compendium/skills.md#Crafting) check.
 
 ```ad-embed-ability
 title: Activate [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")

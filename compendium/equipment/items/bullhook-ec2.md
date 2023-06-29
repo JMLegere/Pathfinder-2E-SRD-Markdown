@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec2
-- item/category/held
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Bullhook"]
+tags: [compendium/src/pf2e/ec2, item/category/held, trait/enchantment, trait/magical, trait/uncommon]
+aliases: [Bullhook *Item 3+*, "Bullhook"]
+title: Bullhook *Item 3+*
+linter-yaml-title-alias: Bullhook *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Bullhook *Item 3+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Bullhook *Item 3+*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

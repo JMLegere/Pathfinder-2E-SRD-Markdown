@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe1
-- item/category/rune
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Pacifying"]
+tags: [compendium/src/pf2e/aoe1, item/category/rune, trait/enchantment, trait/magical, trait/uncommon]
+aliases: [Pacifying *Item 5*, "Pacifying"]
+title: Pacifying *Item 5*
+linter-yaml-title-alias: Pacifying *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Pacifying *Item 5*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Pacifying *Item 5*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 150 gp
 - **Usage** etched onto a weapon

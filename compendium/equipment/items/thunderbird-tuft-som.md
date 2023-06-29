@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/consumable
-- trait/catalyst
-- trait/consumable
-- trait/magical
-aliases: ["Thunderbird Tuft"]
+tags: [compendium/src/pf2e/som, item/category/consumable, trait/catalyst, trait/consumable, trait/magical]
+aliases: [Thunderbird Tuft *Item 1+*, "Thunderbird Tuft"]
+title: Thunderbird Tuft *Item 1+*
+linter-yaml-title-alias: Thunderbird Tuft *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Thunderbird Tuft *Item 1+*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Thunderbird Tuft *Item 1+*
+
+[catalyst](rules/traits/catalyst-som.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Consumable

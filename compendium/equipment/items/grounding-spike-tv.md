@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Grounding Spike"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Grounding Spike *Item 8*, "Grounding Spike"]
+title: Grounding Spike *Item 8*
+linter-yaml-title-alias: Grounding Spike *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Grounding Spike *Item 8*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Grounding Spike *Item 8*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 450 gp
 - **Usage** held in 1 hand; **Bulk** 1

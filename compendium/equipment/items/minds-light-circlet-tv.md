@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/enchantment
-- trait/focused
-- trait/invested
-- trait/light
-- trait/occult
-aliases: ["Mind's Light Circlet"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/enchantment, trait/focused, trait/invested, trait/light, trait/occult]
+aliases: ["Mind's Light Circlet *Item 11*", "Mind's Light Circlet"]
+title: "Mind's Light Circlet *Item 11*"
+linter-yaml-title-alias: "Mind's Light Circlet *Item 11*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Mind's Light Circlet *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [light](rules/traits/light.md)  [occult](rules/traits/occult.md)  
+
+# Mind's Light Circlet *Item 11*
+
+[enchantment](rules/traits/enchantment.md) [focused](rules/traits/focused.md) [invested](rules/traits/invested.md) [light](rules/traits/light.md) [occult](rules/traits/occult.md)  
 
 - **Price** 1200 gp
-- **Usage** worn headwear; **Bulk** —
+- **Usage** worn headwear; **Bulk**—
 - **Category** Worn
 
 Gemstones of many colors adorn the silver of a mind's light circlet. When you're charged with mental power, the jewels scintillate with light, with different gems resonating based on your emotions. If you have at least 1 Focus Point, the gems cast dim light in a 10-foot radius. When you amp a spell, the light increases to bright light in a 20-foot radius (and dim light to the next 20 feet) until the start of your next turn.

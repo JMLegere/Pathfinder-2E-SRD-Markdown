@@ -1,20 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/shield
-- trait/abjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Reflecting Shield"]
+tags: [compendium/src/pf2e/crb, item/category/shield, trait/abjuration, trait/magical, trait/uncommon]
+aliases: [Reflecting Shield *Item 18*, "Reflecting Shield"]
+title: Reflecting Shield *Item 18*
+linter-yaml-title-alias: Reflecting Shield *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Reflecting Shield *Item 18*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Reflecting Shield *Item 18*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 18000 gp
 - **Usage** held in 1 hand; **Bulk** L
-- **Category** Shield; **Group** Shield 
+- **Category** Shield; **Group** Shield
 
 This high-grade silver buckler (Hardness 6, HP 24, BT 12) is polished to a mirrorlike sheen. The shield functions as a spellguard shield (see below) that can also reflect spells.
 

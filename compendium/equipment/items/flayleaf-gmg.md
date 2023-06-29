@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/drug
-- trait/ingested
-- trait/inhaled
-- trait/poison
-aliases: ["Flayleaf"]
+tags: [compendium/src/pf2e/gmg, item/category/poison, trait/alchemical, trait/consumable, trait/drug, trait/ingested, trait/inhaled, trait/poison]
+aliases: [Flayleaf *Item 0*, "Flayleaf"]
+title: Flayleaf *Item 0*
+linter-yaml-title-alias: Flayleaf *Item 0*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Flayleaf *Item 0*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  
+
+# Flayleaf *Item 0*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [drug](rules/traits/drug-gmg.md) [ingested](rules/traits/ingested.md) [inhaled](rules/traits/inhaled.md) [poison](rules/traits/poison.md)  
 
 - **Price** 1 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/assistive-item/wheelchair
-- trait/enchantment
-- trait/magical
-- trait/relic
-- trait/unique
-aliases: ["Inventor's Chair"]
+tags: [compendium/src/pf2e/tv, item/category/assistive-item/wheelchair, trait/enchantment, trait/magical, trait/relic, trait/unique]
+aliases: ["Inventor's Chair *Item 4*", "Inventor's Chair"]
+title: "Inventor's Chair *Item 4*"
+linter-yaml-title-alias: "Inventor's Chair *Item 4*"
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Inventor's Chair *Item 4*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [relic](rules/traits/relic-tv.md)  [unique](rules/traits/unique.md)  
+
+# Inventor's Chair *Item 4*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [relic](rules/traits/relic-tv.md) [unique](rules/traits/unique.md)  
 
 - **Bulk** 3
 - **Category** Wheelchair

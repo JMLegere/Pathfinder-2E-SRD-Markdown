@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/consumable
-- trait/consumable
-aliases: ["Fake Blood Pack"]
+tags: [compendium/src/pf2e/lotgb, item/category/consumable, trait/consumable]
+aliases: [Fake Blood Pack *Item 0*, "Fake Blood Pack"]
+title: Fake Blood Pack *Item 0*
+linter-yaml-title-alias: Fake Blood Pack *Item 0*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fake Blood Pack *Item 0*  
+
+# Fake Blood Pack *Item 0*
+
 [consumable](rules/traits/consumable.md)  
 
 - **Price** 1 gp

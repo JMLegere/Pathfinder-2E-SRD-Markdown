@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/armor
-- trait/evocation
-- trait/magical
-aliases: ["Invisible Chain Shirt"]
+tags: [compendium/src/pf2e/som, item/category/armor, trait/evocation, trait/magical]
+aliases: [Invisible Chain Shirt *Item 13*, "Invisible Chain Shirt"]
+title: Invisible Chain Shirt *Item 13*
+linter-yaml-title-alias: Invisible Chain Shirt *Item 13*
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Invisible Chain Shirt *Item 13*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Invisible Chain Shirt *Item 13*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 2750 gp
 - **Usage** worn armor

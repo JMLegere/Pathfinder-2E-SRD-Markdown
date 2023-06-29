@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/potion
-aliases: ["Quenching Potion"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/magical, trait/necromancy, trait/potion]
+aliases: [Quenching Potion *Item 8*, "Quenching Potion"]
+title: Quenching Potion *Item 8*
+linter-yaml-title-alias: Quenching Potion *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Quenching Potion *Item 8*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [potion](rules/traits/potion.md)  
+
+# Quenching Potion *Item 8*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [potion](rules/traits/potion.md)  
 
 - **Price** 85 gp
 - **Usage** held in 1 hand; **Bulk** L

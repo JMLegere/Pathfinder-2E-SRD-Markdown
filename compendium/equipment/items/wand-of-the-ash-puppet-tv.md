@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/evocation
-- trait/magical
-- trait/wand
-aliases: ["Wand of the Ash Puppet"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/evocation, trait/magical, trait/wand]
+aliases: [Wand of the Ash Puppet *Item 14*, "Wand of the Ash Puppet"]
+title: Wand of the Ash Puppet *Item 14*
+linter-yaml-title-alias: Wand of the Ash Puppet *Item 14*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Wand of the Ash Puppet *Item 14*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+
+# Wand of the Ash Puppet *Item 14*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [wand](rules/traits/wand.md)  
 
 - **Price** 4500 gp
 - **Usage** held in 1 hand; **Bulk** L

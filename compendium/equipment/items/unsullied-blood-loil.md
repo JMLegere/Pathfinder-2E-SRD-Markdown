@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/consumable
-- trait/catalyst
-- trait/consumable
-- trait/magical
-- trait/uncommon
-aliases: ["Unsullied Blood"]
+tags: [compendium/src/pf2e/loil, item/category/consumable, trait/catalyst, trait/consumable, trait/magical, trait/uncommon]
+aliases: [Unsullied Blood *Item 5+*, "Unsullied Blood"]
+title: Unsullied Blood *Item 5+*
+linter-yaml-title-alias: Unsullied Blood *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Unsullied Blood *Item 5+*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Unsullied Blood *Item 5+*
+
+[catalyst](rules/traits/catalyst-som.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in one hand; **Bulk** L
 - **Activate** envision

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/worn
-- trait/invested
-- trait/primal
-- trait/transmutation
-aliases: ["Cloak of the False Foe"]
+tags: [compendium/src/pf2e/da, item/category/worn, trait/invested, trait/primal, trait/transmutation]
+aliases: [Cloak of the False Foe *Item 12*, "Cloak of the False Foe"]
+title: Cloak of the False Foe *Item 12*
+linter-yaml-title-alias: Cloak of the False Foe *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Cloak of the False Foe *Item 12*  
-[invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Cloak of the False Foe *Item 12*
+
+[invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 1850 gp
 - **Usage** worn cloak; **Bulk** L

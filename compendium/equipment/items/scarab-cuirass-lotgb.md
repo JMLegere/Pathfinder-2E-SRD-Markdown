@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/armor
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Scarab Cuirass"]
+tags: [compendium/src/pf2e/lotgb, item/category/armor, trait/abjuration, trait/invested, trait/magical, trait/uncommon]
+aliases: [Scarab Cuirass *Item 10*, "Scarab Cuirass"]
+title: Scarab Cuirass *Item 10*
+linter-yaml-title-alias: Scarab Cuirass *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Scarab Cuirass *Item 10*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Scarab Cuirass *Item 10*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1000 gp
 - **Usage** worn armor; **Bulk** 1

@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/lozenge
-aliases: ["Galvanic Chew"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/lozenge]
+aliases: [Galvanic Chew *Item 8*, "Galvanic Chew"]
+title: Galvanic Chew *Item 8*
+linter-yaml-title-alias: Galvanic Chew *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Galvanic Chew *Item 8*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [lozenge](rules/traits/lozenge-tv.md)  
+
+# Galvanic Chew *Item 8*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [lozenge](rules/traits/lozenge-tv.md)  
 
 - **Price** 75 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

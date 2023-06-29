@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/hearing
-aliases: ["Basic Hearing Aid"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/hearing]
+aliases: [Basic Hearing Aid *Item 0*, "Basic Hearing Aid"]
+title: Basic Hearing Aid *Item 0*
+linter-yaml-title-alias: Basic Hearing Aid *Item 0*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Basic Hearing Aid *Item 0*  
+
+# Basic Hearing Aid *Item 0*
 
 - **Price** 5 sp
 - **Usage** worn

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/grimoire
-- trait/abjuration
-- trait/grimoire
-- trait/magical
-aliases: ["Warding Tablets"]
+tags: [compendium/src/pf2e/som, item/category/grimoire, trait/abjuration, trait/grimoire, trait/magical]
+aliases: [Warding Tablets *Item 8*, "Warding Tablets"]
+title: Warding Tablets *Item 8*
+linter-yaml-title-alias: Warding Tablets *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warding Tablets *Item 8*  
-[abjuration](rules/traits/abjuration.md)  [grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  
+
+# Warding Tablets *Item 8*
+
+[abjuration](rules/traits/abjuration.md) [grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md)  
 
 - **Price** 450 gp
 - **Bulk** L

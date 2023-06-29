@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa2
-- item/category/worn
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Winder's Ring"]
+tags: [compendium/src/pf2e/ooa2, item/category/worn, trait/magical, trait/transmutation, trait/uncommon]
+aliases: ["Winder's Ring *Item 7*", "Winder's Ring"]
+title: "Winder's Ring *Item 7*"
+linter-yaml-title-alias: "Winder's Ring *Item 7*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Winder's Ring *Item 7*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Winder's Ring *Item 7*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 360 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This ring contains dozens of minute, interlocking bronze gears that buzz incessantly. The ring grants you a +1 item bonus to all [Crafting](compendium/skills.md#Crafting) checks to construct or repair clockworks.

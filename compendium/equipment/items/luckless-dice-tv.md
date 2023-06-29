@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/cursed
-- trait/magical
-- trait/misfortune
-- trait/rare
-- trait/transmutation
-aliases: ["Luckless Dice"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/cursed, trait/magical, trait/misfortune, trait/rare, trait/transmutation]
+aliases: [Luckless Dice *Item 2*, "Luckless Dice"]
+title: Luckless Dice *Item 2*
+linter-yaml-title-alias: Luckless Dice *Item 2*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Luckless Dice *Item 2*  
-[cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [misfortune](rules/traits/misfortune.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Luckless Dice *Item 2*
+
+[cursed](rules/traits/cursed-gmg.md) [magical](rules/traits/magical.md) [misfortune](rules/traits/misfortune.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

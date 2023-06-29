@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/divination
-- trait/magical
-- trait/spellheart
-aliases: ["Vigilant Eye"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/divination, trait/magical, trait/spellheart]
+aliases: [Vigilant Eye *Item 9+*, "Vigilant Eye"]
+title: Vigilant Eye *Item 9+*
+linter-yaml-title-alias: Vigilant Eye *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Vigilant Eye *Item 9+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Vigilant Eye *Item 9+*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 Carved in this wooden disc is a humanoid eye, painted in muted shades that blend in with the wood. The eye's pupil continually twitches and moves, scanning its bearer's surroundings.

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/worn
-- trait/clockwork
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Clockwork Cloak"]
+tags: [compendium/src/pf2e/aoe5, item/category/worn, trait/clockwork, trait/invested, trait/magical, trait/uncommon]
+aliases: [Clockwork Cloak *Item 18*, "Clockwork Cloak"]
+title: Clockwork Cloak *Item 18*
+linter-yaml-title-alias: Clockwork Cloak *Item 18*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Clockwork Cloak *Item 18*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  clockwork  
+
+# Clockwork Cloak *Item 18*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md) clockwork  
 
 - **Price** 20000 gp
 - **Usage** worn cloak; **Bulk** L

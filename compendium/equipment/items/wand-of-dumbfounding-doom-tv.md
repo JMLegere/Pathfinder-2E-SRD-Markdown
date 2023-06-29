@@ -1,21 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/divination
-- trait/emotion
-- trait/fear
-- trait/incapacitation
-- trait/magical
-- trait/mental
-- trait/prediction
-- trait/wand
-aliases: ["Wand of Dumbfounding Doom"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/divination, trait/emotion, trait/fear, trait/incapacitation, trait/magical, trait/mental, trait/prediction, trait/wand]
+aliases: [Wand of Dumbfounding Doom *Item 8+*, "Wand of Dumbfounding Doom"]
+title: Wand of Dumbfounding Doom *Item 8+*
+linter-yaml-title-alias: Wand of Dumbfounding Doom *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Wand of Dumbfounding Doom *Item 8+*  
-[divination](rules/traits/divination.md)  [emotion](rules/traits/emotion.md)  [fear](rules/traits/fear.md)  [incapacitation](rules/traits/incapacitation.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [prediction](rules/traits/prediction.md)  [wand](rules/traits/wand.md)  
+
+# Wand of Dumbfounding Doom *Item 8+*
+
+[divination](rules/traits/divination.md) [emotion](rules/traits/emotion.md) [fear](rules/traits/fear.md) [incapacitation](rules/traits/incapacitation.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [prediction](rules/traits/prediction.md) [wand](rules/traits/wand.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

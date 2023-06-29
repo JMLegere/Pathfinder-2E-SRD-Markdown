@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/botd
-- item/category/worn
-- trait/detection
-- trait/divination
-- trait/divine
-- trait/invested
-- trait/uncommon
-aliases: ["Grim Ring"]
+tags: [compendium/src/pf2e/botd, item/category/worn, trait/detection, trait/divination, trait/divine, trait/invested, trait/uncommon]
+aliases: [Grim Ring *Item 5*, "Grim Ring"]
+title: Grim Ring *Item 5*
+linter-yaml-title-alias: Grim Ring *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Grim Ring *Item 5*  
-[detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Grim Ring *Item 5*
+
+[detection](rules/traits/detection.md) [divination](rules/traits/divination.md) [divine](rules/traits/divine.md) [invested](rules/traits/invested.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 150 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This golden ring is sculpted with the visage of a grinning skull on the side. While wearing the ring, you can attempt to detect the presence of undead creatures as an exploration activity.

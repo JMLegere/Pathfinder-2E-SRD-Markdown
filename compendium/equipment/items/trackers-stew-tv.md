@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/processed
-aliases: ["Tracker's Stew"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/processed]
+aliases: ["Tracker's Stew *Item 3*", "Tracker's Stew"]
+title: "Tracker's Stew *Item 3*"
+linter-yaml-title-alias: "Tracker's Stew *Item 3*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Tracker's Stew *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [processed](rules/traits/processed-tv.md)  
+
+# Tracker's Stew *Item 3*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [processed](rules/traits/processed-tv.md)  
 
 - **Price** 10 gp
 - **Usage** held in 2 hands; **Bulk** L

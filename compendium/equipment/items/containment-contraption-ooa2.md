@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa2
-- item/category/armor
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Containment Contraption"]
+tags: [compendium/src/pf2e/ooa2, item/category/armor, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Containment Contraption *Item 8*, "Containment Contraption"]
+title: Containment Contraption *Item 8*
+linter-yaml-title-alias: Containment Contraption *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Containment Contraption *Item 8*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Containment Contraption *Item 8*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 500 gp
 - **Usage** worn armor; **Bulk** 6

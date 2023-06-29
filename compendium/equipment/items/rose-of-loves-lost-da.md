@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/consumable
-- trait/consumable
-- trait/cursed
-- trait/enchantment
-- trait/evil
-- trait/magical
-aliases: ["Rose of Loves Lost"]
+tags: [compendium/src/pf2e/da, item/category/consumable, trait/consumable, trait/cursed, trait/enchantment, trait/evil, trait/magical]
+aliases: [Rose of Loves Lost *Item 10*, "Rose of Loves Lost"]
+title: Rose of Loves Lost *Item 10*
+linter-yaml-title-alias: Rose of Loves Lost *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Rose of Loves Lost *Item 10*  
-[consumable](rules/traits/consumable.md)  [cursed](rules/traits/cursed-gmg.md)  [enchantment](rules/traits/enchantment.md)  [evil](rules/traits/evil.md)  [magical](rules/traits/magical.md)  
+
+# Rose of Loves Lost *Item 10*
+
+[consumable](rules/traits/consumable.md) [cursed](rules/traits/cursed-gmg.md) [enchantment](rules/traits/enchantment.md) [evil](rules/traits/evil.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

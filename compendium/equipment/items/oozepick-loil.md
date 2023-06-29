@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/uncommon
-aliases: ["Oozepick"]
+tags: [compendium/src/pf2e/loil, item/category/consumable, trait/alchemical, trait/consumable, trait/uncommon]
+aliases: [Oozepick *Item 4+*, "Oozepick"]
+title: Oozepick *Item 4+*
+linter-yaml-title-alias: Oozepick *Item 4+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Oozepick *Item 4+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Oozepick *Item 4+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 20 gp
 - **Usage** held in 1 hand; **Bulk** L

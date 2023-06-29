@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec5
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/uncommon
-aliases: ["Cave Worm Repellent"]
+tags: [compendium/src/pf2e/ec5, item/category/consumable, trait/alchemical, trait/consumable, trait/uncommon]
+aliases: [Cave Worm Repellent *Item 13+*, "Cave Worm Repellent"]
+title: Cave Worm Repellent *Item 13+*
+linter-yaml-title-alias: Cave Worm Repellent *Item 13+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Cave Worm Repellent *Item 13+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Cave Worm Repellent *Item 13+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Consumable

@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Ring of Counterspells"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/abjuration, trait/invested, trait/magical, trait/uncommon]
+aliases: [Ring of Counterspells *Item 10*, "Ring of Counterspells"]
+title: Ring of Counterspells *Item 10*
+linter-yaml-title-alias: Ring of Counterspells *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Ring of Counterspells *Item 10*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Ring of Counterspells *Item 10*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 925 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This ornate silver ring bears two competing geometric designs of brightly colored and wildly clashing inlaid gemstones. A spellcaster can cast a single spell into this ring as long as no spell is currently stored within, expending the normal time, costs, and so forth to [Cast the Spell](rules/actions/cast-a-spell.md). The spell's effect doesn't occur; the spell's power is instead stored within the ring.

@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/adventuring-gear
-aliases: ["Waffle Iron"]
+tags: [compendium/src/pf2e/lotgb, item/category/adventuring-gear]
+aliases: [Waffle Iron *Item 0+*, "Waffle Iron"]
+title: Waffle Iron *Item 0+*
+linter-yaml-title-alias: Waffle Iron *Item 0+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Waffle Iron *Item 0+*  
+
+# Waffle Iron *Item 0+*
 
 - **Bulk** 1
 - **Category** Adventuring Gear

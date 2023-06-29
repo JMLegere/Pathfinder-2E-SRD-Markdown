@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/worn
-- trait/focused
-- trait/invested
-- trait/magical
-aliases: ["S Ring"]
+tags: [compendium/src/pf2e/som, item/category/worn, trait/focused, trait/invested, trait/magical]
+aliases: [S Ring *Item 10*, "S Ring"]
+title: S Ring *Item 10*
+linter-yaml-title-alias: S Ring *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# S Ring *Item 10*  
-[focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# S Ring *Item 10*
+
+[focused](rules/traits/focused.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1000 gp
 - **Usage** worn

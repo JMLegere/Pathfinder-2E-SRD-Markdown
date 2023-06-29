@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/wand
-- trait/evocation
-- trait/light
-- trait/magical
-- trait/uncommon
-- trait/wand
-aliases: ["Wand Of Fey Flames"]
+tags: [compendium/src/pf2e/lotgb, item/category/wand, trait/evocation, trait/light, trait/magical, trait/uncommon, trait/wand]
+aliases: [Wand Of Fey Flames *Item 7*, "Wand Of Fey Flames"]
+title: Wand Of Fey Flames *Item 7*
+linter-yaml-title-alias: Wand Of Fey Flames *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Wand Of Fey Flames *Item 7*  
-[evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  [wand](rules/traits/wand.md)  
+
+# Wand Of Fey Flames *Item 7*
+
+[evocation](rules/traits/evocation.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md) [wand](rules/traits/wand.md)  
 
 - **Price** 360 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/consumable
-- trait/catalyst
-- trait/consumable
-- trait/magical
-- trait/rare
-aliases: ["Defiled Costa"]
+tags: [compendium/src/pf2e/loil, item/category/consumable, trait/catalyst, trait/consumable, trait/magical, trait/rare]
+aliases: [Defiled Costa *Item 14*, "Defiled Costa"]
+title: Defiled Costa *Item 14*
+linter-yaml-title-alias: Defiled Costa *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Defiled Costa *Item 14*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Defiled Costa *Item 14*
+
+[catalyst](rules/traits/catalyst-som.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 900 gp
 - **Usage** held in one hand; **Bulk** L

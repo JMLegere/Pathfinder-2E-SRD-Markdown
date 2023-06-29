@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/extradimensional
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Staff-storing Shield"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/extradimensional, trait/invested, trait/magical, trait/transmutation]
+aliases: [Staff-storing Shield *Item 7+*, "Staff-storing Shield"]
+title: Staff-storing Shield *Item 7+*
+linter-yaml-title-alias: Staff-storing Shield *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff-storing Shield *Item 7+*  
-[extradimensional](rules/traits/extradimensional.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Staff-storing Shield *Item 7+*
+
+[extradimensional](rules/traits/extradimensional.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

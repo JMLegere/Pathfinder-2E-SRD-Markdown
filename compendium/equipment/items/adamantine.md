@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/material
-- trait/precious
-- trait/uncommon
-aliases: ["Adamantine"]
+tags: [compendium/src/pf2e/crb, item/category/material, trait/precious, trait/uncommon]
+aliases: [Adamantine *Item 8+*, "Adamantine"]
+title: Adamantine *Item 8+*
+linter-yaml-title-alias: Adamantine *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Adamantine *Item 8+*  
-[precious](rules/traits/precious.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Adamantine *Item 8+*
+
+[precious](rules/traits/precious.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Category** Material
 
@@ -26,6 +32,5 @@ Mined from rocks that fell from the heavens, adamantine is one of the hardest me
 | **Structures** |  |  |  |
 | Standard-grade | 28 | 112 | 56 |
 | High-grade | 34 | 136 | 68 |
-
 
 *Source: Core Rulebook p. 578*

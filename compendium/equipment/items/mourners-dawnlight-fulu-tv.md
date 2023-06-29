@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/divination
-- trait/fulu
-- trait/magical
-- trait/uncommon
-aliases: ["Mourner's Dawnlight Fulu"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/divination, trait/fulu, trait/magical, trait/uncommon]
+aliases: ["Mourner's Dawnlight Fulu *Item 9*", "Mourner's Dawnlight Fulu"]
+title: "Mourner's Dawnlight Fulu *Item 9*"
+linter-yaml-title-alias: "Mourner's Dawnlight Fulu *Item 9*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Mourner's Dawnlight Fulu *Item 9*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Mourner's Dawnlight Fulu *Item 9*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 120 gp
-- **Usage** held in 2 hands; **Bulk** —
+- **Usage** held in 2 hands; **Bulk**—
 - **Activate** command, , envision, , [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

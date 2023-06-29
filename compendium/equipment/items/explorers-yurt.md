@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/structure
-- trait/conjuration
-- trait/magical
-- trait/structure
-aliases: ["Explorer's Yurt"]
+tags: [compendium/src/pf2e/crb, item/category/structure, trait/conjuration, trait/magical, trait/structure]
+aliases: ["Explorer's Yurt *Item 10*", "Explorer's Yurt"]
+title: "Explorer's Yurt *Item 10*"
+linter-yaml-title-alias: "Explorer's Yurt *Item 10*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Explorer's Yurt *Item 10*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  
+
+# Explorer's Yurt *Item 10*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md)  
 
 - **Price** 880 gp
 - **Bulk** 1 (when not activated)

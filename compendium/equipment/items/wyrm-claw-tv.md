@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/spellheart
-- trait/conjuration
-- trait/magical
-- trait/spellheart
-aliases: ["Wyrm Claw"]
+tags: [compendium/src/pf2e/tv, item/category/spellheart, trait/conjuration, trait/magical, trait/spellheart]
+aliases: [Wyrm Claw *Item 12+*, "Wyrm Claw"]
+title: Wyrm Claw *Item 12+*
+linter-yaml-title-alias: Wyrm Claw *Item 12+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wyrm Claw *Item 12+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [spellheart](rules/traits/spellheart-som.md)  
 
-- **Usage** affixed to armor or a weapon; **Bulk** —
+# Wyrm Claw *Item 12+*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [spellheart](rules/traits/spellheart-som.md)  
+
+- **Usage** affixed to armor or a weapon; **Bulk**—
 - **Category** Spellheart
 
 The tip of a metallic dragon's claw is set into a band of silver.

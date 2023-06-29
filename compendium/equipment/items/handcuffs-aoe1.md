@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe1
-- item/category/held
-- trait/uncommon
-aliases: ["Handcuffs"]
+tags: [compendium/src/pf2e/aoe1, item/category/held, trait/uncommon]
+aliases: [Handcuffs *Item 3+*, "Handcuffs"]
+title: Handcuffs *Item 3+*
+linter-yaml-title-alias: Handcuffs *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Handcuffs *Item 3+*  
+
+# Handcuffs *Item 3+*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L

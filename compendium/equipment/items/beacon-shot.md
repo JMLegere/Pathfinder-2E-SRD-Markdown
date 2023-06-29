@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/ammunition
-- trait/consumable
-- trait/evocation
-- trait/magical
-aliases: ["Beacon Shot"]
+tags: [compendium/src/pf2e/crb, item/category/ammunition, trait/consumable, trait/evocation, trait/magical]
+aliases: [Beacon Shot *Item 3*, "Beacon Shot"]
+title: Beacon Shot *Item 3*
+linter-yaml-title-alias: Beacon Shot *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Beacon Shot *Item 3*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Beacon Shot *Item 3*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 10 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md), [bolt](compendium/equipment/items/bolt.md)

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/illusion
-- trait/magical
-- trait/staff
-- trait/uncommon
-aliases: ["Spy Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/illusion, trait/magical, trait/staff, trait/uncommon]
+aliases: [Spy Staff *Item 7+*, "Spy Staff"]
+title: Spy Staff *Item 7+*
+linter-yaml-title-alias: Spy Staff *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spy Staff *Item 7+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Spy Staff *Item 7+*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

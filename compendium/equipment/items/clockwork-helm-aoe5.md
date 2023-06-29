@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/worn
-- trait/clockwork
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Clockwork Helm"]
+tags: [compendium/src/pf2e/aoe5, item/category/worn, trait/clockwork, trait/invested, trait/magical, trait/rare]
+aliases: [Clockwork Helm *Item 17*, "Clockwork Helm"]
+title: Clockwork Helm *Item 17*
+linter-yaml-title-alias: Clockwork Helm *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Clockwork Helm *Item 17*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  clockwork  
+
+# Clockwork Helm *Item 17*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) clockwork  
 
 - **Price** 13000 gp
 - **Usage** worn headwear; **Bulk** L

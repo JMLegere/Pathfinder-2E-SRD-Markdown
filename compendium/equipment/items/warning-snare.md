@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/snare
-- trait/auditory
-- trait/consumable
-- trait/mechanical
-- trait/snare
-- trait/trap
-aliases: ["Warning Snare"]
+tags: [compendium/src/pf2e/crb, item/category/snare, trait/auditory, trait/consumable, trait/mechanical, trait/snare, trait/trap]
+aliases: [Warning Snare *Item 4*, "Warning Snare"]
+title: Warning Snare *Item 4*
+linter-yaml-title-alias: Warning Snare *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warning Snare *Item 4*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [mechanical](rules/traits/mechanical.md)  [snare](rules/traits/snare.md)  [trap](rules/traits/trap.md)  
+
+# Warning Snare *Item 4*
+
+[auditory](rules/traits/auditory.md) [consumable](rules/traits/consumable.md) [mechanical](rules/traits/mechanical.md) [snare](rules/traits/snare.md) [trap](rules/traits/trap.md)  
 
 - **Price** 15 gp
 - **Category** Snare

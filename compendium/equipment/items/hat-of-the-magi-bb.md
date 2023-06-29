@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/bb
-- item/category/worn
-- trait/arcane
-- trait/conjuration
-aliases: ["Hat of the Magi"]
+tags: [compendium/src/pf2e/bb, item/category/worn, trait/arcane, trait/conjuration]
+aliases: [Hat of the Magi *Item 3*, "Hat of the Magi"]
+title: Hat of the Magi *Item 3*
+linter-yaml-title-alias: Hat of the Magi *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hat of the Magi *Item 3*  
-[arcane](rules/traits/arcane.md)  [conjuration](rules/traits/conjuration.md)  
+
+# Hat of the Magi *Item 3*
+
+[arcane](rules/traits/arcane.md) [conjuration](rules/traits/conjuration.md)  
 
 - **Price** 50 gp
 - **Usage** worn headwear

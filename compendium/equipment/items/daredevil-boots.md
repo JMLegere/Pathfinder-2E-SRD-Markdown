@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/abjuration
-- trait/invested
-- trait/magical
-aliases: ["Daredevil Boots"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/abjuration, trait/invested, trait/magical]
+aliases: [Daredevil Boots *Item 10+*, "Daredevil Boots"]
+title: Daredevil Boots *Item 10+*
+linter-yaml-title-alias: Daredevil Boots *Item 10+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Daredevil Boots *Item 10+*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Daredevil Boots *Item 10+*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn shoes; **Bulk** L
 - **Category** Worn

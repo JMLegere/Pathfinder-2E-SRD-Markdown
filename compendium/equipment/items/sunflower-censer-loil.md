@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/worn
-- trait/illusion
-- trait/magical
-- trait/rare
-aliases: ["Sunflower Censer"]
+tags: [compendium/src/pf2e/loil, item/category/worn, trait/illusion, trait/magical, trait/rare]
+aliases: [Sunflower Censer *Item 8*, "Sunflower Censer"]
+title: Sunflower Censer *Item 8*
+linter-yaml-title-alias: Sunflower Censer *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Sunflower Censer *Item 8*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Sunflower Censer *Item 8*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 480 gp
 - **Usage** worn or held in one hand; **Bulk** L

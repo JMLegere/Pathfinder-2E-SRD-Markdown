@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/uncommon
-aliases: ["Metalmist Sphere"]
+tags: [compendium/src/pf2e/lopsg, item/category/consumable, trait/alchemical, trait/consumable, trait/uncommon]
+aliases: [Metalmist Sphere *Item 3+*, "Metalmist Sphere"]
+title: Metalmist Sphere *Item 3+*
+linter-yaml-title-alias: Metalmist Sphere *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Metalmist Sphere *Item 3+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Metalmist Sphere *Item 3+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

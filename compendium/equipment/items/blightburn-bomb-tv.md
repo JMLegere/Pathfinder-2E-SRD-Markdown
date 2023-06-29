@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-- trait/disease
-- trait/poison
-- trait/splash
-- trait/uncommon
-aliases: ["Blightburn Bomb"]
+tags: [compendium/src/pf2e/tv, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable, trait/disease, trait/poison, trait/splash, trait/uncommon]
+aliases: [Blightburn Bomb *Item 15+*, "Blightburn Bomb"]
+title: Blightburn Bomb *Item 15+*
+linter-yaml-title-alias: Blightburn Bomb *Item 15+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Blightburn Bomb *Item 15+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [disease](rules/traits/disease.md)  [poison](rules/traits/poison.md)  [splash](rules/traits/splash.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Blightburn Bomb *Item 15+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md) [disease](rules/traits/disease.md) [poison](rules/traits/poison.md) [splash](rules/traits/splash.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

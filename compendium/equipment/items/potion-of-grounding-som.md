@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/potion
-- trait/abjuration
-- trait/consumable
-- trait/electricity
-- trait/magical
-- trait/potion
-aliases: ["Potion Of Grounding"]
+tags: [compendium/src/pf2e/som, item/category/potion, trait/abjuration, trait/consumable, trait/electricity, trait/magical, trait/potion]
+aliases: [Potion Of Grounding *Item 10*, "Potion Of Grounding"]
+title: Potion Of Grounding *Item 10*
+linter-yaml-title-alias: Potion Of Grounding *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Potion Of Grounding *Item 10*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [electricity](rules/traits/electricity.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+
+# Potion Of Grounding *Item 10*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [electricity](rules/traits/electricity.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md)  
 
 - **Price** 185 gp
 - **Usage** held in 1 hand; **Bulk** L

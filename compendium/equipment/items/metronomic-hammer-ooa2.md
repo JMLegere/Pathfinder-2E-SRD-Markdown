@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa2
-- item/category/held
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Metronomic Hammer"]
+tags: [compendium/src/pf2e/ooa2, item/category/held, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Metronomic Hammer *Item 5*, "Metronomic Hammer"]
+title: Metronomic Hammer *Item 5*
+linter-yaml-title-alias: Metronomic Hammer *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Metronomic Hammer *Item 5*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Metronomic Hammer *Item 5*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 160 gp
 - **Usage** held in 1 or 2 hands; **Bulk** 1

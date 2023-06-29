@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec6
-- item/category/talisman
-- trait/abjuration
-- trait/consumable
-- trait/magical
-- trait/rare
-- trait/talisman
-aliases: ["Celestial Hair"]
+tags: [compendium/src/pf2e/ec6, item/category/talisman, trait/abjuration, trait/consumable, trait/magical, trait/rare, trait/talisman]
+aliases: [Celestial Hair *Item 20*, "Celestial Hair"]
+title: Celestial Hair *Item 20*
+linter-yaml-title-alias: Celestial Hair *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Celestial Hair *Item 20*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [talisman](rules/traits/talisman.md)  
+
+# Celestial Hair *Item 20*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 12500 gp
 - **Usage** affixed to armor

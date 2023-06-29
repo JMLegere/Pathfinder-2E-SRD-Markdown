@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/adventuring-gear
-aliases: ["Dueling Cape"]
+tags: [compendium/src/pf2e/apg, item/category/adventuring-gear]
+aliases: [Dueling Cape *Item 0*, "Dueling Cape"]
+title: Dueling Cape *Item 0*
+linter-yaml-title-alias: Dueling Cape *Item 0*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dueling Cape *Item 0*  
+
+# Dueling Cape *Item 0*
 
 - **Price** 5 sp
 - **Bulk** L

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/evocation
-- trait/good
-- trait/light
-- trait/magical
-- trait/uncommon
-aliases: ["Vine Of Roses"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/evocation, trait/good, trait/light, trait/magical, trait/uncommon]
+aliases: [Vine Of Roses *Item 9*, "Vine Of Roses"]
+title: Vine Of Roses *Item 9*
+linter-yaml-title-alias: Vine Of Roses *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Vine Of Roses *Item 9*  
-[evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Vine Of Roses *Item 9*
+
+[evocation](rules/traits/evocation.md) [good](rules/traits/good.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 600 gp
 - **Usage** held in 2 hands; **Bulk** 1

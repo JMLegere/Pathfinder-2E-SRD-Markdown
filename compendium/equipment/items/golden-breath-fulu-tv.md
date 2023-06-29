@@ -1,24 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/talisman
-- trait/consumable
-- trait/fulu
-- trait/healing
-- trait/magical
-- trait/necromancy
-- trait/positive
-- trait/talisman
-- trait/uncommon
-aliases: ["Golden Breath Fulu"]
+tags: [compendium/src/pf2e/tv, item/category/talisman, trait/consumable, trait/fulu, trait/healing, trait/magical, trait/necromancy, trait/positive, trait/talisman, trait/uncommon]
+aliases: [Golden Breath Fulu *Item 20*, "Golden Breath Fulu"]
+title: Golden Breath Fulu *Item 20*
+linter-yaml-title-alias: Golden Breath Fulu *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Golden Breath Fulu *Item 20*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [talisman](rules/traits/talisman.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Golden Breath Fulu *Item 20*
+
+[consumable](rules/traits/consumable.md) [fulu](rules/traits/fulu-som.md) [healing](rules/traits/healing.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [positive](rules/traits/positive.md) [talisman](rules/traits/talisman.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 8100 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Activate** envision; **Trigger** You take damage.
 - **Category** Talisman
 

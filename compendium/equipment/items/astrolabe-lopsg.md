@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/held
-- trait/uncommon
-aliases: ["Astrolabe"]
+tags: [compendium/src/pf2e/lopsg, item/category/held, trait/uncommon]
+aliases: [Astrolabe *Item 2+*, "Astrolabe"]
+title: Astrolabe *Item 2+*
+linter-yaml-title-alias: Astrolabe *Item 2+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Astrolabe *Item 2+*  
+
+# Astrolabe *Item 2+*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 2 hands; **Bulk** L

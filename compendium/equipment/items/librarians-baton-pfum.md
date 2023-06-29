@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/pfum
-- item/category/held
-- trait/detection
-- trait/divination
-- trait/magical
-- trait/rare
-aliases: ["Librarian's Baton"]
+tags: [compendium/src/pf2e/pfum, item/category/held, trait/detection, trait/divination, trait/magical, trait/rare]
+aliases: ["Librarian's Baton *Item 9*", "Librarian's Baton"]
+title: "Librarian's Baton *Item 9*"
+linter-yaml-title-alias: "Librarian's Baton *Item 9*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Librarian's Baton *Item 9*  
-[detection](rules/traits/detection.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Librarian's Baton *Item 9*
+
+[detection](rules/traits/detection.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 650 gp
 - **Usage** held in 1 hand; **Bulk** L

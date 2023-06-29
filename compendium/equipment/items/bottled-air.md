@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/air
-- trait/conjuration
-- trait/magical
-aliases: ["Bottled Air"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/air, trait/conjuration, trait/magical]
+aliases: [Bottled Air *Item 7*, "Bottled Air"]
+title: Bottled Air *Item 7*
+linter-yaml-title-alias: Bottled Air *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bottled Air *Item 7*  
-[air](rules/traits/air.md)  [conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Bottled Air *Item 7*
+
+[air](rules/traits/air.md) [conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Price** 320 gp
 - **Usage** held in 1 hand; **Bulk** L

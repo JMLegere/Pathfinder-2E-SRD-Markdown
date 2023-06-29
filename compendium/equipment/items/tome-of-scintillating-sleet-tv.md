@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/cold
-- trait/evocation
-- trait/grimoire
-- trait/primal
-aliases: ["Tome of Scintillating Sleet"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/cold, trait/evocation, trait/grimoire, trait/primal]
+aliases: [Tome of Scintillating Sleet *Item 8*, "Tome of Scintillating Sleet"]
+title: Tome of Scintillating Sleet *Item 8*
+linter-yaml-title-alias: Tome of Scintillating Sleet *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Tome of Scintillating Sleet *Item 8*  
-[cold](rules/traits/cold.md)  [evocation](rules/traits/evocation.md)  [grimoire](rules/traits/grimoire-som.md)  [primal](rules/traits/primal.md)  
+
+# Tome of Scintillating Sleet *Item 8*
+
+[cold](rules/traits/cold.md) [evocation](rules/traits/evocation.md) [grimoire](rules/traits/grimoire-som.md) [primal](rules/traits/primal.md)  
 
 - **Price** 430 gp
 - **Bulk** L

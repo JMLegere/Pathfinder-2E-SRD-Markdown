@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/prosthesis
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Shifter Prosthesis"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/prosthesis, trait/invested, trait/magical, trait/transmutation]
+aliases: [Shifter Prosthesis *Item 6*, "Shifter Prosthesis"]
+title: Shifter Prosthesis *Item 6*
+linter-yaml-title-alias: Shifter Prosthesis *Item 6*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shifter Prosthesis *Item 6*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Shifter Prosthesis *Item 6*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 210 gp
 - **Usage** worn; **Bulk** 1

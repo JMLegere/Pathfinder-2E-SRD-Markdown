@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/evocation
-- trait/good
-- trait/magical
-aliases: ["Holy"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/evocation, trait/good, trait/magical]
+aliases: [Holy *Item 11*, "Holy"]
+title: Holy *Item 11*
+linter-yaml-title-alias: Holy *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Holy *Item 11*  
-[evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [magical](rules/traits/magical.md)  
+
+# Holy *Item 11*
+
+[evocation](rules/traits/evocation.md) [good](rules/traits/good.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1400 gp
 - **Usage** etched onto a weapon without an unholy rune

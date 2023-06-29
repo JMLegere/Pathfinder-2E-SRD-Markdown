@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/consumable
-- trait/clockwork
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/rare
-aliases: ["Clockwork Rejuvenator"]
+tags: [compendium/src/pf2e/aoe5, item/category/consumable, trait/clockwork, trait/consumable, trait/magical, trait/necromancy, trait/rare]
+aliases: [Clockwork Rejuvenator *Item 18*, "Clockwork Rejuvenator"]
+title: Clockwork Rejuvenator *Item 18*
+linter-yaml-title-alias: Clockwork Rejuvenator *Item 18*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Clockwork Rejuvenator *Item 18*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  clockwork  
+
+# Clockwork Rejuvenator *Item 18*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [rare](rules/traits/rare.md) clockwork  
 
 - **Price** 4500 gp
 - **Usage** held in 1 hand; **Bulk** L

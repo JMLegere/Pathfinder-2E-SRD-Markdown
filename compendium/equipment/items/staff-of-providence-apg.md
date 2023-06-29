@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/staff
-- trait/divination
-- trait/magical
-- trait/staff
-aliases: ["Staff Of Providence"]
+tags: [compendium/src/pf2e/apg, item/category/staff, trait/divination, trait/magical, trait/staff]
+aliases: [Staff Of Providence *Item 6+*, "Staff Of Providence"]
+title: Staff Of Providence *Item 6+*
+linter-yaml-title-alias: Staff Of Providence *Item 6+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff Of Providence *Item 6+*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Staff Of Providence *Item 6+*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

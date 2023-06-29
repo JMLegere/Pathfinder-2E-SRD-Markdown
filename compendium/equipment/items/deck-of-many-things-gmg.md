@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/artifact
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Deck Of Many Things"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/artifact, trait/magical, trait/rare, trait/transmutation]
+aliases: [Deck Of Many Things *Item 22*, "Deck Of Many Things"]
+title: Deck Of Many Things *Item 22*
+linter-yaml-title-alias: Deck Of Many Things *Item 22*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Deck Of Many Things *Item 22*  
-[artifact](rules/traits/artifact-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Deck Of Many Things *Item 22*
+
+[artifact](rules/traits/artifact-gmg.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand
 - **Category** Artifact

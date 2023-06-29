@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/divine
-- trait/evocation
-- trait/good
-- trait/lawful
-- trait/uncommon
-aliases: ["Holy Avenger"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/divine, trait/evocation, trait/good, trait/lawful, trait/uncommon]
+aliases: [Holy Avenger *Item 14*, "Holy Avenger"]
+title: Holy Avenger *Item 14*
+linter-yaml-title-alias: Holy Avenger *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Holy Avenger *Item 14*  
-[divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [good](rules/traits/good.md)  [lawful](rules/traits/lawful.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Holy Avenger *Item 14*
+
+[divine](rules/traits/divine.md) [evocation](rules/traits/evocation.md) [good](rules/traits/good.md) [lawful](rules/traits/lawful.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 4500 gp
 - **Usage** held in 1 hand; **Bulk** 1

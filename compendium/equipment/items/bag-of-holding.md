@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/conjuration
-- trait/extradimensional
-- trait/magical
-aliases: ["Bag of Holding"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/conjuration, trait/extradimensional, trait/magical]
+aliases: [Bag of Holding *Item 4+*, "Bag of Holding"]
+title: Bag of Holding *Item 4+*
+linter-yaml-title-alias: Bag of Holding *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Bag of Holding *Item 4+*  
-[conjuration](rules/traits/conjuration.md)  [extradimensional](rules/traits/extradimensional.md)  [magical](rules/traits/magical.md)  
+
+# Bag of Holding *Item 4+*
+
+[conjuration](rules/traits/conjuration.md) [extradimensional](rules/traits/extradimensional.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held

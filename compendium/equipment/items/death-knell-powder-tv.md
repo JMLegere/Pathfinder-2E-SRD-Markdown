@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/divine
-- trait/injury
-- trait/necromancy
-- trait/poison
-- trait/uncommon
-aliases: ["Death Knell Powder"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/divine, trait/injury, trait/necromancy, trait/poison, trait/uncommon]
+aliases: [Death Knell Powder *Item 14*, "Death Knell Powder"]
+title: Death Knell Powder *Item 14*
+linter-yaml-title-alias: Death Knell Powder *Item 14*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Death Knell Powder *Item 14*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [injury](rules/traits/injury.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Death Knell Powder *Item 14*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [divine](rules/traits/divine.md) [injury](rules/traits/injury.md) [necromancy](rules/traits/necromancy.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 625 gp
 - **Usage** held in 1 hand; **Bulk** L

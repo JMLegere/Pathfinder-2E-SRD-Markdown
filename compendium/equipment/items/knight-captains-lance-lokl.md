@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/held
-- trait/divine
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Knight Captain's Lance"]
+tags: [compendium/src/pf2e/lokl, item/category/held, trait/divine, trait/enchantment, trait/magical, trait/uncommon]
+aliases: ["Knight Captain's Lance *Item 13*", "Knight Captain's Lance"]
+title: "Knight Captain's Lance *Item 13*"
+linter-yaml-title-alias: "Knight Captain's Lance *Item 13*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Knight Captain's Lance *Item 13*  
-[divine](rules/traits/divine.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Knight Captain's Lance *Item 13*
+
+[divine](rules/traits/divine.md) [enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 3000 gp

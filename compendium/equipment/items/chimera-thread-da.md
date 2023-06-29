@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/consumable
-- trait/consumable
-- trait/magical
-- trait/transmutation
-aliases: ["Chimera Thread"]
+tags: [compendium/src/pf2e/da, item/category/consumable, trait/consumable, trait/magical, trait/transmutation]
+aliases: [Chimera Thread *Item 4*, "Chimera Thread"]
+title: Chimera Thread *Item 4*
+linter-yaml-title-alias: Chimera Thread *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Chimera Thread *Item 4*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Chimera Thread *Item 4*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 15 gp
 - **Activate** [Interact](rules/actions/interact.md)

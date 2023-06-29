@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/fulu
-- trait/magical
-- trait/transmutation
-aliases: ["Stumbling Fulu"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/fulu, trait/magical, trait/transmutation]
+aliases: [Stumbling Fulu *Item 3*, "Stumbling Fulu"]
+title: Stumbling Fulu *Item 3*
+linter-yaml-title-alias: Stumbling Fulu *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Stumbling Fulu *Item 3*  
-[consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Stumbling Fulu *Item 3*
+
+[consumable](rules/traits/consumable.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 10 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Category** Consumable
 
 The kitsune who first created a stumbling fulu advised the user to tuck the fulu under the target's belt for maximum effect.

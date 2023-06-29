@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/armor
-- trait/rare
-aliases: ["Sovereign Steel Armor"]
+tags: [compendium/src/pf2e/lol, item/category/armor, trait/rare]
+aliases: [Sovereign Steel Armor *Item 13+*, "Sovereign Steel Armor"]
+title: Sovereign Steel Armor *Item 13+*
+linter-yaml-title-alias: Sovereign Steel Armor *Item 13+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Sovereign Steel Armor *Item 13+*  
+
+# Sovereign Steel Armor *Item 13+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** worn armor; **Bulk** varies by armor

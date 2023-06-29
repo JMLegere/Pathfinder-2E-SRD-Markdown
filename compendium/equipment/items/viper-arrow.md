@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/ammunition
-- trait/conjuration
-- trait/consumable
-- trait/magical
-aliases: ["Viper Arrow"]
+tags: [compendium/src/pf2e/crb, item/category/ammunition, trait/conjuration, trait/consumable, trait/magical]
+aliases: [Viper Arrow *Item 4*, "Viper Arrow"]
+title: Viper Arrow *Item 4*
+linter-yaml-title-alias: Viper Arrow *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Viper Arrow *Item 4*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Viper Arrow *Item 4*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Price** 17 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)

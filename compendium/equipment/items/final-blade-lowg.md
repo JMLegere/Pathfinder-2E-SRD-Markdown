@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lowg
-- item/category/artifact
-- trait/artifact
-- trait/death
-- trait/evil
-- trait/necromancy
-- trait/occult
-- trait/rare
-aliases: ["Final Blade"]
+tags: [compendium/src/pf2e/lowg, item/category/artifact, trait/artifact, trait/death, trait/evil, trait/necromancy, trait/occult, trait/rare]
+aliases: [Final Blade *Item 20*, "Final Blade"]
+title: Final Blade *Item 20*
+linter-yaml-title-alias: Final Blade *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Final Blade *Item 20*  
-[artifact](rules/traits/artifact-gmg.md)  [death](rules/traits/death.md)  [evil](rules/traits/evil.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+
+# Final Blade *Item 20*
+
+[artifact](rules/traits/artifact-gmg.md) [death](rules/traits/death.md) [evil](rules/traits/evil.md) [necromancy](rules/traits/necromancy.md) [occult](rules/traits/occult.md) [rare](rules/traits/rare.md)  
 
 - **Bulk** 40
 - **Category** Artifact

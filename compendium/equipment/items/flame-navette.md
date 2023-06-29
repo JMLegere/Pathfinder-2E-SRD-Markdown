@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/talisman
-- trait/abjuration
-- trait/consumable
-- trait/magical
-- trait/talisman
-aliases: ["Flame Navette"]
+tags: [compendium/src/pf2e/crb, item/category/talisman, trait/abjuration, trait/consumable, trait/magical, trait/talisman]
+aliases: [Flame Navette *Item 16*, "Flame Navette"]
+title: Flame Navette *Item 16*
+linter-yaml-title-alias: Flame Navette *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Flame Navette *Item 16*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Flame Navette *Item 16*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 1800 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Activate** envision; **Requirements** You're an expert in Will saves.
 - **Category** Talisman
 

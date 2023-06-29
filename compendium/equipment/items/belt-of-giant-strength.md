@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/apex
-- trait/apex
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Belt of Giant Strength"]
+tags: [compendium/src/pf2e/crb, item/category/apex, trait/apex, trait/invested, trait/magical, trait/transmutation]
+aliases: [Belt of Giant Strength *Item 17*, "Belt of Giant Strength"]
+title: Belt of Giant Strength *Item 17*
+linter-yaml-title-alias: Belt of Giant Strength *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Belt of Giant Strength *Item 17*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Belt of Giant Strength *Item 17*
+
+[apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 15000 gp
 - **Usage** worn belt; **Bulk** L

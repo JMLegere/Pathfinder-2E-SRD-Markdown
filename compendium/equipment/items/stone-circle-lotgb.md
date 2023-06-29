@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/structure
-- trait/conjuration
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Stone Circle"]
+tags: [compendium/src/pf2e/lotgb, item/category/structure, trait/conjuration, trait/magical, trait/structure, trait/uncommon]
+aliases: [Stone Circle *Item 10+*, "Stone Circle"]
+title: Stone Circle *Item 10+*
+linter-yaml-title-alias: Stone Circle *Item 10+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Stone Circle *Item 10+*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
 
-- **Usage** held in one hand; **Bulk** — (when not activated)
+# Stone Circle *Item 10+*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
+
+- **Usage** held in one hand; **Bulk**—(when not activated)
 - **Category** Structure
 
 A stone circle appears to be a thumb-sized rectangular gray stone until activated.

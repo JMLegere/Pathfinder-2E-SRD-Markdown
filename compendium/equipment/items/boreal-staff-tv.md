@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/evocation
-- trait/magical
-- trait/staff
-aliases: ["Boreal Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/evocation, trait/magical, trait/staff]
+aliases: [Boreal Staff *Item 8+*, "Boreal Staff"]
+title: Boreal Staff *Item 8+*
+linter-yaml-title-alias: Boreal Staff *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Boreal Staff *Item 8+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Boreal Staff *Item 8+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

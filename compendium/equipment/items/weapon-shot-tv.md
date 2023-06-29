@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/magical
-aliases: ["Weapon Shot"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/conjuration, trait/consumable, trait/magical]
+aliases: [Weapon Shot *Item 5+*, "Weapon Shot"]
+title: Weapon Shot *Item 5+*
+linter-yaml-title-alias: Weapon Shot *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Weapon Shot *Item 5+*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Weapon Shot *Item 5+*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Ammunition** any
 - **Category** Consumable

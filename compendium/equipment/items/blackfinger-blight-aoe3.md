@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe3
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/contact
-- trait/poison
-- trait/rare
-- trait/virulent
-aliases: ["Blackfinger Blight"]
+tags: [compendium/src/pf2e/aoe3, item/category/poison, trait/alchemical, trait/consumable, trait/contact, trait/poison, trait/rare, trait/virulent]
+aliases: [Blackfinger Blight *Item 12*, "Blackfinger Blight"]
+title: Blackfinger Blight *Item 12*
+linter-yaml-title-alias: Blackfinger Blight *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Blackfinger Blight *Item 12*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  [virulent](rules/traits/virulent.md)  
+
+# Blackfinger Blight *Item 12*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [contact](rules/traits/contact.md) [poison](rules/traits/poison.md) [rare](rules/traits/rare.md) [virulent](rules/traits/virulent.md)  
 
 - **Price** 350 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/tattoo
-aliases: ["Boozy Bottle"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/abjuration, trait/invested, trait/magical, trait/tattoo]
+aliases: [Boozy Bottle *Item 5*, "Boozy Bottle"]
+title: Boozy Bottle *Item 5*
+linter-yaml-title-alias: Boozy Bottle *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Boozy Bottle *Item 5*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+
+# Boozy Bottle *Item 5*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md)  
 
 - **Price** 140 gp
-- **Usage** tattooed on the body; **Bulk** —
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 This tattoo depicts a container of alcohol, traditionally a small, uncorked brown bottle. You gain a +1 item bonus to saving throws against poison.

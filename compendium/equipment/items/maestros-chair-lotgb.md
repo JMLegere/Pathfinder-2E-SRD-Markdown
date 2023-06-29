@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/wheelchair
-- trait/enchantment
-- trait/magical
-aliases: ["Maestro's Chair"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/wheelchair, trait/enchantment, trait/magical]
+aliases: ["Maestro's Chair *Item 7*", "Maestro's Chair"]
+title: "Maestro's Chair *Item 7*"
+linter-yaml-title-alias: "Maestro's Chair *Item 7*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Maestro's Chair *Item 7*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  
+
+# Maestro's Chair *Item 7*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md)  
 
 - **Price** 350 gp
 - **Bulk** 6

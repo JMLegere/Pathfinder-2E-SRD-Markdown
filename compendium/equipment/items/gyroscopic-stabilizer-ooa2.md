@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa2
-- item/category/customization/stabilizers
-- trait/divination
-- trait/magical
-- trait/uncommon
-aliases: ["Gyroscopic Stabilizer"]
+tags: [compendium/src/pf2e/ooa2, item/category/customization/stabilizers, trait/divination, trait/magical, trait/uncommon]
+aliases: [Gyroscopic Stabilizer *Item 4*, "Gyroscopic Stabilizer"]
+title: Gyroscopic Stabilizer *Item 4*
+linter-yaml-title-alias: Gyroscopic Stabilizer *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Gyroscopic Stabilizer *Item 4*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Gyroscopic Stabilizer *Item 4*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 115 gp
 - **Usage** attached <to a two-handed firearm>; **Bulk** L

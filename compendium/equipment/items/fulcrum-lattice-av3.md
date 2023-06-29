@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av3
-- item/category/held
-- trait/occult
-- trait/transmutation
-- trait/unique
-aliases: ["Fulcrum Lattice"]
+tags: [compendium/src/pf2e/av3, item/category/held, trait/occult, trait/transmutation, trait/unique]
+aliases: [Fulcrum Lattice *Item 11*, "Fulcrum Lattice"]
+title: Fulcrum Lattice *Item 11*
+linter-yaml-title-alias: Fulcrum Lattice *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Fulcrum Lattice *Item 11*  
-[occult](rules/traits/occult.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+
+# Fulcrum Lattice *Item 11*
+
+[occult](rules/traits/occult.md) [transmutation](rules/traits/transmutation.md) [unique](rules/traits/unique.md)  
 
 - **Price** 1200 gp
 - **Usage** held in 2 hands; **Bulk** 2

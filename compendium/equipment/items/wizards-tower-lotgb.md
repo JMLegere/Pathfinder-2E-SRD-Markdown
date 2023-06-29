@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/structure
-- trait/conjuration
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Wizard's Tower"]
+tags: [compendium/src/pf2e/lotgb, item/category/structure, trait/conjuration, trait/magical, trait/structure, trait/uncommon]
+aliases: ["Wizard's Tower *Item 13*", "Wizard's Tower"]
+title: "Wizard's Tower *Item 13*"
+linter-yaml-title-alias: "Wizard's Tower *Item 13*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wizard's Tower *Item 13*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Wizard's Tower *Item 13*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 2500 gp
-- **Bulk** — (when not activated)
+- **Bulk**—(when not activated)
 - **Category** Structure
 
 A wizard's tower is a tiny gaming piece carved into the form of a stone tower.

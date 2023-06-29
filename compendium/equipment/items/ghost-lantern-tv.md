@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/light
-- trait/magical
-- trait/transmutation
-aliases: ["Ghost Lantern"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/light, trait/magical, trait/transmutation]
+aliases: [Ghost Lantern *Item 12*, "Ghost Lantern"]
+title: Ghost Lantern *Item 12*
+linter-yaml-title-alias: Ghost Lantern *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Ghost Lantern *Item 12*  
-[light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Ghost Lantern *Item 12*
+
+[light](rules/traits/light.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 1850 gp
 - **Usage** held in 1 hand; **Bulk** L

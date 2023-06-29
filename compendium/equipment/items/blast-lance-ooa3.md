@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ooa3
-- item/category/held
-- trait/evocation
-- trait/fire
-- trait/magical
-- trait/uncommon
-aliases: ["Blast Lance"]
+tags: [compendium/src/pf2e/ooa3, item/category/held, trait/evocation, trait/fire, trait/magical, trait/uncommon]
+aliases: [Blast Lance *Item 4+*, "Blast Lance"]
+title: Blast Lance *Item 4+*
+linter-yaml-title-alias: Blast Lance *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Blast Lance *Item 4+*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Blast Lance *Item 4+*
+
+[evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Held

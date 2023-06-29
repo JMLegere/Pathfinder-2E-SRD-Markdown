@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/armor
-- trait/divine
-- trait/evil
-- trait/invested
-- trait/necromancy
-aliases: ["Demon Armor"]
+tags: [compendium/src/pf2e/crb, item/category/armor, trait/divine, trait/evil, trait/invested, trait/necromancy]
+aliases: [Demon Armor *Item 13*, "Demon Armor"]
+title: Demon Armor *Item 13*
+linter-yaml-title-alias: Demon Armor *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Demon Armor *Item 13*  
-[divine](rules/traits/divine.md)  [evil](rules/traits/evil.md)  [invested](rules/traits/invested.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Demon Armor *Item 13*
+
+[divine](rules/traits/divine.md) [evil](rules/traits/evil.md) [invested](rules/traits/invested.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Price** 2500 gp
 - **Usage** worn armor; **Bulk** 4

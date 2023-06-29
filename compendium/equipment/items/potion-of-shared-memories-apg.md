@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/potion
-- trait/consumable
-- trait/divination
-- trait/magical
-- trait/mental
-- trait/potion
-aliases: ["Potion Of Shared Memories"]
+tags: [compendium/src/pf2e/apg, item/category/potion, trait/consumable, trait/divination, trait/magical, trait/mental, trait/potion]
+aliases: [Potion Of Shared Memories *Item 1*, "Potion Of Shared Memories"]
+title: Potion Of Shared Memories *Item 1*
+linter-yaml-title-alias: Potion Of Shared Memories *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Potion Of Shared Memories *Item 1*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [potion](rules/traits/potion.md)  
+
+# Potion Of Shared Memories *Item 1*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [potion](rules/traits/potion.md)  
 
 - **Price** 4 gp
 - **Usage** held in 1 hand; **Bulk** L

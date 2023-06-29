@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/structure
-- trait/conjuration
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Portable Gaming Hall"]
+tags: [compendium/src/pf2e/lotgb, item/category/structure, trait/conjuration, trait/magical, trait/structure, trait/uncommon]
+aliases: [Portable Gaming Hall *Item 8*, "Portable Gaming Hall"]
+title: Portable Gaming Hall *Item 8*
+linter-yaml-title-alias: Portable Gaming Hall *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Portable Gaming Hall *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Portable Gaming Hall *Item 8*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 500 gp
 - **Bulk** L (when not activated)

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av2
-- item/category/contract
-- trait/abjuration
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Icy Disposition"]
+tags: [compendium/src/pf2e/av2, item/category/contract, trait/abjuration, trait/contract, trait/invested, trait/magical, trait/rare]
+aliases: [Icy Disposition *Item 11*, "Icy Disposition"]
+title: Icy Disposition *Item 11*
+linter-yaml-title-alias: Icy Disposition *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Icy Disposition *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Icy Disposition *Item 11*
+
+[abjuration](rules/traits/abjuration.md) [contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Devil** gelugon; **Decipher Writing** [Nature](compendium/skills.md#Nature), [Games Lore](compendium/skills.md#Lore)
 - **Category** Contract

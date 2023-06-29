@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/evocation
-- trait/magical
-- trait/sonic
-aliases: ["Sonic Tuning Mace"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/evocation, trait/magical, trait/sonic]
+aliases: [Sonic Tuning Mace *Item 9+*, "Sonic Tuning Mace"]
+title: Sonic Tuning Mace *Item 9+*
+linter-yaml-title-alias: Sonic Tuning Mace *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Sonic Tuning Mace *Item 9+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [sonic](rules/traits/sonic.md)  
+
+# Sonic Tuning Mace *Item 9+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [sonic](rules/traits/sonic.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

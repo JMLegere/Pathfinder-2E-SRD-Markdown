@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/evocation
-- trait/magical
-aliases: ["Magnetic Shot"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/evocation, trait/magical]
+aliases: [Magnetic Shot *Item 7+*, "Magnetic Shot"]
+title: Magnetic Shot *Item 7+*
+linter-yaml-title-alias: Magnetic Shot *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Magnetic Shot *Item 7+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Magnetic Shot *Item 7+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Ammunition** any
 - **Activate** envision

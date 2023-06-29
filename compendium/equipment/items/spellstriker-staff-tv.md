@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/evocation
-- trait/magical
-- trait/staff
-aliases: ["Spellstriker Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/evocation, trait/magical, trait/staff]
+aliases: [Spellstriker Staff *Item 7+*, "Spellstriker Staff"]
+title: Spellstriker Staff *Item 7+*
+linter-yaml-title-alias: Spellstriker Staff *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spellstriker Staff *Item 7+*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Spellstriker Staff *Item 7+*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

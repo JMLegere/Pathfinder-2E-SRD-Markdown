@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/conjuration
-- trait/consumable
-- trait/magical
-- trait/potion
-- trait/rare
-aliases: ["Cloning Potion"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/conjuration, trait/consumable, trait/magical, trait/potion, trait/rare]
+aliases: [Cloning Potion *Item 18*, "Cloning Potion"]
+title: Cloning Potion *Item 18*
+linter-yaml-title-alias: Cloning Potion *Item 18*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Cloning Potion *Item 18*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [rare](rules/traits/rare.md)  
+
+# Cloning Potion *Item 18*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md) [rare](rules/traits/rare.md)  
 
 - **Price** 5000 gp
 - **Usage** held in 1 hand; **Bulk** L

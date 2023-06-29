@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/incapacitation
-- trait/injury
-- trait/poison
-- trait/sleep
-- trait/uncommon
-aliases: ["Lethargy Poison"]
+tags: [compendium/src/pf2e/crb, item/category/poison, trait/alchemical, trait/consumable, trait/incapacitation, trait/injury, trait/poison, trait/sleep, trait/uncommon]
+aliases: [Lethargy Poison *Item 2*, "Lethargy Poison"]
+title: Lethargy Poison *Item 2*
+linter-yaml-title-alias: Lethargy Poison *Item 2*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lethargy Poison *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [incapacitation](rules/traits/incapacitation.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  [sleep](rules/traits/sleep.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Lethargy Poison *Item 2*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [incapacitation](rules/traits/incapacitation.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md) [sleep](rules/traits/sleep.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 7 gp
 - **Usage** held in 2 hands; **Bulk** L

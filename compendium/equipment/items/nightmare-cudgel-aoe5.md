@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe5
-- item/category/held
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Nightmare Cudgel"]
+tags: [compendium/src/pf2e/aoe5, item/category/held, trait/invested, trait/magical, trait/uncommon]
+aliases: [Nightmare Cudgel *Item 11*, "Nightmare Cudgel"]
+title: Nightmare Cudgel *Item 11*
+linter-yaml-title-alias: Nightmare Cudgel *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Nightmare Cudgel *Item 11*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Nightmare Cudgel *Item 11*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1000 gp
 - **Usage** held in 1 hand; **Bulk** 1

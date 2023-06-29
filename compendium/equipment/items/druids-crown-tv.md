@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/invested
-- trait/primal
-- trait/transmutation
-aliases: ["Druid's Crown"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/invested, trait/primal, trait/transmutation]
+aliases: ["Druid's Crown *Item 6*", "Druid's Crown"]
+title: "Druid's Crown *Item 6*"
+linter-yaml-title-alias: "Druid's Crown *Item 6*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Druid's Crown *Item 6*  
-[invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Druid's Crown *Item 6*
+
+[invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 220 gp
 - **Usage** worn headwear; **Bulk** L
@@ -29,6 +34,5 @@ The crown casts its spell at 2nd level (DC 20).
 | Antlers | [Intimidation](compendium/skills.md#Intimidation) | [Enlarge](compendium/spells/enlarge.md) |
 | Flowers | [Diplomacy](compendium/skills.md#Diplomacy) | [Animal allies](compendium/spells/animal-allies-som.md) |
 | Leaves | [Stealth](compendium/skills.md#Stealth) | [Tree shape](compendium/spells/tree-shape.md) |
-
 
 *Source: Treasure Vault p. 151*

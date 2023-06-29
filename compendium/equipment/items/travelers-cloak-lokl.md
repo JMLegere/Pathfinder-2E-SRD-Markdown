@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/adventuring-gear
-- trait/uncommon
-aliases: ["Traveler's Cloak"]
+tags: [compendium/src/pf2e/lokl, item/category/adventuring-gear, trait/uncommon]
+aliases: ["Traveler's Cloak *Item 1*", "Traveler's Cloak"]
+title: "Traveler's Cloak *Item 1*"
+linter-yaml-title-alias: "Traveler's Cloak *Item 1*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Traveler's Cloak *Item 1*  
+
+# Traveler's Cloak *Item 1*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.

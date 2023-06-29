@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/held
-- trait/abjuration
-- trait/magical
-- trait/rare
-aliases: ["Rod Of Cancellation"]
+tags: [compendium/src/pf2e/apg, item/category/held, trait/abjuration, trait/magical, trait/rare]
+aliases: [Rod Of Cancellation *Item 20*, "Rod Of Cancellation"]
+title: Rod Of Cancellation *Item 20*
+linter-yaml-title-alias: Rod Of Cancellation *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Rod Of Cancellation *Item 20*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Rod Of Cancellation *Item 20*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 75000 gp
 - **Usage** held in 1 hand; **Bulk** 1

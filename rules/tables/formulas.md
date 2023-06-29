@@ -1,11 +1,16 @@
 ---
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Formulas"]
+tags: [compendium/src/pf2e/crb]
+aliases: [Formulas, "Formulas", "Formula"]
+title: Formulas
+linter-yaml-title-alias: Formulas
+date created: Monday, June 19th 2023, 5:15:27 pm
+date modified: Thursday, June 29th 2023, 4:08:22 pm
 ---
-# Formulas  
+
+# Formulas
+
 *Source: Core Rulebook p. 293*  
 
 | Item Level | Formula Price | Item Level | Formula Price |

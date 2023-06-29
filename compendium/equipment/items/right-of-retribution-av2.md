@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av2
-- item/category/contract
-- trait/contract
-- trait/enchantment
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Right Of Retribution"]
+tags: [compendium/src/pf2e/av2, item/category/contract, trait/contract, trait/enchantment, trait/invested, trait/magical, trait/rare]
+aliases: [Right Of Retribution *Item 8*, "Right Of Retribution"]
+title: Right Of Retribution *Item 8*
+linter-yaml-title-alias: Right Of Retribution *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Right Of Retribution *Item 8*  
-[contract](rules/traits/contract-lol.md)  [enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Right Of Retribution *Item 8*
+
+[contract](rules/traits/contract-lol.md) [enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Devil** erinys; **Decipher Writing** [Nature](compendium/skills.md#Nature), [Religion](compendium/skills.md#Religion)
 - **Category** Contract

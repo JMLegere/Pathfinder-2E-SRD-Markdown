@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/rare
-aliases: ["Condensed Mana"]
+tags: [compendium/src/pf2e/loil, item/category/consumable, trait/alchemical, trait/consumable, trait/rare]
+aliases: [Condensed Mana *Item 7*, "Condensed Mana"]
+title: Condensed Mana *Item 7*
+linter-yaml-title-alias: Condensed Mana *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Condensed Mana *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+
+# Condensed Mana *Item 7*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [rare](rules/traits/rare.md)  
 
 - **Price** 69 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/alchemical
-- trait/fire
-- trait/rare
-aliases: ["Alchemist's Flamethrower"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/alchemical, trait/fire, trait/rare]
+aliases: ["Alchemist's Flamethrower *Item 2*", "Alchemist's Flamethrower"]
+title: "Alchemist's Flamethrower *Item 2*"
+linter-yaml-title-alias: "Alchemist's Flamethrower *Item 2*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Alchemist's Flamethrower *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [fire](rules/traits/fire.md)  [rare](rules/traits/rare.md)  
+
+# Alchemist's Flamethrower *Item 2*
+
+[alchemical](rules/traits/alchemical.md) [fire](rules/traits/fire.md) [rare](rules/traits/rare.md)  
 
 - **Price** 35 gp
 - **Usage** held in two hands; **Bulk** 1

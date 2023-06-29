@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/conjuration
-- trait/earth
-- trait/magical
-- trait/uncommon
-aliases: ["Drum Of Upheaval"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/conjuration, trait/earth, trait/magical, trait/uncommon]
+aliases: [Drum Of Upheaval *Item 20*, "Drum Of Upheaval"]
+title: Drum Of Upheaval *Item 20*
+linter-yaml-title-alias: Drum Of Upheaval *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Drum Of Upheaval *Item 20*  
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Drum Of Upheaval *Item 20*
+
+[conjuration](rules/traits/conjuration.md) [earth](rules/traits/earth.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 60000 gp
 - **Usage** held in 2 hands; **Bulk** 1

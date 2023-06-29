@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/assistive-item
-- trait/illusion
-- trait/magical
-- trait/uncommon
-aliases: ["Confabulator"]
+tags: [compendium/src/pf2e/tv, item/category/assistive-item, trait/illusion, trait/magical, trait/uncommon]
+aliases: [Confabulator *Item 3*, "Confabulator"]
+title: Confabulator *Item 3*
+linter-yaml-title-alias: Confabulator *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Confabulator *Item 3*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Confabulator *Item 3*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 55 gp
 - **Usage** Affixed to instrument; **Bulk** L

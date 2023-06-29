@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/apex
-- trait/apex
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Dragon Handwraps"]
+tags: [compendium/src/pf2e/tv, item/category/apex, trait/apex, trait/invested, trait/magical, trait/transmutation]
+aliases: [Dragon Handwraps *Item 20*, "Dragon Handwraps"]
+title: Dragon Handwraps *Item 20*
+linter-yaml-title-alias: Dragon Handwraps *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Dragon Handwraps *Item 20*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Dragon Handwraps *Item 20*
+
+[apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 80000 gp
-- **Usage** worn gloves; **Bulk** —
+- **Usage** worn gloves; **Bulk**—
 - **Category** Apex
 
 These silken handwraps feature intricate embroidery of a serpentine red dragon adorned with golden thread. The handwraps function as +3 major striking greater flaming handwraps of mighty blows. You also gain a +4 item bonus to [Athletics](compendium/skills.md#Athletics) checks made to [Grapple](rules/actions/grapple.md) or [Shove](rules/actions/shove.md). When you invest the handwraps, you either increase your Strength score by 2 or increase it to 18, whichever is higher.

@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Spectacles of Piercing Sight"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/divination, trait/invested, trait/magical, trait/rare]
+aliases: [Spectacles of Piercing Sight *Item 18*, "Spectacles of Piercing Sight"]
+title: Spectacles of Piercing Sight *Item 18*
+linter-yaml-title-alias: Spectacles of Piercing Sight *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spectacles of Piercing Sight *Item 18*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Spectacles of Piercing Sight *Item 18*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 24000 gp
-- **Usage** worn eyepiece; **Bulk** —
+- **Usage** worn eyepiece; **Bulk**—
 - **Category** Worn
 
 With lenses set in a silver frame, spectacles of piercing sight grant you a +3 item bonus to visual [Perception](compendium/skills.md#Perception) checks.

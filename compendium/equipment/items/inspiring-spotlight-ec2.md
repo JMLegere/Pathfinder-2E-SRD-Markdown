@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec2
-- item/category/held
-- trait/enchantment
-- trait/light
-- trait/magical
-- trait/uncommon
-aliases: ["Inspiring Spotlight"]
+tags: [compendium/src/pf2e/ec2, item/category/held, trait/enchantment, trait/light, trait/magical, trait/uncommon]
+aliases: [Inspiring Spotlight *Item 9*, "Inspiring Spotlight"]
+title: Inspiring Spotlight *Item 9*
+linter-yaml-title-alias: Inspiring Spotlight *Item 9*
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Inspiring Spotlight *Item 9*  
-[enchantment](rules/traits/enchantment.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Inspiring Spotlight *Item 9*
+
+[enchantment](rules/traits/enchantment.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 650 gp
 - **Usage** held in 2 hands; **Bulk** 3

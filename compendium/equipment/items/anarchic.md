@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/chaotic
-- trait/evocation
-- trait/magical
-aliases: ["Anarchic"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/chaotic, trait/evocation, trait/magical]
+aliases: [Anarchic *Item 11*, "Anarchic"]
+title: Anarchic *Item 11*
+linter-yaml-title-alias: Anarchic *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Anarchic *Item 11*  
-[chaotic](rules/traits/chaotic.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Anarchic *Item 11*
+
+[chaotic](rules/traits/chaotic.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1400 gp
 - **Usage** etched onto a weapon without an axiomatic rune

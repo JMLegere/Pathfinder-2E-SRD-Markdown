@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/artifact
-- trait/arcane
-- trait/artifact
-- trait/cold
-- trait/invested
-- trait/rare
-aliases: ["Gelid Shard"]
+tags: [compendium/src/pf2e/tv, item/category/artifact, trait/arcane, trait/artifact, trait/cold, trait/invested, trait/rare]
+aliases: [Gelid Shard *Item 2*, "Gelid Shard"]
+title: Gelid Shard *Item 2*
+linter-yaml-title-alias: Gelid Shard *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Gelid Shard *Item 2*  
-[arcane](rules/traits/arcane.md)  [artifact](rules/traits/artifact-gmg.md)  [cold](rules/traits/cold.md)  [invested](rules/traits/invested.md)  [rare](rules/traits/rare.md)  
+
+# Gelid Shard *Item 2*
+
+[arcane](rules/traits/arcane.md) [artifact](rules/traits/artifact-gmg.md) [cold](rules/traits/cold.md) [invested](rules/traits/invested.md) [rare](rules/traits/rare.md)  
 
 - **Category** Artifact
 

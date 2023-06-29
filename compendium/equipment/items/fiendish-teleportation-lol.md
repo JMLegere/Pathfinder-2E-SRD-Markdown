@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/contract
-- trait/conjuration
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Fiendish Teleportation"]
+tags: [compendium/src/pf2e/lol, item/category/contract, trait/conjuration, trait/contract, trait/invested, trait/magical, trait/rare]
+aliases: [Fiendish Teleportation *Item 11*, "Fiendish Teleportation"]
+title: Fiendish Teleportation *Item 11*
+linter-yaml-title-alias: Fiendish Teleportation *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fiendish Teleportation *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Fiendish Teleportation *Item 11*
+
+[conjuration](rules/traits/conjuration.md) [contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

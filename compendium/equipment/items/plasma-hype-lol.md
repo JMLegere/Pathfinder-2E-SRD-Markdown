@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/drug
-- trait/ingested
-- trait/poison
-- trait/rare
-aliases: ["Plasma Hype"]
+tags: [compendium/src/pf2e/lol, item/category/poison, trait/alchemical, trait/consumable, trait/drug, trait/ingested, trait/poison, trait/rare]
+aliases: [Plasma Hype *Item 12*, "Plasma Hype"]
+title: Plasma Hype *Item 12*
+linter-yaml-title-alias: Plasma Hype *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Plasma Hype *Item 12*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+
+# Plasma Hype *Item 12*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [drug](rules/traits/drug-gmg.md) [ingested](rules/traits/ingested.md) [poison](rules/traits/poison.md) [rare](rules/traits/rare.md)  
 
 - **Price** 400 gp
 - **Usage** held in 1 hand; **Bulk** L

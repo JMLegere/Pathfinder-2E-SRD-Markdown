@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/rare
-aliases: ["Djezet Weapon"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/rare]
+aliases: [Djezet Weapon *Item 12+*, "Djezet Weapon"]
+title: Djezet Weapon *Item 12+*
+linter-yaml-title-alias: Djezet Weapon *Item 12+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Djezet Weapon *Item 12+*  
+
+# Djezet Weapon *Item 12+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** varies by weapon; **Bulk** varies by weapon

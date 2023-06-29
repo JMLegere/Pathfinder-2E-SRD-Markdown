@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/focused
-- trait/illusion
-- trait/invested
-- trait/occult
-aliases: ["Accompaniment Cloak"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/focused, trait/illusion, trait/invested, trait/occult]
+aliases: [Accompaniment Cloak *Item 11*, "Accompaniment Cloak"]
+title: Accompaniment Cloak *Item 11*
+linter-yaml-title-alias: Accompaniment Cloak *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:09 pm
 ---
-# Accompaniment Cloak *Item 11*  
-[focused](rules/traits/focused.md)  [illusion](rules/traits/illusion.md)  [invested](rules/traits/invested.md)  [occult](rules/traits/occult.md)  
+
+# Accompaniment Cloak *Item 11*
+
+[focused](rules/traits/focused.md) [illusion](rules/traits/illusion.md) [invested](rules/traits/invested.md) [occult](rules/traits/occult.md)  
 
 - **Price** 1300 gp
 - **Usage** worn cloak; **Bulk** L

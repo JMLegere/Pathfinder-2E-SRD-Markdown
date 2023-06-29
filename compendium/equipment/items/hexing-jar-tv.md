@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/enchantment
-- trait/focused
-- trait/invested
-- trait/magical
-aliases: ["Hexing Jar"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/enchantment, trait/focused, trait/invested, trait/magical]
+aliases: [Hexing Jar *Item 11*, "Hexing Jar"]
+title: Hexing Jar *Item 11*
+linter-yaml-title-alias: Hexing Jar *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hexing Jar *Item 11*  
-[enchantment](rules/traits/enchantment.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Hexing Jar *Item 11*
+
+[enchantment](rules/traits/enchantment.md) [focused](rules/traits/focused.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 1200 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 Dangling from a simple cord, a hexing jar houses rich soil. When a witch who has invested the jar wears it overnight, a miniature thing grows from the soil. Your patron chooses the form, commonly including glowing mushrooms, venus flytraps, mandragora roots, or undead hands reaching up. The thing whispers secrets it learned from your patron, giving you a +2 item bonus to your patron skill.

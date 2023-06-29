@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av2
-- item/category/held
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Folding Drums"]
+tags: [compendium/src/pf2e/av2, item/category/held, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Folding Drums *Item 5*, "Folding Drums"]
+title: Folding Drums *Item 5*
+linter-yaml-title-alias: Folding Drums *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Folding Drums *Item 5*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Folding Drums *Item 5*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 160 gp
 - **Usage** varies (see text); **Bulk** varies (see text)

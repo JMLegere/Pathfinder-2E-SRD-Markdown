@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/material
-- trait/precious
-- trait/uncommon
-aliases: ["Mithral"]
+tags: [compendium/src/pf2e/crb, item/category/material, trait/precious, trait/uncommon]
+aliases: [Mithral *Item 8+*, "Mithral"]
+title: Mithral *Item 8+*
+linter-yaml-title-alias: Mithral *Item 8+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Mithral *Item 8+*  
-[precious](rules/traits/precious.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Mithral *Item 8+*
+
+[precious](rules/traits/precious.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Category** Material
 
@@ -26,6 +32,5 @@ Mithral is renowned for its lightness, durability, and effectiveness against a r
 | **Structures** |  |  |  |
 | Standard-grade | 18 | 72 | 36 |
 | High-grade | 24 | 96 | 48 |
-
 
 *Source: Core Rulebook p. 579*

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot5
-- item/category/staff
-- trait/conjuration
-- trait/magical
-- trait/staff
-- trait/unique
-aliases: ["Wyrm Drinker"]
+tags: [compendium/src/pf2e/sot5, item/category/staff, trait/conjuration, trait/magical, trait/staff, trait/unique]
+aliases: [Wyrm Drinker *Item 17*, "Wyrm Drinker"]
+title: Wyrm Drinker *Item 17*
+linter-yaml-title-alias: Wyrm Drinker *Item 17*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wyrm Drinker *Item 17*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [unique](rules/traits/unique.md)  
+
+# Wyrm Drinker *Item 17*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md) [unique](rules/traits/unique.md)  
 
 - **Price** 13000 gp
 - **Usage** held in 1 hand; **Bulk** 1

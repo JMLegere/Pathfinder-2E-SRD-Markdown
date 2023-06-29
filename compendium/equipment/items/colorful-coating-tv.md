@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-aliases: ["Colorful Coating"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable]
+aliases: [Colorful Coating *Item 3+*, "Colorful Coating"]
+title: Colorful Coating *Item 3+*
+linter-yaml-title-alias: Colorful Coating *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Colorful Coating *Item 3+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+
+# Colorful Coating *Item 3+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

@@ -1,20 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/held
-- trait/conjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Whistle of Calling"]
+tags: [compendium/src/pf2e/lokl, item/category/held, trait/conjuration, trait/magical, trait/uncommon]
+aliases: [Whistle of Calling *Item 15*, "Whistle of Calling"]
+title: Whistle of Calling *Item 15*
+linter-yaml-title-alias: Whistle of Calling *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Whistle of Calling *Item 15*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Whistle of Calling *Item 15*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 6300 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Category** Held
 
 A whistle of calling appears to be a simple brass whistle. It changes slightly in appearance depending on the type of creature to which it's attuned, depicting small carvings of hooves, feather patterns, claws, or other appropriate motifs.

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe2
-- item/category/held
-- trait/abjuration
-- trait/magical
-- trait/uncommon
-aliases: ["Floorbell"]
+tags: [compendium/src/pf2e/aoe2, item/category/held, trait/abjuration, trait/magical, trait/uncommon]
+aliases: [Floorbell *Item 5*, "Floorbell"]
+title: Floorbell *Item 5*
+linter-yaml-title-alias: Floorbell *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Floorbell *Item 5*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Floorbell *Item 5*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 120 gp
 - **Usage** held in 1 hand; **Bulk** 1

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/held
-- trait/illusion
-- trait/magical
-- trait/uncommon
-aliases: ["Silent Bell"]
+tags: [compendium/src/pf2e/da, item/category/held, trait/illusion, trait/magical, trait/uncommon]
+aliases: [Silent Bell *Item 9*, "Silent Bell"]
+title: Silent Bell *Item 9*
+linter-yaml-title-alias: Silent Bell *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Silent Bell *Item 9*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Silent Bell *Item 9*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Member of a secret society
 - **Price** 600 gp

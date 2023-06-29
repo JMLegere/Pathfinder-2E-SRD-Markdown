@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/companion
-- trait/companion
-- trait/invested
-- trait/primal
-- trait/transmutation
-- trait/uncommon
-aliases: ["Hosteling Statuette"]
+tags: [compendium/src/pf2e/lotgb, item/category/companion, trait/companion, trait/invested, trait/primal, trait/transmutation, trait/uncommon]
+aliases: [Hosteling Statuette *Item 4*, "Hosteling Statuette"]
+title: Hosteling Statuette *Item 4*
+linter-yaml-title-alias: Hosteling Statuette *Item 4*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hosteling Statuette *Item 4*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Hosteling Statuette *Item 4*
+
+[companion](rules/traits/companion.md) [invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 80 gp
 - **Usage** worn; **Bulk** L

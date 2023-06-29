@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Chime of Opening"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Chime of Opening *Item 6*, "Chime of Opening"]
+title: Chime of Opening *Item 6*
+linter-yaml-title-alias: Chime of Opening *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Chime of Opening *Item 6*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Chime of Opening *Item 6*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 235 gp
 - **Usage** held in 2 hands; **Bulk** L

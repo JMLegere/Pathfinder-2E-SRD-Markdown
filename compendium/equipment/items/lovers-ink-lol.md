@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/rare
-aliases: ["Lovers' Ink"]
+tags: [compendium/src/pf2e/lol, item/category/consumable, trait/alchemical, trait/consumable, trait/rare]
+aliases: ["Lovers' Ink *Item 2*", "Lovers' Ink"]
+title: "Lovers' Ink *Item 2*"
+linter-yaml-title-alias: "Lovers' Ink *Item 2*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Lovers' Ink *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+
+# Lovers' Ink *Item 2*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [rare](rules/traits/rare.md)  
 
 - **Price** 5 gp
 - **Usage** with writing set; **Bulk** L

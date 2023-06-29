@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/pfum
-- item/category/bomb
-- trait/alchemical
-- trait/bomb
-- trait/consumable
-- trait/force
-- trait/splash
-- trait/uncommon
-aliases: ["Pressure Bomb"]
+tags: [compendium/src/pf2e/pfum, item/category/bomb, trait/alchemical, trait/bomb, trait/consumable, trait/force, trait/splash, trait/uncommon]
+aliases: [Pressure Bomb *Item 1+*, "Pressure Bomb"]
+title: Pressure Bomb *Item 1+*
+linter-yaml-title-alias: Pressure Bomb *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Pressure Bomb *Item 1+*  
-[alchemical](rules/traits/alchemical.md)  [bomb](rules/traits/bomb.md)  [consumable](rules/traits/consumable.md)  [force](rules/traits/force.md)  [splash](rules/traits/splash.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Pressure Bomb *Item 1+*
+
+[alchemical](rules/traits/alchemical.md) [bomb](rules/traits/bomb.md) [consumable](rules/traits/consumable.md) [force](rules/traits/force.md) [splash](rules/traits/splash.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Strike](rules/actions/strike.md)

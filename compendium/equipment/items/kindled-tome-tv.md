@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/evocation
-- trait/grimoire
-- trait/intelligent
-- trait/magical
-- trait/rare
-aliases: ["Kindled Tome"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/evocation, trait/grimoire, trait/intelligent, trait/magical, trait/rare]
+aliases: [Kindled Tome *Item 11*, "Kindled Tome"]
+title: Kindled Tome *Item 11*
+linter-yaml-title-alias: Kindled Tome *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Kindled Tome *Item 11*  
-[evocation](rules/traits/evocation.md)  [grimoire](rules/traits/grimoire-som.md)  [intelligent](rules/traits/intelligent-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Kindled Tome *Item 11*
+
+[evocation](rules/traits/evocation.md) [grimoire](rules/traits/grimoire-som.md) [intelligent](rules/traits/intelligent-gmg.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Bulk** L
 - **Category** Grimoire

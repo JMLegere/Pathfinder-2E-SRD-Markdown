@@ -1,21 +1,27 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/weapon/martial
-- trait/finesse
-- trait/sweep
-aliases: ["Probing Cane"]
+tags: [compendium/src/pf2e/lotgb, item/category/weapon/martial, trait/finesse, trait/sweep]
+aliases: [Probing Cane *Item 0*, "Probing Cane"]
+title: Probing Cane *Item 0*
+linter-yaml-title-alias: Probing Cane *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Probing Cane *Item 0*  
-[finesse](rules/traits/finesse.md)  [sweep](rules/traits/sweep.md)  
+
+# Probing Cane *Item 0*
+
+[finesse](rules/traits/finesse.md) [sweep](rules/traits/sweep.md)  
 
 - **Price** 5 sp
 - **Bulk** L
 - **Damage** `1d6` B
 - **Hands** 1
-- **Category** Martial; **Group** Club 
+- **Category** Martial; **Group** Club
 
 Your cane indicates that you have low vision or are blind. By holding this cane in front of you, you indicate to those around that you're partially sighted, which is particularly useful in urban or busy places to let others know to give you enough space.
 

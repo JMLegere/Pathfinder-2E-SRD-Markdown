@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/grimoire
-- trait/grimoire
-- trait/magical
-- trait/necromancy
-- trait/rare
-aliases: ["Codex of Destruction and Renewal"]
+tags: [compendium/src/pf2e/tv, item/category/grimoire, trait/grimoire, trait/magical, trait/necromancy, trait/rare]
+aliases: [Codex of Destruction and Renewal *Item 20*, "Codex of Destruction and Renewal"]
+title: Codex of Destruction and Renewal *Item 20*
+linter-yaml-title-alias: Codex of Destruction and Renewal *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Codex of Destruction and Renewal *Item 20*  
-[grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+
+# Codex of Destruction and Renewal *Item 20*
+
+[grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [rare](rules/traits/rare.md)  
 
 - **Price** 70000 gp
 - **Bulk** L

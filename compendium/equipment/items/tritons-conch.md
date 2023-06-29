@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Triton's Conch"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/magical, trait/transmutation]
+aliases: ["Triton's Conch *Item 9*", "Triton's Conch"]
+title: "Triton's Conch *Item 9*"
+linter-yaml-title-alias: "Triton's Conch *Item 9*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Triton's Conch *Item 9*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Triton's Conch *Item 9*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 640 gp
 - **Usage** held in 1 hand; **Bulk** L

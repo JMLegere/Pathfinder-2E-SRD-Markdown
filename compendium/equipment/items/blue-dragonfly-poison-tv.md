@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/ingested
-- trait/poison
-- trait/uncommon
-aliases: ["Blue Dragonfly Poison"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/ingested, trait/poison, trait/uncommon]
+aliases: [Blue Dragonfly Poison *Item 3*, "Blue Dragonfly Poison"]
+title: Blue Dragonfly Poison *Item 3*
+linter-yaml-title-alias: Blue Dragonfly Poison *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Blue Dragonfly Poison *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Blue Dragonfly Poison *Item 3*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [ingested](rules/traits/ingested.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 7 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Sapling Shield"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/magical, trait/transmutation]
+aliases: [Sapling Shield *Item 3+*, "Sapling Shield"]
+title: Sapling Shield *Item 3+*
+linter-yaml-title-alias: Sapling Shield *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Sapling Shield *Item 3+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Sapling Shield *Item 3+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand; **Bulk** 2
 - **Category** Held

@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/talisman
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/talisman
-aliases: ["Wolf Fang"]
+tags: [compendium/src/pf2e/crb, item/category/talisman, trait/consumable, trait/evocation, trait/magical, trait/talisman]
+aliases: [Wolf Fang *Item 1*, "Wolf Fang"]
+title: Wolf Fang *Item 1*
+linter-yaml-title-alias: Wolf Fang *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wolf Fang *Item 1*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Wolf Fang *Item 1*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 4 gp
-- **Usage** affixed to armor; **Bulk** —
+- **Usage** affixed to armor; **Bulk**—
 - **Activate** envision; **Trigger** You successfully [Trip](rules/actions/trip.md) a foe; **Requirements** You are trained in [Athletics](compendium/skills.md#Athletics).
 - **Category** Talisman
 

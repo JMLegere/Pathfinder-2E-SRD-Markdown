@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/illusion
-- trait/magical
-aliases: ["Codebreaker's Parchment"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/illusion, trait/magical]
+aliases: ["Codebreaker's Parchment *Item 3+*", "Codebreaker's Parchment"]
+title: "Codebreaker's Parchment *Item 3+*"
+linter-yaml-title-alias: "Codebreaker's Parchment *Item 3+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Codebreaker's Parchment *Item 3+*  
-[illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  
+
+# Codebreaker's Parchment *Item 3+*
+
+[illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Held

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa5
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/contact
-- trait/poison
-- trait/uncommon
-aliases: ["Frenzy Oil"]
+tags: [compendium/src/pf2e/aoa5, item/category/poison, trait/alchemical, trait/consumable, trait/contact, trait/poison, trait/uncommon]
+aliases: [Frenzy Oil *Item 16*, "Frenzy Oil"]
+title: Frenzy Oil *Item 16*
+linter-yaml-title-alias: Frenzy Oil *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Frenzy Oil *Item 16*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Frenzy Oil *Item 16*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [contact](rules/traits/contact.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1500 gp
 - **Usage** held in 1 hand; **Bulk** L

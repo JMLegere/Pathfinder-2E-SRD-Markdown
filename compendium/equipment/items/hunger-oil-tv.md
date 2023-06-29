@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/contact
-- trait/divine
-- trait/necromancy
-- trait/poison
-- trait/uncommon
-aliases: ["Hunger Oil"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/contact, trait/divine, trait/necromancy, trait/poison, trait/uncommon]
+aliases: [Hunger Oil *Item 11*, "Hunger Oil"]
+title: Hunger Oil *Item 11*
+linter-yaml-title-alias: Hunger Oil *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hunger Oil *Item 11*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Hunger Oil *Item 11*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [contact](rules/traits/contact.md) [divine](rules/traits/divine.md) [necromancy](rules/traits/necromancy.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 235 gp
 - **Usage** held in 1 hand; **Bulk** L

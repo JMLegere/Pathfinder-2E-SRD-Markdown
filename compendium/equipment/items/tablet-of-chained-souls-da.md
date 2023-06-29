@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/held
-- trait/cursed
-- trait/magical
-- trait/necromancy
-aliases: ["Tablet of Chained Souls"]
+tags: [compendium/src/pf2e/da, item/category/held, trait/cursed, trait/magical, trait/necromancy]
+aliases: [Tablet of Chained Souls *Item 8*, "Tablet of Chained Souls"]
+title: Tablet of Chained Souls *Item 8*
+linter-yaml-title-alias: Tablet of Chained Souls *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Tablet of Chained Souls *Item 8*  
-[cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Tablet of Chained Souls *Item 8*
+
+[cursed](rules/traits/cursed-gmg.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Usage** held in 2 hands; **Bulk** L
 - **Category** Held

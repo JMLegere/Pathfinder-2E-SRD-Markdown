@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/injury
-- trait/poison
-aliases: ["Smother Shroud"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/injury, trait/poison]
+aliases: [Smother Shroud *Item 7*, "Smother Shroud"]
+title: Smother Shroud *Item 7*
+linter-yaml-title-alias: Smother Shroud *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Smother Shroud *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  
+
+# Smother Shroud *Item 7*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md)  
 
 - **Price** 60 gp
 - **Usage** held in 2 hands; **Bulk** L

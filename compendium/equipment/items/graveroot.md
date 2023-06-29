@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/injury
-- trait/poison
-aliases: ["Graveroot"]
+tags: [compendium/src/pf2e/crb, item/category/poison, trait/alchemical, trait/consumable, trait/injury, trait/poison]
+aliases: [Graveroot *Item 3*, "Graveroot"]
+title: Graveroot *Item 3*
+linter-yaml-title-alias: Graveroot *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Graveroot *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [poison](rules/traits/poison.md)  
+
+# Graveroot *Item 3*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [injury](rules/traits/injury.md) [poison](rules/traits/poison.md)  
 
 - **Price** 10 gp
 - **Usage** held in 2 hands; **Bulk** L

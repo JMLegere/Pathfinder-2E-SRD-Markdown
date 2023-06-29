@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/uncommon
-aliases: ["Bookthief Brew"]
+tags: [compendium/src/pf2e/lopsg, item/category/consumable, trait/alchemical, trait/consumable, trait/uncommon]
+aliases: [Bookthief Brew *Item 1*, "Bookthief Brew"]
+title: Bookthief Brew *Item 1*
+linter-yaml-title-alias: Bookthief Brew *Item 1*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bookthief Brew *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Bookthief Brew *Item 1*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L

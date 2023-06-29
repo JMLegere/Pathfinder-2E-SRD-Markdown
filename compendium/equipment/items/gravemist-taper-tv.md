@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/catalyst
-- trait/consumable
-- trait/magical
-aliases: ["Gravemist Taper"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/catalyst, trait/consumable, trait/magical]
+aliases: [Gravemist Taper *Item 5*, "Gravemist Taper"]
+title: Gravemist Taper *Item 5*
+linter-yaml-title-alias: Gravemist Taper *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Gravemist Taper *Item 5*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Gravemist Taper *Item 5*
+
+[catalyst](rules/traits/catalyst-som.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Price** 25 gp
 - **Usage** held in 1 hand; **Bulk** L

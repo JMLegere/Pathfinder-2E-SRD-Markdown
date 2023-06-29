@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/held
-- trait/conjuration
-- trait/earth
-- trait/magical
-aliases: ["Jar Of Shifting Sands"]
+tags: [compendium/src/pf2e/som, item/category/held, trait/conjuration, trait/earth, trait/magical]
+aliases: [Jar Of Shifting Sands *Item 7*, "Jar Of Shifting Sands"]
+title: Jar Of Shifting Sands *Item 7*
+linter-yaml-title-alias: Jar Of Shifting Sands *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:39 pm
 ---
-# Jar Of Shifting Sands *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  [magical](rules/traits/magical.md)  
+
+# Jar Of Shifting Sands *Item 7*
+
+[conjuration](rules/traits/conjuration.md) [earth](rules/traits/earth.md) [magical](rules/traits/magical.md)  
 
 - **Price** 320 gp
 - **Usage** held in 2 hands; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/logm
-- item/category/worn
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Necklace Of Knives"]
+tags: [compendium/src/pf2e/logm, item/category/worn, trait/conjuration, trait/invested, trait/magical, trait/uncommon]
+aliases: [Necklace Of Knives *Item 2*, "Necklace Of Knives"]
+title: Necklace Of Knives *Item 2*
+linter-yaml-title-alias: Necklace Of Knives *Item 2*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Necklace Of Knives *Item 2*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Necklace Of Knives *Item 2*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** follower of [Pharasma](compendium/setting/deities/pharasma.md)
 - **Price** 25 gp

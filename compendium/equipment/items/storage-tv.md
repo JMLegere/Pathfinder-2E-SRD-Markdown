@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/adjustment
-- trait/adjustment
-aliases: ["Storage"]
+tags: [compendium/src/pf2e/tv, item/category/adjustment, trait/adjustment]
+aliases: [Storage *Item 0*, "Storage"]
+title: Storage *Item 0*
+linter-yaml-title-alias: Storage *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Storage *Item 0*  
+
+# Storage *Item 0*
+
 [adjustment](rules/traits/adjustment-lotgb.md)  
 
 - **Price** 1 gp

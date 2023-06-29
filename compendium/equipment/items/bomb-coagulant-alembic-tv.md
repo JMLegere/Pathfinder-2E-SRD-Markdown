@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/additive-0
-- trait/alchemical
-aliases: ["Bomb Coagulant Alembic"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/additive-0, trait/alchemical]
+aliases: [Bomb Coagulant Alembic *Item 5*, "Bomb Coagulant Alembic"]
+title: Bomb Coagulant Alembic *Item 5*
+linter-yaml-title-alias: Bomb Coagulant Alembic *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bomb Coagulant Alembic *Item 5*  
-[additive <0>](rules/traits/additive.md)  [alchemical](rules/traits/alchemical.md)  
+
+# Bomb Coagulant Alembic *Item 5*
+
+[additive <0>](rules/traits/additive.md) [alchemical](rules/traits/alchemical.md)  
 
 - **Price** 150 gp
 - **Usage** held in two hands; **Bulk** L

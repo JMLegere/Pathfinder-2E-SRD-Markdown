@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/tattoo
-aliases: ["Reading Glyphs"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/divination, trait/invested, trait/magical, trait/tattoo]
+aliases: [Reading Glyphs *Item 4*, "Reading Glyphs"]
+title: Reading Glyphs *Item 4*
+linter-yaml-title-alias: Reading Glyphs *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Reading Glyphs *Item 4*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+
+# Reading Glyphs *Item 4*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md)  
 
 - **Price** 90 gp
-- **Usage** tattooed on the body; **Bulk** —
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 These tattoos on your knuckles look like strange glyphs in an unknown language. If you press your fingertips to text in any language, these glyphs cycle in appearance through those of various extant languages. Encrypted text causes your glyphs to turn to a recognizable "null" symbol.

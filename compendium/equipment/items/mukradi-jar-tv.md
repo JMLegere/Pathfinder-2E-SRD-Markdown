@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/expandable
-aliases: ["Mukradi Jar"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable, trait/expandable]
+aliases: [Mukradi Jar *Item 15*, "Mukradi Jar"]
+title: Mukradi Jar *Item 15*
+linter-yaml-title-alias: Mukradi Jar *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Mukradi Jar *Item 15*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [expandable](rules/traits/expandable-tv.md)  
+
+# Mukradi Jar *Item 15*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [expandable](rules/traits/expandable-tv.md)  
 
 - **Price** 1300 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/divination
-- trait/evil
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Devil's Bargain"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/divination, trait/evil, trait/invested, trait/magical, trait/uncommon]
+aliases: ["Devil's Bargain *Item 6*", "Devil's Bargain"]
+title: "Devil's Bargain *Item 6*"
+linter-yaml-title-alias: "Devil's Bargain *Item 6*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Devil's Bargain *Item 6*  
-[divination](rules/traits/divination.md)  [evil](rules/traits/evil.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Devil's Bargain *Item 6*
+
+[divination](rules/traits/divination.md) [evil](rules/traits/evil.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 250 gp
 - **Usage** worn armor; **Bulk** L

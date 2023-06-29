@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec4
-- item/category/worn
-- trait/evocation
-- trait/magical
-- trait/rare
-aliases: ["Noxious Jerkin"]
+tags: [compendium/src/pf2e/ec4, item/category/worn, trait/evocation, trait/magical, trait/rare]
+aliases: [Noxious Jerkin *Item 13*, "Noxious Jerkin"]
+title: Noxious Jerkin *Item 13*
+linter-yaml-title-alias: Noxious Jerkin *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Noxious Jerkin *Item 13*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Noxious Jerkin *Item 13*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 2800 gp
 - **Usage** worn; **Bulk** L

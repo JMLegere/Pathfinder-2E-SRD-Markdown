@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/potion
-aliases: ["Rovagug's Mud"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/evocation, trait/magical, trait/potion]
+aliases: ["Rovagug's Mud *Item 13+*", "Rovagug's Mud"]
+title: "Rovagug's Mud *Item 13+*"
+linter-yaml-title-alias: "Rovagug's Mud *Item 13+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Rovagug's Mud *Item 13+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+
+# Rovagug's Mud *Item 13+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

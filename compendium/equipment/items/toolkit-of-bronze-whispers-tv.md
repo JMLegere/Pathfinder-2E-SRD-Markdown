@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/divine
-- trait/intelligent
-- trait/rare
-- trait/transmutation
-aliases: ["Toolkit of Bronze Whispers"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/divine, trait/intelligent, trait/rare, trait/transmutation]
+aliases: [Toolkit of Bronze Whispers *Item 5*, "Toolkit of Bronze Whispers"]
+title: Toolkit of Bronze Whispers *Item 5*
+linter-yaml-title-alias: Toolkit of Bronze Whispers *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Toolkit of Bronze Whispers *Item 5*  
-[divine](rules/traits/divine.md)  [intelligent](rules/traits/intelligent-gmg.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Toolkit of Bronze Whispers *Item 5*
+
+[divine](rules/traits/divine.md) [intelligent](rules/traits/intelligent-gmg.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Held

@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/arcane
-- trait/divination
-- trait/invested
-- trait/uncommon
-aliases: ["Ring of Wizardry"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/arcane, trait/divination, trait/invested, trait/uncommon]
+aliases: [Ring of Wizardry *Item 7+*, "Ring of Wizardry"]
+title: Ring of Wizardry *Item 7+*
+linter-yaml-title-alias: Ring of Wizardry *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Ring of Wizardry *Item 7+*  
-[arcane](rules/traits/arcane.md)  [divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
 
-- **Usage** worn; **Bulk** —
+# Ring of Wizardry *Item 7+*
+
+[arcane](rules/traits/arcane.md) [divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [uncommon](rules/traits/uncommon.md)  
+
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This ring is made from the purest platinum and is covered in esoteric arcane symbols. It does nothing unless you have a spellcasting class feature with the arcane tradition. While wearing the ring of wizardry, you gain a +1 item bonus to [Arcana](compendium/skills.md#Arcana) checks and have two additional 1st-level arcane spell slots each day. You prepare spells in these slots or cast from them spontaneously, just as you normally cast your spells.

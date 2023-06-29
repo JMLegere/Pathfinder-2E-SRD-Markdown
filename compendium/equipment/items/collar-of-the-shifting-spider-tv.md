@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/alchemical
-aliases: ["Collar of the Shifting Spider"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/alchemical]
+aliases: [Collar of the Shifting Spider *Item 5*, "Collar of the Shifting Spider"]
+title: Collar of the Shifting Spider *Item 5*
+linter-yaml-title-alias: Collar of the Shifting Spider *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Collar of the Shifting Spider *Item 5*  
+
+# Collar of the Shifting Spider *Item 5*
+
 [alchemical](rules/traits/alchemical.md)  
 
 - **Price** 133 gp

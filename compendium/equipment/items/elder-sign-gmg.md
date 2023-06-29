@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/artifact
-- trait/abjuration
-- trait/artifact
-- trait/occult
-- trait/rare
-aliases: ["Elder Sign"]
+tags: [compendium/src/pf2e/gmg, item/category/artifact, trait/abjuration, trait/artifact, trait/occult, trait/rare]
+aliases: [Elder Sign *Item 25*, "Elder Sign"]
+title: Elder Sign *Item 25*
+linter-yaml-title-alias: Elder Sign *Item 25*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Elder Sign *Item 25*  
-[abjuration](rules/traits/abjuration.md)  [artifact](rules/traits/artifact-gmg.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+
+# Elder Sign *Item 25*
+
+[abjuration](rules/traits/abjuration.md) [artifact](rules/traits/artifact-gmg.md) [occult](rules/traits/occult.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in one hand; **Bulk** 1
 - **Category** Artifact

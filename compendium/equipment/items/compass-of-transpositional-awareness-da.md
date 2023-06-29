@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/held
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/rare
-- trait/teleportation
-aliases: ["Compass of Transpositional Awareness"]
+tags: [compendium/src/pf2e/da, item/category/held, trait/conjuration, trait/invested, trait/magical, trait/rare, trait/teleportation]
+aliases: [Compass of Transpositional Awareness *Item 10*, "Compass of Transpositional Awareness"]
+title: Compass of Transpositional Awareness *Item 10*
+linter-yaml-title-alias: Compass of Transpositional Awareness *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Compass of Transpositional Awareness *Item 10*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [teleportation](rules/traits/teleportation.md)  
+
+# Compass of Transpositional Awareness *Item 10*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [teleportation](rules/traits/teleportation.md)  
 
 - **Price** 950 gp
 - **Usage** held in 1 hand; **Bulk** L

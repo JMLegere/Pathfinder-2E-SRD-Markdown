@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/inhaled
-- trait/poison
-- trait/rare
-aliases: ["Honeyscent"]
+tags: [compendium/src/pf2e/lol, item/category/poison, trait/alchemical, trait/consumable, trait/inhaled, trait/poison, trait/rare]
+aliases: [Honeyscent *Item 10*, "Honeyscent"]
+title: Honeyscent *Item 10*
+linter-yaml-title-alias: Honeyscent *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Honeyscent *Item 10*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  [rare](rules/traits/rare.md)  
+
+# Honeyscent *Item 10*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [inhaled](rules/traits/inhaled.md) [poison](rules/traits/poison.md) [rare](rules/traits/rare.md)  
 
 - **Price** 180 gp
 - **Usage** held in 1 hand; **Bulk** L

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/evocation
-- trait/magical
-aliases: ["Gloom Blade"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/evocation, trait/magical]
+aliases: [Gloom Blade *Item 9*, "Gloom Blade"]
+title: Gloom Blade *Item 9*
+linter-yaml-title-alias: Gloom Blade *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Gloom Blade *Item 9*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Gloom Blade *Item 9*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 700 gp
 - **Usage** held in 1 hand; **Bulk** L

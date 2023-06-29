@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/worn
-- trait/alchemical
-- trait/rare
-aliases: ["Vestige Lenses"]
+tags: [compendium/src/pf2e/lol, item/category/worn, trait/alchemical, trait/rare]
+aliases: [Vestige Lenses *Item 3*, "Vestige Lenses"]
+title: Vestige Lenses *Item 3*
+linter-yaml-title-alias: Vestige Lenses *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Vestige Lenses *Item 3*  
-[alchemical](rules/traits/alchemical.md)  [rare](rules/traits/rare.md)  
+
+# Vestige Lenses *Item 3*
+
+[alchemical](rules/traits/alchemical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 40 gp
 - **Usage** worn eyepiece; **Bulk** L

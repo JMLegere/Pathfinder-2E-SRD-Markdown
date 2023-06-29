@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/injury
-- trait/mental
-- trait/poison
-aliases: ["Warpwobble Poison"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/injury, trait/mental, trait/poison]
+aliases: [Warpwobble Poison *Item 8*, "Warpwobble Poison"]
+title: Warpwobble Poison *Item 8*
+linter-yaml-title-alias: Warpwobble Poison *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Warpwobble Poison *Item 8*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [mental](rules/traits/mental.md)  [poison](rules/traits/poison.md)  
+
+# Warpwobble Poison *Item 8*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [injury](rules/traits/injury.md) [mental](rules/traits/mental.md) [poison](rules/traits/poison.md)  
 
 - **Price** 90 gp
 - **Usage** held in 2 hands; **Bulk** L

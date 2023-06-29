@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/rune
-- trait/conjuration
-- trait/magical
-aliases: ["Called"]
+tags: [compendium/src/pf2e/lokl, item/category/rune, trait/conjuration, trait/magical]
+aliases: [Called *Item 7*, "Called"]
+title: Called *Item 7*
+linter-yaml-title-alias: Called *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Called *Item 7*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  
+
+# Called *Item 7*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md)  
 
 - **Price** 350 gp
 - **Usage** etched onto a weapon

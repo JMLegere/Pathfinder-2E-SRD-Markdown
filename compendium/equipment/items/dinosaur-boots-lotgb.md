@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/worn
-- trait/invested
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Dinosaur Boots"]
+tags: [compendium/src/pf2e/lotgb, item/category/worn, trait/invested, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Dinosaur Boots *Item 10+*, "Dinosaur Boots"]
+title: Dinosaur Boots *Item 10+*
+linter-yaml-title-alias: Dinosaur Boots *Item 10+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Dinosaur Boots *Item 10+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Dinosaur Boots *Item 10+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** worn; **Bulk** 1
 - **Category** Worn

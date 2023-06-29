@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/magical
-- trait/necromancy
-- trait/staff
-aliases: ["Pirate Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/magical, trait/necromancy, trait/staff]
+aliases: [Pirate Staff *Item 12*, "Pirate Staff"]
+title: Pirate Staff *Item 12*
+linter-yaml-title-alias: Pirate Staff *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Pirate Staff *Item 12*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [staff](rules/traits/staff.md)  
+
+# Pirate Staff *Item 12*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [staff](rules/traits/staff.md)  
 
 - **Price** 2000 gp
 - **Usage** held in 1 hand; **Bulk** 1

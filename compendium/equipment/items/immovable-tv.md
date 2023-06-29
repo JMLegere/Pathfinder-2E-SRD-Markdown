@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Immovable"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Immovable *Item 12*, "Immovable"]
+title: Immovable *Item 12*
+linter-yaml-title-alias: Immovable *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Immovable *Item 12*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Immovable *Item 12*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1800 gp
 - **Usage** etched onto armor

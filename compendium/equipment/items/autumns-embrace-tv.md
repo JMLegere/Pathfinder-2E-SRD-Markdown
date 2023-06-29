@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/conjuration
-- trait/invested
-- trait/magical
-aliases: ["Autumn's Embrace"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/conjuration, trait/invested, trait/magical]
+aliases: ["Autumn's Embrace *Item 12*", "Autumn's Embrace"]
+title: "Autumn's Embrace *Item 12*"
+linter-yaml-title-alias: "Autumn's Embrace *Item 12*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Autumn's Embrace *Item 12*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Autumn's Embrace *Item 12*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 2000 gp
 - **Usage** worn armor; **Bulk** 1

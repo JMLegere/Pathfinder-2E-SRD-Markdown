@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/evocation
-- trait/magical
-- trait/rare
-aliases: ["Sky Hammer"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/evocation, trait/magical, trait/rare]
+aliases: [Sky Hammer *Item 20*, "Sky Hammer"]
+title: Sky Hammer *Item 20*
+linter-yaml-title-alias: Sky Hammer *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Sky Hammer *Item 20*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Sky Hammer *Item 20*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 70000 gp
 - **Usage** held in 1 hand; **Bulk** 1

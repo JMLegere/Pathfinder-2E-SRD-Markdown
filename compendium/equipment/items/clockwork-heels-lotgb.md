@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/worn
-- trait/clockwork
-- trait/rare
-aliases: ["Clockwork Heels"]
+tags: [compendium/src/pf2e/lotgb, item/category/worn, trait/clockwork, trait/rare]
+aliases: [Clockwork Heels *Item 7*, "Clockwork Heels"]
+title: Clockwork Heels *Item 7*
+linter-yaml-title-alias: Clockwork Heels *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Clockwork Heels *Item 7*  
-[rare](rules/traits/rare.md)  clockwork  
+
+# Clockwork Heels *Item 7*
+
+[rare](rules/traits/rare.md) clockwork  
 
 - **Price** 300 gp
 - **Usage** worn shoes; **Bulk** L

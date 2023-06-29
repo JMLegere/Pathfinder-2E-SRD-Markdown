@@ -1,22 +1,26 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av1
-- item/category/artifact
-- trait/artifact
-- trait/divination
-- trait/occult
-- trait/rare
-aliases: ["The Whispering Reeds"]
+tags: [compendium/src/pf2e/av1, item/category/artifact, trait/artifact, trait/divination, trait/occult, trait/rare]
+aliases: [The Whispering Reeds *Item 10*, "The Whispering Reeds"]
+title: The Whispering Reeds *Item 10*
+linter-yaml-title-alias: The Whispering Reeds *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# The Whispering Reeds *Item 10*  
-[artifact](rules/traits/artifact-gmg.md)  [divination](rules/traits/divination.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+
+# The Whispering Reeds *Item 10*
+
+[artifact](rules/traits/artifact-gmg.md) [divination](rules/traits/divination.md) [occult](rules/traits/occult.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 2 hands; **Bulk** 2
 - **Category** Artifact
 
-This hefty tome was compiled centuries ago by an anonymous author who sought to collect all parables, myths, stories, and encounters with the Outer Goddess [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md). According to the introduction, the author's original intent was to create a work that foes of the Empty Death could use to fight against her influence, but as one reads through the book, it becomes apparent that the opposite effect has been achieved—by compiling these stories, the author inadvertently generated a work that made it easier for [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md) to influence the world. Those who venerate the Empty Death seek copies of this book to use as a guide and religious text, while those who don't know better and peruse the book as though it were merely an anthology of stories find themselves unwittingly falling prey to [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md)'s cult or agents of the entity herself. Those who study from The Whispering Reeds for too long are often cursed to rise as ghosts after death— though their existence never lasts for long, as they are inevitably consumed by [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md).
+This hefty tome was compiled centuries ago by an anonymous author who sought to collect all parables, myths, stories, and encounters with the Outer Goddess [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md). According to the introduction, the author's original intent was to create a work that foes of the Empty Death could use to fight against her influence, but as one reads through the book, it becomes apparent that the opposite effect has been achieved—by compiling these stories, the author inadvertently generated a work that made it easier for [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md) to influence the world. Those who venerate the Empty Death seek copies of this book to use as a guide and religious text, while those who don't know better and peruse the book as though it were merely an anthology of stories find themselves unwittingly falling prey to [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md)'s cult or agents of the entity herself. Those who study from The Whispering Reeds for too long are often cursed to rise as ghosts after death—though their existence never lasts for long, as they are inevitably consumed by [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md).
 
 If a character understands the dangers of this book, however, moderated use can stall or even prevent such a fate from befalling them. If a character takes special care, they can even potentially use The Whispering Reeds for its original purpose—as a weapon against the cult of [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md). Using the text too often or leveraging some of its more powerful effects, however, causes the user to feel an ominous chill. In these cases, the user is exposed to the tome's curse, Empty Death (see below)
 

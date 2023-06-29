@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/locg
-- item/category/rune
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Serrating"]
+tags: [compendium/src/pf2e/locg, item/category/rune, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Serrating *Item 10*, "Serrating"]
+title: Serrating *Item 10*
+linter-yaml-title-alias: Serrating *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Serrating *Item 10*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Serrating *Item 10*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1000 gp
 - **Usage** etched onto a slashing melee weapon

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe4
-- item/category/poison
-- trait/consumable
-- trait/contact
-- trait/divine
-- trait/poison
-- trait/uncommon
-aliases: ["Fearweed"]
+tags: [compendium/src/pf2e/aoe4, item/category/poison, trait/consumable, trait/contact, trait/divine, trait/poison, trait/uncommon]
+aliases: [Fearweed *Item 10*, "Fearweed"]
+title: Fearweed *Item 10*
+linter-yaml-title-alias: Fearweed *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fearweed *Item 10*  
-[consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [divine](rules/traits/divine.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Fearweed *Item 10*
+
+[consumable](rules/traits/consumable.md) [contact](rules/traits/contact.md) [divine](rules/traits/divine.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 160 gp
 - **Usage** held in 2 hands; **Bulk** L

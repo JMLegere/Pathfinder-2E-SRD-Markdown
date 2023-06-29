@@ -1,27 +1,31 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tio
-- item/category/worn
-- trait/abjuration
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Sun Wheel"]
+tags: [compendium/src/pf2e/tio, item/category/worn, trait/abjuration, trait/invested, trait/magical, trait/rare]
+aliases: [Sun Wheel *Item 5*, "Sun Wheel"]
+title: Sun Wheel *Item 5*
+linter-yaml-title-alias: Sun Wheel *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Sun Wheel *Item 5*  
-[abjuration](rules/traits/abjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Sun Wheel *Item 5*
+
+[abjuration](rules/traits/abjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 150 gp
-- **Usage** worn; **Bulk** –
+- **Usage** worn; **Bulk**–
 - **Category** Worn
 
-Created by the priests of a Qadiran sect of [Sarenites](compendium/setting/deities/sarenrae.md), the _sun wheels_ were designed to protect the [Dawnflower](compendium/setting/deities/sarenrae.md)'s followers in their quest to hunt down a dangerous cult trying to raise a spawn of the evil god [Rovagug](compendium/setting/deities/rovagug.md). Once they completed their crusade, these priests disbanded and went on to minister other congregations. They each took their _sun wheels_ with them, handing them down to the next generations.
+Created by the priests of a Qadiran sect of [Sarenites](compendium/setting/deities/sarenrae.md), the *sun wheels* were designed to protect the [Dawnflower](compendium/setting/deities/sarenrae.md)'s followers in their quest to hunt down a dangerous cult trying to raise a spawn of the evil god [Rovagug](compendium/setting/deities/rovagug.md). Once they completed their crusade, these priests disbanded and went on to minister other congregations. They each took their *sun wheels* with them, handing them down to the next generations.
 
 This copper medallion is etched with a stylized sun, its rays shaped like the spokes of a wagon wheel. It tends to glint brightly when exposed to sunlight. While wearing this pendant, you gain a +1 item bonus to [Religion](compendium/skills.md#Religion) checks.
 
-You must be good-aligned to use the _sun wheel_'s true power: the following activation, which provides you a shield of burning force.
+You must be good-aligned to use the *sun wheel*'s true power: the following activation, which provides you a shield of burning force.
 
 ```ad-embed-ability
 title: Activate [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")

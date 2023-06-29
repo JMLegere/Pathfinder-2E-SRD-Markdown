@@ -1,18 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/evocation
-- trait/invested
-- trait/magical
-aliases: ["Doubling Rings"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/evocation, trait/invested, trait/magical]
+aliases: [Doubling Rings *Item 3+*, "Doubling Rings"]
+title: Doubling Rings *Item 3+*
+linter-yaml-title-alias: Doubling Rings *Item 3+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Doubling Rings *Item 3+*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
 
-- **Usage** worn; **Bulk** —
+# Doubling Rings *Item 3+*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
+
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This item consists of two magically linked rings: an intricate, gleaming golden ring with a square-cut ruby, and a thick, plain iron ring. When you wield a melee weapon in the hand wearing the golden ring, the weapon's fundamental runes are replicated onto any melee weapon you wield in the hand wearing the iron ring. (The fundamental runes are weapon potency and striking, which add an item bonus to attack rolls and extra weapon damage dice, respectively.) Any fundamental runes on the weapon in the hand wearing the iron ring are suppressed.

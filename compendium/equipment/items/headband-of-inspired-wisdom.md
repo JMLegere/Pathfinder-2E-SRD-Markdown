@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/apex
-- trait/abjuration
-- trait/apex
-- trait/invested
-- trait/magical
-aliases: ["Headband of Inspired Wisdom"]
+tags: [compendium/src/pf2e/crb, item/category/apex, trait/abjuration, trait/apex, trait/invested, trait/magical]
+aliases: [Headband of Inspired Wisdom *Item 17*, "Headband of Inspired Wisdom"]
+title: Headband of Inspired Wisdom *Item 17*
+linter-yaml-title-alias: Headband of Inspired Wisdom *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Headband of Inspired Wisdom *Item 17*  
-[abjuration](rules/traits/abjuration.md)  [apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Headband of Inspired Wisdom *Item 17*
+
+[abjuration](rules/traits/abjuration.md) [apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 15000 gp
-- **Usage** worn circlet; **Bulk** —
+- **Usage** worn circlet; **Bulk**—
 - **Category** Apex
 
 This simple cloth headband remains pristine and clean at all times, no matter the circumstances. When you invest the headband, you either increase your Wisdom score by 2 or increase it to 18, whichever would give you a higher score.

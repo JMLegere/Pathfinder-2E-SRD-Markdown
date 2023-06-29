@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/evocation
-- trait/fire
-- trait/magical
-aliases: ["Flame Tongue"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/evocation, trait/fire, trait/magical]
+aliases: [Flame Tongue *Item 13+*, "Flame Tongue"]
+title: Flame Tongue *Item 13+*
+linter-yaml-title-alias: Flame Tongue *Item 13+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Flame Tongue *Item 13+*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [magical](rules/traits/magical.md)  
+
+# Flame Tongue *Item 13+*
+
+[evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Weapon

@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/material
-- trait/precious
-aliases: ["Silver"]
+tags: [compendium/src/pf2e/crb, item/category/material, trait/precious]
+aliases: [Silver *Item 2+*, "Silver"]
+title: Silver *Item 2+*
+linter-yaml-title-alias: Silver *Item 2+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Silver *Item 2+*  
+
+# Silver *Item 2+*
+
 [precious](rules/traits/precious.md)  
 
 - **Category** Material
@@ -28,6 +35,5 @@ Silver weapons are a bane to creatures ranging from devils to werewolves. Silver
 | Low-grade | 10 | 40 | 20 |
 | Standard-grade | 14 | 56 | 28 |
 | High-grade | 20 | 80 | 40 |
-
 
 *Source: Core Rulebook p. 579*

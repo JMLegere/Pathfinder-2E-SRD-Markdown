@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/conjuration
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Cape of the Mountebank"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/conjuration, trait/invested, trait/magical, trait/uncommon]
+aliases: [Cape of the Mountebank *Item 10*, "Cape of the Mountebank"]
+title: Cape of the Mountebank *Item 10*
+linter-yaml-title-alias: Cape of the Mountebank *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Cape of the Mountebank *Item 10*  
-[conjuration](rules/traits/conjuration.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Cape of the Mountebank *Item 10*
+
+[conjuration](rules/traits/conjuration.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 980 gp
 - **Usage** worn cloak; **Bulk** L

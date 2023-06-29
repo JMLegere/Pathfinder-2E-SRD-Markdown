@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/auditory
-- trait/consumable
-- trait/linguistic
-aliases: ["Missive Mint"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/auditory, trait/consumable, trait/linguistic]
+aliases: [Missive Mint *Item 1*, "Missive Mint"]
+title: Missive Mint *Item 1*
+linter-yaml-title-alias: Missive Mint *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Missive Mint *Item 1*  
-[alchemical](rules/traits/alchemical.md)  [auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [linguistic](rules/traits/linguistic.md)  
+
+# Missive Mint *Item 1*
+
+[alchemical](rules/traits/alchemical.md) [auditory](rules/traits/auditory.md) [consumable](rules/traits/consumable.md) [linguistic](rules/traits/linguistic.md)  
 
 - **Price** 3 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

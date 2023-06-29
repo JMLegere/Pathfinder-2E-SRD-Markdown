@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/consumable
-- trait/conjuration
-- trait/consumable
-- trait/magical
-aliases: ["Antler Arrow"]
+tags: [compendium/src/pf2e/apg, item/category/consumable, trait/conjuration, trait/consumable, trait/magical]
+aliases: [Antler Arrow *Item 2*, "Antler Arrow"]
+title: Antler Arrow *Item 2*
+linter-yaml-title-alias: Antler Arrow *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Antler Arrow *Item 2*  
-[conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Antler Arrow *Item 2*
+
+[conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Price** 7 gp
 - **Ammunition** [arrow](compendium/equipment/items/arrow.md)

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/magical
-- trait/necromancy
-aliases: ["Preserving"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/magical, trait/necromancy]
+aliases: [Preserving *Item 3+*, "Preserving"]
+title: Preserving *Item 3+*
+linter-yaml-title-alias: Preserving *Item 3+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Preserving *Item 3+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Preserving *Item 3+*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Usage** applied to a basket, bag, or other container
 - **Category** Rune

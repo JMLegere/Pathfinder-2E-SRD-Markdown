@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/frp1
-- item/category/artifact
-- trait/artifact
-- trait/conjuration
-- trait/healing
-- trait/magical
-- trait/rare
-aliases: ["Phoenix Fighting Fan"]
+tags: [compendium/src/pf2e/frp1, item/category/artifact, trait/artifact, trait/conjuration, trait/healing, trait/magical, trait/rare]
+aliases: [Phoenix Fighting Fan *Item 20*, "Phoenix Fighting Fan"]
+title: Phoenix Fighting Fan *Item 20*
+linter-yaml-title-alias: Phoenix Fighting Fan *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Phoenix Fighting Fan *Item 20*  
-[artifact](rules/traits/artifact-gmg.md)  [conjuration](rules/traits/conjuration.md)  [healing](rules/traits/healing.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Phoenix Fighting Fan *Item 20*
+
+[artifact](rules/traits/artifact-gmg.md) [conjuration](rules/traits/conjuration.md) [healing](rules/traits/healing.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Artifact

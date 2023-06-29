@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Helmsman's Recourse"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/magical, trait/transmutation]
+aliases: ["Helmsman's Recourse *Item 5+*", "Helmsman's Recourse"]
+title: "Helmsman's Recourse *Item 5+*"
+linter-yaml-title-alias: "Helmsman's Recourse *Item 5+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Helmsman's Recourse *Item 5+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Helmsman's Recourse *Item 5+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lome
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/uncommon
-aliases: ["Genealogy Mask"]
+tags: [compendium/src/pf2e/lome, item/category/worn, trait/divination, trait/invested, trait/uncommon]
+aliases: [Genealogy Mask *Item 1*, "Genealogy Mask"]
+title: Genealogy Mask *Item 1*
+linter-yaml-title-alias: Genealogy Mask *Item 1*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Genealogy Mask *Item 1*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Genealogy Mask *Item 1*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Alijae ethnicity
 - **Price** 10 gp

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/other
-- trait/divination
-- trait/magical
-- trait/uncommon
-aliases: ["Society Portrait"]
+tags: [compendium/src/pf2e/da, item/category/other, trait/divination, trait/magical, trait/uncommon]
+aliases: [Society Portrait *Item 6*, "Society Portrait"]
+title: Society Portrait *Item 6*
+linter-yaml-title-alias: Society Portrait *Item 6*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Society Portrait *Item 6*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Society Portrait *Item 6*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Member of a secret society
 - **Price** 210 gp

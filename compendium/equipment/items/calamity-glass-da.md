@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/held
-- trait/cursed
-- trait/divination
-- trait/magical
-- trait/scrying
-aliases: ["Calamity Glass"]
+tags: [compendium/src/pf2e/da, item/category/held, trait/cursed, trait/divination, trait/magical, trait/scrying]
+aliases: [Calamity Glass *Item 11*, "Calamity Glass"]
+title: Calamity Glass *Item 11*
+linter-yaml-title-alias: Calamity Glass *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Calamity Glass *Item 11*  
-[cursed](rules/traits/cursed-gmg.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [scrying](rules/traits/scrying.md)  
+
+# Calamity Glass *Item 11*
+
+[cursed](rules/traits/cursed-gmg.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [scrying](rules/traits/scrying.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

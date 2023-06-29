@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/held
-- trait/abjuration
-- trait/divine
-- trait/intelligent
-- trait/lg
-- trait/rare
-aliases: ["Martyr's Shield"]
+tags: [compendium/src/pf2e/gmg, item/category/held, trait/abjuration, trait/divine, trait/intelligent, trait/lg, trait/rare]
+aliases: ["Martyr's Shield *Item 7*", "Martyr's Shield"]
+title: "Martyr's Shield *Item 7*"
+linter-yaml-title-alias: "Martyr's Shield *Item 7*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Martyr's Shield *Item 7*  
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [intelligent](rules/traits/intelligent-gmg.md)  [lg](rules/traits/lawful-goo-b1.md)  [rare](rules/traits/rare.md)  
+
+# Martyr's Shield *Item 7*
+
+[abjuration](rules/traits/abjuration.md) [divine](rules/traits/divine.md) [intelligent](rules/traits/intelligent-gmg.md) [lg](rules/traits/lawful-goo-b1.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/drug
-- trait/ingested
-- trait/inhaled
-- trait/poison
-- trait/uncommon
-aliases: ["Scour"]
+tags: [compendium/src/pf2e/gmg, item/category/poison, trait/alchemical, trait/consumable, trait/drug, trait/ingested, trait/inhaled, trait/poison, trait/uncommon]
+aliases: [Scour *Item 8*, "Scour"]
+title: Scour *Item 8*
+linter-yaml-title-alias: Scour *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Scour *Item 8*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [drug](rules/traits/drug-gmg.md)  [ingested](rules/traits/ingested.md)  [inhaled](rules/traits/inhaled.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Scour *Item 8*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [drug](rules/traits/drug-gmg.md) [ingested](rules/traits/ingested.md) [inhaled](rules/traits/inhaled.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 80 gp
 - **Usage** held in 1 hand; **Bulk** L

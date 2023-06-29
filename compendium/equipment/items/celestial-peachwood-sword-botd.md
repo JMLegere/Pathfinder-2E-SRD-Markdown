@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/botd
-- item/category/held
-- trait/good
-- trait/magical
-- trait/necromancy
-- trait/positive
-- trait/rare
-aliases: ["Celestial Peachwood Sword"]
+tags: [compendium/src/pf2e/botd, item/category/held, trait/good, trait/magical, trait/necromancy, trait/positive, trait/rare]
+aliases: [Celestial Peachwood Sword *Item 17*, "Celestial Peachwood Sword"]
+title: Celestial Peachwood Sword *Item 17*
+linter-yaml-title-alias: Celestial Peachwood Sword *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Celestial Peachwood Sword *Item 17*  
-[good](rules/traits/good.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [rare](rules/traits/rare.md)  
+
+# Celestial Peachwood Sword *Item 17*
+
+[good](rules/traits/good.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [positive](rules/traits/positive.md) [rare](rules/traits/rare.md)  
 
 - **Price** 15000 gp
 - **Usage** held in 1 hand; **Bulk** L

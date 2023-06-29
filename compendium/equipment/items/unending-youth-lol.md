@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/contract
-- trait/conjuration
-- trait/contract
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Unending Youth"]
+tags: [compendium/src/pf2e/lol, item/category/contract, trait/conjuration, trait/contract, trait/invested, trait/magical, trait/rare]
+aliases: [Unending Youth *Item 20*, "Unending Youth"]
+title: Unending Youth *Item 20*
+linter-yaml-title-alias: Unending Youth *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Unending Youth *Item 20*  
-[conjuration](rules/traits/conjuration.md)  [contract](rules/traits/contract-lol.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Unending Youth *Item 20*
+
+[conjuration](rules/traits/conjuration.md) [contract](rules/traits/contract-lol.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Category** Contract
 

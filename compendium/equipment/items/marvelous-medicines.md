@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/held
-- trait/magical
-- trait/necromancy
-aliases: ["Marvelous Medicines"]
+tags: [compendium/src/pf2e/crb, item/category/held, trait/magical, trait/necromancy]
+aliases: [Marvelous Medicines *Item 12+*, "Marvelous Medicines"]
+title: Marvelous Medicines *Item 12+*
+linter-yaml-title-alias: Marvelous Medicines *Item 12+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Marvelous Medicines *Item 12+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Marvelous Medicines *Item 12+*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Held

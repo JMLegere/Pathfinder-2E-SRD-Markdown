@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/held
-- trait/magical
-- trait/transmutation
-aliases: ["Medusa's Scream"]
+tags: [compendium/src/pf2e/apg, item/category/held, trait/magical, trait/transmutation]
+aliases: ["Medusa's Scream *Item 13+*", "Medusa's Scream"]
+title: "Medusa's Scream *Item 13+*"
+linter-yaml-title-alias: "Medusa's Scream *Item 13+*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Medusa's Scream *Item 13+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Medusa's Scream *Item 13+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

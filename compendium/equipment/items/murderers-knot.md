@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/talisman
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/talisman
-aliases: ["Murderer's Knot"]
+tags: [compendium/src/pf2e/crb, item/category/talisman, trait/consumable, trait/evocation, trait/magical, trait/talisman]
+aliases: ["Murderer's Knot *Item 7*", "Murderer's Knot"]
+title: "Murderer's Knot *Item 7*"
+linter-yaml-title-alias: "Murderer's Knot *Item 7*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Murderer's Knot *Item 7*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Murderer's Knot *Item 7*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 66 gp
-- **Usage** affixed to a weapon; **Bulk** —
+- **Usage** affixed to a weapon; **Bulk**—
 - **Activate** command; **Trigger** You damage a [flat-footed](rules/conditions.md#Flat-footed) creature with a [Strike](rules/actions/strike.md) using the affixed weapon; **Requirements** You are an expert with the affixed weapon.
 - **Category** Talisman
 

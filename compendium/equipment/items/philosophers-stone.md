@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/tool
-- trait/alchemical
-- trait/consumable
-- trait/uncommon
-aliases: ["Philosopher's Stone"]
+tags: [compendium/src/pf2e/crb, item/category/tool, trait/alchemical, trait/consumable, trait/uncommon]
+aliases: ["Philosopher's Stone *Item 20*", "Philosopher's Stone"]
+title: "Philosopher's Stone *Item 20*"
+linter-yaml-title-alias: "Philosopher's Stone *Item 20*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Philosopher's Stone *Item 20*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Philosopher's Stone *Item 20*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** null null
 - **Usage** held in 2 hands; **Bulk** 2

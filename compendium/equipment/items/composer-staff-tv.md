@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/enchantment
-- trait/magical
-- trait/staff
-aliases: ["Composer Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/enchantment, trait/magical, trait/staff]
+aliases: [Composer Staff *Item 4+*, "Composer Staff"]
+title: Composer Staff *Item 4+*
+linter-yaml-title-alias: Composer Staff *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Composer Staff *Item 4+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  
+
+# Composer Staff *Item 4+*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

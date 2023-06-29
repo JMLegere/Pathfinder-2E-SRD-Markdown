@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot1
-- item/category/held
-- trait/auditory
-- trait/magical
-- trait/uncommon
-aliases: ["Rhythm Bone"]
+tags: [compendium/src/pf2e/sot1, item/category/held, trait/auditory, trait/magical, trait/uncommon]
+aliases: [Rhythm Bone *Item 1*, "Rhythm Bone"]
+title: Rhythm Bone *Item 1*
+linter-yaml-title-alias: Rhythm Bone *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Rhythm Bone *Item 1*  
-[auditory](rules/traits/auditory.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Rhythm Bone *Item 1*
+
+[auditory](rules/traits/auditory.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Held

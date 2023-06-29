@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/cursed
-- trait/evocation
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Crushing Coils"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/cursed, trait/evocation, trait/invested, trait/magical, trait/rare]
+aliases: [Crushing Coils *Item 5*, "Crushing Coils"]
+title: Crushing Coils *Item 5*
+linter-yaml-title-alias: Crushing Coils *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Crushing Coils *Item 5*  
-[cursed](rules/traits/cursed-gmg.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Crushing Coils *Item 5*
+
+[cursed](rules/traits/cursed-gmg.md) [evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** worn armor; **Bulk** 1
 - **Category** Armor

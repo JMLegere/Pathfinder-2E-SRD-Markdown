@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec5
-- item/category/companion
-- trait/companion
-- trait/invested
-- trait/magical
-- trait/uncommon
-aliases: ["Bomber's Saddle"]
+tags: [compendium/src/pf2e/ec5, item/category/companion, trait/companion, trait/invested, trait/magical, trait/uncommon]
+aliases: ["Bomber's Saddle *Item 13*", "Bomber's Saddle"]
+title: "Bomber's Saddle *Item 13*"
+linter-yaml-title-alias: "Bomber's Saddle *Item 13*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bomber's Saddle *Item 13*  
-[companion](rules/traits/companion.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Bomber's Saddle *Item 13*
+
+[companion](rules/traits/companion.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 2800 gp
 - **Usage** worn saddle; **Bulk** 2

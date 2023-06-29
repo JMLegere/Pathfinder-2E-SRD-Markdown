@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Arachnid Harness"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/invested, trait/magical, trait/transmutation]
+aliases: [Arachnid Harness *Item 7+*, "Arachnid Harness"]
+title: Arachnid Harness *Item 7+*
+linter-yaml-title-alias: Arachnid Harness *Item 7+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Arachnid Harness *Item 7+*  
-[invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Arachnid Harness *Item 7+*
+
+[invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn armor; **Bulk** 1
 - **Category** Armor

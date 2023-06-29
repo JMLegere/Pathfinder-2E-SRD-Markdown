@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/other
-- trait/conjuration
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Palanquin of Night"]
+tags: [compendium/src/pf2e/loil, item/category/other, trait/conjuration, trait/magical, trait/structure, trait/uncommon]
+aliases: [Palanquin of Night *Item 10*, "Palanquin of Night"]
+title: Palanquin of Night *Item 10*
+linter-yaml-title-alias: Palanquin of Night *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Palanquin of Night *Item 10*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Palanquin of Night *Item 10*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 825 gp
 - **Bulk** L (when not activated)

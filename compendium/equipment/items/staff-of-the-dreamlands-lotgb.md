@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/staff
-- trait/enchantment
-- trait/magical
-- trait/staff
-- trait/uncommon
-aliases: ["Staff Of The Dreamlands"]
+tags: [compendium/src/pf2e/lotgb, item/category/staff, trait/enchantment, trait/magical, trait/staff, trait/uncommon]
+aliases: [Staff Of The Dreamlands *Item 6+*, "Staff Of The Dreamlands"]
+title: Staff Of The Dreamlands *Item 6+*
+linter-yaml-title-alias: Staff Of The Dreamlands *Item 6+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Staff Of The Dreamlands *Item 6+*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Staff Of The Dreamlands *Item 6+*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff

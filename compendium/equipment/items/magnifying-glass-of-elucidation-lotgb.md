@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/divination
-- trait/magical
-- trait/uncommon
-aliases: ["Magnifying Glass Of Elucidation"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/divination, trait/magical, trait/uncommon]
+aliases: [Magnifying Glass Of Elucidation *Item 5*, "Magnifying Glass Of Elucidation"]
+title: Magnifying Glass Of Elucidation *Item 5*
+linter-yaml-title-alias: Magnifying Glass Of Elucidation *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Magnifying Glass Of Elucidation *Item 5*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Magnifying Glass Of Elucidation *Item 5*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 125 gp
 - **Usage** held in 1 hand

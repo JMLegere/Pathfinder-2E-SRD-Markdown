@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/ingested
-- trait/mental
-- trait/poison
-aliases: ["Careless Delight"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/ingested, trait/mental, trait/poison]
+aliases: [Careless Delight *Item 9*, "Careless Delight"]
+title: Careless Delight *Item 9*
+linter-yaml-title-alias: Careless Delight *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Careless Delight *Item 9*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [ingested](rules/traits/ingested.md)  [mental](rules/traits/mental.md)  [poison](rules/traits/poison.md)  
+
+# Careless Delight *Item 9*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [ingested](rules/traits/ingested.md) [mental](rules/traits/mental.md) [poison](rules/traits/poison.md)  
 
 - **Price** 130 gp
 - **Usage** held in 1 hand; **Bulk** L

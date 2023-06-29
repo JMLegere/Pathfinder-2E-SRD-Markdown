@@ -1,22 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/cursed
-- trait/enchantment
-- trait/intelligent
-- trait/magical
-- trait/rare
-aliases: ["Heckling Tools"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/cursed, trait/enchantment, trait/intelligent, trait/magical, trait/rare]
+aliases: [Heckling Tools *Item 3*, "Heckling Tools"]
+title: Heckling Tools *Item 3*
+linter-yaml-title-alias: Heckling Tools *Item 3*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Heckling Tools *Item 3*  
-[cursed](rules/traits/cursed-gmg.md)  [enchantment](rules/traits/enchantment.md)  [intelligent](rules/traits/intelligent-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Heckling Tools *Item 3*
+
+[cursed](rules/traits/cursed-gmg.md) [enchantment](rules/traits/enchantment.md) [intelligent](rules/traits/intelligent-gmg.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 2 hands; **Bulk** as tools of the normal type
 - **Category** Held
 
-Tools that are severely misused or left in malevolent circumstances can develop malicious sapience, dedicated to critiquing those who use them. Such heckling tools are often born from implements useful to adventurers because such people are the likely to misuse tools or leave them in a corrupting situation. When you first set to using the tools, they fuse to you. Used for their intended purpose, the tools telepathically badger and disparage you, mocking your abilities and giving you ill-founded advice. You must succeed at a DC 19 Will save to realize this badgering comes from the tools and not your own negative thoughts. Instead of the tool's usual bonus, you take a –2 circumstance penalty to checks made using heckling tools. Once you realize the tools are cursed, you can suppress their [negative](rules/traits/negative.md) effects, gaining their typical bonus for 24 hours if you succeed at a DC 17 [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy) check to placate them, often by offering obsequious, public admiration.
+Tools that are severely misused or left in malevolent circumstances can develop malicious sapience, dedicated to critiquing those who use them. Such heckling tools are often born from implements useful to adventurers because such people are the likely to misuse tools or leave them in a corrupting situation. When you first set to using the tools, they fuse to you. Used for their intended purpose, the tools telepathically badger and disparage you, mocking your abilities and giving you ill-founded advice. You must succeed at a DC 19 Will save to realize this badgering comes from the tools and not your own negative thoughts. Instead of the tool's usual bonus, you take a–2 circumstance penalty to checks made using heckling tools. Once you realize the tools are cursed, you can suppress their [negative](rules/traits/negative.md) effects, gaining their typical bonus for 24 hours if you succeed at a DC 17 [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy) check to placate them, often by offering obsequious, public admiration.
 
 *Source: Treasure Vault p. 192*

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/enchantment
-- trait/magical
-- trait/mental
-- trait/sleep
-- trait/wand
-aliases: ["Wand of Tormented Slumber"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/enchantment, trait/magical, trait/mental, trait/sleep, trait/wand]
+aliases: [Wand of Tormented Slumber *Item 10*, "Wand of Tormented Slumber"]
+title: Wand of Tormented Slumber *Item 10*
+linter-yaml-title-alias: Wand of Tormented Slumber *Item 10*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Wand of Tormented Slumber *Item 10*  
-[enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [sleep](rules/traits/sleep.md)  [wand](rules/traits/wand.md)  
+
+# Wand of Tormented Slumber *Item 10*
+
+[enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [sleep](rules/traits/sleep.md) [wand](rules/traits/wand.md)  
 
 - **Price** 1000 gp
 - **Usage** held in 1 hand; **Bulk** L

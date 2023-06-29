@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/uncommon
-aliases: ["Fire And Iceberg"]
+tags: [compendium/src/pf2e/lotgb, item/category/consumable, trait/alchemical, trait/consumable, trait/uncommon]
+aliases: [Fire And Iceberg *Item 7+*, "Fire And Iceberg"]
+title: Fire And Iceberg *Item 7+*
+linter-yaml-title-alias: Fire And Iceberg *Item 7+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Fire And Iceberg *Item 7+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Fire And Iceberg *Item 7+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

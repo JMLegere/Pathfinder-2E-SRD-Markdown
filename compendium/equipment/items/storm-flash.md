@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/weapon
-- trait/electricity
-- trait/evocation
-- trait/magical
-aliases: ["Storm Flash"]
+tags: [compendium/src/pf2e/crb, item/category/weapon, trait/electricity, trait/evocation, trait/magical]
+aliases: [Storm Flash *Item 14+*, "Storm Flash"]
+title: Storm Flash *Item 14+*
+linter-yaml-title-alias: Storm Flash *Item 14+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Storm Flash *Item 14+*  
-[electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Storm Flash *Item 14+*
+
+[electricity](rules/traits/electricity.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Weapon

@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/wheelchair-upgrade
-aliases: ["Chair Storage"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/wheelchair-upgrade]
+aliases: [Chair Storage *Item 0*, "Chair Storage"]
+title: Chair Storage *Item 0*
+linter-yaml-title-alias: Chair Storage *Item 0*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Chair Storage *Item 0*  
+
+# Chair Storage *Item 0*
 
 - **Price** 1 gp
 - **Category** Wheelchair Upgrade

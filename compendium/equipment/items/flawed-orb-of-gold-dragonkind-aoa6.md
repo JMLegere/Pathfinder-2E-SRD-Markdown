@@ -1,24 +1,28 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa6
-- item/category/artifact
-- trait/artifact
-- trait/enchantment
-- trait/magical
-- trait/unique
-aliases: ["Flawed Orb Of Gold Dragonkind"]
+tags: [compendium/src/pf2e/aoa6, item/category/artifact, trait/artifact, trait/enchantment, trait/magical, trait/unique]
+aliases: [Flawed Orb Of Gold Dragonkind *Item 25*, "Flawed Orb Of Gold Dragonkind"]
+title: Flawed Orb Of Gold Dragonkind *Item 25*
+linter-yaml-title-alias: Flawed Orb Of Gold Dragonkind *Item 25*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:58 pm
 ---
-# Flawed Orb Of Gold Dragonkind *Item 25*  
-[artifact](rules/traits/artifact-gmg.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [unique](rules/traits/unique.md)  
+
+# Flawed Orb Of Gold Dragonkind *Item 25*
+
+[artifact](rules/traits/artifact-gmg.md) [enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Artifact
 
-Each of the legendary _Orbs of Dragonkind_ contains the essence and personality of a powerful dragon. The _Orb of Gold Dragonkind_ was the most powerful of them all, until it was shattered by Mengkare's draconic breath. Reconstructed at great expense by enslaved spellcasters toiling under the Scarlet Triad's watch, the _Flawed Orb of Gold Dragonkind_ is a shadow of its prior self, yet it remains a potent weapon against dragons of all types.
+Each of the legendary *Orbs of Dragonkind* contains the essence and personality of a powerful dragon. The *Orb of Gold Dragonkind* was the most powerful of them all, until it was shattered by Mengkare's draconic breath. Reconstructed at great expense by enslaved spellcasters toiling under the Scarlet Triad's watch, the *Flawed Orb of Gold Dragonkind* is a shadow of its prior self, yet it remains a potent weapon against dragons of all types.
 
-While carried, the _Flawed Orb of Gold Dragonkind_ grants its owner resistance 30 to the Breath Weapons of gold dragons. The owner also can sense if there are any dragons within 10 miles, or any gold dragons within 100 miles. When within 1 mile of a dragon, they can determine the direction to the dragon and the dragon's age category (such as young, ancient, or wyrm).
+While carried, the *Flawed Orb of Gold Dragonkind* grants its owner resistance 30 to the Breath Weapons of gold dragons. The owner also can sense if there are any dragons within 10 miles, or any gold dragons within 100 miles. When within 1 mile of a dragon, they can determine the direction to the dragon and the dragon's age category (such as young, ancient, or wyrm).
 
 ```ad-embed-ability
 title: Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

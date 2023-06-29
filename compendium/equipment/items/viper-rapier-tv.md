@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/apex
-- trait/apex
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Viper Rapier"]
+tags: [compendium/src/pf2e/tv, item/category/apex, trait/apex, trait/invested, trait/magical, trait/transmutation]
+aliases: [Viper Rapier *Item 20*, "Viper Rapier"]
+title: Viper Rapier *Item 20*
+linter-yaml-title-alias: Viper Rapier *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Viper Rapier *Item 20*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Viper Rapier *Item 20*
+
+[apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 70000 gp
 - **Usage** held in 1 hand; **Bulk** 1

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/structure
-- trait/conjuration
-- trait/magical
-- trait/structure
-- trait/uncommon
-aliases: ["Campaign Stable"]
+tags: [compendium/src/pf2e/lokl, item/category/structure, trait/conjuration, trait/magical, trait/structure, trait/uncommon]
+aliases: [Campaign Stable *Item 8*, "Campaign Stable"]
+title: Campaign Stable *Item 8*
+linter-yaml-title-alias: Campaign Stable *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Campaign Stable *Item 8*  
-[conjuration](rules/traits/conjuration.md)  [magical](rules/traits/magical.md)  [structure](rules/traits/structure.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Campaign Stable *Item 8*
+
+[conjuration](rules/traits/conjuration.md) [magical](rules/traits/magical.md) [structure](rules/traits/structure.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 500 gp

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/worn
-- trait/auditory
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/negative
-aliases: ["Mask Of The Banshee"]
+tags: [compendium/src/pf2e/apg, item/category/worn, trait/auditory, trait/invested, trait/magical, trait/necromancy, trait/negative]
+aliases: [Mask Of The Banshee *Item 9+*, "Mask Of The Banshee"]
+title: Mask Of The Banshee *Item 9+*
+linter-yaml-title-alias: Mask Of The Banshee *Item 9+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:37 pm
 ---
-# Mask Of The Banshee *Item 9+*  
-[auditory](rules/traits/auditory.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+
+# Mask Of The Banshee *Item 9+*
+
+[auditory](rules/traits/auditory.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md)  
 
 - **Usage** worn mask
 - **Category** Worn

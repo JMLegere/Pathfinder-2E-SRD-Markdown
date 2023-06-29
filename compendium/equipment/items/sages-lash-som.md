@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/apex
-- trait/apex
-- trait/invested
-- trait/magical
-- trait/necromancy
-aliases: ["Sage's Lash"]
+tags: [compendium/src/pf2e/som, item/category/apex, trait/apex, trait/invested, trait/magical, trait/necromancy]
+aliases: ["Sage's Lash *Item 18*", "Sage's Lash"]
+title: "Sage's Lash *Item 18*"
+linter-yaml-title-alias: "Sage's Lash *Item 18*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Sage's Lash *Item 18*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  
+
+# Sage's Lash *Item 18*
+
+[apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md)  
 
 - **Price** 24000 gp
 - **Usage** worn belt

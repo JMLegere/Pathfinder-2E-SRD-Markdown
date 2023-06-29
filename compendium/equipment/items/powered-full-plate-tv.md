@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/alchemical
-- trait/rare
-aliases: ["Powered Full Plate"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/alchemical, trait/rare]
+aliases: [Powered Full Plate *Item 7*, "Powered Full Plate"]
+title: Powered Full Plate *Item 7*
+linter-yaml-title-alias: Powered Full Plate *Item 7*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Powered Full Plate *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [rare](rules/traits/rare.md)  
+
+# Powered Full Plate *Item 7*
+
+[alchemical](rules/traits/alchemical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 360 gp
 - **Usage** worn armor; **Bulk** 4

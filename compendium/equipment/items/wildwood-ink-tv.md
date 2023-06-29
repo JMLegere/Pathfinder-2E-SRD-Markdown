@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/invested
-- trait/primal
-- trait/tattoo
-- trait/transmutation
-aliases: ["Wildwood Ink"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/invested, trait/primal, trait/tattoo, trait/transmutation]
+aliases: [Wildwood Ink *Item 4+*, "Wildwood Ink"]
+title: Wildwood Ink *Item 4+*
+linter-yaml-title-alias: Wildwood Ink *Item 4+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Wildwood Ink *Item 4+*  
-[invested](rules/traits/invested.md)  [primal](rules/traits/primal.md)  [tattoo](rules/traits/tattoo-lowg.md)  [transmutation](rules/traits/transmutation.md)  
 
-- **Usage** tattooed on the body; **Bulk** —
+# Wildwood Ink *Item 4+*
+
+[invested](rules/traits/invested.md) [primal](rules/traits/primal.md) [tattoo](rules/traits/tattoo-lowg.md) [transmutation](rules/traits/transmutation.md)  
+
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 These curving, delicate designs resemble leaves, vines, or creepers, most often wrapped around a limb, ear, or throat, or curled around specific muscles. They help you blend in among plants. You gain a +1 item bonus to [Stealth](compendium/skills.md#Stealth) checks, which increases to +2 in forests.

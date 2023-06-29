@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/air
-- trait/conjuration
-- trait/consumable
-- trait/cursed
-- trait/magical
-- trait/rare
-aliases: ["Draconic Toxin Bottle"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/air, trait/conjuration, trait/consumable, trait/cursed, trait/magical, trait/rare]
+aliases: [Draconic Toxin Bottle *Item 7*, "Draconic Toxin Bottle"]
+title: Draconic Toxin Bottle *Item 7*
+linter-yaml-title-alias: Draconic Toxin Bottle *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Draconic Toxin Bottle *Item 7*  
-[air](rules/traits/air.md)  [conjuration](rules/traits/conjuration.md)  [consumable](rules/traits/consumable.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Draconic Toxin Bottle *Item 7*
+
+[air](rules/traits/air.md) [conjuration](rules/traits/conjuration.md) [consumable](rules/traits/consumable.md) [cursed](rules/traits/cursed-gmg.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Consumable

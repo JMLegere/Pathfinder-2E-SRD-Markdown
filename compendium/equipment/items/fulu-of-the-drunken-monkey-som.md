@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/consumable
-- trait/abjuration
-- trait/consumable
-- trait/fulu
-- trait/magical
-- trait/talisman
-aliases: ["Fulu Of The Drunken Monkey"]
+tags: [compendium/src/pf2e/som, item/category/consumable, trait/abjuration, trait/consumable, trait/fulu, trait/magical, trait/talisman]
+aliases: [Fulu Of The Drunken Monkey *Item 5*, "Fulu Of The Drunken Monkey"]
+title: Fulu Of The Drunken Monkey *Item 5*
+linter-yaml-title-alias: Fulu Of The Drunken Monkey *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Fulu Of The Drunken Monkey *Item 5*  
-[abjuration](rules/traits/abjuration.md)  [consumable](rules/traits/consumable.md)  [fulu](rules/traits/fulu-som.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Fulu Of The Drunken Monkey *Item 5*
+
+[abjuration](rules/traits/abjuration.md) [consumable](rules/traits/consumable.md) [fulu](rules/traits/fulu-som.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 25 gp
 - **Usage** affixed to armor

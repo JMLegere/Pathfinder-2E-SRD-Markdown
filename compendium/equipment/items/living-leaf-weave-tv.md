@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/armor
-- trait/alchemical
-- trait/healing
-- trait/plant
-aliases: ["Living Leaf Weave"]
+tags: [compendium/src/pf2e/tv, item/category/armor, trait/alchemical, trait/healing, trait/plant]
+aliases: [Living Leaf Weave *Item 5*, "Living Leaf Weave"]
+title: Living Leaf Weave *Item 5*
+linter-yaml-title-alias: Living Leaf Weave *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Living Leaf Weave *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [healing](rules/traits/healing.md)  [plant](rules/traits/plant.md)  
+
+# Living Leaf Weave *Item 5*
+
+[alchemical](rules/traits/alchemical.md) [healing](rules/traits/healing.md) [plant](rules/traits/plant.md)  
 
 - **Price** 160 gp
 - **Usage** worn armor; **Bulk** 1

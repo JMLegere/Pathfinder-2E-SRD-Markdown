@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/adventuring-gear
-- trait/alchemical
-aliases: ["Alchemical Gauntlet"]
+tags: [compendium/src/pf2e/tv, item/category/adventuring-gear, trait/alchemical]
+aliases: [Alchemical Gauntlet *Item 1*, "Alchemical Gauntlet"]
+title: Alchemical Gauntlet *Item 1*
+linter-yaml-title-alias: Alchemical Gauntlet *Item 1*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:08 pm
 ---
-# Alchemical Gauntlet *Item 1*  
+
+# Alchemical Gauntlet *Item 1*
+
 [alchemical](rules/traits/alchemical.md)  
 
 - **Price** 10 gp

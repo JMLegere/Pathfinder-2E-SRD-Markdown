@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/consumable
-- trait/air
-- trait/consumable
-- trait/electricity
-- trait/evocation
-- trait/magical
-- trait/uncommon
-aliases: ["Sky Serpent Bolt"]
+tags: [compendium/src/pf2e/lotgb, item/category/consumable, trait/air, trait/consumable, trait/electricity, trait/evocation, trait/magical, trait/uncommon]
+aliases: [Sky Serpent Bolt *Item 5*, "Sky Serpent Bolt"]
+title: Sky Serpent Bolt *Item 5*
+linter-yaml-title-alias: Sky Serpent Bolt *Item 5*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Sky Serpent Bolt *Item 5*  
-[air](rules/traits/air.md)  [consumable](rules/traits/consumable.md)  [electricity](rules/traits/electricity.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Sky Serpent Bolt *Item 5*
+
+[air](rules/traits/air.md) [consumable](rules/traits/consumable.md) [electricity](rules/traits/electricity.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 25 gp
 - **Ammunition** [bolt](compendium/equipment/items/bolt.md)

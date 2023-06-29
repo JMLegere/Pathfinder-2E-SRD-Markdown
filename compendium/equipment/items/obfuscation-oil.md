@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/oil
-- trait/consumable
-- trait/illusion
-- trait/magical
-- trait/oil
-aliases: ["Obfuscation Oil"]
+tags: [compendium/src/pf2e/crb, item/category/oil, trait/consumable, trait/illusion, trait/magical, trait/oil]
+aliases: [Obfuscation Oil *Item 15*, "Obfuscation Oil"]
+title: Obfuscation Oil *Item 15*
+linter-yaml-title-alias: Obfuscation Oil *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Obfuscation Oil *Item 15*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [oil](rules/traits/oil.md)  
+
+# Obfuscation Oil *Item 15*
+
+[consumable](rules/traits/consumable.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [oil](rules/traits/oil.md)  
 
 - **Price** 1200 gp
 - **Usage** held in 2 hands; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/abjuration
-- trait/divine
-- trait/focused
-- trait/invested
-aliases: ["Bracers of Devotion"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/abjuration, trait/divine, trait/focused, trait/invested]
+aliases: [Bracers of Devotion *Item 11*, "Bracers of Devotion"]
+title: Bracers of Devotion *Item 11*
+linter-yaml-title-alias: Bracers of Devotion *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bracers of Devotion *Item 11*  
-[abjuration](rules/traits/abjuration.md)  [divine](rules/traits/divine.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  
+
+# Bracers of Devotion *Item 11*
+
+[abjuration](rules/traits/abjuration.md) [divine](rules/traits/divine.md) [focused](rules/traits/focused.md) [invested](rules/traits/invested.md)  
 
 - **Price** 1400 gp
 - **Usage** worn bracers; **Bulk** L

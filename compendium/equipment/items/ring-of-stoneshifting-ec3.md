@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec3
-- item/category/worn
-- trait/conjuration
-- trait/earth
-- trait/invested
-- trait/magical
-- trait/teleportation
-- trait/uncommon
-aliases: ["Ring Of Stoneshifting"]
+tags: [compendium/src/pf2e/ec3, item/category/worn, trait/conjuration, trait/earth, trait/invested, trait/magical, trait/teleportation, trait/uncommon]
+aliases: [Ring Of Stoneshifting *Item 12*, "Ring Of Stoneshifting"]
+title: Ring Of Stoneshifting *Item 12*
+linter-yaml-title-alias: Ring Of Stoneshifting *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Ring Of Stoneshifting *Item 12*  
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [teleportation](rules/traits/teleportation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Ring Of Stoneshifting *Item 12*
+
+[conjuration](rules/traits/conjuration.md) [earth](rules/traits/earth.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [teleportation](rules/traits/teleportation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1800 gp
 - **Usage** worn; **Bulk** L

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe6
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Ring Of Recalcitrant Wishes"]
+tags: [compendium/src/pf2e/aoe6, item/category/worn, trait/divination, trait/invested, trait/magical, trait/rare]
+aliases: [Ring Of Recalcitrant Wishes *Item 20*, "Ring Of Recalcitrant Wishes"]
+title: Ring Of Recalcitrant Wishes *Item 20*
+linter-yaml-title-alias: Ring Of Recalcitrant Wishes *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Ring Of Recalcitrant Wishes *Item 20*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Ring Of Recalcitrant Wishes *Item 20*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 10000 gp
 - **Usage** worn

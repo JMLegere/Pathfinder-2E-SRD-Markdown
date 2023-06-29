@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/talisman
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/talisman
-aliases: ["Grudgestone"]
+tags: [compendium/src/pf2e/tv, item/category/talisman, trait/consumable, trait/evocation, trait/magical, trait/talisman]
+aliases: [Grudgestone *Item 7+*, "Grudgestone"]
+title: Grudgestone *Item 7+*
+linter-yaml-title-alias: Grudgestone *Item 7+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:55 pm
 ---
-# Grudgestone *Item 7+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
 
-- **Usage** affixed to a weapon; **Bulk** —
+# Grudgestone *Item 7+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
+
+- **Usage** affixed to a weapon; **Bulk**—
 - **Activate** envision; **Trigger** A creature critically hits you.
 - **Category** Talisman
 

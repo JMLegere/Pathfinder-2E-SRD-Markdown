@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/potion
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/potion
-aliases: ["Potion Of Retaliation"]
+tags: [compendium/src/pf2e/apg, item/category/potion, trait/consumable, trait/evocation, trait/magical, trait/potion]
+aliases: [Potion Of Retaliation *Item 1+*, "Potion Of Retaliation"]
+title: Potion Of Retaliation *Item 1+*
+linter-yaml-title-alias: Potion Of Retaliation *Item 1+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Potion Of Retaliation *Item 1+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+
+# Potion Of Retaliation *Item 1+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

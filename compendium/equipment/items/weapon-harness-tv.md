@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/adjustment
-- trait/adjustment
-- trait/uncommon
-aliases: ["Weapon Harness"]
+tags: [compendium/src/pf2e/tv, item/category/adjustment, trait/adjustment, trait/uncommon]
+aliases: [Weapon Harness *Item 1*, "Weapon Harness"]
+title: Weapon Harness *Item 1*
+linter-yaml-title-alias: Weapon Harness *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Weapon Harness *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Weapon Harness *Item 1*
+
+[adjustment](rules/traits/adjustment-lotgb.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 6 gp
 - **Usage** applied to armor; **Bulk** L

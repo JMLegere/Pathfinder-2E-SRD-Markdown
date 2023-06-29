@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/ec4
-- item/category/held
-- trait/conjuration
-- trait/earth
-- trait/magical
-- trait/uncommon
-aliases: ["Stoneraiser Javelin"]
+tags: [compendium/src/pf2e/ec4, item/category/held, trait/conjuration, trait/earth, trait/magical, trait/uncommon]
+aliases: [Stoneraiser Javelin *Item 11*, "Stoneraiser Javelin"]
+title: Stoneraiser Javelin *Item 11*
+linter-yaml-title-alias: Stoneraiser Javelin *Item 11*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:27 pm
 ---
-# Stoneraiser Javelin *Item 11*  
-[conjuration](rules/traits/conjuration.md)  [earth](rules/traits/earth.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Stoneraiser Javelin *Item 11*
+
+[conjuration](rules/traits/conjuration.md) [earth](rules/traits/earth.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 1200 gp
 - **Usage** held in 1 hand; **Bulk** L

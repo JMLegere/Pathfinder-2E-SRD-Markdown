@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/cursed
-- trait/divination
-- trait/magical
-- trait/rare
-- trait/scrying
-aliases: ["Tattletale Orb"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/cursed, trait/divination, trait/magical, trait/rare, trait/scrying]
+aliases: [Tattletale Orb *Item 14+*, "Tattletale Orb"]
+title: Tattletale Orb *Item 14+*
+linter-yaml-title-alias: Tattletale Orb *Item 14+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Tattletale Orb *Item 14+*  
-[cursed](rules/traits/cursed-gmg.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [scrying](rules/traits/scrying.md)  
+
+# Tattletale Orb *Item 14+*
+
+[cursed](rules/traits/cursed-gmg.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [scrying](rules/traits/scrying.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

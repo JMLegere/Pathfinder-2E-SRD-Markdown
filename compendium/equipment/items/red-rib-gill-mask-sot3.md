@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot3
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/rare
-aliases: ["Red-Rib Gill Mask"]
+tags: [compendium/src/pf2e/sot3, item/category/consumable, trait/alchemical, trait/consumable, trait/rare]
+aliases: [Red-Rib Gill Mask *Item 2+*, "Red-Rib Gill Mask"]
+title: Red-Rib Gill Mask *Item 2+*
+linter-yaml-title-alias: Red-Rib Gill Mask *Item 2+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:32 pm
 ---
-# Red-Rib Gill Mask *Item 2+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [rare](rules/traits/rare.md)  
+
+# Red-Rib Gill Mask *Item 2+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [rare](rules/traits/rare.md)  
 
 - **Usage** worn mask; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

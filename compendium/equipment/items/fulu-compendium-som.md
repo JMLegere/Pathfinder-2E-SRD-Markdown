@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/consumable
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Fulu Compendium"]
+tags: [compendium/src/pf2e/som, item/category/consumable, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Fulu Compendium *Item 9*, "Fulu Compendium"]
+title: Fulu Compendium *Item 9*
+linter-yaml-title-alias: Fulu Compendium *Item 9*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Fulu Compendium *Item 9*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Fulu Compendium *Item 9*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 550 gp
 - **Category** Consumable

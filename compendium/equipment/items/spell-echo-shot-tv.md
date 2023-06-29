@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/consumable
-- trait/evocation
-- trait/magical
-aliases: ["Spell Echo Shot"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/consumable, trait/evocation, trait/magical]
+aliases: [Spell Echo Shot *Item 19*, "Spell Echo Shot"]
+title: Spell Echo Shot *Item 19*
+linter-yaml-title-alias: Spell Echo Shot *Item 19*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spell Echo Shot *Item 19*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  
+
+# Spell Echo Shot *Item 19*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md)  
 
 - **Price** 5500 gp
 - **Ammunition** any

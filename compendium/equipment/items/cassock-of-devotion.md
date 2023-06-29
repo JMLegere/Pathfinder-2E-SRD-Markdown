@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/divination
-- trait/divine
-- trait/focused
-- trait/invested
-aliases: ["Cassock of Devotion"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/divination, trait/divine, trait/focused, trait/invested]
+aliases: [Cassock of Devotion *Item 11*, "Cassock of Devotion"]
+title: Cassock of Devotion *Item 11*
+linter-yaml-title-alias: Cassock of Devotion *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Cassock of Devotion *Item 11*  
-[divination](rules/traits/divination.md)  [divine](rules/traits/divine.md)  [focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  
+
+# Cassock of Devotion *Item 11*
+
+[divination](rules/traits/divination.md) [divine](rules/traits/divine.md) [focused](rules/traits/focused.md) [invested](rules/traits/invested.md)  
 
 - **Price** 1150 gp
 - **Usage** worn garment; **Bulk** L

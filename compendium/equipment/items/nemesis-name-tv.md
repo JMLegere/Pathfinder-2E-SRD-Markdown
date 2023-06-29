@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/tattoo
-- trait/enchantment
-- trait/invested
-- trait/magical
-- trait/tattoo
-aliases: ["Nemesis Name"]
+tags: [compendium/src/pf2e/tv, item/category/tattoo, trait/enchantment, trait/invested, trait/magical, trait/tattoo]
+aliases: [Nemesis Name *Item 9*, "Nemesis Name"]
+title: Nemesis Name *Item 9*
+linter-yaml-title-alias: Nemesis Name *Item 9*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Nemesis Name *Item 9*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [tattoo](rules/traits/tattoo-lowg.md)  
+
+# Nemesis Name *Item 9*
+
+[enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [tattoo](rules/traits/tattoo-lowg.md)  
 
 - **Price** 650 gp
-- **Usage** tattooed on the body; **Bulk** —
+- **Usage** tattooed on the body; **Bulk**—
 - **Category** Tattoo
 
 You want revenge badly enough that you tattoo your nemesis's name in a place you can easily see to remember your vow to settle the score. Anyone who sees the tattoo senses your hatred of the named being. Receiving a new nemesis name makes any you already have non-magical.

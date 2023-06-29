@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/adjustment
-- trait/adjustment
-- trait/mechanical
-- trait/uncommon
-aliases: ["Tremorsensors"]
+tags: [compendium/src/pf2e/tv, item/category/adjustment, trait/adjustment, trait/mechanical, trait/uncommon]
+aliases: [Tremorsensors *Item 4*, "Tremorsensors"]
+title: Tremorsensors *Item 4*
+linter-yaml-title-alias: Tremorsensors *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:25 pm
 ---
-# Tremorsensors *Item 4*  
-[adjustment](rules/traits/adjustment-lotgb.md)  [mechanical](rules/traits/mechanical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Tremorsensors *Item 4*
+
+[adjustment](rules/traits/adjustment-lotgb.md) [mechanical](rules/traits/mechanical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 100 gp
 - **Usage** affixed to armor; **Bulk** L

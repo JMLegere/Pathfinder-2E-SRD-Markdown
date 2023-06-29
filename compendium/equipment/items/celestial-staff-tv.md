@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/good
-- trait/magical
-- trait/staff
-- trait/transmutation
-- trait/uncommon
-aliases: ["Celestial Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/good, trait/magical, trait/staff, trait/transmutation, trait/uncommon]
+aliases: [Celestial Staff *Item 17*, "Celestial Staff"]
+title: Celestial Staff *Item 17*
+linter-yaml-title-alias: Celestial Staff *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Celestial Staff *Item 17*  
-[good](rules/traits/good.md)  [magical](rules/traits/magical.md)  [staff](rules/traits/staff.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Celestial Staff *Item 17*
+
+[good](rules/traits/good.md) [magical](rules/traits/magical.md) [staff](rules/traits/staff.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 14000 gp
 - **Usage** held in 1 hand; **Bulk** 1

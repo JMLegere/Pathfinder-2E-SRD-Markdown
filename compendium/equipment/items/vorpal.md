@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/rune
-- trait/evocation
-- trait/magical
-- trait/rare
-aliases: ["Vorpal"]
+tags: [compendium/src/pf2e/crb, item/category/rune, trait/evocation, trait/magical, trait/rare]
+aliases: [Vorpal *Item 17*, "Vorpal"]
+title: Vorpal *Item 17*
+linter-yaml-title-alias: Vorpal *Item 17*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Vorpal *Item 17*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Vorpal *Item 17*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 15000 gp
 - **Usage** etched onto a slashing melee weapon

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/elixir
-- trait/alchemical
-- trait/consumable
-- trait/elixir
-- trait/mutagen
-- trait/polymorph
-aliases: ["Fury Cocktail"]
+tags: [compendium/src/pf2e/tv, item/category/elixir, trait/alchemical, trait/consumable, trait/elixir, trait/mutagen, trait/polymorph]
+aliases: [Fury Cocktail *Item 4+*, "Fury Cocktail"]
+title: Fury Cocktail *Item 4+*
+linter-yaml-title-alias: Fury Cocktail *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Fury Cocktail *Item 4+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [elixir](rules/traits/elixir.md)  [mutagen](rules/traits/mutagen.md)  [polymorph](rules/traits/polymorph.md)  
+
+# Fury Cocktail *Item 4+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [elixir](rules/traits/elixir.md) [mutagen](rules/traits/mutagen.md) [polymorph](rules/traits/polymorph.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)
@@ -27,7 +30,7 @@ Benefit You gain an item bonus to melee attack rolls and an additional effect de
 - Mournful A few flower petals add a powerful aroma to the drink. You gain resistance 1 to negative damage, or resistance 1 to positive damage if you have negative healing. The resistance increases to 5 for a moderate fury cocktail or 10 for a greater fury cocktail.
 - Skeptical A splash of bitters gives the drink a more complex flavor. You gain a +1 item bonus to saves against magic. This bonus is +2 for a moderate fury cocktail or +3 for a greater fury cocktail.
 - Titanic Yuzu juice and powdered giant hair are added to this cocktail. If you're Medium or smaller, you gain the following effects: you become Large, are [clumsy](rules/conditions.md#Clumsy), and increase your reach by 5 feet (or by 10 feet if you started out Tiny).
-- Wyrmhide Pomegranate juice and elemental reagents are added to the cocktail. You gain resistance 1 to acid, cold, electricity, fire, and poison damage. The resistance increases to 5 for a moderate fury cocktail or 10 for a greater fury cocktail. Drawback You take a –1 penalty to AC and a –2 penalty to
+- Wyrmhide Pomegranate juice and elemental reagents are added to the cocktail. You gain resistance 1 to acid, cold, electricity, fire, and poison damage. The resistance increases to 5 for a moderate fury cocktail or 10 for a greater fury cocktail. Drawback You take a–1 penalty to AC and a–2 penalty to
 
 Reflex saves.
 

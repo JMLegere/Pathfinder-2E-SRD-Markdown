@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/companion
-- trait/companion
-- trait/evocation
-- trait/invested
-- trait/magical
-aliases: ["Horned Hand Rests"]
+tags: [compendium/src/pf2e/lotgb, item/category/companion, trait/companion, trait/evocation, trait/invested, trait/magical]
+aliases: [Horned Hand Rests *Item 6+*, "Horned Hand Rests"]
+title: Horned Hand Rests *Item 6+*
+linter-yaml-title-alias: Horned Hand Rests *Item 6+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Horned Hand Rests *Item 6+*  
-[companion](rules/traits/companion.md)  [evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Horned Hand Rests *Item 6+*
+
+[companion](rules/traits/companion.md) [evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn; **Bulk** 1
 - **Category** Companion

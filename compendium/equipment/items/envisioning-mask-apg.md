@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/worn
-- trait/divination
-- trait/invested
-- trait/magical
-- trait/mental
-aliases: ["Envisioning Mask"]
+tags: [compendium/src/pf2e/apg, item/category/worn, trait/divination, trait/invested, trait/magical, trait/mental]
+aliases: [Envisioning Mask *Item 11*, "Envisioning Mask"]
+title: Envisioning Mask *Item 11*
+linter-yaml-title-alias: Envisioning Mask *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Envisioning Mask *Item 11*  
-[divination](rules/traits/divination.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  
+
+# Envisioning Mask *Item 11*
+
+[divination](rules/traits/divination.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md)  
 
 - **Price** 1200 gp
 - **Usage** worn mask

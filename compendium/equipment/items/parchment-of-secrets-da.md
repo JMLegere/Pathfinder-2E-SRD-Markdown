@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/consumable
-- trait/consumable
-- trait/illusion
-- trait/magical
-- trait/uncommon
-aliases: ["Parchment of Secrets"]
+tags: [compendium/src/pf2e/da, item/category/consumable, trait/consumable, trait/illusion, trait/magical, trait/uncommon]
+aliases: [Parchment of Secrets *Item 3*, "Parchment of Secrets"]
+title: Parchment of Secrets *Item 3*
+linter-yaml-title-alias: Parchment of Secrets *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Parchment of Secrets *Item 3*  
-[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Parchment of Secrets *Item 3*
+
+[consumable](rules/traits/consumable.md) [illusion](rules/traits/illusion.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Member of a secret society
 - **Price** 8 gp

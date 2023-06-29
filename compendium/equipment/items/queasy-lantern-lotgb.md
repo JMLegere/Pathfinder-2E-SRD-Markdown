@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/held
-- trait/light
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Queasy Lantern"]
+tags: [compendium/src/pf2e/lotgb, item/category/held, trait/light, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Queasy Lantern *Item 7+*, "Queasy Lantern"]
+title: Queasy Lantern *Item 7+*
+linter-yaml-title-alias: Queasy Lantern *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Queasy Lantern *Item 7+*  
-[light](rules/traits/light.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Queasy Lantern *Item 7+*
+
+[light](rules/traits/light.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Held

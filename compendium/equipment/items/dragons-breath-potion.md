@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/potion
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/potion
-aliases: ["Dragon's Breath Potion"]
+tags: [compendium/src/pf2e/crb, item/category/potion, trait/consumable, trait/evocation, trait/magical, trait/potion]
+aliases: ["Dragon's Breath Potion *Item 7+*", "Dragon's Breath Potion"]
+title: "Dragon's Breath Potion *Item 7+*"
+linter-yaml-title-alias: "Dragon's Breath Potion *Item 7+*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dragon's Breath Potion *Item 7+*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  
+
+# Dragon's Breath Potion *Item 7+*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/worn
-aliases: ["Smoked Goggles"]
+tags: [compendium/src/pf2e/lotgb, item/category/worn]
+aliases: [Smoked Goggles *Item 3*, "Smoked Goggles"]
+title: Smoked Goggles *Item 3*
+linter-yaml-title-alias: Smoked Goggles *Item 3*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Smoked Goggles *Item 3*  
+
+# Smoked Goggles *Item 3*
 
 - **Price** 20 gp
 - **Usage** worn eyepiece

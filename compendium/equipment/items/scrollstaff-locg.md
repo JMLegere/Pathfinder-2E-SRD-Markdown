@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/locg
-- item/category/weapon/simple
-- trait/magical
-- trait/transmutation
-- trait/uncommon
-aliases: ["Scrollstaff"]
+tags: [compendium/src/pf2e/locg, item/category/weapon/simple, trait/magical, trait/transmutation, trait/uncommon]
+aliases: [Scrollstaff *Item 1*, "Scrollstaff"]
+title: Scrollstaff *Item 1*
+linter-yaml-title-alias: Scrollstaff *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:31 pm
 ---
-# Scrollstaff *Item 1*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Scrollstaff *Item 1*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 12 gp
 - **Usage** held, 1 hand; **Bulk** 1

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/ammunition
-- trait/consumable
-- trait/evocation
-- trait/light
-- trait/magical
-aliases: ["Shining Ammunition"]
+tags: [compendium/src/pf2e/crb, item/category/ammunition, trait/consumable, trait/evocation, trait/light, trait/magical]
+aliases: [Shining Ammunition *Item 1*, "Shining Ammunition"]
+title: Shining Ammunition *Item 1*
+linter-yaml-title-alias: Shining Ammunition *Item 1*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:30 pm
 ---
-# Shining Ammunition *Item 1*  
-[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [light](rules/traits/light.md)  [magical](rules/traits/magical.md)  
+
+# Shining Ammunition *Item 1*
+
+[consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [light](rules/traits/light.md) [magical](rules/traits/magical.md)  
 
 - **Price** 3 gp
 - **Ammunition** any

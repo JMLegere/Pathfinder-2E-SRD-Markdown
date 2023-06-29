@@ -1,20 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/contact
-- trait/divine
-- trait/enchantment
-- trait/poison
-- trait/uncommon
-aliases: ["Liar's Demise"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/contact, trait/divine, trait/enchantment, trait/poison, trait/uncommon]
+aliases: ["Liar's Demise *Item 14*", "Liar's Demise"]
+title: "Liar's Demise *Item 14*"
+linter-yaml-title-alias: "Liar's Demise *Item 14*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:38 pm
 ---
-# Liar's Demise *Item 14*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [contact](rules/traits/contact.md)  [divine](rules/traits/divine.md)  [enchantment](rules/traits/enchantment.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Liar's Demise *Item 14*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [contact](rules/traits/contact.md) [divine](rules/traits/divine.md) [enchantment](rules/traits/enchantment.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 650 gp
 - **Usage** held in 1 hand; **Bulk** L

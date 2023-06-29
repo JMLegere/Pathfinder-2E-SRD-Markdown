@@ -1,21 +1,26 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/staff
-- trait/magical
-- trait/necromancy
-- trait/staff
-aliases: ["Zombie Staff"]
+tags: [compendium/src/pf2e/tv, item/category/staff, trait/magical, trait/necromancy, trait/staff]
+aliases: [Zombie Staff *Item 7+*, "Zombie Staff"]
+title: Zombie Staff *Item 7+*
+linter-yaml-title-alias: Zombie Staff *Item 7+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:22 pm
 ---
-# Zombie Staff *Item 7+*  
-[magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [staff](rules/traits/staff.md)  
+
+# Zombie Staff *Item 7+*
+
+[magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 1 hand; **Bulk** 1
 - **Category** Staff
 
-A zombie staff is etched with the rotting visage of an undead humanoid grimacing in terror and dismay carved atop it. The staff's [animate dead](compendium/spells/animate-dead-apg.md) spells can be used only to animate undead that have flesh and an Intelligence modifier of –4 or lower.
+A zombie staff is etched with the rotting visage of an undead humanoid grimacing in terror and dismay carved atop it. The staff's [animate dead](compendium/spells/animate-dead-apg.md) spells can be used only to animate undead that have flesh and an Intelligence modifier of–4 or lower.
 
 ```ad-embed-ability
 title: Activate

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/apex
-- trait/apex
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Armbands of the Gorgon"]
+tags: [compendium/src/pf2e/tv, item/category/apex, trait/apex, trait/invested, trait/magical, trait/transmutation]
+aliases: [Armbands of the Gorgon *Item 17*, "Armbands of the Gorgon"]
+title: Armbands of the Gorgon *Item 17*
+linter-yaml-title-alias: Armbands of the Gorgon *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Armbands of the Gorgon *Item 17*  
-[apex](rules/traits/apex.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Armbands of the Gorgon *Item 17*
+
+[apex](rules/traits/apex.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 15000 gp
 - **Usage** worn armbands; **Bulk** L

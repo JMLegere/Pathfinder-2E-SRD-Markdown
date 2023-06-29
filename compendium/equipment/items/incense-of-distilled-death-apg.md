@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/consumable
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/negative
-aliases: ["Incense Of Distilled Death"]
+tags: [compendium/src/pf2e/apg, item/category/consumable, trait/consumable, trait/magical, trait/necromancy, trait/negative]
+aliases: [Incense Of Distilled Death *Item 12*, "Incense Of Distilled Death"]
+title: Incense Of Distilled Death *Item 12*
+linter-yaml-title-alias: Incense Of Distilled Death *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Incense Of Distilled Death *Item 12*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [negative](rules/traits/negative.md)  
+
+# Incense Of Distilled Death *Item 12*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [negative](rules/traits/negative.md)  
 
 - **Price** 350 gp
 - **Usage** held in 1 hands

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/assistive-item/prosthesis
-- trait/evocation
-- trait/invested
-- trait/magical
-aliases: ["Blast Foot"]
+tags: [compendium/src/pf2e/lotgb, item/category/assistive-item/prosthesis, trait/evocation, trait/invested, trait/magical]
+aliases: [Blast Foot *Item 6+*, "Blast Foot"]
+title: Blast Foot *Item 6+*
+linter-yaml-title-alias: Blast Foot *Item 6+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:06 pm
 ---
-# Blast Foot *Item 6+*  
-[evocation](rules/traits/evocation.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Blast Foot *Item 6+*
+
+[evocation](rules/traits/evocation.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Usage** worn; **Bulk** 1
 - **Category** Prosthesis

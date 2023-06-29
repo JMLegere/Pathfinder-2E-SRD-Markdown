@@ -1,20 +1,25 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/da
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-- trait/uncommon
-aliases: ["Moonlit Ink"]
+tags: [compendium/src/pf2e/da, item/category/consumable, trait/alchemical, trait/consumable, trait/uncommon]
+aliases: [Moonlit Ink *Item 2*, "Moonlit Ink"]
+title: Moonlit Ink *Item 2*
+linter-yaml-title-alias: Moonlit Ink *Item 2*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Moonlit Ink *Item 2*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Moonlit Ink *Item 2*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Member of a secret society
 - **Price** 5 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** [Interact](rules/actions/interact.md)
 - **Category** Consumable
 

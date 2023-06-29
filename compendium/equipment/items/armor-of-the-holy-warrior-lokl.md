@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/armor
-- trait/divine
-- trait/good
-- trait/invested
-- trait/magical
-- trait/necromancy
-- trait/rare
-aliases: ["Armor of the Holy Warrior"]
+tags: [compendium/src/pf2e/lokl, item/category/armor, trait/divine, trait/good, trait/invested, trait/magical, trait/necromancy, trait/rare]
+aliases: [Armor of the Holy Warrior *Item 16*, "Armor of the Holy Warrior"]
+title: Armor of the Holy Warrior *Item 16*
+linter-yaml-title-alias: Armor of the Holy Warrior *Item 16*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:07 pm
 ---
-# Armor of the Holy Warrior *Item 16*  
-[divine](rules/traits/divine.md)  [good](rules/traits/good.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
+
+# Armor of the Holy Warrior *Item 16*
+
+[divine](rules/traits/divine.md) [good](rules/traits/good.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [rare](rules/traits/rare.md)  
 
 - **Price** 9000 gp
 - **Usage** worn armor; **Bulk** 3

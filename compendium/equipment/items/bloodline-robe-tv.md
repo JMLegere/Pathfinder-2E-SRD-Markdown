@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/focused
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Bloodline Robe"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/focused, trait/invested, trait/magical, trait/transmutation]
+aliases: [Bloodline Robe *Item 12*, "Bloodline Robe"]
+title: Bloodline Robe *Item 12*
+linter-yaml-title-alias: Bloodline Robe *Item 12*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bloodline Robe *Item 12*  
-[focused](rules/traits/focused.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Bloodline Robe *Item 12*
+
+[focused](rules/traits/focused.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 2000 gp
 - **Usage** worn garment; **Bulk** 1

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/held
-- trait/enchantment
-- trait/focused
-- trait/intelligent
-- trait/occult
-- trait/rare
-aliases: ["Phantom Piano"]
+tags: [compendium/src/pf2e/tv, item/category/held, trait/enchantment, trait/focused, trait/intelligent, trait/occult, trait/rare]
+aliases: [Phantom Piano *Item 12*, "Phantom Piano"]
+title: Phantom Piano *Item 12*
+linter-yaml-title-alias: Phantom Piano *Item 12*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Phantom Piano *Item 12*  
-[enchantment](rules/traits/enchantment.md)  [focused](rules/traits/focused.md)  [intelligent](rules/traits/intelligent-gmg.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
+
+# Phantom Piano *Item 12*
+
+[enchantment](rules/traits/enchantment.md) [focused](rules/traits/focused.md) [intelligent](rules/traits/intelligent-gmg.md) [occult](rules/traits/occult.md) [rare](rules/traits/rare.md)  
 
 - **Usage** Held in 2 Hands; **Bulk** 16
 - **Category** Held

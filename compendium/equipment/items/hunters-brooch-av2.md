@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/av2
-- item/category/worn
-- trait/divine
-- trait/invested
-- trait/positive
-- trait/transmutation
-- trait/unique
-aliases: ["Hunter's Brooch"]
+tags: [compendium/src/pf2e/av2, item/category/worn, trait/divine, trait/invested, trait/positive, trait/transmutation, trait/unique]
+aliases: ["Hunter's Brooch *Item 4*", "Hunter's Brooch"]
+title: "Hunter's Brooch *Item 4*"
+linter-yaml-title-alias: "Hunter's Brooch *Item 4*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Hunter's Brooch *Item 4*  
-[divine](rules/traits/divine.md)  [invested](rules/traits/invested.md)  [positive](rules/traits/positive.md)  [transmutation](rules/traits/transmutation.md)  [unique](rules/traits/unique.md)  
+
+# Hunter's Brooch *Item 4*
+
+[divine](rules/traits/divine.md) [invested](rules/traits/invested.md) [positive](rules/traits/positive.md) [transmutation](rules/traits/transmutation.md) [unique](rules/traits/unique.md)  
 
 - **Price** 80 gp
 - **Usage** worn; **Bulk** L

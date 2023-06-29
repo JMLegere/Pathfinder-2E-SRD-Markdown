@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lokl
-- item/category/held
-- trait/divination
-- trait/magical
-- trait/uncommon
-aliases: ["Undead Compendium"]
+tags: [compendium/src/pf2e/lokl, item/category/held, trait/divination, trait/magical, trait/uncommon]
+aliases: [Undead Compendium *Item 14*, "Undead Compendium"]
+title: Undead Compendium *Item 14*
+linter-yaml-title-alias: Undead Compendium *Item 14*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Undead Compendium *Item 14*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Undead Compendium *Item 14*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 6300 gp

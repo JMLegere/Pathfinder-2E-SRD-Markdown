@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/consumable
-- trait/catalyst
-- trait/consumable
-- trait/magical
-aliases: ["Force Tiles"]
+tags: [compendium/src/pf2e/som, item/category/consumable, trait/catalyst, trait/consumable, trait/magical]
+aliases: [Force Tiles *Item 13*, "Force Tiles"]
+title: Force Tiles *Item 13*
+linter-yaml-title-alias: Force Tiles *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Force Tiles *Item 13*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  
+
+# Force Tiles *Item 13*
+
+[catalyst](rules/traits/catalyst-som.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md)  
 
 - **Price** 525 gp
 - **Usage** held in 1 hand; **Bulk** L

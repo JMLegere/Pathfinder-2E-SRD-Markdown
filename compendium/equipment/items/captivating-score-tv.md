@@ -1,24 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/missive
-- trait/auditory
-- trait/consumable
-- trait/emotion
-- trait/enchantment
-- trait/incapacitation
-- trait/magical
-- trait/mental
-- trait/missive
-aliases: ["Captivating Score"]
+tags: [compendium/src/pf2e/tv, item/category/missive, trait/auditory, trait/consumable, trait/emotion, trait/enchantment, trait/incapacitation, trait/magical, trait/mental, trait/missive]
+aliases: [Captivating Score *Item 11*, "Captivating Score"]
+title: Captivating Score *Item 11*
+linter-yaml-title-alias: Captivating Score *Item 11*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:04 pm
 ---
-# Captivating Score *Item 11*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [emotion](rules/traits/emotion.md)  [enchantment](rules/traits/enchantment.md)  [incapacitation](rules/traits/incapacitation.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [missive](rules/traits/missive-tv.md)  
+
+# Captivating Score *Item 11*
+
+[auditory](rules/traits/auditory.md) [consumable](rules/traits/consumable.md) [emotion](rules/traits/emotion.md) [enchantment](rules/traits/enchantment.md) [incapacitation](rules/traits/incapacitation.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [missive](rules/traits/missive-tv.md)  
 
 - **Price** 250 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Activate** envision, , [Interact](rules/actions/interact.md)
 - **Category** Missive
 

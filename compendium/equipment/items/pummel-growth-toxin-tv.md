@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/injury
-- trait/morph
-- trait/poison
-aliases: ["Pummel-Growth Toxin"]
+tags: [compendium/src/pf2e/tv, item/category/poison, trait/alchemical, trait/consumable, trait/injury, trait/morph, trait/poison]
+aliases: [Pummel-Growth Toxin *Item 13*, "Pummel-Growth Toxin"]
+title: Pummel-Growth Toxin *Item 13*
+linter-yaml-title-alias: Pummel-Growth Toxin *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Pummel-Growth Toxin *Item 13*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [injury](rules/traits/injury.md)  [morph](rules/traits/morph.md)  [poison](rules/traits/poison.md)  
+
+# Pummel-Growth Toxin *Item 13*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [injury](rules/traits/injury.md) [morph](rules/traits/morph.md) [poison](rules/traits/poison.md)  
 
 - **Price** 550 gp
 - **Usage** held in 2 hands; **Bulk** L

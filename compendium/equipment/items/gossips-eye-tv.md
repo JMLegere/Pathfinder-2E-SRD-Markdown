@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/divination
-- trait/magical
-aliases: ["Gossip's Eye"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/divination, trait/magical]
+aliases: ["Gossip's Eye *Item 8*", "Gossip's Eye"]
+title: "Gossip's Eye *Item 8*"
+linter-yaml-title-alias: "Gossip's Eye *Item 8*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Gossip's Eye *Item 8*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  
+
+# Gossip's Eye *Item 8*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
 
 - **Price** 30 gp
 - **Usage** worn; **Bulk** L

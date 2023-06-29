@@ -1,19 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/wand
-- trait/magical
-- trait/transmutation
-- trait/wand
-aliases: ["Wand of Crushing Leaps"]
+tags: [compendium/src/pf2e/tv, item/category/wand, trait/magical, trait/transmutation, trait/wand]
+aliases: [Wand of Crushing Leaps *Item 4*, "Wand of Crushing Leaps"]
+title: Wand of Crushing Leaps *Item 4*
+linter-yaml-title-alias: Wand of Crushing Leaps *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Wand of Crushing Leaps *Item 4*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  [wand](rules/traits/wand.md)  
+
+# Wand of Crushing Leaps *Item 4*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md) [wand](rules/traits/wand.md)  
 
 - **Price** 80 gp
-- **Usage** held in 1 hand; **Bulk** —
+- **Usage** held in 1 hand; **Bulk**—
 - **Category** Wand
 
 This supple, light wooden wand drifts to the ground like a feather or leaf when dropped, landing unharmed. A thin coil of metal wraps around the wand's handle.

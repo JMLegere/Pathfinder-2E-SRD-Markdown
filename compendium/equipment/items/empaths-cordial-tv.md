@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/divination
-- trait/magical
-- trait/mental
-- trait/potion
-aliases: ["Empath's Cordial"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/divination, trait/magical, trait/mental, trait/potion]
+aliases: ["Empath's Cordial *Item 7*", "Empath's Cordial"]
+title: "Empath's Cordial *Item 7*"
+linter-yaml-title-alias: "Empath's Cordial *Item 7*"
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Empath's Cordial *Item 7*  
-[consumable](rules/traits/consumable.md)  [divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [mental](rules/traits/mental.md)  [potion](rules/traits/potion.md)  
+
+# Empath's Cordial *Item 7*
+
+[consumable](rules/traits/consumable.md) [divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [mental](rules/traits/mental.md) [potion](rules/traits/potion.md)  
 
 - **Price** 65 gp
 - **Usage** held in 1 hand; **Bulk** L

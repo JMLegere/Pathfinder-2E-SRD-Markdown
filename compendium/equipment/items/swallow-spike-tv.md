@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/rune
-- trait/magical
-- trait/transmutation
-aliases: ["Swallow-Spike"]
+tags: [compendium/src/pf2e/tv, item/category/rune, trait/magical, trait/transmutation]
+aliases: [Swallow-Spike *Item 6+*, "Swallow-Spike"]
+title: Swallow-Spike *Item 6+*
+linter-yaml-title-alias: Swallow-Spike *Item 6+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Swallow-Spike *Item 6+*  
-[magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Swallow-Spike *Item 6+*
+
+[magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** etched onto armor
 - **Category** Rune

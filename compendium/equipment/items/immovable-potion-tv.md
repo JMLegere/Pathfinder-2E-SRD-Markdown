@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/potion
-- trait/consumable
-- trait/magical
-- trait/potion
-- trait/transmutation
-aliases: ["Immovable Potion"]
+tags: [compendium/src/pf2e/tv, item/category/potion, trait/consumable, trait/magical, trait/potion, trait/transmutation]
+aliases: [Immovable Potion *Item 10*, "Immovable Potion"]
+title: Immovable Potion *Item 10*
+linter-yaml-title-alias: Immovable Potion *Item 10*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Immovable Potion *Item 10*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [potion](rules/traits/potion.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Immovable Potion *Item 10*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [potion](rules/traits/potion.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 160 gp
 - **Usage** held in 1 hand; **Bulk** L

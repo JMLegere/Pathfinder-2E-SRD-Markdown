@@ -1,19 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/apex
-- trait/apex
-- trait/intelligent
-- trait/invested
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Purloining Cloak"]
+tags: [compendium/src/pf2e/tv, item/category/apex, trait/apex, trait/intelligent, trait/invested, trait/magical, trait/rare, trait/transmutation]
+aliases: [Purloining Cloak *Item 18*, "Purloining Cloak"]
+title: Purloining Cloak *Item 18*
+linter-yaml-title-alias: Purloining Cloak *Item 18*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:33 pm
 ---
-# Purloining Cloak *Item 18*  
-[apex](rules/traits/apex.md)  [intelligent](rules/traits/intelligent-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Purloining Cloak *Item 18*
+
+[apex](rules/traits/apex.md) [intelligent](rules/traits/intelligent-gmg.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn cloak; **Bulk** L
 - **Category** Apex

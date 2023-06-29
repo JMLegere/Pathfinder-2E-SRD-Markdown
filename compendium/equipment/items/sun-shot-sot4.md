@@ -1,12 +1,19 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/sot4
-- item/category/ammunition
-aliases: ["Sun Shot"]
+tags: [compendium/src/pf2e/sot4, item/category/ammunition]
+aliases: [Sun Shot *Item 0*, "Sun Shot"]
+title: Sun Shot *Item 0*
+linter-yaml-title-alias: Sun Shot *Item 0*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:26 pm
 ---
-# Sun Shot *Item 0*  
+
+# Sun Shot *Item 0*
 
 - **Price** 1 sp
 - **Bulk** L

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lopsg
-- item/category/rune
-- trait/divination
-- trait/magical
-- trait/uncommon
-aliases: ["Cunning"]
+tags: [compendium/src/pf2e/lopsg, item/category/rune, trait/divination, trait/magical, trait/uncommon]
+aliases: [Cunning *Item 5*, "Cunning"]
+title: Cunning *Item 5*
+linter-yaml-title-alias: Cunning *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:02 pm
 ---
-# Cunning *Item 5*  
-[divination](rules/traits/divination.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Cunning *Item 5*
+
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 140 gp
 - **Usage** etched on a slashing or piercing weapon

@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-aliases: ["Bloodhound Mask"]
+tags: [compendium/src/pf2e/apg, item/category/consumable, trait/alchemical, trait/consumable]
+aliases: [Bloodhound Mask *Item 2+*, "Bloodhound Mask"]
+title: Bloodhound Mask *Item 2+*
+linter-yaml-title-alias: Bloodhound Mask *Item 2+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bloodhound Mask *Item 2+*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+
+# Bloodhound Mask *Item 2+*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Activate** [Interact](rules/actions/interact.md)

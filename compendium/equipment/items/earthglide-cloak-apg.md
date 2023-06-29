@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/worn
-- trait/earth
-- trait/invested
-- trait/magical
-- trait/transmutation
-aliases: ["Earthglide Cloak"]
+tags: [compendium/src/pf2e/apg, item/category/worn, trait/earth, trait/invested, trait/magical, trait/transmutation]
+aliases: [Earthglide Cloak *Item 15*, "Earthglide Cloak"]
+title: Earthglide Cloak *Item 15*
+linter-yaml-title-alias: Earthglide Cloak *Item 15*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Earthglide Cloak *Item 15*  
-[earth](rules/traits/earth.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Earthglide Cloak *Item 15*
+
+[earth](rules/traits/earth.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Price** 6500 gp
 - **Usage** worn cloak

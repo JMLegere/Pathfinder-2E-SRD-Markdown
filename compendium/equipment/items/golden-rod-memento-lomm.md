@@ -1,19 +1,23 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lomm
-- item/category/worn
-- trait/abjuration
-- trait/cursed
-- trait/magical
-- trait/rare
-aliases: ["Golden Rod Memento"]
+tags: [compendium/src/pf2e/lomm, item/category/worn, trait/abjuration, trait/cursed, trait/magical, trait/rare]
+aliases: [Golden Rod Memento *Item 20*, "Golden Rod Memento"]
+title: Golden Rod Memento *Item 20*
+linter-yaml-title-alias: Golden Rod Memento *Item 20*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:56 pm
 ---
-# Golden Rod Memento *Item 20*  
-[abjuration](rules/traits/abjuration.md)  [cursed](rules/traits/cursed-gmg.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
 
-- **Usage** worn; **Bulk** —
+# Golden Rod Memento *Item 20*
+
+[abjuration](rules/traits/abjuration.md) [cursed](rules/traits/cursed-gmg.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
+
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This coin-sized golden pin depicts a bundle of five trimmed tree branches. Once you've stolen the pin, accepted it from Krampus willingly, or carried it for at least 1 minute, its curse activates. After that happens, the pin fastens itself to your clothing, providing you an insistent empathic admonition not to be naughty and constantly informing Krampus of your location, as [status](compendium/spells/status.md). The pin reappears and reattaches itself within moments if discarded or destroyed. The pin constantly monitors your actions, judging you against a good-aligned champion's code of conduct, plus the following third tenet:

@@ -1,16 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/pfum
-- item/category/rune
-- trait/evocation
-- trait/magical
-- trait/rare
-aliases: ["Demolishing"]
+tags: [compendium/src/pf2e/pfum, item/category/rune, trait/evocation, trait/magical, trait/rare]
+aliases: [Demolishing *Item 6*, "Demolishing"]
+title: Demolishing *Item 6*
+linter-yaml-title-alias: Demolishing *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Demolishing *Item 6*  
-[evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Demolishing *Item 6*
+
+[evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 225 gp
 - **Usage** etched onto a weapon

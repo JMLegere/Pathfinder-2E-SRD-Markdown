@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/consumable
-- trait/consumable
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Dust Of Corpse Animation"]
+tags: [compendium/src/pf2e/apg, item/category/consumable, trait/consumable, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Dust Of Corpse Animation *Item 8+*, "Dust Of Corpse Animation"]
+title: Dust Of Corpse Animation *Item 8+*
+linter-yaml-title-alias: Dust Of Corpse Animation *Item 8+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Dust Of Corpse Animation *Item 8+*  
-[consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Dust Of Corpse Animation *Item 8+*
+
+[consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** held in 2 hands
 - **Activate** [Interact](rules/actions/interact.md)

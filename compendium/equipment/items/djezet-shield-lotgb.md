@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lotgb
-- item/category/material
-- trait/rare
-aliases: ["Djezet Shield"]
+tags: [compendium/src/pf2e/lotgb, item/category/material, trait/rare]
+aliases: [Djezet Shield *Item 9+*, "Djezet Shield"]
+title: Djezet Shield *Item 9+*
+linter-yaml-title-alias: Djezet Shield *Item 9+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Djezet Shield *Item 9+*  
+
+# Djezet Shield *Item 9+*
+
 [rare](rules/traits/rare.md)  
 
 - **Usage** varies by shield

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/ingested
-- trait/poison
-aliases: ["Hemlock"]
+tags: [compendium/src/pf2e/crb, item/category/poison, trait/alchemical, trait/consumable, trait/ingested, trait/poison]
+aliases: [Hemlock *Item 17*, "Hemlock"]
+title: Hemlock *Item 17*
+linter-yaml-title-alias: Hemlock *Item 17*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hemlock *Item 17*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  
+
+# Hemlock *Item 17*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [ingested](rules/traits/ingested.md) [poison](rules/traits/poison.md)  
 
 - **Price** 2250 gp
 - **Usage** held in 1 hand; **Bulk** L

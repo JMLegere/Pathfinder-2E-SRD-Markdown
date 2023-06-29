@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/lol
-- item/category/held
-- trait/rare
-aliases: ["Clockwork Recorder"]
+tags: [compendium/src/pf2e/lol, item/category/held, trait/rare]
+aliases: [Clockwork Recorder *Item 6*, "Clockwork Recorder"]
+title: Clockwork Recorder *Item 6*
+linter-yaml-title-alias: Clockwork Recorder *Item 6*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:03 pm
 ---
-# Clockwork Recorder *Item 6*  
+
+# Clockwork Recorder *Item 6*
+
 [rare](rules/traits/rare.md)  
 
 - **Price** 250 gp

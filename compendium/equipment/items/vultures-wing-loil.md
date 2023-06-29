@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/consumable
-- trait/catalyst
-- trait/consumable
-- trait/magical
-- trait/uncommon
-aliases: ["Vulture's Wing"]
+tags: [compendium/src/pf2e/loil, item/category/consumable, trait/catalyst, trait/consumable, trait/magical, trait/uncommon]
+aliases: ["Vulture's Wing *Item 10*", "Vulture's Wing"]
+title: "Vulture's Wing *Item 10*"
+linter-yaml-title-alias: "Vulture's Wing *Item 10*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:24 pm
 ---
-# Vulture's Wing *Item 10*  
-[catalyst](rules/traits/catalyst-som.md)  [consumable](rules/traits/consumable.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Vulture's Wing *Item 10*
+
+[catalyst](rules/traits/catalyst-som.md) [consumable](rules/traits/consumable.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 200 gp
 - **Usage** held in one hand; **Bulk** L

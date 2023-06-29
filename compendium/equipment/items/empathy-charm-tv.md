@@ -1,21 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/companion
-- trait/companion
-- trait/divination
-- trait/enchantment
-- trait/magical
-- trait/uncommon
-aliases: ["Empathy Charm"]
+tags: [compendium/src/pf2e/tv, item/category/companion, trait/companion, trait/divination, trait/enchantment, trait/magical, trait/uncommon]
+aliases: [Empathy Charm *Item 2*, "Empathy Charm"]
+title: Empathy Charm *Item 2*
+linter-yaml-title-alias: Empathy Charm *Item 2*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Empathy Charm *Item 2*  
-[companion](rules/traits/companion.md)  [divination](rules/traits/divination.md)  [enchantment](rules/traits/enchantment.md)  [magical](rules/traits/magical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Empathy Charm *Item 2*
+
+[companion](rules/traits/companion.md) [divination](rules/traits/divination.md) [enchantment](rules/traits/enchantment.md) [magical](rules/traits/magical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 35 gp
-- **Usage** affixed to harness; **Bulk** —
+- **Usage** affixed to harness; **Bulk**—
 - **Category** Companion
 
 This charm, usually placed on an animal companion's collar, contains a single strand of your hair, as well as one of your animal companion's, creating a link that better transmits emotional cues to a trained psychological assistance animal.

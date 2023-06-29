@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/wand
-- trait/evocation
-- trait/force
-- trait/magical
-- trait/wand
-aliases: ["Wand of Manifold Missiles"]
+tags: [compendium/src/pf2e/crb, item/category/wand, trait/evocation, trait/force, trait/magical, trait/wand]
+aliases: [Wand of Manifold Missiles *Item 5+*, "Wand of Manifold Missiles"]
+title: Wand of Manifold Missiles *Item 5+*
+linter-yaml-title-alias: Wand of Manifold Missiles *Item 5+*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Wand of Manifold Missiles *Item 5+*  
-[evocation](rules/traits/evocation.md)  [force](rules/traits/force.md)  [magical](rules/traits/magical.md)  [wand](rules/traits/wand.md)  
+
+# Wand of Manifold Missiles *Item 5+*
+
+[evocation](rules/traits/evocation.md) [force](rules/traits/force.md) [magical](rules/traits/magical.md) [wand](rules/traits/wand.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Wand

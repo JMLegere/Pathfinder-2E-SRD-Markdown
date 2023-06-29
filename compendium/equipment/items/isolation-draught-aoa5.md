@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoa5
-- item/category/poison
-- trait/alchemical
-- trait/consumable
-- trait/ingested
-- trait/poison
-- trait/uncommon
-aliases: ["Isolation Draught"]
+tags: [compendium/src/pf2e/aoa5, item/category/poison, trait/alchemical, trait/consumable, trait/ingested, trait/poison, trait/uncommon]
+aliases: [Isolation Draught *Item 7*, "Isolation Draught"]
+title: Isolation Draught *Item 7*
+linter-yaml-title-alias: Isolation Draught *Item 7*
+date created: Monday, June 19th 2023, 5:15:10 pm
+date modified: Thursday, June 29th 2023, 5:30:53 pm
 ---
-# Isolation Draught *Item 7*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Isolation Draught *Item 7*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md) [ingested](rules/traits/ingested.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 55 gp
 - **Usage** held in 1 hand; **Bulk** L

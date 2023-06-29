@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/loil
-- item/category/grimoire
-- trait/grimoire
-- trait/magical
-- trait/necromancy
-- trait/uncommon
-aliases: ["Doctrine of Blissful Eternity"]
+tags: [compendium/src/pf2e/loil, item/category/grimoire, trait/grimoire, trait/magical, trait/necromancy, trait/uncommon]
+aliases: [Doctrine of Blissful Eternity *Item 7*, "Doctrine of Blissful Eternity"]
+title: Doctrine of Blissful Eternity *Item 7*
+linter-yaml-title-alias: Doctrine of Blissful Eternity *Item 7*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:01 pm
 ---
-# Doctrine of Blissful Eternity *Item 7*  
-[grimoire](rules/traits/grimoire-som.md)  [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Doctrine of Blissful Eternity *Item 7*
+
+[grimoire](rules/traits/grimoire-som.md) [magical](rules/traits/magical.md) [necromancy](rules/traits/necromancy.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 340 gp
 - **Bulk** L

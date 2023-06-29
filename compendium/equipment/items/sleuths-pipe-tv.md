@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/adventuring-gear
-- trait/abjuration
-- trait/magical
-- trait/relic
-- trait/unique
-aliases: ["Sleuth's Pipe"]
+tags: [compendium/src/pf2e/tv, item/category/adventuring-gear, trait/abjuration, trait/magical, trait/relic, trait/unique]
+aliases: ["Sleuth's Pipe *Item 3*", "Sleuth's Pipe"]
+title: "Sleuth's Pipe *Item 3*"
+linter-yaml-title-alias: "Sleuth's Pipe *Item 3*"
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:29 pm
 ---
-# Sleuth's Pipe *Item 3*  
-[abjuration](rules/traits/abjuration.md)  [magical](rules/traits/magical.md)  [relic](rules/traits/relic-tv.md)  [unique](rules/traits/unique.md)  
+
+# Sleuth's Pipe *Item 3*
+
+[abjuration](rules/traits/abjuration.md) [magical](rules/traits/magical.md) [relic](rules/traits/relic-tv.md) [unique](rules/traits/unique.md)  
 
 - **Usage** held in 1 hand; **Bulk** L
 - **Category** Adventuring Gear

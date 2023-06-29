@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/apg
-- item/category/worn
-- trait/evocation
-- trait/fire
-- trait/invested
-- trait/magical
-aliases: ["Hellfire Boots"]
+tags: [compendium/src/pf2e/apg, item/category/worn, trait/evocation, trait/fire, trait/invested, trait/magical]
+aliases: [Hellfire Boots *Item 13*, "Hellfire Boots"]
+title: Hellfire Boots *Item 13*
+linter-yaml-title-alias: Hellfire Boots *Item 13*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:54 pm
 ---
-# Hellfire Boots *Item 13*  
-[evocation](rules/traits/evocation.md)  [fire](rules/traits/fire.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  
+
+# Hellfire Boots *Item 13*
+
+[evocation](rules/traits/evocation.md) [fire](rules/traits/fire.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md)  
 
 - **Price** 3000 gp
 - **Usage** worn; **Bulk** 1

@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/coda
-- trait/coda
-- trait/evocation
-- trait/occult
-- trait/staff
-aliases: ["Drums of War"]
+tags: [compendium/src/pf2e/tv, item/category/coda, trait/coda, trait/evocation, trait/occult, trait/staff]
+aliases: [Drums of War *Item 4+*, "Drums of War"]
+title: Drums of War *Item 4+*
+linter-yaml-title-alias: Drums of War *Item 4+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:00 pm
 ---
-# Drums of War *Item 4+*  
-[coda](rules/traits/coda-tv.md)  [evocation](rules/traits/evocation.md)  [occult](rules/traits/occult.md)  [staff](rules/traits/staff.md)  
+
+# Drums of War *Item 4+*
+
+[coda](rules/traits/coda-tv.md) [evocation](rules/traits/evocation.md) [occult](rules/traits/occult.md) [staff](rules/traits/staff.md)  
 
 - **Usage** held in 2 hands; **Bulk** 1
 - **Category** Coda

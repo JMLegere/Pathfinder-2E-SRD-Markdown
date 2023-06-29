@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/worn
-- trait/mechanical
-- trait/uncommon
-aliases: ["Bootstrap Respirator"]
+tags: [compendium/src/pf2e/tv, item/category/worn, trait/mechanical, trait/uncommon]
+aliases: [Bootstrap Respirator *Item 8*, "Bootstrap Respirator"]
+title: Bootstrap Respirator *Item 8*
+linter-yaml-title-alias: Bootstrap Respirator *Item 8*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:31:05 pm
 ---
-# Bootstrap Respirator *Item 8*  
-[mechanical](rules/traits/mechanical.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Bootstrap Respirator *Item 8*
+
+[mechanical](rules/traits/mechanical.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 450 gp
 - **Usage** worn; **Bulk** L

@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/aoe4
-- item/category/poison
-- trait/consumable
-- trait/divine
-- trait/ingested
-- trait/poison
-- trait/uncommon
-aliases: ["Spectral Nightshade"]
+tags: [compendium/src/pf2e/aoe4, item/category/poison, trait/consumable, trait/divine, trait/ingested, trait/poison, trait/uncommon]
+aliases: [Spectral Nightshade *Item 13*, "Spectral Nightshade"]
+title: Spectral Nightshade *Item 13*
+linter-yaml-title-alias: Spectral Nightshade *Item 13*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:28 pm
 ---
-# Spectral Nightshade *Item 13*  
-[consumable](rules/traits/consumable.md)  [divine](rules/traits/divine.md)  [ingested](rules/traits/ingested.md)  [poison](rules/traits/poison.md)  [uncommon](rules/traits/uncommon.md)  
+
+# Spectral Nightshade *Item 13*
+
+[consumable](rules/traits/consumable.md) [divine](rules/traits/divine.md) [ingested](rules/traits/ingested.md) [poison](rules/traits/poison.md) [uncommon](rules/traits/uncommon.md)  
 
 - **Price** 450 gp
 - **Usage** held in 1 hand; **Bulk** L

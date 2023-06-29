@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/som
-- item/category/talisman
-- trait/auditory
-- trait/consumable
-- trait/evocation
-- trait/magical
-- trait/talisman
-aliases: ["Orchestral Brooch"]
+tags: [compendium/src/pf2e/som, item/category/talisman, trait/auditory, trait/consumable, trait/evocation, trait/magical, trait/talisman]
+aliases: [Orchestral Brooch *Item 8*, "Orchestral Brooch"]
+title: Orchestral Brooch *Item 8*
+linter-yaml-title-alias: Orchestral Brooch *Item 8*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:35 pm
 ---
-# Orchestral Brooch *Item 8*  
-[auditory](rules/traits/auditory.md)  [consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [talisman](rules/traits/talisman.md)  
+
+# Orchestral Brooch *Item 8*
+
+[auditory](rules/traits/auditory.md) [consumable](rules/traits/consumable.md) [evocation](rules/traits/evocation.md) [magical](rules/traits/magical.md) [talisman](rules/traits/talisman.md)  
 
 - **Price** 100 gp
 - **Usage** affixed to armor

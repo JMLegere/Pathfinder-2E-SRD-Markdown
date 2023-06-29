@@ -1,13 +1,20 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/armor
-- trait/uncommon
-aliases: ["Elven Chain"]
+tags: [compendium/src/pf2e/crb, item/category/armor, trait/uncommon]
+aliases: [Elven Chain *Item 13+*, "Elven Chain"]
+title: Elven Chain *Item 13+*
+linter-yaml-title-alias: Elven Chain *Item 13+*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:59 pm
 ---
-# Elven Chain *Item 13+*  
+
+# Elven Chain *Item 13+*
+
 [uncommon](rules/traits/uncommon.md)  
 
 - **Usage** worn armor; **Bulk** L

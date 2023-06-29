@@ -1,17 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/cold
-- trait/consumable
-- trait/splash
-aliases: ["Freeze Ammunition"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/cold, trait/consumable, trait/splash]
+aliases: [Freeze Ammunition *Item 5*, "Freeze Ammunition"]
+title: Freeze Ammunition *Item 5*
+linter-yaml-title-alias: Freeze Ammunition *Item 5*
+date created: Monday, June 19th 2023, 5:15:09 pm
+date modified: Thursday, June 29th 2023, 5:30:57 pm
 ---
-# Freeze Ammunition *Item 5*  
-[alchemical](rules/traits/alchemical.md)  [cold](rules/traits/cold.md)  [consumable](rules/traits/consumable.md)  [splash](rules/traits/splash.md)  
+
+# Freeze Ammunition *Item 5*
+
+[alchemical](rules/traits/alchemical.md) [cold](rules/traits/cold.md) [consumable](rules/traits/consumable.md) [splash](rules/traits/splash.md)  
 
 - **Price** 28 gp
 - **Ammunition** any

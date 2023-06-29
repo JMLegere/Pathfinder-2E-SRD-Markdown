@@ -1,15 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/tv
-- item/category/consumable
-- trait/alchemical
-- trait/consumable
-aliases: ["Phantom Roll"]
+tags: [compendium/src/pf2e/tv, item/category/consumable, trait/alchemical, trait/consumable]
+aliases: [Phantom Roll *Item 4*, "Phantom Roll"]
+title: Phantom Roll *Item 4*
+linter-yaml-title-alias: Phantom Roll *Item 4*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:34 pm
 ---
-# Phantom Roll *Item 4*  
-[alchemical](rules/traits/alchemical.md)  [consumable](rules/traits/consumable.md)  
+
+# Phantom Roll *Item 4*
+
+[alchemical](rules/traits/alchemical.md) [consumable](rules/traits/consumable.md)  
 
 - **Price** 13 gp
 - **Usage** held in 1 hand; **Bulk** L

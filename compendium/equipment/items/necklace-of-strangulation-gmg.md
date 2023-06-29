@@ -1,18 +1,21 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/gmg
-- item/category/worn
-- trait/cursed
-- trait/invested
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Necklace Of Strangulation"]
+tags: [compendium/src/pf2e/gmg, item/category/worn, trait/cursed, trait/invested, trait/magical, trait/rare, trait/transmutation]
+aliases: [Necklace Of Strangulation *Item 15*, "Necklace Of Strangulation"]
+title: Necklace Of Strangulation *Item 15*
+linter-yaml-title-alias: Necklace Of Strangulation *Item 15*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:36 pm
 ---
-# Necklace Of Strangulation *Item 15*  
-[cursed](rules/traits/cursed-gmg.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
+
+# Necklace Of Strangulation *Item 15*
+
+[cursed](rules/traits/cursed-gmg.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md) [transmutation](rules/traits/transmutation.md)  
 
 - **Usage** worn necklace; **Bulk** L
 - **Category** Worn

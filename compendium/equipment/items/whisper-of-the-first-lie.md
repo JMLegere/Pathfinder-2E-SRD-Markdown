@@ -1,20 +1,24 @@
 ---
+level:
+bulk:
+price:
+status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags:
-- compendium/src/pf2e/crb
-- item/category/worn
-- trait/enchantment
-- trait/invested
-- trait/magical
-- trait/rare
-aliases: ["Whisper of the First Lie"]
+tags: [compendium/src/pf2e/crb, item/category/worn, trait/enchantment, trait/invested, trait/magical, trait/rare]
+aliases: [Whisper of the First Lie *Item 20*, "Whisper of the First Lie"]
+title: Whisper of the First Lie *Item 20*
+linter-yaml-title-alias: Whisper of the First Lie *Item 20*
+date created: Monday, June 19th 2023, 5:15:11 pm
+date modified: Thursday, June 29th 2023, 5:30:23 pm
 ---
-# Whisper of the First Lie *Item 20*  
-[enchantment](rules/traits/enchantment.md)  [invested](rules/traits/invested.md)  [magical](rules/traits/magical.md)  [rare](rules/traits/rare.md)  
+
+# Whisper of the First Lie *Item 20*
+
+[enchantment](rules/traits/enchantment.md) [invested](rules/traits/invested.md) [magical](rules/traits/magical.md) [rare](rules/traits/rare.md)  
 
 - **Price** 60000 gp
-- **Usage** worn; **Bulk** —
+- **Usage** worn; **Bulk**—
 - **Category** Worn
 
 This delicate necklace contains bottled whispers distilled from a source on the Astral Plane rumored to be connected to the first lie ever told.
