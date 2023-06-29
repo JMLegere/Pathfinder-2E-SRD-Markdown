@@ -1,7 +1,7 @@
 ---
-level:
-bulk:
-price:
+level: "4"
+bulk: "0.1"
+price: "15"
 status: Hannah's
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
