@@ -5,17 +5,17 @@ price:
 status:
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
-tags: [compendium/src/pf2e/apg, item/category/held, trait/divination, trait/magical]
+tags: [available, compendium/src/pf2e/apg, item/category/held, trait/divination, trait/magical]
 aliases: [Predictable Silver Piece *Item 1*, "Predictable Silver Piece"]
 title: Predictable Silver Piece *Item 1*
 linter-yaml-title-alias: Predictable Silver Piece *Item 1*
 date created: Monday, June 19th 2023, 5:15:11 pm
-date modified: Thursday, June 29th 2023, 5:30:33 pm
+date modified: Thursday, June 29th 2023, 8:11:23 pm
 ---
 
-# Predictable Silver Piece *Item 1*
+## Predictable Silver Piece *Item 1*
 
-[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)  
+[divination](rules/traits/divination.md) [magical](rules/traits/magical.md)
 
 - **Price** 3 gp
 - **Usage** held in 1 hand
