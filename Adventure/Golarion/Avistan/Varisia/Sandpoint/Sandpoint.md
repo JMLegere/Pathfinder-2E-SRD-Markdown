@@ -109,7 +109,7 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 	- [[Das Korvut]], Ulfin Blacksmith
 - **[[16 The Pillbug's Pantry]]**
 	- [[Alliver Podiker]]
-- **[[17 Bottled Solutions]]**
+- **[[17 The Curious Goblin]]**
 - **[[18 Cracktooth's Tavern]]**
 - **[[19 House of Blue Stones]]**
 	- [[Jabyl Sorn]]
@@ -122,7 +122,7 @@ marker: default,-61.94921875,35.39118465885484,8 Quink's House,,,
 	- [[Aneka Avertin]]
 	- [[Casp Avertin]]
 	- [[Yenneke Avertin|Yenneke]]
-- **[[22 The Curious Goblin]]**
+- **[[22 Indigo's Chapters]]**
 	- [[Chask Haladan]]
 - **[[23 Sandpoint Theater]]**
 - **[[24 Carpenter's Guild]]**

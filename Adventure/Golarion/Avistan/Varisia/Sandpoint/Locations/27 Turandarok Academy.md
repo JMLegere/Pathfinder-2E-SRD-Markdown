@@ -18,5 +18,5 @@ date modified: Wednesday, June 28th 2023, 8:49:33 pm
 	- [[Veznutt Parooh]], Ilsoari's best friend
 - **Linked Locations**
 	- [[4 The Way North]], Veznutt's Map shop
-	- [[22 The Curious Goblin]], Local library where Ilsoari frequents
+	- [[22 Indigo's Chapters]], Local library where Ilsoari frequents
 - **Notes**

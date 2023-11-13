@@ -3,12 +3,16 @@ aliases: []
 tags: []
 title: 22 The Curious Goblin
 date created: Wednesday, June 21st 2023, 11:43:45 am
-date modified: Wednesday, June 28th 2023, 8:45:04 pm
+date modified: Monday, November 13th 2023, 12:08:31 pm
 ---
 
-## 22 The Curious Goblin
+## 22 Indigo's Chapters
 
 #location
+
+- The Curious Goblin and Bottled Solutions names are swapped
+- This is now Indigo Chapters Book Shop
+
 
 - **Location** 40 Main Street
 - **Linked NPCs**
